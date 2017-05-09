@@ -1,10 +1,10 @@
-title: lost-in-space
+title: Lost in Space
 hero_image: images/banner.png
-subtitle: lost-in-space subtitle
-description: lost-in-space description
+subtitle: No subtitle needed
+description: Learn how to program your own animation!
 original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
 theme: cc-prototype
 published: false
 steps:
-  - title: Step one
+  - title: Introduction
     duration: 60
