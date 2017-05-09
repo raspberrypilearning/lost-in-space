@@ -8,3 +8,17 @@ published: false
 steps:
   - title: Introduction
     duration: 60
+  - title: What you'll need
+    duration: 10
+  - title: "Step 1: Animating a spaceship"
+    duration: 10
+  - title: "Step 2: Animating using loops"
+    duration: 10
+  - title: "Step 3: Floating monkey"
+    duration: 10
+  - title: "Step 4: Bouncing asteroids"
+    duration: 10
+  - title: "Step 5: Shining stars"
+    duration: 10
+  - title: "Challenge: Make your own animation"
+    duration: 10
