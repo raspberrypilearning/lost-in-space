@@ -54,6 +54,14 @@ image: images/image.png
 
     ![Testing a spaceship animation](images/space-animate-stage.png)
 
+--- collapse ---
+---
+title: Saving a Scratch project
+image: images/image.png
+---
+[[[generic-scratch-saving]]]
+--- /collapse ---
+
 --- challenge ---
 ## Challenge: Improving your animation {.challenge}
 Can you change the numbers in your animation code, so that:
@@ -67,3 +75,11 @@ You'll need to change the numbers in this block:
 	glide (1) secs to x:(0) y:(0)
 ```
 --- /challenge ---
+
+--- collapse ---
+---
+title: Scratch coordinates
+image: images/image.png
+---
+[[[generic-scratch-coordinates]]]
+--- /collapse ---
