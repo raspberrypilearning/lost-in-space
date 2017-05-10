@@ -50,7 +50,7 @@ image: images/image.png
 
     Change the numbers in the code blocks, so that the code is exactly the same as in the image above.
 
-    Test and save: If you click the green flag you should see the spaceship speak, turn, and move towards the centre of the stage.
+    Test and save: If you click the green flag you should see the spaceship speak, turn, and glide towards the centre of the stage.
 
     ![Testing a spaceship animation](images/space-animate-stage.png)
 
@@ -63,7 +63,7 @@ image: images/image.png
 --- /collapse ---
 
 --- challenge ---
-## Challenge: Improving your animation {.challenge}
+## Challenge: Improving your animation
 Can you change the numbers in your animation code, so that:
 
 + The spaceship moves until it touches the Earth?
@@ -71,9 +71,8 @@ Can you change the numbers in your animation code, so that:
 
 You'll need to change the numbers in this block:
 
-```blocks
-	glide (1) secs to x:(0) y:(0)
-```
+![Glide block](images/space-glide.png)
+
 --- /challenge ---
 
 --- collapse ---
