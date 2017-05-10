@@ -16,6 +16,7 @@ Click the green flag to see a space animation.
 title: What you'll learn
 image: images/image.png
 ---
+
 + You'll make use of repetition to animate your sprites.
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
