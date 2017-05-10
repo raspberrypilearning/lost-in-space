@@ -18,7 +18,7 @@ image: images/image.png
 
     Test and save.
 
-    ![Testing a bouncing rock](images/space-rock-test.png)
+    ![Testing a bouncing rock](images/space-bounce-test.png)
 
 --- hints ---
 --- hint ---

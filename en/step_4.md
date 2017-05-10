@@ -4,7 +4,7 @@ Another way of animating the spaceship is to tell it to move a small amount, lot
 
 + Delete the `glide` block from your code, by right-clicking on the block and clicking 'delete'. You can also delete code by dragging it off the script area, back into the code blocks area.
 
-	![screenshot](images/space-delete-glide.png)
+	![Deleting the glide block](images/space-delete-glide.png)
 
 + Can you use a `repeat` block to move your spaceship towards the Earth?
 

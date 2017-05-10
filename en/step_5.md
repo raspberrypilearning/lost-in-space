@@ -29,8 +29,8 @@ image: images/image.png
 When the green __flag is clicked__, your monkey sprite should __turn__ in a circle __forever__.
 --- /hint ---
 --- hint ---
-Here is the code blocks you'll need:
-![Blocks for a spinning monkey](images/space-spin-block.png)
+Here are the code blocks you'll need:
+![Blocks for a spinning monkey](images/space-spin-blocks.png)
 --- /hint ---
 --- hint ---
 Here's the code to change your spaceship's size as it moves:
