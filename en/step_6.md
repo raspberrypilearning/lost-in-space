@@ -6,17 +6,7 @@ Let's add some floating space-rock to your animation.
 
 	![Adding a rock sprite](images/space-rock-sprite.png)
 
---- collapse ---
----
-title: Adding a sprite from the Scratch library
-image: images/image.png
----
-[[[generic-scratch-sprite-from-library]]]
---- /collapse ---
-
 + Can you code your rock sprite to bounce around the stage?
-
-    Test and save.
 
     ![Testing a bouncing rock](images/space-bounce-test.png)
 

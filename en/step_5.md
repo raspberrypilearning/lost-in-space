@@ -6,21 +6,13 @@ Let's add monkey to your animation, who's lost in space!
 
 	![Adding a monkey sprite](images/space-monkey-sprite.png)
 
---- collapse ---
----
-title: Adding a sprite from the Scratch library
-image: images/image.png
----
-[[[generic-scratch-sprite-from-library]]]
---- /collapse ---
-
 + If you click on your new monkey sprite and then click 'Costumes', you can edit how the monkey looks. Click the 'Ellipse' tool, and draw a white space helmet around the monkey's head.
 
 	![Monkey space helmet](images/space-monkey-edit.png)
 
 + Can you add code to your monkey sprite so that it spins slowly in a circle forever?
 
-    Test and save. You'll have to click the red 'stop' button to end this animation, as it goes on forever!
+    Test and save your project. You'll have to click the red 'stop' button to end this animation, as it goes on forever!
 
     ![Blocks for a spinning monkey](images/space-spin-test.png)
 

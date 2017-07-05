@@ -6,17 +6,7 @@ Let's combine loops to make a shining star.
 
 	![Adding a star sprite](images/space-star-sprite.png)
 
---- collapse ---
----
-title: Adding a sprite from the Scratch library
-image: images/image.png
----
-[[[generic-scratch-sprite-from-library]]]
---- /collapse ---
-
 + Can you code your star to repeatedly grow and shrink?
-
-    Test and save.
 
     ![Testing a shining star](images/space-star-test.png)
 
