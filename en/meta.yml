@@ -1,24 +1,20 @@
 title: Lost in Space
 hero_image: images/banner.png
-subtitle: No subtitle needed
 description: Learn how to program your own animation!
-original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
+original_url:
 theme: cc-prototype
+duration: 2
 published: false
+listed: false
+copyedit: false
+interests:
+technologies:
 steps:
   - title: Introduction
-    duration: 60
   - title: What you'll need
-    duration: 10
-  - title: "Step 1: Animating a spaceship"
-    duration: 10
-  - title: "Step 2: Animating using loops"
-    duration: 10
-  - title: "Step 3: Floating monkey"
-    duration: 10
-  - title: "Step 4: Bouncing asteroids"
-    duration: 10
-  - title: "Step 5: Shining stars"
-    duration: 10
+  - title: "Animating a spaceship"
+  - title: "Animating using loops"
+  - title: "Floating monkey"
+  - title: "Bouncing asteroids"
+  - title: "Shining stars"
   - title: "Challenge: Make your own animation"
-    duration: 10
