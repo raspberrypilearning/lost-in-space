@@ -22,7 +22,7 @@ Let's make a spaceship that flies towards the Earth!
 
 	![Sprite costume](images/space-costume.png)
 
-+ Use the arrow tool to select the image. Then click on the circular rotate handle, and rotate the image until it is on its side.
++ Use the **arrow** tool to select the image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
 
     ![Rotating a costume](images/space-rotate.png)
 
