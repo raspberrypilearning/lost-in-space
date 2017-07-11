@@ -6,19 +6,19 @@ Let's make a spaceship that flies towards the Earth!
 
 [[[generic-scratch-new-project]]]
 
-+ Add 'Spaceship' and 'Earth' sprites to your stage.
++ Add 'Spaceship' and 'Earth' sprites to your Stage.
 
     ![Spaceship and Earth sprites](images/space-sprites.png)
 
 [[[generic-scratch-sprite-from-library]]]
 
-+ Add the 'Stars' backdrop to your stage.
++ Add the 'Stars' backdrop to your Stage.
 
     ![A space backdrop](images/space-backdrop.png)
 
 [[[generic-scratch-backdrop-from-library]]]
 
-+ Click on your new spaceship sprite, and click the 'Costumes' tab.
++ Click on your spaceship sprite, and click the **Costumes** tab.
 
 	![Sprite costume](images/space-costume.png)
 
@@ -30,7 +30,7 @@ Let's make a spaceship that flies towards the Earth!
 
     ![Spaceship code](images/space-animate.png)
 
-    Change the numbers in the code blocks, so that the code is exactly the same as in the image above.
+    Change the numbers in the code blocks so that the code is exactly the same as in the image above.
 
     If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
 
@@ -39,7 +39,7 @@ Let's make a spaceship that flies towards the Earth!
 [[[generic-scratch-saving]]]
 
 --- challenge ---
-## Challenge: Improving your animation
+## Challenge: improving your animation
 Can you change the numbers in your animation code, so that:
 
 + The spaceship moves until it touches the Earth?
