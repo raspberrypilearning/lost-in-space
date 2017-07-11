@@ -13,9 +13,9 @@ technologies: "scratch"
 steps:
   - title: Introduction
   - title: What you'll need
-  - title: "Animating a spaceship"
-  - title: "Animating using loops"
-  - title: "Floating monkey"
-  - title: "Bouncing asteroid"
-  - title: "Shining star"
-  - title: "Challenge: make your own animation"
+  - title: Animating a spaceship
+  - title: Animating using loops
+  - title: Floating monkey
+  - title: Bouncing asteroid
+  - title: Shining star
+  - title: Challenge: make your own animation
