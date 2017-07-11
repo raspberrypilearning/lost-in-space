@@ -1,8 +1,8 @@
-## Step 5: Shining stars
+## Step 5: Shining star
 
 Let's combine loops to make a shining star.
 
-+ Add a star sprite to your animation.
++ Add a 'star' sprite to your animation.
 
 	![Adding a star sprite](images/space-star-sprite.png)
 
@@ -12,7 +12,7 @@ Let's combine loops to make a shining star.
 
 --- hints ---
 --- hint ---
-When the green __flag is clicked__, your star sprite should __change size__ to get bigger a few times, and then __change size__ to get smaller a few times. It should repeatedly do this, so that it grows and then shrinks __forever__.
+When the green __flag is clicked__, your star sprite should __change size__ to get bigger a few times, and then __change size__ to get smaller a few times. It should do this so that it grows and then shrinks __forever__.
 --- /hint ---
 --- hint ---
 Here are the code blocks you'll need:
