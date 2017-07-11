@@ -2,7 +2,7 @@
 
 Let's add a monkey who's lost in space to your animation!
 
-+ Start by adding the monkey sprite from the library.
++ Start by adding the 'monkey' sprite from the library.
 
 	![Adding a monkey sprite](images/space-monkey-sprite.png)
 
