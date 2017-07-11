@@ -1,8 +1,8 @@
-## Step 4: Bouncing asteroids
+## Step 4: Bouncing asteroid
 
 Let's add some floating space rock to your animation.
 
-+ Add a rock sprite to your animation.
++ Add a 'rock' sprite to your animation.
 
 	![Adding a rock sprite](images/space-rock-sprite.png)
 
