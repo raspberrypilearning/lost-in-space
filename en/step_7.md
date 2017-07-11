@@ -12,14 +12,14 @@ Let's combine loops to make a shining star.
 
 --- hints ---
 --- hint ---
-When the green __flag is clicked__, your star sprite __change size__ to get bigger a few times, and then __change size__ to get smaller a few times. It should repeatedly do this growing and shrinking __forever__.
+When the green __flag is clicked__, your star sprite should __change size__ to get bigger a few times, and then __change size__ to get smaller a few times. It should repeatedly do this, so that it grows and then shrinks __forever__.
 --- /hint ---
 --- hint ---
 Here are the code blocks you'll need:
 ![Blocks for a shining star](images/space-star-blocks.png)
 --- /hint ---
 --- hint ---
-Here's the code to bounce your rock around the stage:
+Here's the code to make your star shine:
 ![Code for a shining star](images/space-star-code.png)
 --- /hint ---
 --- /hints ---
