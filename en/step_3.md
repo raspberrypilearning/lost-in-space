@@ -6,7 +6,7 @@ Let's make a spaceship that flies towards the Earth!
 
 [[[generic-scratch-new-project]]]
 
-+ Add 'Spaceship' and 'Earth' sprites to your Stage.
++ Add 'spaceship' and 'Earth' sprites to your Stage.
 
     ![Spaceship and Earth sprites](images/space-sprites.png)
 
