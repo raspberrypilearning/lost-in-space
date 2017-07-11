@@ -1,8 +1,8 @@
 ## Step 2: Animating using loops
 
-Another way of animating the spaceship is to tell it to move a small amount lots of times.
+Another way to animate the spaceship is to tell it to move a small amount lots of times.
 
-+ Delete the `glide` block from your code by right-clicking on the block and clicking **delete**. You can also delete code by dragging it off the Script area and back into the Code blocks area.
++ Delete the `glide` block from your code by right-clicking on it and clicking **delete**. You can also delete code by dragging it off the Script area and back into the Code blocks area.
 
 	![Deleting the glide block](images/space-delete-glide.png)
 
@@ -23,7 +23,7 @@ Here are the code blocks you'll need:
 --- hint ---
 Here's the code to animate your spaceship:
 ![Code for an animated spaceship](images/space-repeat-code.png)
-(You can use different numbers in the `repeat` and `move` blocks, as long as the spaceship gets to Earth!)
+(You can use different numbers in the `repeat` and `move` blocks, as long as the spaceship still gets to Earth!)
 --- /hint ---
 --- /hints ---
 
@@ -49,7 +49,7 @@ Here's the code to change your spaceship's colour:
 
 + Can you make your spaceship get smaller as it gets to Earth?
 
-    Test and save. Your spaceship should get smaller as it moves. Test your spaceship a __second time__. Does it have the right size when it starts?
+    Test and save. Your spaceship should get smaller as it moves. Test your spaceship a __second time__. Is it the right size when it starts?
 
     ![Testing a shrinking spaceship](images/space-size-test.png)
 
