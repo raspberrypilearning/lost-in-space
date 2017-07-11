@@ -1,6 +1,6 @@
 ## Step 4: Bouncing asteroids
 
-Let's add some floating space-rock to your animation.
+Let's add some floating space rock to your animation.
 
 + Add a 'rock' sprite to your animation.
 
