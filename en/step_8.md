@@ -1,5 +1,5 @@
 --- challenge ---
-## Challenge: Make your own animation
+## Challenge: make your own animation
 
 Stop your space animation and start a new Scratch project.
 
