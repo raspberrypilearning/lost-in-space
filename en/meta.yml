@@ -1,4 +1,4 @@
-title: Lost in Space
+title: Lost in space
 hero_image: images/banner.png
 description: Learn how to program your own animation!
 original_url: https://www.codeclubprojects.org/en-GB/scratch/lost-in-space
@@ -16,6 +16,6 @@ steps:
   - title: "Animating a spaceship"
   - title: "Animating using loops"
   - title: "Floating monkey"
-  - title: "Bouncing asteroids"
-  - title: "Shining stars"
-  - title: "Challenge: Make your own animation"
+  - title: "Bouncing asteroid"
+  - title: "Shining star"
+  - title: "Challenge: make your own animation"
