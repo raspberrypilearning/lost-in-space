@@ -2,7 +2,7 @@
 
 Let's combine loops to make a shining star.
 
-+ Add a 'star' sprite to your animation
++ Add a star sprite to your animation.
 
 	![Adding a star sprite](images/space-star-sprite.png)
 
