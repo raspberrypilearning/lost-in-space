@@ -41,15 +41,19 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 + "Make your own animation" - applying the learning to make a new animation.
 ## Frequently Asked Questions
 + Children may need reminding to 'reset' a sprite's position, size and other effects at the start of their animation. This can be easily achieved by adding some of the following blocks to the start of their animations:
+
 ```blocks
     go to x:(0) y:(0)
 ```
+
 ```blocks
     set size to (100)%
 ```
+
 ```blocks
     clear graphic effects
 ```
+
 + The 'spaceship' sprite will move sideways unless it is rotated 90 degrees clockwise. Rotating the spaceship is part of the project instructions, but another sprite can be substituted for the spaceship if this is causing problems.
     ![screenshot](images/space-rotate.png)
 --- /collapse ---
