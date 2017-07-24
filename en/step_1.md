@@ -9,7 +9,7 @@ You are going to learn how to program your own animation!
 
 ### Additional information for club leaders
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberry-pi.org/en/projects/lost-in-space/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print).
 
 
 --- collapse ---
