@@ -1,3 +1,4 @@
+---
 title: Lost in space
 hero_image: images/banner.png
 description: Learn how to program your own animation!
@@ -7,15 +8,16 @@ duration: 2
 listed: true
 copyedit: true
 ingredient: false
-interests: "animation, space"
-technologies: "scratch"
+interests: animation, space
+technologies: scratch
 site_areas: codeclub, scratch
 steps:
-  - title: Introduction
-  - title: What you will need
-  - title: Animating a spaceship
-  - title: Animating using loops
-  - title: Floating monkey
-  - title: Bouncing asteroid
-  - title: Shining star
-  - title: "Challenge: make your own animation"
+- title: Introduction
+- title: What you will need
+- title: Animating a spaceship
+- title: Animating using loops
+- title: Floating monkey
+- title: Bouncing asteroid
+- title: Shining star
+- title: 'Challenge: make your own animation'
+
