@@ -1,9 +1,9 @@
 ---
 title: Lost in space
-hero_image: images/banner.png
+theme: green
+hero_image: images/lost-in-space.png
 description: Learn how to program your own animation!
 original_url: https://www.codeclubprojects.org/en-GB/scratch/lost-in-space
-theme: yellow
 duration: 2
 listed: true
 copyedit: true
