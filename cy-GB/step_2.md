@@ -46,8 +46,8 @@ Alli di newid y rhifau yn y côd animeiddio fel bod
 
 Bydd angen i ti newid y rhifau yn y bloc yma:
 
-```blocks
-	llithro (1) eiliad i x:(0) y:(0)
-```
+  ```blocks
+     llithro (1) eiliad i x:(0) y:(0)
+  ```
 
 --- /challenge ---
