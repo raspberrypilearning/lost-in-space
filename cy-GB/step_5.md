@@ -8,6 +8,6 @@ Beth am ychwanegu craig sydd yn arnofio i dy amineiddiad?
 
 + Ychwanega'r côd yma i dy graig, i wneud iddo fownsio o gwmpas y llwyfan:
 
-	![screenshot](space-turn-earth.png)
+	![screenshot](images/space-turn-earth.png)
 
 + Gwasga'r faner i brofi dy graig. Ydy e'n bownsio o gwmpas y llwyfan?
