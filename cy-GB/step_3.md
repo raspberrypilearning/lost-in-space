@@ -2,7 +2,7 @@
 
 Ffordd arall o animeiddio'r llong ofod yw dweud wrtho i symud ychydig bach, nifer o weithiau.
 
-+ Dileua y bloc llithro {.blockmotion} o'r côd, trwy ddefndyddio clic-dde ar y bloc a gwasgu 'dileu'. Mae hefyd modd i ti ddileu côd trwy ei lusgo o'r ardal sgript, yn ôl i ardal y blociau côd.
++ Dileua y bloc llithro {:class="blockmotion"} o'r côd, trwy ddefndyddio clic-dde ar y bloc a gwasgu 'dileu'. Mae hefyd modd i ti ddileu côd trwy ei lusgo o'r ardal sgript, yn ôl i ardal y blociau côd.
 
 	![screenshot](images/space-delete-glide.png)
 
@@ -10,12 +10,12 @@ Ffordd arall o animeiddio'r llong ofod yw dweud wrtho i symud ychydig bach, nife
 
 	![screenshot](images/space-loop.png)
 
-	Mae'r bloc 'ailadrodd' {.blockcontrol} yn cael ei ddefnyddio i ailadrodd rhywbeth llawer o weithiau, ac mae hefyd yn cael ei alw yn __ddolen__.
+	Mae'r bloc 'ailadrodd' {:class-"blockcontrol"} yn cael ei ddefnyddio i ailadrodd rhywbeth llawer o weithiau, ac mae hefyd yn cael ei alw yn __ddolen__.
 
 + Os wyt ti'n gwasgu ar y faner i drio y côd newydd, fe wnei di weld ei fod yn gwneud yr un peth ag o'r blaen.
 
 + Mae modd i ti ychwanegu mwy o gôd i'r ddolen i wneud pethau diddorol. Ychwanega'r 
-You can add more code to your loop, to do interesting things. Add the `change color effect by 25` {.blocklooks} block into the loop (from the 'Looks' section), to repeatedly change the colour of the spaceship as it moves:
+You can add more code to your loop, to do interesting things. Add the `change color effect by 25` {:class="blocklooks"} block into the loop (from the 'Looks' section), to repeatedly change the colour of the spaceship as it moves:
 
 	![screenshot](images/space-colour.png)
 
@@ -29,7 +29,5 @@ You can add more code to your loop, to do interesting things. Add the `change co
 
 + Profa dy amineiddiad.  Beth sy'n digwydd os wyt ti'n gwasgu ar y faner yr ail dro?  Ydy dy long ofod yn cychwyn y maint cywir?  Wyt ti'n gallu defnyddio y bloc yma i drwsio dy amineiddiad?
 
-	```blocks
-		gosod maint i (100)%
-	```
+	![screenshot](images/space-set-size.png)
 
