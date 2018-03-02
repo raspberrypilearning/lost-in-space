@@ -12,9 +12,9 @@ Ewn ni ati i ychwanegu mwnci i dy amineiddiad, sydd ar goll yn y gofod!
 
 + Nawr gwasga 'Sgriptiau' ac ychwanega y côd yma i'r mwnci, fel ei fod yn troi yn araf mewn cylch am byth:
 
-	![screenshot](space-turn-3.png)
+	![screenshot](images/space-turn-3.png)
 
-	Mae'r bloc 'Am Byth' {.blockcontrol} yn ddolen arall, ond y tro yma un sydd byth yn gorffan.
+	Mae'r bloc 'Am Byth' {:class="blockcontrol"} yn ddolen arall, ond y tro yma un sydd byth yn gorffan.
 
 + Gwasga'r faner i brofi dy fwnci.  Bydd angen i ti wasgu y botwm 'Stop' (drws nesaf i'r faner) i orffen yr amineiddiad yma.
 
