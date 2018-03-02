@@ -26,7 +26,7 @@ Rydym am greu llong ofod sydd yn hedfan tuag at y Ddaear!
 
 	![screenshot](images/space-animate-stage.png)
 
-	Safle sgrin `x:(0) y:(0)` {.blockmotion} yw canol y llwyfan. Mae safle fel `x:(-150) y:(-150)` {.blockmotion} tuag at gwaelod chwith y llwyfan, ac mae safle fel `x:(150) y:(150)` {.blockmotion} yn agos i gornel top dde y llwyfan.
+	Safle sgrin `x:(0) y:(0)`{:class="blockmotion"} yw canol y llwyfan. Mae safle fel `x:(-150) y:(-150)`{:class="blockmotion"} tuag at gwaelod chwith y llwyfan, ac mae safle fel `x:(150) y:(150)`{:class="blockmotion"} yn agos i gornel top dde y llwyfan.
 
 	![screenshot](images/space-xy.png)
 
@@ -46,8 +46,6 @@ Alli di newid y rhifau yn y côd animeiddio fel bod
 
 Bydd angen i ti newid y rhifau yn y bloc yma:
 
-  ```blocks
-     llithro (1) eiliad i x:(0) y:(0)
-  ```
+  ![screenshot](images/space-glide.png)
 
 --- /challenge ---
