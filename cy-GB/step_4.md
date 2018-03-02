@@ -14,7 +14,7 @@ Ewn ni ati i ychwanegu mwnci i dy amineiddiad, sydd ar goll yn y gofod!
 
 	![screenshot](images/space-turn-3.png)
 
-	Mae'r bloc 'Am Byth' {:class="blockcontrol"} yn ddolen arall, ond y tro yma un sydd byth yn gorffan.
+	Mae'r bloc `Am Byth`{:class="blockcontrol"} yn ddolen arall, ond y tro yma un sydd byth yn gorffan.
 
 + Gwasga'r faner i brofi dy fwnci.  Bydd angen i ti wasgu y botwm 'Stop' (drws nesaf i'r faner) i orffen yr amineiddiad yma.
 
