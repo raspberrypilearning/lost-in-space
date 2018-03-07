@@ -8,7 +8,7 @@ Vamos a añadir a tu animación algunas rocas espaciales que floten.
 
 + Añade este código a tu roca, para hacer que rebote por todo el escenario:
 
-	```scratch
+	```blocks
 	al presionar bandera verde
 	apuntar hacia [Earth v]
 	por siempre
