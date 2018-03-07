@@ -44,4 +44,4 @@ También existe una versión de este proyecto con los recursos externos ya carga
 
 + El objeto “nave espacial” se moverá de lado a menos que se rote 90 grados en el sentido de las agujas del reloj. La rotación de la nave espacial es parte de las instrucciones del proyecto, pero puede sustituirse por otro objeto si causa problemas.
 
-	![screenshot](space-rotate.png)
+	![screenshot](images/space-rotate.png)
