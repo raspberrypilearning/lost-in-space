@@ -2,8 +2,6 @@
 
 Maintenant que vous avez quelques lutins, nous allons ajouter du code pour les animer !
 
-## Liste d'activités { .check }
-
 + Créons un script pour le vaisseau spatial, en utilisant des blocs de code. Vous pouvez trouver ces blocs dans l'onglet 'Scripts'. Ils ont tous un code de couleur ! Faites glisser les 2 blocs suivants dans la zone de code à droite, en vous assurant qu'ils sont bien attachés ensemble (comme des blocs Lego).
 
 	![screenshot](images/space-animate.png)
@@ -16,7 +14,7 @@ Maintenant que vous avez quelques lutins, nous allons ajouter du code pour les a
 		glisser en (1) secondes à x:(0) y:(0)
 	```
 
-	Pour coder `s'orienter vers Earth` {.blockmotion}, vous devez d'abord glisser et déposer le bloc de code, puis cliquer sur la petite flèche vers le bas pour choisir le lutin 'Earth'.
+	Pour coder `s'orienter vers Earth`{:class="blockmotion"}, vous devez d'abord glisser et déposer le bloc de code, puis cliquer sur la petite flèche vers le bas pour choisir le lutin 'Earth'.
 
 	![screenshot](images/space-select.png)
 
@@ -24,7 +22,7 @@ Maintenant que vous avez quelques lutins, nous allons ajouter du code pour les a
 
 	![screenshot](images/space-animate-stage.png)
 
-	La position sur l'écran `x:(0) y:(0)` {.blockmotion} est le centre de la scène. Une position comme `x:(-150) y:(-150)` {.blockmotion} est située presque tout en bas et à gauche de la scène. Et une position comme `x:(150) y:(150)` {.blockmotion} est près du haut droit de la scène.
+	La position sur l'écran `x:(0) y:(0)`{:class="blockmotion"} est le centre de la scène. Une position comme `x:(-150) y:(-150)`{:class="blockmotion"} est située presque tout en bas et à gauche de la scène. Et une position comme `x:(150) y:(150)`{:class="blockmotion"} est près du haut droit de la scène.
 
 	![screenshot](images/space-xy.png)
 
@@ -44,7 +42,7 @@ Maintenant que vous avez quelques lutins, nous allons ajouter du code pour les a
 		glisser en (1) secondes à x:(0) y:(0)
 	```
 
-	Vous trouverez le bloc `attendre (1) secondes` {.blockcontrol} en cliquant sur la section orange `Contrôle` {.blockcontrol}.
+	Vous trouverez le bloc `attendre (1) secondes`{:class="blockcontrol"} en cliquant sur la section orange `Contrôle`{:class="blockcontrol"}.
 
 + Votre vaisseau spatial se déplace maintenant _chaque fois_ que vous exécutez votre code. Essayez-le !
 
