@@ -19,7 +19,7 @@
 
 	![screenshot](images/space-monkey-loop.png)
 
-	Der Block `wiederhole fortlaufend` {.blockcontrol} ist eine Schleife, aber diese Schleife endet nie! Um diese Bewegung zu beenden, musst du auf den roten Stop-Knopf klicken (neben der Flagge).
+	Der Block `wiederhole fortlaufend`{:class="blockcontrol"} ist eine Schleife, aber diese Schleife endet nie! Um diese Bewegung zu beenden, musst du auf den roten Stop-Knopf klicken (neben der Flagge).
 
 + Schleifen können auch miteinander verbunden werden. Setze einen Stern als zusätzliche Figur in deine Animation und füge folgenden Code ein:
 
@@ -37,4 +37,4 @@
 
 	![screenshot](images/space-star.png)
 
-+ Klicke auf die Flagge, um deinen Stern in Bewegung zu setzen. Was tut dieser Code? Nun, dein Stern wird 20 mal ein wenig größer, und dann wieder 20 mal kleiner, um dann wieder zu seiner ursprünglichen Größe zurück zu kommen. Diese 2 Schleifen sind in der Schleife `wiederhole fortlaufend` {.blockcontrol}, so dass diese Bewegung sich immer wiederholt.
++ Klicke auf die Flagge, um deinen Stern in Bewegung zu setzen. Was tut dieser Code? Nun, dein Stern wird 20 mal ein wenig größer, und dann wieder 20 mal kleiner, um dann wieder zu seiner ursprünglichen Größe zurück zu kommen. Diese 2 Schleifen sind in der Schleife `wiederhole fortlaufend`{:class="blockcontrol"}, so dass diese Bewegung sich immer wiederholt.
