@@ -1,6 +1,6 @@
 ## Animation mit Schleifen
 
-+ Eine andere Art und Weise, das Raumschiff zu animieren, wäre, es nur ein wenig zu bewegen, aber mehrmals: z.B. 100-mal 4er Schritt. Lösche den Block `gleite` {.blockmotion} aus deinem Code mit einem Rechtsklick auf diesen Block und klicke dann auf „löschen“. Du kannst Teile von deinem Code auch löschen, indem du die Blöcke aus dem „Skript“-Teil zurück in den Bereich der Code-Blöcke ziehst.
++ Eine andere Art und Weise, das Raumschiff zu animieren, wäre, es nur ein wenig zu bewegen, aber mehrmals: z.B. 100-mal 4er Schritt. Lösche den Block `gleite`{:class="blockmotion"} aus deinem Code mit einem Rechtsklick auf diesen Block und klicke dann auf „löschen“. Du kannst Teile von deinem Code auch löschen, indem du die Blöcke aus dem „Skript“-Teil zurück in den Bereich der Code-Blöcke ziehst.
 
 + Sobald du den Block gelöscht hast, füge anstelle dessen folgenden Code ein:
 
@@ -15,9 +15,9 @@
 		Ende
 	```
 
-+ Der Block `wiederhole` {.blockcontrol} wird benutzt, um etwas mehrmals zu wiederholen und wird auch „Schleife“ genannt. Wenn du jetzt auf die grüne Flagge klickst, wirst du sehen, dass dieser neue Code ziemlich das gleiche Resultat hat als zuvor.
++ Der Block `wiederhole`{:class="blockcontrol"} wird benutzt, um etwas mehrmals zu wiederholen und wird auch „Schleife“ genannt. Wenn du jetzt auf die grüne Flagge klickst, wirst du sehen, dass dieser neue Code ziemlich das gleiche Resultat hat als zuvor.
 
-+ Wenn du eine „Schleife“ benutzt, um dein Raumschiff zu animieren, hat das aber Vorteile: Du kannst jetzt zusätzliche Codes in den Block `wiederhole (100)` {.blockcontrol} hinzufügen, um andere interessante Sachen zu programmieren. Setze zum Beispiel den Block `ändere Farbe-Effekt um (25)` {.blocklooks} aus dem Bereich „Aussehen“ in deine Schleife, und die Farbe deines Raumschiffs wird sich bei jeder Bewegung ändern.
++ Wenn du eine „Schleife“ benutzt, um dein Raumschiff zu animieren, hat das aber Vorteile: Du kannst jetzt zusätzliche Codes in den Block `wiederhole (100)`{:class="blockcontrol"} hinzufügen, um andere interessante Sachen zu programmieren. Setze zum Beispiel den Block `ändere Farbe-Effekt um (25)`{:class="blocklooks"} aus dem Bereich „Aussehen“ in deine Schleife, und die Farbe deines Raumschiffs wird sich bei jeder Bewegung ändern.
 
 	```blocks
 		Wenn die grüne Flagge angeklickt
