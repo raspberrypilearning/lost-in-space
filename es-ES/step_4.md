@@ -2,8 +2,6 @@
 
 Vamos a añadir un mono a tu animación, ¡que está perdido en el espacio!
 
-## Lista de tareas de la actividad { .check }
-
 + Empieza añadiendo el objeto "Monkey" (mono) de la biblioteca.
 
 	![screenshot](images/space-monkey.png)
@@ -21,7 +19,7 @@ Vamos a añadir un mono a tu animación, ¡que está perdido en el espacio!
 	fin
 	```
 
-	El bloque `por siempre` {.blockcontrol} es otro bucle, pero en este caso, uno que nunca termina.
+	El bloque `por siempre`{:class="blockcontrol"} es otro bucle, pero en este caso, uno que nunca termina.
 
 + Haz clic en la bandera para probar tu mono. Tendrás que hacer clic en el botón parar (al lado de la bandera) para terminar esta animación.
 
