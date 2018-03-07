@@ -19,7 +19,7 @@ Jetzt, da du ein paar Figuren hast, lass uns Code hinzufügen, um sie zu animier
 
 + Wenn du jetzt auf deine Code-Blöcke klickst, um deinen Code auszuprobieren, solltest du sehen, wie das Raumschiff sich in Richtung der Mitte der Bühne bewegt.
 
-	![screenshot](space-animate-stage.png)
+	![screenshot](images/space-animate-stage.png)
 
 	Die Bildschirmposition `x:(0) y:(0)`{:class="blockmotion"} entspricht der Mitte der Bühne. Eine Position wie etwa `x:(-150) y:(-150)`{:class="blockmotion"} befindet sich am unteren linken Teil der Bühne, und eine Position wie `x:(150) y:(150)`{:class="blockmotion"} ist eher oben rechts.
 
