@@ -20,8 +20,8 @@ También existe una versión de este proyecto con los recursos externos ya carga
 
 ## Objetivos de aprendizaje
 + Bucles:
-	+ Bucles `Repetir` {.blockcontrol};
-	+ Bucles `Por siempre` {.blockcontrol}.
+	+ Bucles `Repetir`{:class="blockcontrol"};
+	+ Bucles `Por siempre`{:class="blockcontrol"}.
 
 ## Desafíos
 + "Mejora tu animación " – cambiar los números en un programa corto;
