@@ -28,6 +28,6 @@ Otra manera de animar la nave espacial es decirle que se mueva distancias peque�
 
 + Prueba tu animación. ¿Qué ocurre si haces clic en la bandera una segunda vez? ¿Tu nave espacial empieza con el tamaño correcto? Puedes usar este bloque para fijar tu animación:
 
-	```scratch
+	```blocks
 	fijar tamaño a (100) %
 	```
