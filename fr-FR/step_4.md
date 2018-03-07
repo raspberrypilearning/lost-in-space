@@ -1,6 +1,6 @@
 ## Animez à l'aide de boucles
 
-+ Une autre façon d'animer le vaisseau spatial est de le déplacer un tout petit peu (disons de 4 pas) mais de nombreuses fois. Supprimez le bloc `glisser` {.blockmotion} de votre code, par un clic droit sur ​​le bloc puis 'supprimer'. Vous pouvez aussi supprimer le code en le faisant glisser hors de la zone de code à droite, et en le remettant dans la zone des blocs au milieu.
++ Une autre façon d'animer le vaisseau spatial est de le déplacer un tout petit peu (disons de 4 pas) mais de nombreuses fois. Supprimez le bloc `glisser`{:class="blockmotion"} de votre code, par un clic droit sur ​​le bloc puis 'supprimer'. Vous pouvez aussi supprimer le code en le faisant glisser hors de la zone de code à droite, et en le remettant dans la zone des blocs au milieu.
 
 + Une fois que vous avez retiré ce bloc, ajoutez le code suivant à sa place :
 
@@ -14,9 +14,9 @@
 		   avancer de (4)
 	```
 
-+ Le bloc `répéter (100) fois` {.blockcontrol} est utilisé pour répéter quelque chose plusieurs fois. On appelle ça une 'boucle'. Si vous cliquez sur le drapeau pour essayer ce nouveau code, vous verrez qu'il fait à peu près la même chose qu'avant.
++ Le bloc `répéter (100) fois`{:class="blockcontrol"} est utilisé pour répéter quelque chose plusieurs fois. On appelle ça une 'boucle'. Si vous cliquez sur le drapeau pour essayer ce nouveau code, vous verrez qu'il fait à peu près la même chose qu'avant.
 
-+ L'utilisation d'une boucle pour déplacer le vaisseau spatial, vous permet d'ajouter plus de code à l'intérieur du bloc `répéter` {.blockcontrol} pour faire des choses intéressantes. Si vous ajoutez le bloc `ajouter à l'effet couleur (25)` {.blocklooks} (qui est dans la section 'Apparence') dans la boucle, vous verrez la couleur du vaisseau spatial changer pendant qu'il se déplace :
++ L'utilisation d'une boucle pour déplacer le vaisseau spatial, vous permet d'ajouter plus de code à l'intérieur du bloc `répéter`{:class="blockcontrol"} pour faire des choses intéressantes. Si vous ajoutez le bloc `ajouter à l'effet couleur (25)`{:class="blocklooks"} (qui est dans la section 'Apparence') dans la boucle, vous verrez la couleur du vaisseau spatial changer pendant qu'il se déplace :
 
 	```blocks
 		quand le drapeau vert pressé
