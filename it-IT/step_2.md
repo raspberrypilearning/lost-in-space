@@ -2,8 +2,6 @@
 
 Creiamo un'astronave che vola verso la Terra!
 
-## Lista delle attività { .check}
-
 + Inizia un nuovo progetto Scratch, e cancella lo sprite del gatto così che il tuo progetto sia vuoto. Puoi trovare l'editore Scratch online a <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a>.
 
 + Aggiungi al tuo quadro gli sprite 'Astronave' e 'Terra. Puoi anche aggiungere al tuo quadro lo scenario 'Stelle'. Il tuo quadro dovrebbe essere così:
@@ -28,7 +26,7 @@ Creiamo un'astronave che vola verso la Terra!
 
 	![screenshot](images/space-animate-stage.png)
 
-	La posizione dello schermo `x:(0) y:(0)` {.blockmotion} è il centro del quadro. Una posizione come `x:(-150) y:(-150)` {.blockmotion} è verso la parte bassa a sinistra del quadro, e una posizione come `x:(150) y:(150)` {.blockmotion} è vicino alla parte alta a destra.
+	La posizione dello schermo `x:(0) y:(0)`{:class="blockmotion"} è il centro del quadro. Una posizione come `x:(-150) y:(-150)`{:class="blockmotion"} è verso la parte bassa a sinistra del quadro, e una posizione come `x:(150) y:(150)`{:class="blockmotion"} è vicino alla parte alta a destra.
 
 	![screenshot](images/space-xy.png)
 
