@@ -2,9 +2,7 @@
 
 Otra manera de animar la nave espacial es decirle que se mueva distancias pequeñas, muchas veces.
 
-## Lista de tareas de la actividad { .check }
-
-+ Elimina el bloque `deslizar` {.blockmotion} de tu código haciendo clic con el botón derecho en el bloque y seleccionando "borrar". También puedes borrar código arrastrándolo del área de Programas al área de los bloques de código.
++ Elimina el bloque `deslizar`{:class="blockmotion"} de tu código haciendo clic con el botón derecho en el bloque y seleccionando "borrar". También puedes borrar código arrastrándolo del área de Programas al área de los bloques de código.
 
 	![screenshot](images/space-delete-glide.png)
 
@@ -12,11 +10,11 @@ Otra manera de animar la nave espacial es decirle que se mueva distancias peque�
 
 	![screenshot](images/space-loop.png)
 
-	El bloque `repetir` {.blockcontrol} se usa para repetir algo muchas veces, y también se conoce como un __bucle__.
+	El bloque `repetir`{:class="blockcontrol"} se usa para repetir algo muchas veces, y también se conoce como un __bucle__.
 
 + Si haces clic en la bandera para probar este nuevo código, verás que hace casi lo mismo que antes.
 
-+ Puedes añadir más código a tu bucle, para hacer cosas interesantes. Añade al bucle el bloque `cambiar efecto color por 25` {.blocklooks} (de la sección "Apariencia"), para cambiar el color de la nave espacial repetidamente a medida que se mueve:
++ Puedes añadir más código a tu bucle, para hacer cosas interesantes. Añade al bucle el bloque `cambiar efecto color por 25`{:class="blocklooks"} (de la sección "Apariencia"), para cambiar el color de la nave espacial repetidamente a medida que se mueve:
 
 	![screenshot](images/space-colour.png)
 
