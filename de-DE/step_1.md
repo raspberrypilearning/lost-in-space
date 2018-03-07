@@ -16,8 +16,8 @@ Sie finden eine fertig gestellte Version dieses Projekts unter <a href="http://s
 
 ## Lernziele
 + Schleifen:
-	+ `Repeat` {.blockcontrol} (Wiederholung) Schleifen;
-	+ `Forever` {.blockcontrol} (Für immer) Schleifen.
+	+ `Repeat`{:class="blockcontrol"} (Wiederholung) Schleifen;
+	+ `Forever`{:class="blockcontrol"} (Für immer) Schleifen.
 
 Dieses Projekt deckt Elemente aus den folgenden Bereichen des [Raspberry Pi Lehrplans zur digitalen Produktion](http://rpf.io/curriculum):
 
