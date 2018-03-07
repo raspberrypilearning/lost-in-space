@@ -16,8 +16,8 @@ Una versione completa di questo progetto può essere trovata <a href="http://scr
 
 ## Obiettivi di apprendimento
 + Loops:
-	+ Loop `Ripeti` {.blockcontrol};
-	+ Loop `Per sempre` {.blockcontrol};
+	+ Loop `Ripeti`{:class="blockcontrol"};
+	+ Loop `Per sempre`{:class="blockcontrol"};
 
 Questo progetto copre elementi contenuti nei seguenti filoni di [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
