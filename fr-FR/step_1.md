@@ -19,8 +19,8 @@ Vous pouvez trouver une version complete de ce projet <a href="http://scratch.mi
 + Séquence de blocks de code;
 + Évenements;
 + Boucles:
-	+ Boucle `Repeat` {.blockcontrol};
-	+ Boucle `Forever` {.blockcontrol}.
+	+ Boucle `Repeat`{:class="blockcontrol"};
+	+ Boucle `Forever`{:class="blockcontrol"}.
 
 ## Défis
 + "Ajouter un autre sprite" - Ajoute un autre sprite a ton projet;
