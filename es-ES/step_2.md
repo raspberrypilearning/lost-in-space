@@ -26,7 +26,7 @@
 
 	![screenshot](images/space-animate-stage.png)
 
-	La posición de la pantalla `x:(0) y:(0)` {.blockmotion} es el centro del escenario. Una posición como `x:(-150) y:(-150)` {.blockmotion} está hacia la parte inferior izquierda del escenario, y una posición como `x:(150) y:(150)` {.blockmotion} está cerca de la parte superior derecha.
+	La posición de la pantalla `x:(0) y:(0)`{:class="blockmotion"} es el centro del escenario. Una posición como `x:(-150) y:(-150)`{:class="blockmotion"} está hacia la parte inferior izquierda del escenario, y una posición como `x:(150) y:(150)`{:class="blockmotion"} está cerca de la parte superior derecha.
 
 	![screenshot](images/space-xy.png)
 
