@@ -13,7 +13,7 @@ Jetzt, da du ein paar Figuren hast, lass uns Code hinzufügen, um sie zu animier
 		gleite in (1) Sek. zu x:(0) y:(0)
 	```
 
-	Um den Block `drehe dich zu Earth` {.blockmotion} zu erstellen, musst du auf deinen Block klicken und dann auf den nach unten zeigenden Pfeil, um deine „Earth“-Figur auszuwählen.
+	Um den Block `drehe dich zu Earth`{:class="blockmotion"} zu erstellen, musst du auf deinen Block klicken und dann auf den nach unten zeigenden Pfeil, um deine „Earth“-Figur auszuwählen.
 
 	![screenshot](images/space-select.png)
 
@@ -21,7 +21,7 @@ Jetzt, da du ein paar Figuren hast, lass uns Code hinzufügen, um sie zu animier
 
 	![screenshot](space-animate-stage.png)
 
-	Die Bildschirmposition `x:(0) y:(0)` {.blockmotion} entspricht der Mitte der Bühne. Eine Position wie etwa `x:(-150) y:(-150)` {.blockmotion} befindet sich am unteren linken Teil der Bühne, und eine Position wie `x:(150) y:(150)` {.blockmotion} ist eher oben rechts.
+	Die Bildschirmposition `x:(0) y:(0)`{:class="blockmotion"} entspricht der Mitte der Bühne. Eine Position wie etwa `x:(-150) y:(-150)`{:class="blockmotion"} befindet sich am unteren linken Teil der Bühne, und eine Position wie `x:(150) y:(150)`{:class="blockmotion"} ist eher oben rechts.
 
 	![screenshot](images/space-xy.png)
 
@@ -41,7 +41,7 @@ Jetzt, da du ein paar Figuren hast, lass uns Code hinzufügen, um sie zu animier
 		gleite in (1) Sek. zu x:(0) y:(0)
 	```
 
-	Den Block `warte (1) Sek.` {.blockcontrol} findest du im organgefarbenen Bereich der Blöcke unter `Steuerung` {.blockcontrol}.
+	Den Block `warte (1) Sek.`{:class="blockcontrol"} findest du im organgefarbenen Bereich der Blöcke unter `Steuerung`{:class="blockcontrol"}.
 
 + Dein Raumschiff bewegt sicht jetzt _jedes Mal,_ wenn du deinen Code startest. Versuch es!
 
