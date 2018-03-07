@@ -30,15 +30,15 @@ Dieses Projekt deckt Elemente aus den folgenden Bereichen des [Raspberry Pi Lehr
 ## Häufig gestellte Fragen (FAQ)
 + Die Kinder müssen evtl. daran erinnert werden, die Position, die Größe sowie andere Effekte eines Sprites beim Start der Animation wieder 'reset' (auf Null zu stellen). Dies kann einfach erzielt werden, indem manche der folgenden Blöcke zum Start der Animationen hinzugefügt werden:
 
-```Blöcke
+```blocks
 	gehe zu x:(0) y:(0)
 ```
 
-```Blöcke
+```blocks
 	Größe auf (100) % einstellen
 ```
 
-```Blöcke
+```blocks
 	Grafik-Effekte löschen
 ```
 
