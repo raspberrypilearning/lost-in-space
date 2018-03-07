@@ -30,15 +30,15 @@ Questo progetto copre elementi contenuti nei seguenti filoni di [Raspberry Pi Di
 ## Domande frequenti
 + Potrebbe essere utile ricordare ai bambini di 'azzerare' la posizione di uno sprite, la misura e altri effetti all'inizio della loro animazione. Si può fare facilmente aggiungendo alcuni dei seguenti blocchi all'inizio delle loro animazioni:
 
-```blocchi
+```blocks
 	vai a x:(0) y:(0)
 ```
 
-```blocchi
+```blocks
 	imposta misura a (100)%
 ```
 
-```blocchi
+```blocks
 	resetta gli effetti grafici
 ```
 
