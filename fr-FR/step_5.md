@@ -18,7 +18,7 @@
 
 	![screenshot](images/space-monkey-loop.png)
 
-	Le bloc `répéter indéfiniment` {.blockcontrol} est une boucle qui se répète sans fin. Vous devrez l'arrêter en cliquant sur le bouton 'stop' rouge à côté du drapeau vert.
+	Le bloc `répéter indéfiniment`{:class="blockcontrol"} est une boucle qui se répète sans fin. Vous devrez l'arrêter en cliquant sur le bouton 'stop' rouge à côté du drapeau vert.
 
 + Vous pouvez également combiner des boucles. Ajoutez un lutin 'étoile' à votre animation, et programmez-le comme ceci :
 
@@ -35,4 +35,4 @@
 
 	![screenshot](images/space-star.png)
 
-+ Cliquez sur le drapeau pour tester l'animation de votre étoile. Que fait ce code ? Il fait légèrement grossir l'étoile 20 fois, puis rétrécir 20 fois pour revenir à sa taille du début. Et pour que cette animation recommence tout le temps, nous mettons ces deux boucles dans une troisième boucle `répéter indéfiniment`{.blockcontrol}.
++ Cliquez sur le drapeau pour tester l'animation de votre étoile. Que fait ce code ? Il fait légèrement grossir l'étoile 20 fois, puis rétrécir 20 fois pour revenir à sa taille du début. Et pour que cette animation recommence tout le temps, nous mettons ces deux boucles dans une troisième boucle `répéter indéfiniment`{:class="blockcontrol"}.
