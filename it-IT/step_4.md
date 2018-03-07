@@ -19,7 +19,7 @@ Aggiungiamo alla tua animazione delle scimmie che si sono perdute nello spazio!
 		end
 	```
 
-	Il blocco 'per sempre' {.blockcontrol} è un altro loop, ma uno che non finisce mai.
+	Il blocco `per sempre`{:class="blockcontrol"} è un altro loop, ma uno che non finisce mai.
 
 + Clicca sulla bandiera per provare la scimmia. Dovrai cliccare il tasto stop (accanto alla bandiera) per termnare questa animazione.
 
