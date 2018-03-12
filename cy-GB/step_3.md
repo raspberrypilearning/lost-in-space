@@ -14,8 +14,7 @@ Ffordd arall o animeiddio'r llong ofod yw dweud wrtho i symud ychydig bach, nife
 
 + Os wyt ti'n gwasgu ar y faner i drio y côd newydd, fe wnei di weld ei fod yn gwneud yr un peth ag o'r blaen.
 
-+ Mae modd i ti ychwanegu mwy o gôd i'r ddolen i wneud pethau diddorol. Ychwanega'r 
-You can add more code to your loop, to do interesting things. Add the `change color effect by 25`{:class="blocklooks"} block into the loop (from the 'Looks' section), to repeatedly change the colour of the spaceship as it moves:
++ Mae modd i ti ychwanegu mwy o gôd i’r ddolen i wneud pethau diddorol. Ychwanega’r bloc `newid effaith lliw gan 25`{:class="blocklooks"} i'r ddolen (o'r adran 'Edrychiad') i newid lliw y llong ofod wrth iddo symud:
 
 	![screenshot](images/space-colour.png)
 
