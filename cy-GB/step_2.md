@@ -1,4 +1,4 @@
-## Animeiddio llong ofod
+## Amineiddio llong ofod
 
 Rydym am greu llong ofod sydd yn hedfan tuag at y Ddaear!
 
@@ -40,7 +40,7 @@ Rydym am greu llong ofod sydd yn hedfan tuag at y Ddaear!
 
 --- challenge ---
 ## Her: Perffeithio dy animeiddiad
-Alli di newid y rhifau yn y côd animeiddio fel bod
+Alli di newid y rhifau yn y côd amineiddio fel bod
 + Y llong ofod yn cyffwrdd y Ddaear?
 + Y llong ofod yn symud yn arafach tuag at y Ddaear?
 
