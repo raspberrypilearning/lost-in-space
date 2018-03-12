@@ -1,6 +1,6 @@
-## Animeiddio gan ddefnyddio dolennu
+## Amineiddio gan ddefnyddio dolennu
 
-Ffordd arall o animeiddio'r llong ofod yw dweud wrtho i symud ychydig bach, nifer o weithiau.
+Ffordd arall o amineiddio'r llong ofod yw dweud wrtho i symud ychydig bach, nifer o weithiau.
 
 + Dileua y bloc `llithro`{:class="blockmotion"} o'r côd, trwy ddefndyddio clic-dde ar y bloc a gwasgu 'dileu'. Mae hefyd modd i ti ddileu côd trwy ei lusgo o'r ardal sgript, yn ôl i ardal y blociau côd.
 
