@@ -2,19 +2,29 @@
 
 Let's add a monkey who's lost in space to your animation!
 
-+ Start by adding the 'monkey' sprite from the library.
+--- task ---
 
-	![Adding a monkey sprite](images/space-monkey-sprite.png)
+Start by adding the 'monkey' sprite from the library.
 
-+ If you click on your new monkey sprite and then click **Costumes**, you can edit how the monkey looks. Click the **ellipse** tool and draw a white space helmet around the monkey's head.
+ ![Adding a monkey sprite](images/space-monkey-sprite.png)
 
-	![Monkey space helmet](images/space-monkey-edit.png)
+--- /task ---
 
-+ Can you add code to your monkey sprite so that it spins slowly in a circle forever?
+--- task ---
 
-    Test and save your project. You'll have to click the red **stop** button to end this animation, as it goes on forever!
+If you click on your new monkey sprite and then click **Costumes**, you can edit how the monkey looks. Click the **ellipse** tool and draw a white space helmet around the monkey's head.
 
-    ![Blocks for a spinning monkey](images/space-spin-test.png)
+ ![Monkey space helmet](images/space-monkey-edit.png)
+
+--- /task ---
+
+--- task ---
+
+Can you add code to your monkey sprite so that it spins slowly in a circle forever?
+
+ Test and save your project. You'll have to click the red **stop** button to end this animation, as it goes on forever!
+
+ ![Blocks for a spinning monkey](images/space-spin-test.png)
 
 --- hints ---
 --- hint ---
@@ -29,3 +39,5 @@ Here's the code to make your monkey spin:
 ![Code for a spinning monkey](images/space-spin-code.png)
 --- /hint ---
 --- /hints ---
+
+--- /task ---
