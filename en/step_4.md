@@ -2,21 +2,15 @@
 
 Another way to animate the spaceship is to tell it to move a small amount lots of times.
 
---- task ---
++ Delete the `glide` block from your code by right-clicking on it and clicking **delete**. You can also delete code by dragging it off the Script area and back into the Code blocks area.
 
-Delete the `glide` block from your code by right-clicking on it and clicking **delete**. You can also delete code by dragging it off the Script area and back into the Code blocks area.
+	![Deleting the glide block](images/space-delete-glide.png)
 
- ![Deleting the glide block](images/space-delete-glide.png)
++ Can you use a `repeat` block to move your spaceship towards the Earth?
 
---- /task ---
+    Test and save: Your spaceship should move towards the Earth exactly as before, this time using a `repeat` block.
 
---- task ---
-
-Can you use a `repeat` block to move your spaceship towards the Earth?
-
- Test and save: Your spaceship should move towards the Earth exactly as before, this time using a `repeat` block.
-
- ![Testing a spaceship animation](images/space-animate-stage.png)
+    ![Testing a spaceship animation](images/space-animate-stage.png)
 
 --- hints ---
 --- hint ---
@@ -33,15 +27,11 @@ Here's the code to animate your spaceship:
 --- /hint ---
 --- /hints ---
 
---- /task ---
++ Can you code your spaceship to change colour as it moves towards Earth?
 
---- task ---
+    Test and save.
 
-Can you code your spaceship to change colour as it moves towards Earth?
-
- Test and save.
-
- ![Testing a colour-changing spaceship](images/space-colour-test.png)
+    ![Testing a colour-changing spaceship](images/space-colour-test.png)
 
 --- hints ---
 --- hint ---
@@ -57,15 +47,11 @@ Here's the code to change your spaceship's colour:
 --- /hint ---
 --- /hints ---
 
---- /task ---
++ Can you make your spaceship get smaller as it gets to Earth?
 
---- task ---
+    Test and save. Your spaceship should get smaller as it moves. Test your spaceship a __second time__. Is it the right size when it starts?
 
-Can you make your spaceship get smaller as it gets to Earth?
-
- Test and save. Your spaceship should get smaller as it moves. Test your spaceship a __second time__. Is it the right size when it starts?
-
- ![Testing a shrinking spaceship](images/space-size-test.png)
+    ![Testing a shrinking spaceship](images/space-size-test.png)
 
 --- hints ---
 --- hint ---
@@ -80,5 +66,3 @@ Here's the code to change your spaceship's size as it moves:
 ![Code for changing size](images/space-size-code.png)
 --- /hint ---
 --- /hints ---
-
---- /task ---

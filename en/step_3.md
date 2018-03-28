@@ -2,61 +2,39 @@
 
 Let's make a spaceship that flies towards the Earth!
 
---- task ---
-
-Open a new empty Scratch project.
++ Open a new empty Scratch project.
 
 [[[generic-scratch-new-project]]]
 
---- /task ---
++ Add 'spaceship' and 'Earth' sprites to your Stage.
 
---- task ---
-
-Add 'spaceship' and 'Earth' sprites to your Stage.
-
- ![Spaceship and Earth sprites](images/space-sprites.png)
+    ![Spaceship and Earth sprites](images/space-sprites.png)
 
 [[[generic-scratch-sprite-from-library]]]
 
---- /task ---
++ Add the 'Stars' backdrop to your Stage.
 
---- task ---
-
-Add the 'Stars' backdrop to your Stage.
-
- ![A space backdrop](images/space-backdrop.png)
+    ![A space backdrop](images/space-backdrop.png)
 
 [[[generic-scratch-backdrop-from-library]]]
 
---- /task ---
++ Click on your spaceship sprite, and click the **Costumes** tab.
 
---- task ---
+	![Sprite costume](images/space-costume.png)
 
-Click on your spaceship sprite, and click the **Costumes** tab.
++ Use the **arrow** tool to select the image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
 
- ![Sprite costume](images/space-costume.png)
+    ![Rotating a costume](images/space-rotate.png)
 
---- /task ---
++ Add this code to your spaceship sprite:
 
---- task ---
+    ![Spaceship code](images/space-animate.png)
 
-Use the **arrow** tool to select the image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+    Change the numbers in the code blocks so that the code is exactly the same as in the image above.
 
- ![Rotating a costume](images/space-rotate.png)
+    If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
 
---- /task ---
-
---- task ---
-
-Add this code to your spaceship sprite:
-
- ![Spaceship code](images/space-animate.png)
-
- Change the numbers in the code blocks so that the code is exactly the same as in the image above.
-
- If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
-
- ![Testing a spaceship animation](images/space-animate-stage.png)
+    ![Testing a spaceship animation](images/space-animate-stage.png)
 
 [[[generic-scratch-saving]]]
 
@@ -64,24 +42,13 @@ Add this code to your spaceship sprite:
 ## Challenge: improving your animation
 Can you change the numbers in your animation code, so that:
 
---- /task ---
-
---- task ---
-
-The spaceship moves until it touches the Earth?
-
---- /task ---
-
---- task ---
-
-The spaceship moves more slowly towards the Earth?
++ The spaceship moves until it touches the Earth?
++ The spaceship moves more slowly towards the Earth?
 
 You'll need to change the numbers in this block:
 
 ![Glide block](images/space-glide.png)
 
 [[[generic-scratch-coordinates]]]
-
---- /task ---
 
 --- /challenge ---
