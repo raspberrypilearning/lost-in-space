@@ -13,38 +13,46 @@ title: Nodiadau i Wirfoddolwyr
 ---
 
 ## Cyflwyniad:
-Yn y prosiect yma, bydd plant yn dysgu sut i ychwanegu sŵn a cherddoriaeth i'w prosiectau, yn ogystal â newid a rhaglenni gwisgoedd cipluniau.
+
+Yn y prosiect yma, bydd plant yn dysgu sut i gyfuno blociau o gôd i greu amineiddiad syml.
 
 ## Adnoddau
 Ar gyfer y prosiect yma, dylid defnyddio Scratch 2.  Mae modd defnyddio Scratch 2 arlein yma [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) neu mae modd ei lawrlwytho yma [jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) a'i ddefnyddio heb gysylltiad gwe.
 
-Mae modd gweld y prosiect wedi ei gwblhau yma <a href="http://scratch.mit.edu/projects/26741186/#editor">online</a>, neu mae modd ei lawrlwytho wrth glicio ar ddolen 'Adnoddau'r Prosiect' ar gyfer y prosiect yma, sydd yn cynnwys:
+Mae modd gweld y prosiect wedi ei gwblhau yma <a href="http://scratch.mit.edu/projects/26818098/#editor">online</a>, neu mae modd ei lawrlwytho wrth glicio ar ddolen 'Adnoddau'r Prosiect' ar gyfer y prosiect yma, sydd yn cynnwys:
 
-+ RockBand.sb2
++ LostInSpace.sb2
 
 ## Nodau Addysgol
-+ Cipluniau;
-+ Gwisgoedd;
-+ Blociau côd dilyniannol;
-+ Digwyddiadau;
-+ Sain a cherddoriaeth.
++ Dolennu:
+	+ `Ail-adrodd` {.blockcontrol} dolennu;
+	+ Dolennu `Am byth` {.blockcontrol} 
 
 Mae'r prosiect yma yn trin elfennau sydd yn rhan o'r adran ganlynol o [Faes Llafur Gwneud Digidol Raspberry Pi](http://rpf.io/curriculum):
 
 + [Defnyddio cystrawen iaith raglennu sylfaenol i greu rhaglenni syml](https://www.raspberrypi.org/curriculum/programming/creator)
 
 ## Heriau
-+ "Perffeithio eich drwm" - newid synau cipluniau ac ychwanegu digwyddiadau;
-+ "Newid gwisg eich canwr" - ychwanegu a rheoli cipluniau gwisgoedd;
-+ "Gwneud eich band eich hunan" - defnyddio'r sgiliau a ddysgwyd i greu offerynnau newydd.
++ "Gwella dy amineiddiad" - newid y rhifau mewn rhaglen fer;
++ "Gwneud dy amineddiad dy hunan" - defnyddio'r sgiliau newydd i wneud amineiddiad newydd.
 
 ## Cwestiynau a Ofynir yn Aml
-+ Pan yn creu eu cipluniau eu hunan, mae'n bosib y gall y plant ffeindio bod eu ciplun yn 'neidio' pan maent yn clicio arno, wrth iddo newid gwisg.  Mae hyn oherwydd nad yw'r ddau wisg wedi eu canoli yn yr un man.
++ Mae'n bosib y bydd angen atgoffa plant i 'ail-osod' lleoliad y ciplun, maint ac effeithiau eraill i gychwyn yr amineiddiad.  Mae modd gwneud hyn yn hawdd trwy ychwanegu rhai o'r blociau canlynol i gychwyn yr amineiddiad:
 
-	I ddatrys hyn, cliciwch 'Gosod canolbwynt' ar y ddau giplun, a sicrhewch eu bod wedi canoli yn yr un man ar gyfer y ddau wisg.
+```blocks
+	mynd i x:(0) y:(0)
+```
 
-	![screenshot](images/band-center.png)
+```blocks
+	gosod maint i (100)%
+```
 
-+ Wrth ddefnyddio Linux, mae'n bosib na fydd clic-dde yn gweithio i ddileu ciplun. Os mai dyma'r achos, bydd dal shift a clic-chwith yn agor dewislen i ddileu'r ciplun.
+```blocks
+	clirio effeithiau graffeg
+```
+
++ Bydd ciplun y 'llong ofod' yn symud i'r ochr oni bai ei fod yn cael ei gylchdroi 90 gradd gyda'r cloc.  Mae troi y llong ofod yn rhan o gyfarwyddiadau'r prosiect, ond mae modd defnyddio ciplun arall ar gyfer y llong ofod os yw hyn yn creu problemau.
+
+	![screenshot](images/space-rotate.png)
 
 --- /collapse ---
