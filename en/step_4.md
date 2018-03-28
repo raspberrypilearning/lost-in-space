@@ -82,4 +82,3 @@ Here's the code to change your spaceship's size as it moves:
 --- /hints ---
 
 --- /task ---
-
