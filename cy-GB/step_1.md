@@ -54,5 +54,6 @@ Mae'r prosiect yma yn trin elfennau sydd yn rhan o'r adran ganlynol o [Faes Llaf
 + Bydd ciplun y 'llong ofod' yn symud i'r ochr oni bai ei fod yn cael ei gylchdroi 90 gradd gyda'r cloc.  Mae troi y llong ofod yn rhan o gyfarwyddiadau'r prosiect, ond mae modd defnyddio ciplun arall ar gyfer y llong ofod os yw hyn yn creu problemau.
 
 	![screenshot](images/space-rotate.png)
-  
-  --- /collapse ---
+
+--- /collapse ---
+
