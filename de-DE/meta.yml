@@ -8,15 +8,18 @@ duration: 2
 listed: true
 copyedit: true
 ingredient: false
-curriculum: builder, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-interests: animation, space
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+interests: space
 technologies: scratch
-site_areas: codeclub, scratch
-steps:
+site_areas: projects
+hardware: ''
+software: scratch
+version: 4
+last_tested: 2017-11-01
+steps: 
 - title: Einleitung
 - title: Figuren
 - title: Deine Figuren animieren
 - title: Animation mit Schleifen
 - title: Mehr Schleifen
 - title: "Herausforderung: Erstelle deine eigene Animation"
-
