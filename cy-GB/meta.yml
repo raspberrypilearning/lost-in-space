@@ -8,16 +8,19 @@ duration: 2
 listed: true
 copyedit: true
 ingredient: false
-curriculum: builder, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-interests: animation, space
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+interests: space
 technologies: scratch
-site_areas: codeclub, scratch
-steps:
-- title: Cyflwyniad 
+site_areas: projects
+hardware: ''
+software: scratch
+version: 4
+last_tested: 2017-11-01
+steps: 
+- title: Cyflwyniad
 - title: Animeiddio llong ofod
 - title: Animeiddio gan ddefnyddio dolennu
 - title: Mwcni yn Arnofio
 - title: Asteroid Sbonciog
 - title: Sêr Disglair
 - title: 'Her: Gwna amineddiad dy hunan'
-
