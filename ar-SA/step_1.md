@@ -13,7 +13,7 @@
 
 يتناول هذا المشروع عناصر من الصفوف التالية من [المناهج الرقمية الخاصة بـ Raspberry Pi](http://rpf.io/curriculum):
 
-+ [استخدام تراكيب البرمجة الأساسية لإنشاء برامج بسيطة].(https://www.raspberrypi.org/curriculum/programming/creator)
++ [استخدام تراكيب البرمجة الأساسية لإنشاء برامج بسيطة](https://www.raspberrypi.org/curriculum/programming/creator)
 
 
 ### معلومات إضافية للمعلمين
