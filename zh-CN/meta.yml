@@ -1,0 +1,28 @@
+---
+title: 迷失太空
+theme: green
+hero_image: images/lost-in-space.png
+description: 学习如何编写你自己的动画！
+original_url: https://www.codeclubprojects.org/en-GB/scratch/lost-in-space
+duration: 2
+listed: true
+copyedit: true
+ingredient: false
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+interests: space
+technologies: scratch
+site_areas: projects
+hardware: ''
+software: scratch
+version: 4
+last_tested: 2017-11-01
+steps:
+- title: 介绍
+- title: 你将需要什么
+- title: 制作宇宙飞船动画
+- title: 使用循环制作动画
+- title: 飞行猴子
+- title: 跳跃的小行星
+- title: 闪亮的星星
+- title: '挑战：制作你自己的动画'
+
