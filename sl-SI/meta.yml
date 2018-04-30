@@ -1,0 +1,35 @@
+---
+title: Izgubljeni v vesolju
+theme: green
+hero_image: images/lost-in-space.png
+description: Preberite, kako ustvariti svojo animacijo!
+original_url: https://www.codeclubprojects.org/en-GB/scratch/lost-in-space
+duration: 2
+listed: true
+copyedit: true
+ingredient: false
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+interests: space
+technologies: scratch
+site_areas: projects
+hardware: ''
+software: scratch
+version: 4
+last_tested: 2017-11-01
+steps:
+  - 
+    title: Uvod
+  - 
+    title: Kaj boste potrebovali?
+  - 
+    title: Animacija vesoljske ladje
+  - 
+    title: Animacije z zankami
+  - 
+    title: Plavajoča opica
+  - 
+    title: Poskočni asteroid
+  - 
+    title: Sijoča ​​zvezda
+  - 
+    title: 'Izziv: Izdelajte svojo animacijo'
