@@ -10,10 +10,10 @@ Let's add a monkey who's lost in space to your animation!
     
     ![Monkey space helmet](images/space-monkey-edit.png)
 
-+ Can you add code to your monkey sprite so that it spins slowly in a circle forever?
++ Puoi aggiungere codice alla sprite della tua scimmia in maniera che giri continuamente su stessa?
     
-    Test and save your project. You'll have to click the red **stop** button to end this animation, as it goes on forever!
+    Prova e salva il tuo progetto. Dovrai fare clic sul pulsante rosso ** stop ** per terminare questa animazione, poiché continua all'infinito!
     
-    ![Blocks for a spinning monkey](images/space-spin-test.png)
+    ![Blocchi per una scimmia che gira su se stessa](images/space-spin-test.png)
 
 \--- hints \--- \--- hint \--- When the green **flag is clicked**, your monkey sprite should **turn** in a circle **forever**. \--- /hint \--- \--- hint \--- Here are the code blocks you'll need: ![Blocks for a spinning monkey](images/space-spin-blocks.png) \--- /hint \--- \--- hint \--- Here's the code to make your monkey spin: ![Code for a spinning monkey](images/space-spin-code.png) \--- /hint \--- \--- /hints \---
