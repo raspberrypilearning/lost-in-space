@@ -1,38 +1,38 @@
-## Step 1: Animating a spaceship
+## Passaggio 1: animazione di un'astronave
 
-Let's make a spaceship that flies towards the Earth!
+Facciamo un'astronave che vola verso la Terra!
 
-+ Open a new empty Scratch project.
++ Apri un nuovo progetto di Scratch, vuoto.
 
 [[[generic-scratch-new-project]]]
 
-+ Add 'spaceship' and 'Earth' sprites to your Stage.
++ Aggiungi le sprites 'astronave' e 'Terra' al tuo Stage.
     
-    ![Spaceship and Earth sprites](images/space-sprites.png)
+    ![Sprites dell'astronave e della terra](images/space-sprites.png)
 
 [[[generic-scratch-sprite-from-library]]]
 
-+ Add the 'Stars' backdrop to your Stage.
++ Aggiungi lo sfondo "Stelle" al tuo Stage.
     
-    ![A space backdrop](images/space-backdrop.png)
+    ![Uno sfondo spaziale](images/space-backdrop.png)
 
 [[[generic-scratch-backdrop-from-library]]]
 
-+ Click on your spaceship sprite, and click the **Costumes** tab.
++ Fai clic sulla sprite dell'astronave e successivamente fai clic sulla scheda ** Costumi **.
     
-    ![Sprite costume](images/space-costume.png)
+    ![Sprite del costume](images/space-costume.png)
 
-+ Use the **arrow** tool to select the image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
++ Utilizzare lo strumento **freccia** per selezionare l'immagine. Quindi fare clic sulla maniglia circolare **ruotare** e ruotare l'immagine fino a quando non è coricata sul suo lato.
     
-    ![Rotating a costume](images/space-rotate.png)
+    ![Ruotando un costume](images/space-rotate.png)
 
-+ Add this code to your spaceship sprite:
++ Aggiungi questo codice alla tua sprite dell'astronave:
     
-    ![Spaceship code](images/space-animate.png)
+    ![Codice dell'astronave](images/space-animate.png)
     
-    Change the numbers in the code blocks so that the code is exactly the same as in the image above.
+    Cambia i numeri nei blocchi di codice in maniera che il codice sia identico a quello dell'immagine sopra.
     
-    If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
+    Se fai clic sulla bandiera verde dovresti vedere l'astronave parlare, girare e planare verso il centro della scena.
     
     ![Testing a spaceship animation](images/space-animate-stage.png)
 
