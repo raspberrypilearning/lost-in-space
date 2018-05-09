@@ -18,7 +18,7 @@ Laten we een ruimteschip maken dat naar de aarde vliegt!
 
 [[[generic-scratch-backdrop-from-library]]]
 
-+ Klik op de sprite van je ruimteschip en klik op de ** uiterlijken ** tab.
++ Klik op de sprite van je ruimteschip en klik op de **uiterlijken** tab.
     
     ![Sprite costume](images/space-costume.png)
 
