@@ -2,13 +2,13 @@
 
 Een andere manier om het ruimteschip te bewegen is door het te vertellen dat het kleine stapjes moet zetten.
 
-+ Verwijder het ` schuif ` -blok door er met de rechtermuisknop op te klikken en op ** verwijderen **te klikken. Je kunt de code ook verwijderen door het uit de scriptszone naar het blokkengebied te slepen.
++ Verwijder het `schuif` -blok door er met de rechtermuisknop op te klikken en op **verwijderen** te klikken. Je kunt de code ook verwijderen door het uit de scriptszone naar het blokkengebied te slepen.
     
     ![Deleting the glide block](images/space-delete-glide.png)
 
-+ Kun je een ` herhaal ` -blok gebruiken om je ruimteschip naar de aarde te laten bewegen?
++ Kun je een `herhaal` -blok gebruiken om je ruimteschip naar de aarde te laten bewegen?
     
-    Testen en opslaan: je ruimteschip moet naar de aarde bewegen, net als eerst, maar deze keer met een ` herhaal `-blok.
+    Testen en opslaan: je ruimteschip moet naar de aarde bewegen, net als eerst, maar deze keer met een `herhaal`-blok.
     
     ![Testing a spaceship animation](images/space-animate-stage.png)
 
@@ -24,8 +24,8 @@ Een andere manier om het ruimteschip te bewegen is door het te vertellen dat het
 
 + Kun je je ruimteschip kleiner maken als het bij de aarde komt?
     
-    Test en bewaar. Je ruimteschip zou nu kleiner moeten worden als het beweegt. Test je ruimteschip een ** tweede keer**. Heeft het de goede afmeting bij het begin?
+    Test en bewaar. Je ruimteschip zou nu kleiner moeten worden als het beweegt. Test je ruimteschip een **tweede keer**. Heeft het de goede afmeting bij het begin?
     
     ![Testing a shrinking spaceship](images/space-size-test.png)
 
---- hints --- --- hint --- Je ruimteschip zou op **100% grootte **moeten beginnen en dan met **verander grootte** kleine beetjes moeten verkleinen terwijl het beweegt. --- /hint --- --- hint --- Dit zijn de blokken code die je nodig hebt: ![Blocks for changing size](images/space-size-blocks.png) --- /hint --- --- hint --- Dit is de code om je ruimteschip van formaat te laten veranderen terwijl het beweegt: ![Code for changing size](images/space-size-code.png) --- /hint --- --- /hints ---
+--- hints --- --- hint --- Je ruimteschip zou op **100% grootte** moeten beginnen en dan met **verander grootte** kleine beetjes moeten verkleinen terwijl het beweegt. --- /hint --- --- hint --- Dit zijn de blokken code die je nodig hebt: ![Blocks for changing size](images/space-size-blocks.png) --- /hint --- --- hint --- Dit is de code om je ruimteschip van formaat te laten veranderen terwijl het beweegt: ![Code for changing size](images/space-size-code.png) --- /hint --- --- /hints ---
