@@ -1,4 +1,4 @@
-## Animeren met behulp van lussen
+## Stap 2: Animeren met behulp van lussen
 
 Een andere manier om het ruimteschip te bewegen is door het te vertellen dat het kleine stapjes moet zetten.
 
