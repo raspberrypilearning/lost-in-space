@@ -5,7 +5,7 @@
 ### Τι θα κάνεις
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/220681794/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/221694231/?autostart=false" frameborder="0"></iframe>
   <img src="images/space-final.png">
 </div>
 
