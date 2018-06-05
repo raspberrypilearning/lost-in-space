@@ -1,0 +1,35 @@
+---
+title: Bị mất trong không gian
+theme: màu xanh lá
+hero_image: images / lost-in-space.png
+description: Tìm hiểu cách lập trình hoạt ảnh của riêng bạn!
+original_url: https://www.codeclubprojects.org/en-GB/scratch/lost-in-space
+duration: 2
+listed: true
+copyedit: true
+ingredient: false
+curriculum: 1, thiết kế-0, lập trình-1, phys-comp-0, sản xuất-0, cộng đồng-0
+interests: không gian
+technologies: vết trầy
+site_areas: dự án
+hardware: ''
+software: vết trầy
+version: 4
+last_tested: 2017-11-01
+steps:
+  - 
+    title: Giới thiệu
+  - 
+    title: Những gì bạn sẽ cần
+  - 
+    title: Hoạt hình tàu vũ trụ
+  - 
+    title: Hoạt ảnh bằng cách sử dụng vòng lặp
+  - 
+    title: Khỉ nổi
+  - 
+    title: Nảy tiểu hành tinh
+  - 
+    title: Ngôi sao sáng
+  - 
+    title: 'Thách thức: tạo hoạt ảnh của riêng bạn'
