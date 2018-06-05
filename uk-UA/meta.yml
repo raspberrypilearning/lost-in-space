@@ -1,0 +1,35 @@
+---
+title: Загублені в космосі
+theme: зелений
+hero_image: images / lost-in-space.png
+description: Дізнайтеся, як програмувати власну анімацію!
+original_url: https://www.codeclubprojects.org/en-GB/scratch/lost-in-space
+duration: 2
+listed: true
+copyedit: true
+ingredient: false
+curriculum: 1, дизайн-0, програмування-1, фізичні обчислення-0, виробництво-0, спільноти-0
+interests: пробіл
+technologies: подряпати
+site_areas: проекти
+hardware: ''
+software: подряпати
+version: 4
+last_tested: 01.11.2017
+steps:
+  - 
+    title: Введення
+  - 
+    title: 'Те, що вам знадобиться:'
+  - 
+    title: Анімація космічного корабля
+  - 
+    title: Анімація з використанням циклів
+  - 
+    title: Плаваюча мавпа
+  - 
+    title: Астероїд, що стрибає
+  - 
+    title: Сяюча зірка
+  - 
+    title: 'Завдання: створіть власну анімацію'
