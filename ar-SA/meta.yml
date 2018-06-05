@@ -1,0 +1,35 @@
+---
+title: تائه في الفضاء
+theme: أخضر
+hero_image: images/lost-in-space.png
+description: تعلَّم كيف تُبرمج الرسم المتحرك!
+original_url: https://www.codeclubprojects.org/en-GB/scratch/lost-in-space
+duration: 2
+listed: true
+copyedit: true
+ingredient: false
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+interests: الفضاء
+technologies: scratch
+site_areas: المشاريع
+hardware: ''
+software: scratch
+version: 4
+last_tested: 2017-11-01
+steps:
+  - 
+    title: المقدمة
+  - 
+    title: ما ستحتاج إليه
+  - 
+    title: تحريك سفينة فضاء
+  - 
+    title: التحريك باستخدام حلقات التكرار
+  - 
+    title: قرد سابح
+  - 
+    title: كويكب يرتدّ
+  - 
+    title: نجم متلألئ
+  - 
+    title: 'التحدي: ابتكر رسمًا متحركًا'
