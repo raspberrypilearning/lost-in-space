@@ -1,13 +1,13 @@
-## Step 5: Shining star
+## Passaggio 5: Stella splendente
 
-Let's combine loops to make a shining star.
+Combiniamo dei cicli per creare una stella che risplende.
 
-+ Add a 'star' sprite to your animation.
++ Aggiungi lo sprite 'stella' alla tua animazione.
     
-    ![Adding a star sprite](images/space-star-sprite.png)
+    ![Aggiungere la sprite di una stella](images/space-star-sprite.png)
 
-+ Can you code your star to repeatedly grow and shrink?
++ Puoi aggiungere del codice per far sì che la tua stella si ingrandisca e si rimpicciolisca ripetutamente?
     
-    ![Testing a shining star](images/space-star-test.png)
+    ![Testare una stella splendente](images/space-star-test.png)
 
-\--- hints \--- \--- hint \--- When the green **flag is clicked**, your star sprite should **change size** to get bigger a few times, and then **change size** to get smaller a few times. It should do this so that it grows and then shrinks **forever**. \--- /hint \--- \--- hint \--- Here are the code blocks you'll need: ![Blocks for a shining star](images/space-star-blocks.png) \--- /hint \--- \--- hint \--- Here's the code to make your star shine: ![Code for a shining star](images/space-star-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- Dopo aver **cliccato su ⚑**, la tua stella dovrebbe **cambiare dimensione** per un po', diventando più grande, e poi dovrebbe **cambiare di nuovo dimensione** per un po', diventando più piccola. Fai in modo che la stella si ingrandisca e rimpicciolisca **per sempre**. \--- /hint \--- \--- hint \--- Ecco di quali blocchi di codice avrai bisogno: ![Blocks for a shining star](images/space-star-blocks.png) \--- /hint \--- \--- hint \--- Ecco il codice che farà splendere la tua stella: ![Code for a shining star](images/space-star-code.png) \--- /hint \--- \--- /hints \---
