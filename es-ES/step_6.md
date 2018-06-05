@@ -1,13 +1,13 @@
-## Step 4: Bouncing asteroid
+## Paso 4: Un asteroide que rebota
 
-Let's add some floating space rock to your animation.
+Agreguemos una roca espacial flotante a tu animación.
 
-+ Add a 'rock' sprite to your animation.
++ Agrega la figura 'rock' (roca) a tu animación.
     
-    ![Adding a rock sprite](images/space-rock-sprite.png)
+    ![Agregar la figura de una roca](images/space-rock-sprite.png)
 
-+ Can you code your rock sprite to bounce around the stage?
++ ¿Puedes codificar la figura de la roca para rebotar alrededor del escenario?
     
-    ![Testing a bouncing rock](images/space-bounce-test.png)
+    ![Probando una roca que rebota](images/space-bounce-test.png)
 
-\--- hints \--- \--- hint \--- When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**. \--- /hint \--- \--- hint \--- Here are the code blocks you'll need: ![Blocks for a bouncing rock](images/space-bounce-blocks.png) You can also set a more interesting starting direction for the rock with one of these blocks: ![Setting the rock's initial position](images/space-initial-position.png) \--- /hint \--- \--- hint \--- Here's the code to bounce your rock around the stage: ![Code for a bouncing rock](images/space-bounce-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- Cuando **se hace clic en la bandera** verde, tu figura de la roca se debería **mover** y **rebotar** alrededor del escenario **para siempre **. \--- /hint \--- \--- hint \--- Aquí tienes los bloques de código que vas a necesitar: ![Blocks for a bouncing rock](images/space-bounce-blocks.png) También puedes establecer una dirección inicial más interesante para la roca con uno de estos bloques: ![Setting the rock's initial position](images/space-initial-position.png) \--- /hint \--- \--- hint \--- Aquí tienes el código para que tu roca rebote alrededor del escenario: ![Code for a bouncing rock](images/space-bounce-code.png) \--- /hint \--- \--- /hints \---
