@@ -1,31 +1,31 @@
-## Step 2: Animating using loops
+## Paso 2: Animar utilizando bucles
 
-Another way to animate the spaceship is to tell it to move a small amount lots of times.
+Otra forma de animar la nave espacial es decirle que se mueva una pequeña cantidad muchas veces.
 
-+ Delete the `glide` block from your code by right-clicking on it and clicking **delete**. You can also delete code by dragging it off the Script area and back into the Code blocks area.
++ Elimina el bloque `deslizar` de tu código haciendo clic derecho sobre él y haciendo clic en **eliminar **. También puedes eliminar código arrastrándolo fuera del área de programas y devolviéndolo al área de bloques de código.
     
-    ![Deleting the glide block](images/space-delete-glide.png)
+    ![Eliminar el bloque de deslizamiento](images/space-delete-glide.png)
 
-+ Can you use a `repeat` block to move your spaceship towards the Earth?
++ ¿Puedes usar un bloque de `repetición` para mover tu nave espacial hacia la Tierra?
     
-    Test and save: Your spaceship should move towards the Earth exactly as before, this time using a `repeat` block.
+    Prueba y guarda: Tu nave espacial debería moverse hacia la Tierra exactamente como antes, esta vez usando un bloque de `repetición`.
     
-    ![Testing a spaceship animation](images/space-animate-stage.png)
+    ![Probando una animación de nave espacial](images/space-animate-stage.png)
 
-\--- hints \--- \--- hint \--- Instead of **gliding**, your spaceship should **repeatedly** **move** a few steps at a time. \--- /hint \--- \--- hint \--- Here are the code blocks you'll need: ![Blocks for an animated spaceship](images/space-repeat-blocks.png) \--- /hint \--- \--- hint \--- Here's the code to animate your spaceship: ![Code for an animated spaceship](images/space-repeat-code.png) (You can use different numbers in the `repeat` and `move` blocks, as long as the spaceship still gets to Earth!) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- En lugar de **deslizarse**, tu nave espacial se debería **mover** **repetidamente** unos pocos pasos a la vez. \--- /hint \--- \--- hint \--- Aquí están los bloques de código que necesitarás: ![Blocks for an animated spaceship](images/space-repeat-blocks.png) \--- /hint \--- \--- hint \--- Este es el código para animar tu nave espacial: ![Code for an animated spaceship](images/space-repeat-code.png) (Puedes utilizar números diferentes en los bloques de `repetir` y `mover`, siempre que la nave espacial llegue a la Tierra) \--- /hint \--- \--- /hints \---
 
-+ Can you code your spaceship to change colour as it moves towards Earth?
++ ¿Puedes codificar tu nave espacial para cambiar el color a medida que se mueve hacia la Tierra?
     
-    Test and save.
+    Prueba y guarda.
     
-    ![Testing a colour-changing spaceship](images/space-colour-test.png)
+    ![Probando una nave espacial que cambia de color](images/space-colour-test.png)
 
-\--- hints \--- \--- hint \--- Your spaceship should **change colour** as it moves. \--- /hint \--- \--- hint \--- Here is the extra code block you'll need: ![Block for changing colour](images/space-colour-blocks.png) \--- /hint \--- \--- hint \--- Here's the code to change your spaceship's colour: ![Code for an animated spaceship](images/space-colour-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- Tu nave espacial debería **cambiar de color** mientras se mueve. \--- /hint \--- \--- hint \--- Aquí tienes el bloque de código extra que necesitarás: ![Block for changing colour](images/space-colour-blocks.png) \--- /hint \--- \--- hint \--- Aquí tienes el código para cambiar el color de tu nave espacial: ![Code for an animated spaceship](images/space-colour-code.png) \--- /hint \--- \--- /hints \---
 
-+ Can you make your spaceship get smaller as it gets to Earth?
++ ¿Puedes hacer que tu nave espacial se haga más pequeña a medida que llega a la Tierra?
     
-    Test and save. Your spaceship should get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
+    Prueba y guarda. Tu nave espacial debería hacerse más pequeña mientras se mueve. Prueba tu nave espacial una **segunda vez**. ¿El tamaño es correcto cuando comienza?
     
-    ![Testing a shrinking spaceship](images/space-size-test.png)
+    ![Probando una nave espacial que cambia de tamaño](images/space-size-test.png)
 
-\--- hints \--- \--- hint \--- Your spaceship should start at **100% size**, and then **change size** by a small amount as it moves. \--- /hint \--- \--- hint \--- Here is the code blocks you'll need: ![Blocks for changing size](images/space-size-blocks.png) \--- /hint \--- \--- hint \--- Here's the code to change your spaceship's size as it moves: ![Code for changing size](images/space-size-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- Tu nave espacial debería comenzar con un **tamaño del 100%** y luego ir **cambiando su tamaño** un poco cada vez a medida que se mueve. \--- /hint \--- \--- hint \--- Aquí tienes los bloques de código que necesitarás: ![Blocks for changing size](images/space-size-blocks.png) \--- /hint \--- \--- hint \--- Aquí tienes el código para cambiar el tamaño de tu nave espacial mientras se mueve: ![Code for changing size](images/space-size-code.png) \--- /hint \--- \--- /hints \---
