@@ -40,7 +40,7 @@ Lass uns ein Raumschiff bauen, das zur Erde fliegt!
 
 --- challenge ---
 
-## Challenge: Verbessere deine Animation
+## Herausforderung: Verbessere deine Animation
 
 Kannst du die Zahlen in deinem Animationscode ändern, so dass:
 
