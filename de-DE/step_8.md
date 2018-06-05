@@ -1,6 +1,6 @@
 --- challenge ---
 
-## Challenge: Mache deine eigene Animation
+## Herausforderung: Mache deine eigene Animation
 
 Beende deine Weltraumanimation, speichere sie und starte ein neues Scratch-Projekt.
 
