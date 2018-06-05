@@ -1,38 +1,38 @@
-## Step 1: Animating a spaceship
+## 1단계: 우주선 움직이게 하기
 
-Let's make a spaceship that flies towards the Earth!
+지구로 날아가는 우주선을 만들어봅시다!
 
-+ Open a new empty Scratch project.
++ 새 스크래치 프로젝트를 열고 고양이 스프라이트를 지워서 빈 프로젝트를 만드세요. 
 
 [[[generic-scratch-new-project]]]
 
-+ Add 'spaceship' and 'Earth' sprites to your Stage.
++ 스테이지에 'Spaceship'과 'Earth' 스프라이트를 더해 넣으세요
     
     ![Spaceship and Earth sprites](images/space-sprites.png)
 
 [[[generic-scratch-sprite-from-library]]]
 
-+ Add the 'Stars' backdrop to your Stage.
++ 스테이지엔 'Stars' 배경을 더해 넣으세요. 
     
     ![A space backdrop](images/space-backdrop.png)
 
 [[[generic-scratch-backdrop-from-library]]]
 
-+ Click on your spaceship sprite, and click the **Costumes** tab.
++ 우주선 스프라이트를 클릭하고 '모양'탭을 누르세요.
     
     ![Sprite costume](images/space-costume.png)
 
-+ Use the **arrow** tool to select the image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
++ 화살표 모양 도구로 이미지를 선택하고 위쪽 원형 회전 핸들을 눌러서 우주선이 누워있을 때까지 돌려주세요.
     
     ![Rotating a costume](images/space-rotate.png)
 
-+ Add this code to your spaceship sprite:
++ 우주선 스프라이트에 이 코드를 더해주세요:
     
     ![Spaceship code](images/space-animate.png)
     
-    Change the numbers in the code blocks so that the code is exactly the same as in the image above.
+    위 이미지와 같게 코드블록의 숫자들을 바꿔주세요.
     
-    If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
+    코드 블록을 눌러서 코드를 돌려보면 우주선이 '가자!' 라고 말한 후 돌아서 스테이지 중간으로 움직이는 걸 볼 수 있습니다.
     
     ![Testing a spaceship animation](images/space-animate-stage.png)
 
