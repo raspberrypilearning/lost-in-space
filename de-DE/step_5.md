@@ -1,4 +1,4 @@
-## Schritt 3: Schwebender Affe
+## Schwebender Affe
 
 Lass uns einen Affen zu deiner Animation hinzufügen, der im Weltraum verloren gegangen ist!
 
@@ -16,4 +16,4 @@ Lass uns einen Affen zu deiner Animation hinzufügen, der im Weltraum verloren g
     
     ![Blöcke für einen rotierenden Affen](images/space-spin-test.png)
 
-\--- hints \--- \--- hint \--- Wenn die grüne **Flagge angeklickt** wird, soll sich die Affen-Figur **fortlaufend** im Kreis **drehen**. \--- /hint \--- \--- hint \--- Hier sind die Code Blöcke, die du brauchen wirst: ![Blocks for a spinning monkey](images/space-spin-blocks.png) \--- /hint \--- \--- hint \--- Hier ist der Code, der deinen Affen rotieren lässt: ![Code for a spinning monkey](images/space-spin-code.png) \--- /hint \--- \--- /hints \---
+--- hints --- --- hint --- Wenn die grüne **Flagge angeklickt** wird, soll sich die Affen-Figur **fortlaufend** im Kreis **drehen**. --- /hint --- --- hint --- Hier sind die Code Blöcke, die du brauchen wirst: ![Blocks for a spinning monkey](images/space-spin-blocks.png) --- /hint --- --- hint --- Hier ist der Code, der deinen Affen rotieren lässt: ![Code for a spinning monkey](images/space-spin-code.png) --- /hint --- --- /hints ---
