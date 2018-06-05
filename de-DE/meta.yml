@@ -1,9 +1,9 @@
 ---
-title: Verloren im Weltall
+title: Verschollen im Weltraum
 theme: green
 hero_image: images/lost-in-space.png
-description: Du wirst lernen, deine eigene Computeranimation zu programmieren!
-original_url: https://projects.raspberrypi.org/en/projects/lost-in-space
+description: Lerne eigene Animationen zu programmieren!
+original_url: https://www.codeclubprojects.org/en-GB/scratch/lost-in-space
 duration: 2
 listed: true
 copyedit: true
@@ -16,10 +16,12 @@ hardware: ''
 software: scratch
 version: 4
 last_tested: 2017-11-01
-steps: 
-- title: Einleitung
-- title: Figuren
-- title: Deine Figuren animieren
-- title: Animation mit Schleifen
-- title: Mehr Schleifen
-- title: "Herausforderung: Erstelle deine eigene Animation"
+steps:
+  - title: Einleitung
+  - title: Was du brauchen wirst
+  - title: Ein Raumschiff animieren
+  - title: Animieren mit Schleifen
+  - title: Schwebender Affe
+  - title: Abprallender Asteroid
+  - title: Glänzender Stern
+  - title: 'Herausforderung: Mache deine eigene Animation'

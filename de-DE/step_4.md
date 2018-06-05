@@ -1,52 +1,31 @@
-## Animation mit Schleifen
+## Animieren mit Schleifen
 
-+ Eine andere Art und Weise, das Raumschiff zu animieren, wäre, es nur ein wenig zu bewegen, aber mehrmals: z.B. 100-mal 4er Schritt. Lösche den Block `gleite`{:class="blockmotion"} aus deinem Code mit einem Rechtsklick auf diesen Block und klicke dann auf „löschen“. Du kannst Teile von deinem Code auch löschen, indem du die Blöcke aus dem „Skript“-Teil zurück in den Bereich der Code-Blöcke ziehst.
+Eine andere Möglichkeit das Raumschiff zu animieren ist, es ganz oft kleine Schritte machen zu lassen.
 
-+ Sobald du den Block gelöscht hast, füge anstelle dessen folgenden Code ein:
++ Lösche den `gleite in` Block aus deinem Code, indem du darauf rechtsklickst und dann **Löschen** klickst. Du kannst Code auch löschen, indem du ihn aus dem Skriptbereich zurück in den Bereich Codeblöcke ziehst.
+    
+    ![Löschen des Gleite-zu-Blocks](images/space-delete-glide.png)
 
-	```blocks
-		Wenn die grüne Flagge angeklickt
-		setze Richtung auf (0 v)
-		gehe zu x:(-150) y:(-150)
-		warte (1) Sek.
-		drehe dich zu [Earth v]
-		wiederhole (100) mal
-			gehe (4) er-Schritt
-		Ende
-	```
++ Kannst du einen `wiederhole ... mal` Block verwenden, um dein Raumschiff zur Erde zu bewegen?
+    
+    Testen und speichern: Dein Raumschiff sollte sich genau wie zuvor zur Erde bewegen, diesmal mit Hilfe eines `wiederhole ... mal`-Blocks.
+    
+    ![Test einer Raumschiff-Animation](images/space-animate-stage.png)
 
-+ Der Block `wiederhole`{:class="blockcontrol"} wird benutzt, um etwas mehrmals zu wiederholen und wird auch „Schleife“ genannt. Wenn du jetzt auf die grüne Flagge klickst, wirst du sehen, dass dieser neue Code ziemlich das gleiche Resultat hat als zuvor.
+--- hints --- --- hint --- Statt **gleite** sollte dein Raumschiff **wiederholt** den Block **gehe ... er-Schritt** verwenden. --- /hint --- --- hint --- Hier sind die Code-Blöcke, die du brauchst: ![Blocks for an animated spaceship](images/space-repeat-blocks.png) --- /hint --- --- hint --- Hier ist der Code, um dein Raumschiff zu animieren: ![Code for an animated spaceship](images/space-repeat-code.png) (Du kannst verschiedene Zahlen in den beiden Blöcken `wiederhole ... mal` und `gehe ... er-Schritt` probieren, solange das Raumschiff nur zur Erde gelangt) --- /hint --- --- /hints ---
 
-+ Wenn du eine „Schleife“ benutzt, um dein Raumschiff zu animieren, hat das aber Vorteile: Du kannst jetzt zusätzliche Codes in den Block `wiederhole (100)`{:class="blockcontrol"} hinzufügen, um andere interessante Sachen zu programmieren. Setze zum Beispiel den Block `ändere Farbe-Effekt um (25)`{:class="blocklooks"} aus dem Bereich „Aussehen“ in deine Schleife, und die Farbe deines Raumschiffs wird sich bei jeder Bewegung ändern.
++ Kannst du dein Raumschiff so programmieren, dass es seine Farbe ändert, während es sich der Erde nähert?
+    
+    Testen und speichern.
+    
+    ![Test eines die Farbe wechselnden Raumschiffs](images/space-colour-test.png)
 
-	```blocks
-		Wenn die grüne Flagge angeklickt
-		setze Richtung auf (0 v)
-		gehe zu x:(-150) y:(-150)
-		warte (1) Sek.
-		drehe dich zu [Earth v]
-		wiederhole (100) mal
-			gehe (4) er-Schritt
-			ändere [Farbe v]-Effekt um (25)
-		Ende
-	```
+--- hints --- --- hint --- Dein Raumschiff sollte die **Farbe wechseln** während es sich bewegt. --- /hint --- --- hint --- Hier ist der zusätzliche Codeblock, den du brauchst: ![Block for changing colour](images/space-colour-blocks.png) --- /hint --- --- hint --- Hier ist der Code, um die Farbe des Raumschiffs zu ändern: ![Code for an animated spaceship](images/space-colour-code.png) --- /hint --- --- /hints ---
 
-+ Klicke auf die Flagge, um deine Animation zu sehen.
++ Kannst du dein Raumschiff auf seinem Weg zur Erde kleiner werden lassen?
+    
+    Testen und speichern. Dein Raumschiff sollte kleiner werden, während es sich bewegt. Teste dein Raumschiff ein **zweites mal**. Hat es beim Start die richtige Größe?
+    
+    ![Test eines kleiner werdenden Raumschiffs](images/space-size-test.png)
 
-+ Du kannst deine Animation auch noch verbessern, indem du dein Raumschiff kleiner werden lässt, je näher es der Erde kommt. Vergiss nicht, am Anfang des Programms einen Block hinzuzufügen, damit dein Raumschiff beim nächsten Start wieder die normale Größe hat.
-
-	```blocks
-		Wenn die grüne Flagge angeklickt
-		setze Größe auf (100)%
-		setze Richtung auf (0 v)
-		gehe zu x:(-150) y:(-150)
-		warte (1) Sek.
-		drehe dich zu [Earth v]
-		wiederhole (100) mal
-			gehe (4) er-Schritt
-			ändere [Farbe v]-Effekt um (25)
-			ändere Größe um (-1)
-		Ende
-	```
-
-+ Wenn du deine Animation nochmals ausprobierst, wirst du sehen, wie viel besser sie geworden ist!
+--- hints --- --- hint --- Dein Raumschiff sollte mit **100% Größe** beginnen, und während es fliegt um kleine Beträge die **Größe ändern**. --- /hint --- --- hint --- Hier sind die Code-Blöcke, die du brauchen wirst: ![Blocks for changing size](images/space-size-blocks.png) --- /hint --- --- hint --- Hier ist der Code, um die Größe des Raumschiffs während des Fluges zu ändern: ![Code for changing size](images/space-size-code.png) --- /hint --- --- /hints ---

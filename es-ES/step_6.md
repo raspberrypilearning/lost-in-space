@@ -1,13 +1,13 @@
-## Estrellas que brillan
+## Paso 4: Un asteroide que rebota
 
-Vamos a combinar bucles para hacer una estrella que brille.
+Agreguemos una roca espacial flotante a tu animación.
 
-+ Añade el objeto “Star" (Estrella) a tu animación
++ Agrega la figura 'rock' (roca) a tu animación.
+    
+    ![Agregar la figura de una roca](images/space-rock-sprite.png)
 
-	![screenshot](images/space-star-sprite.png)
++ ¿Puedes codificar la figura de la roca para rebotar alrededor del escenario?
+    
+    ![Probando una roca que rebota](images/space-bounce-test.png)
 
-+ Añade este código a tu estrella:
-
-	![screenshot](images/space-star.png)
-
-+ Haz clic en la bandera para probar la animación de la estrella. ¿Qué hace este código? Pues la estrella se hace un poquito más grande 20 veces, y luego se hace un poquito más pequeña 20 veces, hasta llegar a su tamaño original. Estos 2 bucles están dentro de un bucle `por siempre`{:class="blockcontrol"}, para que la animación se repita constantemente.
+--- hints --- --- hint --- Cuando **se hace clic en la bandera** verde, tu figura de la roca se debería **mover** y **rebotar** alrededor del escenario **para siempre**. --- /hint --- --- hint --- Aquí tienes los bloques de código que vas a necesitar: ![Blocks for a bouncing rock](images/space-bounce-blocks.png) También puedes establecer una dirección inicial más interesante para la roca con uno de estos bloques: ![Setting the rock's initial position](images/space-initial-position.png) --- /hint --- --- hint --- Aquí tienes el código para que tu roca rebote alrededor del escenario: ![Code for a bouncing rock](images/space-bounce-code.png) --- /hint --- --- /hints ---

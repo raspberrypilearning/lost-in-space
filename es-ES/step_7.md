@@ -1,10 +1,13 @@
---- challenge ---
-## Desafío: Crea tu propia animación
+## Paso 5: Una estrella brillante
 
-Detén tu animación espacial, haz clic en “Archivo” y luego en “Nuevo”, para empezar un nuevo proyecto.
+Combinemos los bucles para hacer una estrella brillante.
 
-Usa lo que has aprendido en este proyecto para crear tu propia animación. Puede ser cualquier cosa que quieras, pero intenta que la animación concuerde con el escenario. Aquí te damos algunos ejemplos:
++ Agrega una figura 'star' (estrella) a tu animación.
+    
+    ![Agregar la figura de una estrella](images/space-star-sprite.png)
 
-![screenshot](images/space-egs.png)
++ ¿Puedes codificar tu estrella para que crezca y se encoja repetidamente?
+    
+    ![Probando una estrella brillante](images/space-star-test.png)
 
---- /challenge ---
+--- hints --- --- hint --- Cuando **se hace clic en la bandera** verde, tu figura estrella debería **cambiar de tamaño** para hacerse más grande unas cuantas veces, y luego **cambiar de tamaño** para hacerse más pequeña unas cuantas veces. Debería hacer esto para que crezca y luego se encoja **para siempre**. --- /hint --- --- hint --- Aquí tienes los bloques de código que necesitarás: ![Blocks for a shining star](images/space-star-blocks.png) --- /hint --- --- hint --- Aquí tienes el código para que brille tu estrella: ![Code for a shining star](images/space-star-code.png) --- /hint --- --- /hints ---

@@ -1,12 +1,13 @@
---- challenge ---
-## Herausforderung: Erstelle deine eigene Animation
+## Abprallender Asteroid
 
-Stoppe deine Weltall-Animation und klicke auf „Datei“ und dann auf „Neu“, um ein neues Projekt zu starten. Setze die Kenntnisse um, die du in diesem Projekt gelernt hast, und erstelle deine eigene Animation. Du kannst alles ausprobieren, deine Animation sollte nur einen passendes Hintergrundbild haben. Hier sind ein paar Beispiele:
+Lass' uns deine Animation um einen schwebenden Weltraumbrocken ergänzen.
 
-![screenshot](images/space-egs.png)
++ Füge deiner Animation eine Rocks- (Felsen-) Figur hinzu.
+    
+    ![Hinzufügen der Rocks-Figur](images/space-rock-sprite.png)
 
-Das hast du super gemacht! Du hast jetzt dein erstes Scratch-Projekt abgeschlossen. Falls du die Online-Version benutzt, kannst du deine Animation anderen zeigen, indem du oben rechts auf „Veröffentlichen“ klickst!
++ Kannst du deinen Felsen so programmieren, dass er auf der Bühne herumzuspringt?
+    
+    ![Testing a bouncing rock](images/space-bounce-test.png)
 
-![screenshot](images/space-share.png)
-
---- /challenge ---
+--- hints --- --- hint --- Wenn die grüne **Flagge angeklickt** wird, sollte sich deine Felsen-Figur **bewegen** und quer über die Bühne hüpfen, indem sie **fortlaufend** **vom Rand abprallt**. --- /hint --- --- hint --- Hier sind die Code Blöcke, die brauchen wirst: ![Blocks for a bouncing rock](images/space-bounce-blocks.png) Mit einem solchen Block kannst du eine etwas interessantere Startrichtung für den Felsen wählen: ![Setting the rock's initial position](images/space-initial-position.png) --- /hint --- --- hint --- Hier ist der Code, um deinen Felsen über die ganze Bühne hüpfen zu lassen: ![Code for a bouncing rock](images/space-bounce-code.png) --- /hint --- --- /hints ---
