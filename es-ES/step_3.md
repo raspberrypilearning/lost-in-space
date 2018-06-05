@@ -1,55 +1,55 @@
-## Step 1: Animating a spaceship
+## Paso 1: Animación de una nave espacial
 
-Let's make a spaceship that flies towards the Earth!
+¡Hagamos una nave espacial que vuela hacia la Tierra!
 
-+ Open a new empty Scratch project.
++ Abre un nuevo proyecto de Scratch vacío.
 
 [[[generic-scratch-new-project]]]
 
-+ Add 'spaceship' and 'Earth' sprites to your Stage.
++ Añade los objetos 'spaceship' (nave espacial) y 'Earth' (la Tierra) a tu escenario.
     
-    ![Spaceship and Earth sprites](images/space-sprites.png)
+    ![Figuras de la nave espacial y de la Tierra](images/space-sprites.png)
 
 [[[generic-scratch-sprite-from-library]]]
 
-+ Add the 'Stars' backdrop to your Stage.
++ Agrega el fondo "stars" (estrellas) a tu escenario.
     
-    ![A space backdrop](images/space-backdrop.png)
+    ![Un fondo espacial](images/space-backdrop.png)
 
 [[[generic-scratch-backdrop-from-library]]]
 
-+ Click on your spaceship sprite, and click the **Costumes** tab.
++ Haz clic en la figura de tu nave espacial y luego haz clic en la pestaña **Disfraces**.
     
-    ![Sprite costume](images/space-costume.png)
+    ![Disfraz de la figura](images/space-costume.png)
 
-+ Use the **arrow** tool to select the image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
++ Usa la herramienta **flecha** para seleccionar la imagen. Luego haz clic en el manejador redondo **rotar**, y gira la imagen hasta que esté de lado.
     
-    ![Rotating a costume](images/space-rotate.png)
+    ![Rotando un disfraz](images/space-rotate.png)
 
-+ Add this code to your spaceship sprite:
++ Agrega este código a tu figura de la nave espacial:
     
-    ![Spaceship code](images/space-animate.png)
+    ![Código de la nave espacial](images/space-animate.png)
     
-    Change the numbers in the code blocks so that the code is exactly the same as in the image above.
+    Cambia los números en los bloques de código para que el código sea exactamente el mismo que en la imagen de arriba.
     
-    If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
+    Si haces clic en la bandera verde, deberías ver que la nave espacial habla, gira y se desliza hacia el centro del escenario.
     
-    ![Testing a spaceship animation](images/space-animate-stage.png)
+    ![Probando una animación de la nave espacial](images/space-animate-stage.png)
 
 [[[generic-scratch-saving]]]
 
 \--- challenge \---
 
-## Challenge: improving your animation
+## Desafío: Mejora tu animación
 
-Can you change the numbers in your animation code, so that:
+¿Puedes cambiar los números en tu código de animación para que:
 
-+ The spaceship moves until it touches the Earth?
-+ The spaceship moves more slowly towards the Earth?
++ La nave espacial se mueva hasta que toca la Tierra?
++ La nave espacial se mueva más despacio hacia la Tierra?
 
-You'll need to change the numbers in this block:
+Deberás cambiar los números en este bloque:
 
-![Glide block](images/space-glide.png)
+![Bloque para deslizar](images/space-glide.png)
 
 [[[generic-scratch-coordinates]]]
 
