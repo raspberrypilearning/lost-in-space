@@ -1,0 +1,35 @@
+---
+title: Kadonnut avaruudessa
+theme: vihreä
+hero_image: Kuvien / menetetty-in-space.png
+description: Opi animaation ohjelmointi!
+original_url: https://www.codeclubprojects.org/en-GB/scratch/lost-in-space
+duration: 2
+listed: true
+copyedit: true
+ingredient: false
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+interests: space
+technologies: naarmu
+site_areas: projects
+hardware: ''
+software: scratch
+version: 4
+last_tested: 2017-11-01
+steps:
+  - 
+    title: esittely
+  - 
+    title: Mitä tarvitset
+  - 
+    title: Animaatio avaruusalustaan
+  - 
+    title: Animointi silmukoiden avulla
+  - 
+    title: Kelluva apina
+  - 
+    title: Pomppiva asteroidi
+  - 
+    title: Loistava tähti
+  - 
+    title: 'Haaste: tee oma animaatio'
