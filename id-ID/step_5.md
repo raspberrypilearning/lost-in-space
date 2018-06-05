@@ -1,19 +1,19 @@
-## Step 3: Floating monkey
+## Langkah 3: Mengambang monyet
 
-Let's add a monkey who's lost in space to your animation!
+Mari tambahkan monyet yang hilang di ruang angkasa untuk animasi Anda!
 
-+ Start by adding the 'monkey' sprite from the library.
++ Mulailah dengan menambahkan sprite 'monyet' dari perpustakaan.
     
-    ![Adding a monkey sprite](images/space-monkey-sprite.png)
+    ![Menambahkan sprite monyet](images/space-monkey-sprite.png)
 
-+ If you click on your new monkey sprite and then click **Costumes**, you can edit how the monkey looks. Click the **ellipse** tool and draw a white space helmet around the monkey's head.
++ Jika Anda mengklik sprite monyet baru Anda dan kemudian klik **Kostum**, Anda dapat mengedit tampilan monyet. Klik alat **ellipse** dan gambar sebuah helm ruang putih di sekitar kepala monyet.
     
-    ![Monkey space helmet](images/space-monkey-edit.png)
+    ![Helm ruang monyet](images/space-monkey-edit.png)
 
-+ Can you add code to your monkey sprite so that it spins slowly in a circle forever?
++ Dapatkah Anda menambahkan kode ke sprite monyet Anda sehingga berputar perlahan dalam lingkaran selamanya?
     
-    Test and save your project. You'll have to click the red **stop** button to end this animation, as it goes on forever!
+    Uji dan simpan proyek Anda. Anda harus mengklik tombol merah **stop** untuk mengakhiri animasi ini, karena terus berjalan selamanya!
     
-    ![Blocks for a spinning monkey](images/space-spin-test.png)
+    ![Blok untuk monyet berputar](images/space-spin-test.png)
 
-\--- hints \--- \--- hint \--- When the green **flag is clicked**, your monkey sprite should **turn** in a circle **forever**. \--- /hint \--- \--- hint \--- Here are the code blocks you'll need: ![Blocks for a spinning monkey](images/space-spin-blocks.png) \--- /hint \--- \--- hint \--- Here's the code to make your monkey spin: ![Code for a spinning monkey](images/space-spin-code.png) \--- /hint \--- \--- /hints \---
+\--- petunjuk \--- \--- petunjuk \--- Ketika bendera hijau **diklik**, sprite monyet Anda harus **mengubah** dalam lingkaran **selamanya**. \--- / hint \--- \--- hint \--- Berikut adalah blok kode yang Anda perlukan: ![Blocks for a spinning monkey](images/space-spin-blocks.png) \--- / petunjuk \--- \--- petunjuk \--- Ini kode untuk membuat monyet Anda berputar: ![Code for a spinning monkey](images/space-spin-code.png) \--- / petunjuk \--- \--- / petunjuk \---
