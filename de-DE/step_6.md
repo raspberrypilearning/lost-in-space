@@ -1,4 +1,4 @@
-## Schritt 4: Abprallender Asteroid
+## Abprallender Asteroid
 
 Lass' uns deine Animation um einen schwebenden Weltraumbrocken ergänzen.
 
