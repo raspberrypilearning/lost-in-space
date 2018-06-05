@@ -1,4 +1,4 @@
-## Schritt 2: Animieren mit Schleifen
+## Animieren mit Schleifen
 
 Eine andere Möglichkeit das Raumschiff zu animieren ist, es ganz oft kleine Schritte machen zu lassen.
 
