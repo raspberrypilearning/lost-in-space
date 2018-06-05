@@ -2,21 +2,21 @@
 
 Imparerai a programmare la tua animazione!
 
-### Cosa realizzerai
+### Cosa creerai
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/26818098/?autostart=false" frameborder="0"></iframe>
   <img src="images/space-final.png">
 </div>
 
-### Cosa apprenderai
+### Cosa imparerai
 
-Questo progetto tratta di elementi compresi nel Curriculum di Creazione Digitale del Raspberry Pi, [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Questo progetto include elementi tratti dalle seguenti componenti del [Digital Making Curriculum di Raspberry Pi](http://rpf.io/curriculum):
 
-+ [Utilizzare i costrutti base di un linguaggio di programmazione per creare dei semplici programmi.](https://www.raspberrypi.org/curriculum/programming/creator)
++ [Utilizzare i costrutti base di un linguaggio di programmazione per creare programmi semplici.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-### Informazioni aggiuntive per gli insegnanti
+### Ulteriori informazioni per gli educatori
 
-Se avete bisogno di stampare questo progetto, si prega di utilizzare la [versione di stampa](https://projects.raspberrypi.org/en/projects/lost-in-space/print) {: target = blank"}.
+Se intendete stampare questo progetto, cliccate su [Versione stampabile](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target = "_ blank"}.
 
-Utilizzare il link in calce alla pagina per accedere al repository di GitHub per questo progetto, che contiene tutte le risorse (tra cui un progetto finito di esempio) nella cartella ' it/resources'.
+Cliccare il link a piè di pagina per accedere alla repository di GitHub relativa a questo progetto, che contiene tutte le risorse necessarie (incluso un esempio di progetto completo) nella cartella 'en/resources'.
