@@ -1,0 +1,35 @@
+---
+title: Hilang di angkasa
+theme: hijau
+hero_image: imej / lost-in-space.png
+description: Ketahui bagaimana untuk memprogram animasi anda sendiri!
+original_url: https://www.codeclubprojects.org/en-GB/scratch/lost-in-space
+duration: 2
+listed: true
+copyedit: true
+ingredient: false
+curriculum: 1, reka bentuk-0, pengaturcaraan-1, phys-comp-0, pembuatan-0, komuniti-0
+interests: ruang
+technologies: awal
+site_areas: projek
+hardware: ''
+software: awal
+version: 4
+last_tested: 2017-11-01
+steps:
+  - 
+    title: Pengenalan
+  - 
+    title: Apa yang anda perlukan
+  - 
+    title: Menggenang kapal angkasa
+  - 
+    title: Berwarna menggunakan gelung
+  - 
+    title: Monyet terapung
+  - 
+    title: Memantul asteroid
+  - 
+    title: Bintang bersinar
+  - 
+    title: 'Cabaran: buat animasi anda sendiri'
