@@ -1,19 +1,19 @@
-## Step 3: Floating monkey
+## Passaggio 3: Scimmietta fluttuante
 
-Let's add a monkey who's lost in space to your animation!
+Aggiungiamo alla tua animazione una scimmietta che si è persa nello spazio!
 
-+ Start by adding the 'monkey' sprite from the library.
++ Inizia aggiungendo lo sprite 'scimmia' dalla libreria.
     
-    ![Adding a monkey sprite](images/space-monkey-sprite.png)
+    ![Aggiungere lo sprite di una scimmia](images/space-monkey-sprite.png)
 
-+ If you click on your new monkey sprite and then click **Costumes**, you can edit how the monkey looks. Click the **ellipse** tool and draw a white space helmet around the monkey's head.
++ Facendo click sullo sprite della scimmietta e poi sulla scheda **Costumi**, puoi modificare l'aspetto della scimmietta. Clicca sullo strumento **ellisse** per disegnare un casco sulla testa della scimmietta.
     
-    ![Monkey space helmet](images/space-monkey-edit.png)
+    ![Casco della scimmia](images/space-monkey-edit.png)
 
-+ Puoi aggiungere codice alla sprite della tua scimmia in maniera che giri continuamente su stessa?
++ Puoi aggiungere del codice allo sprite della tua scimmietta per far sì che giri continuamente su stessa?
     
-    Prova e salva il tuo progetto. Dovrai fare clic sul pulsante rosso ** stop ** per terminare questa animazione, poiché continua all'infinito!
+    Prova il tuo codice e salva il progetto. Per fermare l'animazione dovrai cliccare sul pulsante **rosso**, altrimenti andrà avanti all'infinito!
     
-    ![Blocchi per una scimmia che gira su se stessa](images/space-spin-test.png)
+    ![Blocchi per far ruotare la scimmia](images/space-spin-test.png)
 
-\--- hints \--- \--- hint \--- When the green **flag is clicked**, your monkey sprite should **turn** in a circle **forever**. \--- /hint \--- \--- hint \--- Here are the code blocks you'll need: ![Blocks for a spinning monkey](images/space-spin-blocks.png) \--- /hint \--- \--- hint \--- Here's the code to make your monkey spin: ![Code for a spinning monkey](images/space-spin-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- Dopo aver **cliccato su ⚑**, la tua scimmietta dovrebbe **ruotare** su se stessa **per sempre**. \--- /hint \--- \--- hint \--- Ecco di quali blocchi di codice avrai bisogno: ![Blocks for a spinning monkey](images/space-spin-blocks.png) \--- /hint \--- \--- hint \--- Ecco il codice che farà ruotare la tua scimmietta: ![Code for a spinning monkey](images/space-spin-code.png) \--- /hint \--- \--- /hints \---
