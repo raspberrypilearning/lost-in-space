@@ -1,56 +1,56 @@
-## Step 1: Animating a spaceship
+## Langkah 1: Membuat pesawat luar angkasa
 
-Let's make a spaceship that flies towards the Earth!
+Mari kita buat pesawat luar angkasa yang terbang ke Bumi!
 
-+ Open a new empty Scratch project.
++ Buka proyek Scratch kosong baru.
 
 [[[generic-scratch-new-project]]]
 
-+ Add 'spaceship' and 'Earth' sprites to your Stage.
++ Tambahkan spaceship 'dan' Bumi 'ke Panggung Anda.
     
-    ![Spaceship and Earth sprites](images/space-sprites.png)
+    ![Spaceship dan Sprite Bumi](images/space-sprites.png)
 
 [[[generic-scratch-sprite-from-library]]]
 
-+ Add the 'Stars' backdrop to your Stage.
++ Tambahkan latar belakang 'Bintang' ke Panggung Anda.
     
-    ![A space backdrop](images/space-backdrop.png)
+    ![Spasi spasi](images/space-backdrop.png)
 
 [[[generic-scratch-backdrop-from-library]]]
 
-+ Click on your spaceship sprite, and click the **Costumes** tab.
++ Klik sprite pesawat ruang angkasa Anda, dan klik tab **Kostum**.
     
-    ![Sprite costume](images/space-costume.png)
+    ![Kostum sprite](images/space-costume.png)
 
-+ Use the **arrow** tool to select the image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
++ Gunakan alat **panah** untuk memilih gambar. Kemudian klik pada lingkaran **memutar** pegangan, dan putar gambar sampai berada di sisinya.
     
-    ![Rotating a costume](images/space-rotate.png)
+    ![Memutar kostum](images/space-rotate.png)
 
-+ Add this code to your spaceship sprite:
++ Tambahkan kode ini ke sprite spaceship Anda:
     
-    ![Spaceship code](images/space-animate.png)
+    ![Kode pesawat ruang angkasa](images/space-animate.png)
     
-    Change the numbers in the code blocks so that the code is exactly the same as in the image above.
+    Ubah angka dalam blok kode sehingga kode persis sama seperti pada gambar di atas.
     
-    If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
+    Jika Anda mengklik bendera hijau, Anda harus melihat pesawat ruang angkasa berbicara, berputar, dan meluncur ke tengah panggung.
     
-    ![Testing a spaceship animation](images/space-animate-stage.png)
+    ![Menguji animasi spaceship](images/space-animate-stage.png)
 
 [[[generic-scratch-saving]]]
 
-\--- challenge \---
+\--- tantangan \---
 
-## Challenge: improving your animation
+## Tantangan: meningkatkan animasi Anda
 
-Can you change the numbers in your animation code, so that:
+Dapatkah Anda mengubah angka dalam kode animasi Anda, sehingga:
 
-+ The spaceship moves until it touches the Earth?
-+ The spaceship moves more slowly towards the Earth?
++ Pesawat ruang angkasa bergerak sampai menyentuh Bumi?
++ Pesawat luar angkasa bergerak lebih lambat ke arah Bumi?
 
-You'll need to change the numbers in this block:
+Anda harus mengubah angka dalam blok ini:
 
-![Glide block](images/space-glide.png)
+![Blok meluncur](images/space-glide.png)
 
 [[[generic-scratch-coordinates]]]
 
-\--- /challenge \---
+\--- / tantangan \---
