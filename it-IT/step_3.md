@@ -1,55 +1,55 @@
-## Passaggio 1: animazione di un'astronave
+## Passaggio 1: Animare un'astronave
 
-Facciamo un'astronave che vola verso la Terra!
+Creiamo un'astronave che vola verso la Terra!
 
-+ Apri un nuovo progetto di Scratch, vuoto.
++ Avvia un nuovo progetto Scratch.
 
 [[[generic-scratch-new-project]]]
 
-+ Aggiungi le sprites 'astronave' e 'Terra' al tuo Stage.
++ Aggiungi gli sprite 'astronave' e 'Terra' al tuo stage.
     
-    ![Sprites dell'astronave e della terra](images/space-sprites.png)
+    ![Sprite 'Astronave' e 'Terra'](images/space-sprites.png)
 
 [[[generic-scratch-sprite-from-library]]]
 
-+ Aggiungi lo sfondo "Stelle" al tuo Stage.
++ Aggiungi lo sfondo 'Stelle' al tuo stage.
     
-    ![Uno sfondo spaziale](images/space-backdrop.png)
+    ![Sfondo spaziale](images/space-backdrop.png)
 
 [[[generic-scratch-backdrop-from-library]]]
 
-+ Fai clic sulla sprite dell'astronave e successivamente fai clic sulla scheda ** Costumi **.
++ Fai clic sullo sprite dell'astronave, e poi clicca sulla scheda **Costumi**.
     
-    ![Sprite del costume](images/space-costume.png)
+    ![Costume dello sprite](images/space-costume.png)
 
-+ Utilizzare lo strumento **freccia** per selezionare l'immagine. Quindi fare clic sulla maniglia circolare **ruotare** e ruotare l'immagine fino a quando non è coricata sul suo lato.
++ Utilizza lo strumento **freccia** per selezionare l'immagine. Clicca sul cerchio per **ruotare** l'immagine di lato.
     
-    ![Ruotando un costume](images/space-rotate.png)
+    ![Ruotare un costume](images/space-rotate.png)
 
-+ Aggiungi questo codice alla tua sprite dell'astronave:
++ Aggiungi questo codice allo sprite della tua astronave:
     
     ![Codice dell'astronave](images/space-animate.png)
     
-    Cambia i numeri nei blocchi di codice in maniera che il codice sia identico a quello dell'immagine sopra.
+    Cambia i numeri nei blocchi di codice in modo che il codice sia identico a quello dell'immagine qui sopra.
     
-    Se fai clic sulla bandiera verde dovresti vedere l'astronave parlare, girare e planare verso il centro della scena.
+    Facendo click sulla bandierina verde, dovresti vedere l'astronave parlare, girare e planare verso il centro dello schermo.
     
-    ![Testing a spaceship animation](images/space-animate-stage.png)
+    ![Testare l'animazione di un'astronave](images/space-animate-stage.png)
 
 [[[generic-scratch-saving]]]
 
 \--- challenge \---
 
-## Challenge: improving your animation
+## Sfida: Migliorare la tua animazione
 
-Can you change the numbers in your animation code, so that:
+Puoi cambiare i numeri nel tuo codice, per far sì che:
 
-+ The spaceship moves until it touches the Earth?
-+ The spaceship moves more slowly towards the Earth?
++ L'astronave si muova fino a toccare la Terra?
++ L'astronave si muova lentamente verso la Terra?
 
-You'll need to change the numbers in this block:
+Dovrai modificare i numeri in questo blocco:
 
-![Glide block](images/space-glide.png)
+![Blocco scivola](images/space-glide.png)
 
 [[[generic-scratch-coordinates]]]
 
