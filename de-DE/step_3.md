@@ -1,55 +1,55 @@
-## Step 1: Animating a spaceship
+## Ein Raumschiff animieren
 
-Let's make a spaceship that flies towards the Earth!
+Lass uns ein Raumschiff bauen, das zur Erde fliegt!
 
-+ Open a new empty Scratch project.
++ Öffne ein neues Scratch-Projekt.
 
 [[[generic-scratch-new-project]]]
 
-+ Add 'spaceship' and 'Earth' sprites to your Stage.
++ Füge die Figuren 'Raumschiff' und 'Erde' zu deiner Bühne hinzu.
     
-    ![Spaceship and Earth sprites](images/space-sprites.png)
+    ![Die Figuren Raumschiff und Erde](images/space-sprites.png)
 
 [[[generic-scratch-sprite-from-library]]]
 
-+ Add the 'Stars' backdrop to your Stage.
++ Füge deiner Bühne das Bühnenbild "stars" (Sterne) hinzu.
     
-    ![A space backdrop](images/space-backdrop.png)
+    ![Ein Weltraum-Bühnenbild](images/space-backdrop.png)
 
 [[[generic-scratch-backdrop-from-library]]]
 
-+ Click on your spaceship sprite, and click the **Costumes** tab.
++ Klicke auf deine Raumschiff-Figur und klicke auf den Reiter **Kostüme**.
     
     ![Sprite costume](images/space-costume.png)
 
-+ Use the **arrow** tool to select the image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
++ Verwende das **Pfeil** Werkzeug, um das Bild auszuwählen. Dann klickst du auf den kreisförmigen **drehen-**-Griff und drehst das Bild, bis es auf der Seite liegt.
     
-    ![Rotating a costume](images/space-rotate.png)
+    ![Eine Figur drehen](images/space-rotate.png)
 
-+ Add this code to your spaceship sprite:
++ Füge deiner Raumschiff-Figur diesen Code hinzu:
     
-    ![Spaceship code](images/space-animate.png)
+    ![Raumschiff-Code](images/space-animate.png)
     
-    Change the numbers in the code blocks so that the code is exactly the same as in the image above.
+    Ändere die Zahlen in den Codeblöcken, damit der Code genau wie im Bild oben aussieht.
     
-    If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
+    Wenn du auf die grüne Flagge klickst, sollten Sie sehen, wie das Raumschiff "spricht", sich dreht und zur Mitte der Bühne gleitet.
     
-    ![Testing a spaceship animation](images/space-animate-stage.png)
+    ![Test einer Raumschiff-Animation](images/space-animate-stage.png)
 
 [[[generic-scratch-saving]]]
 
 \--- challenge \---
 
-## Challenge: improving your animation
+## Challenge: Verbessere deine Animation
 
-Can you change the numbers in your animation code, so that:
+Kannst du die Zahlen in deinem Animationscode ändern, so dass:
 
-+ The spaceship moves until it touches the Earth?
-+ The spaceship moves more slowly towards the Earth?
++ Sich das Raumschiff bewegt, bis es die Erde berührt?
++ Sich das Raumschiff langsamer auf die Erde zu bewegt?
 
-You'll need to change the numbers in this block:
+Du musst die Zahlen in diesem Block ändern:
 
-![Glide block](images/space-glide.png)
+![Gleite-zu-Block](images/space-glide.png)
 
 [[[generic-scratch-coordinates]]]
 
