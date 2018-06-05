@@ -2,8 +2,8 @@
 title: Perdidos en el Espacio
 theme: green
 hero_image: images/lost-in-space.png
-description: ¡Aprende a programar tu propia animación!
-original_url: https://projects.raspberrypi.org/en/projects/lost-in-space
+description: '¡Aprende a programar tu propia animación!'
+original_url: https://www.codeclubprojects.org/en-GB/scratch/lost-in-space
 duration: 2
 listed: true
 copyedit: true
@@ -16,11 +16,12 @@ hardware: ''
 software: scratch
 version: 4
 last_tested: 2017-11-01
-steps: 
-- title: Introducción
-- title: Animar una nave espacial
-- title: Animar usando bucles
-- title: Mono flotante
-- title: Asteroides que rebotan
-- title: Estrellas que brillan
-- title: "Desafío: Crea tu propia animación"
+steps:
+  - title: Introducción
+  - title: Lo que necesitarás
+  - title: Animación de una nave espacial
+  - title: Animar utilizando bucles
+  - title: Mono flotante
+  - title: Un asteroide que rebota
+  - title: Una estrella brillante
+  - title: 'Desafío: Haz tu propia animación'

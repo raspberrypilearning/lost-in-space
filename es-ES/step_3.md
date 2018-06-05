@@ -1,33 +1,56 @@
-## Animar usando bucles
+## Paso 1: Animación de una nave espacial
 
-Otra manera de animar la nave espacial es decirle que se mueva distancias pequeñas, muchas veces.
+¡Hagamos una nave espacial que vuela hacia la Tierra!
 
-+ Elimina el bloque `deslizar`{:class="blockmotion"} de tu código haciendo clic con el botón derecho en el bloque y seleccionando "borrar". También puedes borrar código arrastrándolo del área de Programas al área de los bloques de código.
++ Abre un nuevo proyecto de Scratch vacío.
 
-	![screenshot](images/space-delete-glide.png)
+[[[generic-scratch-new-project]]]
 
-+ Una vez hayas eliminado el código, añade este código en su lugar:
++ Añade los objetos 'spaceship' (nave espacial) y 'Earth' (la Tierra) a tu escenario.
+    
+    ![Figuras de la nave espacial y de la Tierra](images/space-sprites.png)
 
-	![screenshot](images/space-loop.png)
+[[[generic-scratch-sprite-from-library]]]
 
-	El bloque `repetir`{:class="blockcontrol"} se usa para repetir algo muchas veces, y también se conoce como un __bucle__.
++ Agrega el fondo "stars" (estrellas) a tu escenario.
+    
+    ![Un fondo espacial](images/space-backdrop.png)
 
-+ Si haces clic en la bandera para probar este nuevo código, verás que hace casi lo mismo que antes.
+[[[generic-scratch-backdrop-from-library]]]
 
-+ Puedes añadir más código a tu bucle, para hacer cosas interesantes. Añade al bucle el bloque `cambiar efecto color por 25`{:class="blocklooks"} (de la sección "Apariencia"), para cambiar el color de la nave espacial repetidamente a medida que se mueve:
++ Haz clic en la figura de tu nave espacial y luego haz clic en la pestaña **Disfraces**.
+    
+    ![Disfraz de la figura](images/space-costume.png)
 
-	![screenshot](images/space-colour.png)
++ Usa la herramienta **flecha** para seleccionar la imagen. Luego haz clic en el manejador redondo **rotar**, y gira la imagen hasta que esté de lado.
+    
+    ![Rotando un disfraz](images/space-rotate.png)
 
-+ Haz clic en la bandera para ver tu nueva animación.
++ Agrega este código a tu figura de la nave espacial:
+    
+    ![Código de la nave espacial](images/space-animate.png)
+    
+    Cambia los números en los bloques de código para que el código sea exactamente el mismo que en la imagen de arriba.
+    
+    Si haces clic en la bandera verde, deberías ver que la nave espacial habla, gira y se desliza hacia el centro del escenario.
+    
+    ![Probando una animación de la nave espacial](images/space-animate-stage.png)
 
-	![screenshot](images/space-colour-test.png)
+[[[generic-scratch-saving]]]
 
-+ También puedes hacer que tu nave espacial se haga más pequeña a medida que se mueve hacia la Tierra.
+--- challenge ---
 
-	![screenshot](images/space-size.png)
+## Desafío: Mejora tu animación
 
-+ Prueba tu animación. ¿Qué ocurre si haces clic en la bandera una segunda vez? ¿Tu nave espacial empieza con el tamaño correcto? Puedes usar este bloque para fijar tu animación:
+¿Puedes cambiar los números en tu código de animación para que:
 
-	```blocks
-	fijar tamaño a (100) %
-	```
++ La nave espacial se mueva hasta que toca la Tierra?
++ La nave espacial se mueva más despacio hacia la Tierra?
+
+Deberás cambiar los números en este bloque:
+
+![Bloque para deslizar](images/space-glide.png)
+
+[[[generic-scratch-coordinates]]]
+
+--- /challenge ---

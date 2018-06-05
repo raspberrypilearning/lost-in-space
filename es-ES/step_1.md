@@ -2,46 +2,21 @@
 
 ¡Vas a aprender a programar tu propia animación!
 
+### Lo que crearás
+
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/26818098/?autostart=false" frameborder="0"></iframe>
-  <img src="space-final.png">
+  <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/227525632/?autostart=false" frameborder="0"></iframe>
+  <img src="images/space-final.png">
 </div>
 
-## Recursos
-Para este proyecto se debería de usar Scratch 2. Scratch 2 puede usarse en línea en [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) o puede descargarse de [jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) y usarse sin estar conectado.
+### Lo que aprenderás
 
-La versión completa de este proyecto se puede encontrar <a href="http://scratch.mit.edu/projects/26818098/#editor">online</a>, o se puede descargar haciendo clic en el enlace “Descargar materiales del proyecto”, que contiene:
+Este proyecto incluye elementos de los siguientes aspectos del [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-+ LostInSpace.sb2
++ [Usa estructuras de programación básicas para crear programas simples.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-También existe una versión de este proyecto con los recursos externos ya cargados. La misma está disponible en línea en [jumpto.cc/space-resources](http://jumpto.cc/space-resources), o en los materiales del proyecto descargables, que contienen:
+### Información adicional para los educadores
 
-+ LostInSpaceResources.sb2 
+Si necesitas imprimir este proyecto, usa la [versión para imprimir](https://projects.raspberrypi.org/es-ES/projects/lost-in-space/print){:target="_blank"}.
 
-## Objetivos de aprendizaje
-+ Bucles:
-	+ Bucles `Repetir`{:class="blockcontrol"};
-	+ Bucles `Por siempre`{:class="blockcontrol"}.
-
-## Desafíos
-+ "Mejora tu animación " – cambiar los números en un programa corto;
-+ "Crea tu propia animación " – aplicar lo aprendido para crear una nueva animación.
-
-## Preguntas frecuentes
-+ Es posible que la clase necesite recordar cómo “restablecer” la posición, el tamaño y otros efectos de un objeto al principio de su animación. Esto puede conseguirse fácilmente añadiendo algunos de los siguientes bloques al inicio de sus animaciones:
-
-```blocks
-	Ir a x:(0) y:(0)
-```
-
-```blocks
-	fijar tamaño a (100)%
-```
-
-```blocks
-	quitar efectos gráficos
-```
-
-+ El objeto “nave espacial” se moverá de lado a menos que se rote 90 grados en el sentido de las agujas del reloj. La rotación de la nave espacial es parte de las instrucciones del proyecto, pero puede sustituirse por otro objeto si causa problemas.
-
-	![screenshot](images/space-rotate.png)
+Usa el enlace en el pie de página para acceder al repositorio de GitHub para este proyecto, que contiene todos los recursos (incluyendo un ejemplo de un proyecto terminado) en la carpeta 'es-ES/resources'.

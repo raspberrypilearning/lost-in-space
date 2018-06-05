@@ -1,26 +1,31 @@
-## Mono flotant
+## Paso 2: Animar utilizando bucles
 
-Vamos a añadir un mono a tu animación, ¡que está perdido en el espacio!
+Otra forma de animar la nave espacial es decirle que se mueva una pequeña cantidad muchas veces.
 
-+ Empieza añadiendo el objeto "Monkey" (mono) de la biblioteca.
++ Elimina el bloque `deslizar` de tu código haciendo clic derecho sobre él y haciendo clic en **eliminar **. También puedes eliminar código arrastrándolo fuera del área de programas y devolviéndolo al área de bloques de código.
+    
+    ![Eliminar el bloque de deslizamiento](images/space-delete-glide.png)
 
-	![screenshot](images/space-monkey.png)
++ ¿Puedes usar un bloque de `repetición` para mover tu nave espacial hacia la Tierra?
+    
+    Prueba y guarda: Tu nave espacial debería moverse hacia la Tierra exactamente como antes, esta vez usando un bloque de `repetición`.
+    
+    ![Probando una animación de nave espacial](images/space-animate-stage.png)
 
-+ Si haces clic en tu nuevo objeto mono y después en “Disfraces”, podrás editar la apariencia del mono. Haz clic en la herramienta “Elipse” y dibuja un casco espacial blanco alrededor de la cabeza del mono.
+--- hints --- --- hint --- En lugar de **deslizarse**, tu nave espacial se debería **mover** **repetidamente** unos pocos pasos a la vez. --- /hint --- --- hint --- Aquí están los bloques de código que necesitarás: ![Blocks for an animated spaceship](images/space-repeat-blocks.png) --- /hint --- --- hint --- Este es el código para animar tu nave espacial: ![Code for an animated spaceship](images/space-repeat-code.png) (Puedes utilizar números diferentes en los bloques de `repetir` y `mover`, siempre que la nave espacial llegue a la Tierra) --- /hint --- --- /hints ---
 
-	![screenshot](images/space-monkey-edit.png)
++ ¿Puedes codificar tu nave espacial para cambiar el color a medida que se mueve hacia la Tierra?
+    
+    Prueba y guarda.
+    
+    ![Probando una nave espacial que cambia de color](images/space-colour-test.png)
 
-+ A continuación haz clic en “Programas”, y añade este código a tu mono, para que gire lentamente en círculos para siempre:
+--- hints --- --- hint --- Tu nave espacial debería **cambiar de color** mientras se mueve. --- /hint --- --- hint --- Aquí tienes el bloque de código extra que necesitarás: ![Block for changing colour](images/space-colour-blocks.png) --- /hint --- --- hint --- Aquí tienes el código para cambiar el color de tu nave espacial: ![Code for an animated spaceship](images/space-colour-code.png) --- /hint --- --- /hints ---
 
-	```blocks
-	al presionar bandera verde
-	por siempre
-   		girar ↻ (1) grados
-	fin
-	```
++ ¿Puedes hacer que tu nave espacial se haga más pequeña a medida que llega a la Tierra?
+    
+    Prueba y guarda. Tu nave espacial debería hacerse más pequeña mientras se mueve. Prueba tu nave espacial una **segunda vez**. ¿El tamaño es correcto cuando comienza?
+    
+    ![Probando una nave espacial que cambia de tamaño](images/space-size-test.png)
 
-	El bloque `por siempre`{:class="blockcontrol"} es otro bucle, pero en este caso, uno que nunca termina.
-
-+ Haz clic en la bandera para probar tu mono. Tendrás que hacer clic en el botón parar (al lado de la bandera) para terminar esta animación.
-
-	![screenshot](images/space-monkey-loop.png)
+--- hints --- --- hint --- Tu nave espacial debería comenzar con un **tamaño del 100%** y luego ir **cambiando su tamaño** un poco cada vez a medida que se mueve. --- /hint --- --- hint --- Aquí tienes los bloques de código que necesitarás: ![Blocks for changing size](images/space-size-blocks.png) --- /hint --- --- hint --- Aquí tienes el código para cambiar el tamaño de tu nave espacial mientras se mueve: ![Code for changing size](images/space-size-code.png) --- /hint --- --- /hints ---
