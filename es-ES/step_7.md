@@ -1,4 +1,4 @@
-## Paso 5: Estrella brillante
+## Paso 5: Una estrella brillante
 
 Combinemos los bucles para hacer una estrella brillante.
 
