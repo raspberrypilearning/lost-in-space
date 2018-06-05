@@ -1,22 +1,22 @@
-## Introduction
+## 소개
 
-You are going to learn how to program your own animation!
+나만의 애니메이션을 프로그램 하는 방법을 배울 것입니다!
 
-### What you will make
+### 만들어 볼 프로젝트
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/26818098/?autostart=false" frameborder="0"></iframe>
   <img src="images/space-final.png">
 </div>
 
-### What you will learn
+### 배우게 될 프로젝트
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+이 프로젝트는 라즈베리파이 디지털 메이킹의 커리큘럼 중 하나입니다.
 
-+ [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
++ [기본 프로그래밍 구조를 사용 하 여 간단한 프로그램을 만듭니다.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-### Additional information for educators
+### 교육자를 위한 추가 정보
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
+이 프로젝트를 인쇄하려면, [printer-Printer friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}을 사용하십시오.
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+아래에 링크된 이 프로젝트를 위한 GitHub repositoryrepo를 이용하세요. (완성된 프로젝트 예제를 포함한) 모든 리소스가 'en/resources' 폴더에 들어 있습니다.
