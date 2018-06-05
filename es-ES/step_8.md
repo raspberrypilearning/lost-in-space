@@ -12,6 +12,6 @@ Usa lo que has aprendido en este proyecto para hacer tu propia animación. Puede
 ***
 ### Traducción aportada por la comunidad 
 
-Este proyecto fue traducido por **Emma Tweed** y revisado por **Helmut Schlimper**. 
+Este proyecto fue traducido por **Emma Tweed/María Alejandra Aguada/Montse Verdaguer** y revisado por **Helmut Schlimper**. 
 
 Nuestros increíbles voluntarios de traducción nos ayudan a dar a los niños de todo el mundo la oportunidad de aprender a programar. Puedes ayudarnos a llegar a más niños traduciendo nuestros proyectos. Consigue más información en [rpf.io/translators](https://rpf.io/translators).
