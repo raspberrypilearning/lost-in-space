@@ -2,7 +2,7 @@
 
 Otra forma de animar la nave espacial es decirle que se mueva una pequeña cantidad muchas veces.
 
-+ Elimina el bloque `deslizar` de tu código haciendo clic derecho sobre él y haciendo clic en **eliminar **. También puedes eliminar código arrastrándolo fuera del área de programas y devolviéndolo al área de bloques de código.
++ Elimina el bloque `deslizar` de tu código haciendo clic derecho sobre él y haciendo clic en **eliminar**. También puedes eliminar código arrastrándolo fuera del área de programas y devolviéndolo al área de bloques de código.
     
     ![Eliminar el bloque de deslizamiento](images/space-delete-glide.png)
 
