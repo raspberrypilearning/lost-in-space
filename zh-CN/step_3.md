@@ -2,7 +2,7 @@
 
 让我们建造一艘飞船飞向地球吧！
 
-+ 新建一个空白Scratch工程
++ 打开一个空白Scratch工程。
 
 [[[generic-scratch-new-project]]]
 
