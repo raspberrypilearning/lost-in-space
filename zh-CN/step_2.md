@@ -6,4 +6,4 @@
 
 ### 软件
 
-+ Scratch 2.0（[在线版本](https://scratch.mit.edu/projects/editor/){: target="_blank"} 或[离线版本](https://scratch.mit.edu/scratch2download/){: target="_blank"}）
++ Scratch 2.0（[在线版](https://scratch.mit.edu/projects/editor/)或[离线版](https://scratch.mit.edu/scratch2download/)）
