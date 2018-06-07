@@ -11,9 +11,9 @@
 
 ### Те, що ви дізнаєтеся
 
-Цей проект охоплює елементи з наступних напрямків навчального плану "[" Малина " ](http://rpf.io/curriculum):
+Цей проект охоплює елементи з наступних напрямків навчального плану [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-+ [Використовуйте базові конструкторські програми для створення простих програм.](https://www.raspberrypi.org/curriculum/programming/creator)
++ [Використовуйте основні конструкції для створення простих програм.](https://www.raspberrypi.org/curriculum/programming/creator)
 
 ### Додаткова інформація для вчителів
 
