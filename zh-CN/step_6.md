@@ -6,7 +6,7 @@
     
     ![添加岩石角色](images/space-rock-sprite.png)
 
-+ 你能编码让岩石在舞台上反弹吗？
++ 你能编码让岩石在舞台上弹跳吗？
     
     ![测试岩石反弹](images/space-bounce-test.png)
 
