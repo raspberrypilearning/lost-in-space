@@ -1,4 +1,4 @@
-## 4. korak: Poskočni asteroid
+## Bouncing asteroid
 
 Dodajte nekaj asteroidov v vašo animacijo.
 
