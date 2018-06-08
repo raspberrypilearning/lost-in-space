@@ -1,4 +1,4 @@
-## Langkah 3: Mengambang monyet
+## Floating monkey
 
 Mari tambahkan monyet yang hilang di ruang angkasa untuk animasi Anda!
 
