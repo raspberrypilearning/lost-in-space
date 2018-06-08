@@ -1,4 +1,4 @@
-## 第1步：移动飞船
+## Animating a spaceship
 
 让我们建造一艘飞船飞向地球吧！
 
