@@ -1,4 +1,4 @@
-## Adım 5: ulduzu parlayan
+## Shining star
 
 Gəlin parıldayan bir ulduz etmək üçün döngələri birləşdirək.
 
