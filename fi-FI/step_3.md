@@ -1,4 +1,4 @@
-## Vaihe 1: Animaatio avaruusalustaan
+## Animating a spaceship
 
 Tehdään avaruusalusta, joka lentää kohti maata!
 
