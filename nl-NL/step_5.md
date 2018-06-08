@@ -1,4 +1,4 @@
-## Stap 3: Zwevende aap
+## Floating monkey
 
 Laten we een aap toevoegen die in de ruimte is verdwaald!
 
