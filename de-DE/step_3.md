@@ -1,4 +1,4 @@
-## Ein Raumschiff animieren
+## Animating a spaceship
 
 Lass uns ein Raumschiff bauen, das zur Erde fliegt!
 
