@@ -1,4 +1,4 @@
-## 1. Adım: Bir uzay gemisini canlandırın
+## Animating a spaceship
 
 Dünyaya doğru uçacak bir uzay gemisi yapalım!
 
