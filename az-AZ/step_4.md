@@ -1,4 +1,4 @@
-## Addım 2: Döngüler istifadə edərək, animasiya
+## Animating using loops
 
 Uzay gəmisini canlandırmaq üçün başqa bir üsul kiçik miqdarda çox dəfə hərəkət etmək deməkdir.
 
