@@ -1,4 +1,4 @@
-## Vaihe 4: Pomppulinna asteroidi
+## Bouncing asteroid
 
 Lisätään jokin kelluva avaruuskalli animaatioihisi.
 
