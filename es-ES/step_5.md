@@ -1,4 +1,4 @@
-## Paso 3: Mono flotante
+## Floating monkey
 
 ¡Agreguemos un mono perdido en el espacio a tu animación!
 
