@@ -1,4 +1,4 @@
-## Langkah 1: Menggenang kapal angkasa
+## Animating a spaceship
 
 Mari buat kapal angkasa yang terbang ke Bumi!
 
