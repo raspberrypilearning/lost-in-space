@@ -1,4 +1,4 @@
-## Stap 4: Stuiterende asteroïde
+## Bouncing asteroid
 
 Laten we wat zwevend ruimtesteen toevoegen aan je animatie.
 
