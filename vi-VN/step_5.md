@@ -1,4 +1,4 @@
-## Bước 3: Khỉ nổi
+## Floating monkey
 
 Hãy thêm một con khỉ đã mất dấu cách vào hoạt ảnh của bạn!
 
