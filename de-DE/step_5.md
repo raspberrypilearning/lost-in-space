@@ -1,4 +1,4 @@
-## Schritt 3: Schwebender Affe
+## Floating monkey
 
 Lass uns einen Affen zu deiner Animation hinzufügen, der im Weltraum verloren gegangen ist!
 
