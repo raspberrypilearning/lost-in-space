@@ -1,4 +1,4 @@
-## Animeren met behulp van lussen
+## Animating using loops
 
 Een andere manier om het ruimteschip te bewegen is door het te vertellen dat het kleine stapjes moet zetten.
 
