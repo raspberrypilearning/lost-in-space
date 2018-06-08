@@ -1,4 +1,4 @@
-## Step 3: Floating monkey
+## Floating monkey
 
 Let's add a monkey who's lost in space to your animation!
 
