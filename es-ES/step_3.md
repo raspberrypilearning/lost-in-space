@@ -1,4 +1,4 @@
-## Paso 1: Animación de una nave espacial
+## Animating a spaceship
 
 ¡Hagamos una nave espacial que vuela hacia la Tierra!
 
