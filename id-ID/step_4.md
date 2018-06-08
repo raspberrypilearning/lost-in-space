@@ -1,4 +1,4 @@
-## Langkah 2: Membuat animasi menggunakan loop
+## Animating using loops
 
 Cara lain untuk menganimasikan pesawat ruang angkasa adalah dengan menyuruhnya untuk bergerak sedikit banyak kali.
 
