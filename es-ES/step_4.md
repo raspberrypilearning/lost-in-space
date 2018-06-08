@@ -1,4 +1,4 @@
-## Paso 2: Animar utilizando bucles
+## Animating using loops
 
 Otra forma de animar la nave espacial es decirle que se mueva una pequeña cantidad muchas veces.
 
