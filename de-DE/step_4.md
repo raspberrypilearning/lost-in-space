@@ -1,4 +1,4 @@
-## Schritt 2: Animieren mit Schleifen
+## Animating using loops
 
 Eine andere Möglichkeit das Raumschiff zu animieren ist, es ganz oft kleine Schritte machen zu lassen.
 
