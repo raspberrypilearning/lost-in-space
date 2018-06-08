@@ -1,4 +1,4 @@
-## Stap 5: Fonkelende ster
+## Shining star
 
 Laten we lussen bij elkaar brengen om een ​fonkelende ster te maken.
 
