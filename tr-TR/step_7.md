@@ -1,4 +1,4 @@
-## Adım 5: parlayan yıldızı
+## Shining star
 
 Parıltıları parlayan bir yıldız yapmak için birleştirelim.
 
