@@ -1,4 +1,4 @@
-## Langkah 4: Melantun asteroid
+## Bouncing asteroid
 
 Mari tambah beberapa batu ruang terapung untuk animasi anda.
 
