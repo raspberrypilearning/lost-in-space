@@ -1,4 +1,4 @@
-## Langkah 2: Animasi menggunakan gelung
+## Animating using loops
 
 Satu lagi cara untuk menghidupkan kapal angkasa adalah untuk menceritakannya untuk bergerak sedikit banyak kali.
 
