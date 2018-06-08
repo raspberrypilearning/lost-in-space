@@ -1,4 +1,4 @@
-## Addım 4: Bouncing asteroid
+## Bouncing asteroid
 
 Animasyonunuza bəzi üzən kosmik qaya əlavə edək.
 
