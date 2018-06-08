@@ -1,4 +1,4 @@
-## 5. korak: Sijoča zvezda
+## Shining star
 
 Združite zanke in ustvarite sijočo zvezdo.
 
