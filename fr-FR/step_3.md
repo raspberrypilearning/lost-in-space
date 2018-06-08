@@ -1,4 +1,4 @@
-## Step 1: Animating a spaceship
+## Animating a spaceship
 
 Let's make a spaceship that flies towards the Earth!
 
