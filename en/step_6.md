@@ -1,4 +1,4 @@
-## Step 4: Bouncing asteroid
+## Bouncing asteroid
 
 Let's add some floating space rock to your animation.
 

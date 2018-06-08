@@ -1,4 +1,4 @@
-## Step 2: Animating using loops
+## Animating using loops
 
 Another way to animate the spaceship is to tell it to move a small amount lots of times.
 
