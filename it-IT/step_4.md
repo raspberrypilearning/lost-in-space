@@ -1,4 +1,4 @@
-## Passaggio 2: Animazioni con i cicli
+## Animating using loops
 
 Un altro modo per animare l'astronave è di dirle di muoversi di un paio di passi tante volte.
 
