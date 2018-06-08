@@ -1,4 +1,4 @@
-## 3. korak: Plavajoča opica
+## Floating monkey
 
 Dodajmo opico, ki se bo premikala v vesolju!
 
