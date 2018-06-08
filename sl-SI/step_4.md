@@ -1,4 +1,4 @@
-## 2. korak: Animiranje z zankami
+## Animating using loops
 
 Drug način za animacijo vesoljske ladje je z uporabo zank. Tako lahko vesoljsko ladjo premaknete večkrat zapored.
 
