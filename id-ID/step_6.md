@@ -1,4 +1,4 @@
-## Langkah 4: Memantul asteroid
+## Bouncing asteroid
 
 Mari tambahkan beberapa batu angkasa mengambang ke animasi Anda.
 
