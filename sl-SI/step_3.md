@@ -1,4 +1,4 @@
-## 1. korak: Animiranje vesoljske ladje
+## Animating a spaceship
 
 Naredimo vesoljsko ladjo, ki leti proti Zemlji!
 
