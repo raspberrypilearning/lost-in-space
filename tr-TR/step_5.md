@@ -1,4 +1,4 @@
-## 3. Adım: Yüzen maymun
+## Floating monkey
 
 Animasyonunuza uzayda kaybeden bir maymunu ekleyelim!
 
