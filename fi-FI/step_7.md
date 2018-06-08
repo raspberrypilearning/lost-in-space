@@ -1,4 +1,4 @@
-## Vaihe 5: loistava tähti
+## Shining star
 
 Yhdistetään silmukat loistavan tähden tekemiseksi.
 
