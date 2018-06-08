@@ -1,4 +1,4 @@
-## Schritt 5: Glänzender Stern
+## Shining star
 
 Lass' uns Schleifen kombinieren, um einen glänzenden, strahlenden Stern zu machen.
 
