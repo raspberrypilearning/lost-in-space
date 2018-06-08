@@ -1,4 +1,4 @@
-## Langkah 1: Membuat pesawat luar angkasa
+## Animating a spaceship
 
 Mari kita buat pesawat luar angkasa yang terbang ke Bumi!
 
