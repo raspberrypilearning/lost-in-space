@@ -1,4 +1,4 @@
-## Paso 5: Estrella brillante
+## Shining star
 
 Combinemos los bucles para hacer una estrella brillante.
 
