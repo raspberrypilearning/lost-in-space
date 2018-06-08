@@ -1,4 +1,4 @@
-## Langkah 5: Bintang bersinar
+## Shining star
 
 Mari gabungkan gelung untuk membuat bintang bersinar.
 
