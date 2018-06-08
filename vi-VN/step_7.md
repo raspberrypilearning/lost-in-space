@@ -1,4 +1,4 @@
-## Bước 5: Ngôi sao sáng
+## Shining star
 
 Hãy kết hợp các vòng để tạo ra một ngôi sao sáng.
 
