@@ -1,4 +1,4 @@
-## Adım 4: sıçrayan asteroit
+## Bouncing asteroid
 
 Animasyonunuza biraz boşluk kayan kaya ekleyelim.
 
