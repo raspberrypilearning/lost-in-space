@@ -1,4 +1,4 @@
-## Vaihe 3: kelluva apina
+## Floating monkey
 
 Lisätään apu, joka on kadonnut tilaa animaatiosi!
 
