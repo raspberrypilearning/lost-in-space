@@ -1,4 +1,4 @@
-## Passaggio 5: Stella splendente
+## Shining star
 
 Combiniamo dei cicli per creare una stella che risplende.
 
