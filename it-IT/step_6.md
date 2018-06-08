@@ -1,4 +1,4 @@
-## Passaggio 4: Asteroide che rimbalza
+## Bouncing asteroid
 
 Aggiungiamo un po' di rocce spaziali fluttuanti alla tua animazione.
 
