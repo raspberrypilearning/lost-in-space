@@ -1,4 +1,4 @@
-## Addım 3: Üzən meymun
+## Floating monkey
 
 Nin animasiya üçün məkanda itən bir meymun əlavə edək!
 
