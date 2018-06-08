@@ -1,4 +1,4 @@
-## Bước 2: Tạo hoạt ảnh bằng cách sử dụng vòng lặp
+## Animating using loops
 
 Một cách khác để tạo động lực cho tàu vũ trụ là nói với nó để di chuyển một số lượng nhỏ rất nhiều lần.
 
