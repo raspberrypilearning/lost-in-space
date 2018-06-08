@@ -1,4 +1,4 @@
-## Paso 4: Un asteroide que rebota
+## Bouncing asteroid
 
 Agreguemos una roca espacial flotante a tu animación.
 
