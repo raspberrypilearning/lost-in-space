@@ -1,4 +1,4 @@
-## 2. Adım: Döngüler kullanarak animasyon yapın
+## Animating using loops
 
 Uzay gemisini canlandırmanın başka bir yolu da, onu çok az miktarda taşımak zorunda olduğunu söylemektir.
 
