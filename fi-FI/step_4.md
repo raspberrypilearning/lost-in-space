@@ -1,4 +1,4 @@
-## Vaihe 2: Animaatio käyttäen silmukoita
+## Animating using loops
 
 Toinen tapa animoida avaruusalus on kertoa se siirtää pieni määrä paljon aikaa.
 
