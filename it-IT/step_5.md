@@ -1,4 +1,4 @@
-## Passaggio 3: Scimmietta fluttuante
+## Floating monkey
 
 Aggiungiamo alla tua animazione una scimmietta che si è persa nello spazio!
 
