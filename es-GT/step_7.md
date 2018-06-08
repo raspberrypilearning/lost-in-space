@@ -1,4 +1,4 @@
-## Step 5: Shining star
+## Shining star
 
 Let's combine loops to make a shining star.
 
