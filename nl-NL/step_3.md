@@ -1,4 +1,4 @@
-## Stap 1: een ruimteschip animeren
+## Animating a spaceship
 
 Laten we een ruimteschip maken dat naar de aarde vliegt!
 
