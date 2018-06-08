@@ -1,4 +1,4 @@
-## Langkah 5: Bintang yang bersinar
+## Shining star
 
 Mari gabungkan loop untuk membuat bintang yang bersinar.
 
