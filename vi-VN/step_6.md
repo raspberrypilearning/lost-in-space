@@ -1,4 +1,4 @@
-## Bước 4: Nảy tiểu hành tinh
+## Bouncing asteroid
 
 Hãy thêm một số đá không gian nổi vào hoạt ảnh của bạn.
 
