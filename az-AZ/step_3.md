@@ -1,4 +1,4 @@
-## Addım 1: Bir uzay gemisini hərəkət etdirmək
+## Animating a spaceship
 
 Yerə doğru uçan bir uzay gemisi edək!
 
