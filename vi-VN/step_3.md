@@ -1,4 +1,4 @@
-## Bước 1: Hoạt hình tàu vũ trụ
+## Animating a spaceship
 
 Hãy tạo một con tàu vũ trụ bay về phía Trái Đất!
 
