@@ -1,4 +1,4 @@
-## Passaggio 1: Animare un'astronave
+## Animating a spaceship
 
 Creiamo un'astronave che vola verso la Terra!
 
