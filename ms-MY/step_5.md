@@ -1,4 +1,4 @@
-## Langkah 3: Monyet terapung
+## Floating monkey
 
 Mari tambahkan monyet yang hilang dalam ruang untuk animasi anda!
 
