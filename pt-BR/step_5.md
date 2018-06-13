@@ -16,4 +16,4 @@ Vamos adicionar um macaco que está perdido no espaço a sua animação!
     
     ![Blocks for a spinning monkey](images/space-spin-test.png)
 
-\--- hints \--- \--- hint \--- Quando a bandeira verde **é clicada**, o macaco deve **girar** em círculo **para sempre**. \--- /hint \--- \--- hint \--- Here are the code blocks you'll need: ![Blocks for a spinning monkey](images/space-spin-blocks.png) \--- /hint \--- \--- hint \--- Here's the code to make your monkey spin: ![Code for a spinning monkey](images/space-spin-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- Quando a bandeira verde **é clicada**, o macaco deve **girar** em círculo **para sempre**. \--- /hint \--- \--- hint \--- Aqui estão os blocos de código que você precisará: ![Blocks for a spinning monkey](images/space-spin-blocks.png) \--- /hint \--- \--- hint \--- Aqui estão os blocos de código que farão o seu macaco girar: ![Code for a spinning monkey](images/space-spin-code.png) \--- /hint \--- \--- /hints \---
