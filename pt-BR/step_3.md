@@ -32,7 +32,7 @@ Vamos fazer uma nave espacial que voe em direção à Terra!
     
     Altere os números nos blocos de código, de modo que o código fique exatamente igual à imagem acima.
     
-    If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
+    Se você clicar na bandeira verde, você deve ver a nave espacial falar "Vamos lá!", virar e deslizar em direção ao centro do palco.
     
     ![Testing a spaceship animation](images/space-animate-stage.png)
 
@@ -40,9 +40,9 @@ Vamos fazer uma nave espacial que voe em direção à Terra!
 
 \--- challenge \---
 
-## Challenge: improving your animation
+## Desafio: Melhorar a sua animação
 
-Can you change the numbers in your animation code, so that:
+Você pode alterar os números no seu código de animação, de modo que:
 
 + The spaceship moves until it touches the Earth?
 + The spaceship moves more slowly towards the Earth?
