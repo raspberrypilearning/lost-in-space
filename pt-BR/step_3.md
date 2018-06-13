@@ -1,6 +1,6 @@
-## Animating a spaceship
+## Animando uma nave espacial
 
-Let's make a spaceship that flies towards the Earth!
+Vamos fazer uma nave espacial que voe em direção à Terra!
 
 + Open a new empty Scratch project.
 
