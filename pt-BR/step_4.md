@@ -8,7 +8,7 @@ Outra maneira de animar a nave espacial é dizer para ela se mover uma pequena d
 
 + Você pode usar um bloco de código `repita` para mover sua nave espacial em direção à Terra?
     
-    Test and save: Your spaceship should move towards the Earth exactly as before, this time using a `repeat` block.
+    Teste e salve: sua nave espacial deve se mover em direção à Terra exatamente como antes, desta vez usando um bloco de comando de repetição `repita`.
     
     ![Testing a spaceship animation](images/space-animate-stage.png)
 
