@@ -1,15 +1,15 @@
-## Introduction
+## Introdução
 
-You are going to learn how to program your own animation!
+Você vai aprender a programar sua própria animação!
 
-### What you will make
+### O que você vai fazer
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/26818098/?autostart=false" frameborder="0"></iframe>
   <img src="images/space-final.png">
 </div>
 
-### What you will learn
+### O que você vai aprender
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
