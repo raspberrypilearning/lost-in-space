@@ -15,7 +15,7 @@ Este projeto abrange elementos das seguintes vertentes do [Raspberry Pi Digital 
 
 + [Use construções básicas de programação para criar programas simples.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-### Additional information for educators
+### Informações adicionais para educadores
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
