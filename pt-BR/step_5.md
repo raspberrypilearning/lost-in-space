@@ -1,12 +1,12 @@
-## Floating monkey
+## Macaco flutuante
 
-Let's add a monkey who's lost in space to your animation!
+Vamos adicionar um macaco que está perdido no espaço a sua animação!
 
-+ Start by adding the 'monkey' sprite from the library.
++ Comece adicionando o ator 'Monkey1' da biblioteca.
     
     ![Adding a monkey sprite](images/space-monkey-sprite.png)
 
-+ If you click on your new monkey sprite and then click **Costumes**, you can edit how the monkey looks. Click the **ellipse** tool and draw a white space helmet around the monkey's head.
++ Se você clicar no seu novo macaco ator e depois clicar em **Fantasias**, você poderá editar o visual dele. Click the **ellipse** tool and draw a white space helmet around the monkey's head.
     
     ![Monkey space helmet](images/space-monkey-edit.png)
 
