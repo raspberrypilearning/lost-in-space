@@ -2,11 +2,11 @@
 
 Vamos fazer uma nave espacial que voe em direção à Terra!
 
-+ Open a new empty Scratch project.
++ Abra um novo projeto Scratch vazio.
 
 [[[generic-scratch-new-project]]]
 
-+ Add 'spaceship' and 'Earth' sprites to your Stage.
++ Adicione os atores 'Spaceship' e 'Earth' ao seu Palco.
     
     ![Spaceship and Earth sprites](images/space-sprites.png)
 
