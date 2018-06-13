@@ -28,4 +28,4 @@ Outra maneira de animar a nave espacial é dizer para ela se mover uma pequena d
     
     ![Testing a shrinking spaceship](images/space-size-test.png)
 
-\---hints\--- \---hint\--- Sua nave espacial deve iniciar com o **tamanho em 100%** e em seguida **mudar de tamanho** pouco a pouco enquanto se move. \--- /hint \--- \--- hint \--- Here is the code blocks you'll need: ![Blocks for changing size](images/space-size-blocks.png) \--- /hint \--- \--- hint \--- Here's the code to change your spaceship's size as it moves: ![Code for changing size](images/space-size-code.png) \--- /hint \--- \--- /hints \---
+\---hints\--- \---hint\--- Sua nave espacial deve iniciar com o **tamanho em 100%** e em seguida **mudar de tamanho** pouco a pouco enquanto se move. \--- /hint \--- \--- hint \--- Aqui estão os blocos de código que você precisará: ![Blocks for changing size](images/space-size-blocks.png) \--- /hint \--- \--- hint \--- Aqui estão os blocos de código que irão alterar o tamanho da sua nave espacial enquanto ela se move: ![Code for changing size](images/space-size-code.png) \--- /hint \--- \--- /hints \---
