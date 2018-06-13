@@ -24,7 +24,7 @@ Outra maneira de animar a nave espacial é dizer para ela se mover uma pequena d
 
 + Você consegue fazer a sua nave espacial ficar menor à medida que se move em direção à Terra?
     
-    Test and save. Your spaceship should get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
+    Testar e salvar. Sua nave espacial deve ficar menor enquanto ela se move em direção à Terra. Teste sua nave espacial uma **segunda vez**. Ela está do tamanho certo quando começa a animação?
     
     ![Testing a shrinking spaceship](images/space-size-test.png)
 
