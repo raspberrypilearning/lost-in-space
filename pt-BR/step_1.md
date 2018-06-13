@@ -17,6 +17,6 @@ Este projeto abrange elementos das seguintes vertentes do [Raspberry Pi Digital 
 
 ### Informações adicionais para educadores
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
+Se você precisar imprimir este projeto, por favor use a [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_ blank"}.
 
 Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
