@@ -1,8 +1,8 @@
 ## Animando usando repetições
 
-Another way to animate the spaceship is to tell it to move a small amount lots of times.
+Outra maneira de animar a nave espacial é dizer para ela se mover uma pequena distância várias vezes.
 
-+ Delete the `glide` block from your code by right-clicking on it and clicking **delete**. You can also delete code by dragging it off the Script area and back into the Code blocks area.
++ Apagar o bloco `deslizar` do seu código, clicando com o botão direito do mouse sobre ele e clicando em **apagar**. Você também pode apagar o código arrastando-o de volta para a área de blocos de código.
     
     ![Deleting the glide block](images/space-delete-glide.png)
 
