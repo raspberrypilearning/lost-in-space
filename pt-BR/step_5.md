@@ -10,10 +10,10 @@ Vamos adicionar um macaco que está perdido no espaço a sua animação!
     
     ![Monkey space helmet](images/space-monkey-edit.png)
 
-+ Você consegue adicionar blocos de código ao seu macaco ator para que ele gire lentamente em um círculo para sempre?
++ Você consegue adicionar blocos de código ao seu macaco ator para que ele gire lentamente em círculo para sempre?
     
     Teste e salve seu projeto. Você terá que clicar no botão vermelho **Pare** para terminar esta animação, senão ela continuará para sempre!
     
     ![Blocks for a spinning monkey](images/space-spin-test.png)
 
-\--- hints \--- \--- hint \--- When the green **flag is clicked**, your monkey sprite should **turn** in a circle **forever**. \--- /hint \--- \--- hint \--- Here are the code blocks you'll need: ![Blocks for a spinning monkey](images/space-spin-blocks.png) \--- /hint \--- \--- hint \--- Here's the code to make your monkey spin: ![Code for a spinning monkey](images/space-spin-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- Quando a bandeira verde **é clicada**, o macaco deve **girar** em círculo **para sempre**. \--- /hint \--- \--- hint \--- Here are the code blocks you'll need: ![Blocks for a spinning monkey](images/space-spin-blocks.png) \--- /hint \--- \--- hint \--- Here's the code to make your monkey spin: ![Code for a spinning monkey](images/space-spin-code.png) \--- /hint \--- \--- /hints \---
