@@ -1,4 +1,4 @@
-## Bouncing asteroid
+## Asteróide viajante
 
 Let's add some floating space rock to your animation.
 
