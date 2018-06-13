@@ -12,11 +12,11 @@ Outra maneira de animar a nave espacial é dizer para ela se mover uma pequena d
     
     ![Testing a spaceship animation](images/space-animate-stage.png)
 
-\--- hints \--- \--- hint \--- Em vez de **deslizar**, sua nave espacial deve se **movimentar** alguns passos de cada vez **repetidamente**. \--- /hint \--- \--- hint \--- Here are the code blocks you'll need: ![Blocks for an animated spaceship](images/space-repeat-blocks.png) \--- /hint \--- \--- hint \--- Here's the code to animate your spaceship: ![Code for an animated spaceship](images/space-repeat-code.png) (You can use different numbers in the `repeat` and `move` blocks, as long as the spaceship still gets to Earth!) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- Em vez de **deslizar**, sua nave espacial deve se **movimentar** alguns passos de cada vez **repetidamente**. \--- / hint \--- \--- hint \--- Aqui estão os blocos de código que você vai precisar: <0 /> \--- / hint \--- \--- hint \--- Aqui está o código para animar a sua nave espacial: <1 /> (Você pode usar números diferentes de repetição no bloco de código `repita` e `mova`, contanto que a nave espacial ainda chegue à Terra!) \--- / hint \--- \--- / hints \---
 
-+ Can you code your spaceship to change colour as it moves towards Earth?
++ Você consegue programar a sua nave espacial para mudar de cor enquanto ela se move em direção à Terra?
     
-    Test and save.
+    Teste e salve.
     
     ![Testing a colour-changing spaceship](images/space-colour-test.png)
 
