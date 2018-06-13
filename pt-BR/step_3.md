@@ -22,15 +22,15 @@ Vamos fazer uma nave espacial que voe em direção à Terra!
     
     ![Sprite costume](images/space-costume.png)
 
-+ Use the **arrow** tool to select the image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
++ Use a ferramenta **seta** para selecionar a imagem. Em seguida, clique na **alça de rotação** manuseie e gire a imagem até que ela fique de lado.
     
     ![Rotating a costume](images/space-rotate.png)
 
-+ Add this code to your spaceship sprite:
++ Adicione este código ao seu ator 'Spaceship':
     
     ![Spaceship code](images/space-animate.png)
     
-    Change the numbers in the code blocks so that the code is exactly the same as in the image above.
+    Altere os números nos blocos de código, de modo que o código fique exatamente igual à imagem acima.
     
     If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
     
