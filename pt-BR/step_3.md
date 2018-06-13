@@ -12,13 +12,13 @@ Vamos fazer uma nave espacial que voe em direção à Terra!
 
 [[[generic-scratch-sprite-from-library]]]
 
-+ Add the 'Stars' backdrop to your Stage.
++ Adicione o pano de fundo 'stars' ao seu Palco.
     
     ![A space backdrop](images/space-backdrop.png)
 
 [[[generic-scratch-backdrop-from-library]]]
 
-+ Click on your spaceship sprite, and click the **Costumes** tab.
++ Clique no seu ator 'Spaceship' e clique na aba ** Fantasias **.
     
     ![Sprite costume](images/space-costume.png)
 
