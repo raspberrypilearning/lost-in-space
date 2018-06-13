@@ -6,7 +6,7 @@ Outra maneira de animar a nave espacial é dizer para ela se mover uma pequena d
     
     ![Deleting the glide block](images/space-delete-glide.png)
 
-+ Can you use a `repeat` block to move your spaceship towards the Earth?
++ Você pode usar um bloco de código `repita` para mover sua nave espacial em direção à Terra?
     
     Test and save: Your spaceship should move towards the Earth exactly as before, this time using a `repeat` block.
     
