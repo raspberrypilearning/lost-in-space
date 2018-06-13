@@ -20,9 +20,9 @@ Outra maneira de animar a nave espacial é dizer para ela se mover uma pequena d
     
     ![Testing a colour-changing spaceship](images/space-colour-test.png)
 
-\--- hints \--- \--- hint \--- Sua nave espacial pode **mudar de cor** enquanto se move. \--- /hint \--- \--- hint \--- Here is the extra code block you'll need: ![Block for changing colour](images/space-colour-blocks.png) \--- /hint \--- \--- hint \--- Here's the code to change your spaceship's colour: ![Code for an animated spaceship](images/space-colour-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- Sua nave espacial pode **mudar de cor** enquanto se move. \--- /hint \--- \--- hint \--- Aqui está o bloco de código que você precisará: ![Block for changing colour](images/space-colour-blocks.png) \--- /hint \--- \--- hint \--- Este é o código para mudar a cor da sua nave espacial: ![Code for an animated spaceship](images/space-colour-code.png) \--- /hint \--- \--- /hints \---
 
-+ Can you make your spaceship get smaller as it gets to Earth?
++ Você consegue fazer a sua nave espacial ficar menor à medida que se move em direção à Terra?
     
     Test and save. Your spaceship should get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
     
