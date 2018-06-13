@@ -19,4 +19,4 @@ Este projeto abrange elementos das seguintes vertentes do [Raspberry Pi Digital 
 
 Se você precisar imprimir este projeto, por favor use a [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_ blank"}.
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+Use o link no rodapé para acessar o repositório do GitHub para este projeto, que contém todos os recursos (incluindo um exemplo de projeto concluído) na pasta 'pt-BR / resources'.
