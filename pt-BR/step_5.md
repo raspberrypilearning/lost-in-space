@@ -6,13 +6,13 @@ Vamos adicionar um macaco que está perdido no espaço a sua animação!
     
     ![Adding a monkey sprite](images/space-monkey-sprite.png)
 
-+ Se você clicar no seu novo macaco ator e depois clicar em **Fantasias**, você poderá editar o visual dele. Click the **ellipse** tool and draw a white space helmet around the monkey's head.
++ Se você clicar no seu novo macaco ator e depois clicar em **Fantasias**, você poderá editar o visual dele. Clique na ferramenta **Elipse** e desenhe um capacete espacial branco em volta da cabeça do macaco.
     
     ![Monkey space helmet](images/space-monkey-edit.png)
 
-+ Can you add code to your monkey sprite so that it spins slowly in a circle forever?
++ Você consegue adicionar blocos de código ao seu macaco ator para que ele gire lentamente em um círculo para sempre?
     
-    Test and save your project. You'll have to click the red **stop** button to end this animation, as it goes on forever!
+    Teste e salve seu projeto. Você terá que clicar no botão vermelho **Pare** para terminar esta animação, senão ela continuará para sempre!
     
     ![Blocks for a spinning monkey](images/space-spin-test.png)
 
