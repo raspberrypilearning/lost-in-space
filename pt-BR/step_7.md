@@ -1,12 +1,12 @@
 ## Estrela brilhante
 
-Let's combine loops to make a shining star.
+Vamos combinar repetições para fazer uma estrela brilhante.
 
-+ Add a 'star' sprite to your animation.
++ Adicione um ator 'Star1' à sua animação.
     
     ![Adding a star sprite](images/space-star-sprite.png)
 
-+ Can you code your star to repeatedly grow and shrink?
++ Você consegue codificar sua estrela para ela aumentar e diminuir de tamanho repetidamente?
     
     ![Testing a shining star](images/space-star-test.png)
 
