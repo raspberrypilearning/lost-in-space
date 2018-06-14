@@ -6,13 +6,13 @@ Outra maneira de animar a nave espacial é dizer para ela se mover uma pequena d
     
     ![Deleting the glide block](images/space-delete-glide.png)
 
-+ Você pode usar um bloco de código `repita` para mover sua nave espacial em direção à Terra?
++ Você consegue usar um bloco de código `repita` para mover sua nave espacial em direção à Terra?
     
-    Teste e salve: sua nave espacial deve se mover em direção à Terra exatamente como antes, desta vez usando um bloco de comando de repetição `repita`.
+    Teste e salve: sua nave espacial deve se mover em direção à Terra exatamente como antes, desta vez usando um bloco de código de repetição `repita`.
     
     ![Testing a spaceship animation](images/space-animate-stage.png)
 
-\--- hints \--- \--- hint \--- Em vez de **deslizar**, sua nave espacial deve se **movimentar** alguns passos de cada vez **repetidamente**. \--- / hint \--- \--- hint \--- Aqui estão os blocos de código que você vai precisar: <0 /> \--- / hint \--- \--- hint \--- Aqui está o código para animar a sua nave espacial: <1 /> (Você pode usar números diferentes de repetição no bloco de código `repita` e `mova`, contanto que a nave espacial ainda chegue à Terra!) \--- / hint \--- \--- / hints \---
+\--- hints \--- \--- hint \--- Em vez de **deslizar**, sua nave espacial deve se **movimentar** alguns passos de cada vez **repetidamente**. \--- / hint \--- \--- hint \--- Aqui estão os blocos de código que você vai precisar: <0 /> \--- / hint \--- \--- hint \--- Aqui está o código para animar a sua nave espacial: <1 /> (Você pode usar números diferentes de repetição nos blocos de código `repita` e `mova`, contanto que a nave espacial ainda chegue à Terra!) \--- / hint \--- \--- / hints \---
 
 + Você consegue programar a sua nave espacial para mudar de cor enquanto ela se move em direção à Terra?
     
