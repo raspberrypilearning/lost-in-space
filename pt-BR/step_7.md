@@ -1,4 +1,4 @@
-## Shining star
+## Estrela brilhante
 
 Let's combine loops to make a shining star.
 
