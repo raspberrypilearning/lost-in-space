@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Challenge: make your own animation
+## Desafio: faça sua própria animação
 
-Stop your space animation, save it, and start a new Scratch project.
+Pare a sua animação espacial, salve-a e inicie um novo projeto do Scratch.
 
 Use what you've learnt in this project to make your own animation. It can be anything you like, but try to make your animation match the setting. Here are some examples:
 
