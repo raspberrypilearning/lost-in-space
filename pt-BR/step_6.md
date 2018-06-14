@@ -1,12 +1,12 @@
-## Asteróide viajante
+## Asteroide viajante
 
-Let's add some floating space rock to your animation.
+Vamos adicionar um asteroide à sua animação.
 
-+ Add a 'rock' sprite to your animation.
++ Adicione um ator 'Rock' à sua animação.
     
     ![Adding a rock sprite](images/space-rock-sprite.png)
 
-+ Can you code your rock sprite to bounce around the stage?
++ Você consegue codificar seu ator 'Rock' para ser um asteroide que fique viajando pelo seu palco?
     
     ![Testing a bouncing rock](images/space-bounce-test.png)
 
