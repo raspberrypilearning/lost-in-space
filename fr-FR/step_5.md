@@ -1,8 +1,8 @@
-## Floating monkey
+## Singe flottant
 
-Let's add a monkey who's lost in space to your animation!
+Ajoutons un singe perdu dans l'espace à votre animation!
 
-+ Start by adding the 'monkey' sprite from the library.
++ Commencez par ajouter le lutin "singe" de la bibliothèque.
     
     ![Adding a monkey sprite](images/space-monkey-sprite.png)
 
