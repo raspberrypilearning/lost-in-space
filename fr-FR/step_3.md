@@ -1,24 +1,24 @@
-## Animating a spaceship
+## Animer un vaisseau spatial
 
-Let's make a spaceship that flies towards the Earth!
+Créons un vaisseau spatial qui défendra la Terre!
 
-+ Open a new empty Scratch project.
++ Ouvrez un nouveau projet Scratch vide.
 
 [[[generic-scratch-new-project]]]
 
-+ Add 'spaceship' and 'Earth' sprites to your Stage.
++ Ajoutez des lutins «vaisseau spatial» et «Terre» à votre scène.
     
     ![Spaceship and Earth sprites](images/space-sprites.png)
 
 [[[generic-scratch-sprite-from-library]]]
 
-+ Add the 'Stars' backdrop to your Stage.
++ Ajoutez l'arrière plan "Stars" à votre scène.
     
     ![A space backdrop](images/space-backdrop.png)
 
 [[[generic-scratch-backdrop-from-library]]]
 
-+ Click on your spaceship sprite, and click the **Costumes** tab.
++ Cliquez sur l'image-objet de votre vaisseau spatial et cliquez sur l'onglet ** Costumes **.
     
     ![Sprite costume](images/space-costume.png)
 
