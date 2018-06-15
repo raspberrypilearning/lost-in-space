@@ -8,49 +8,49 @@ Créons un vaisseau spatial qui défendra la Terre!
 
 + Ajoutez des lutins «vaisseau spatial» et «Terre» à votre scène.
     
-    ![Spaceship and Earth sprites](images/space-sprites.png)
+    ![Les lutins Spaceship et Terre](images/space-sprites.png)
 
 [[[generic-scratch-sprite-from-library]]]
 
 + Ajoutez l'arrière plan "Stars" à votre scène.
     
-    ![A space backdrop](images/space-backdrop.png)
+    ![Un arrière plan](images/space-backdrop.png)
 
 [[[generic-scratch-backdrop-from-library]]]
 
 + Cliquez sur l'image-objet de votre vaisseau spatial et cliquez sur l'onglet ** Costumes **.
     
-    ![Sprite costume](images/space-costume.png)
+    ![Costume de lutin](images/space-costume.png)
 
-+ Use the **arrow** tool to select the image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
++ Utilisez l'outil **flèche** pour sélectionner l'image. Puis cliquez sur la circulaire et faire pivoter l'image jusqu'à ce qu'elle soit de l'autre côté.
     
-    ![Rotating a costume](images/space-rotate.png)
+    ![Faire pivoter un costume](images/space-rotate.png)
 
-+ Add this code to your spaceship sprite:
++ Ajoutez ce code à votre lutin de vaisseau spatial:
     
-    ![Spaceship code](images/space-animate.png)
+    ![Code de vaisseau spatial](images/space-animate.png)
     
-    Change the numbers in the code blocks so that the code is exactly the same as in the image above.
+    Changez les nombres dans les blocs de code pour que le code soit exactement le même que dans l'image ci-dessus.
     
-    If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
+    Si vous cliquez sur le drapeau vert, vous devriez voir le vaisseau parler, tourner et glisser vers le centre de la scène.
     
-    ![Testing a spaceship animation](images/space-animate-stage.png)
+    ![Test d'une animation de vaisseau spatial](images/space-animate-stage.png)
 
 [[[generic-scratch-saving]]]
 
-\--- challenge \---
+\--- défi \---
 
-## Challenge: improving your animation
+## Défi: Animation améliorée
 
-Can you change the numbers in your animation code, so that:
+Pouvez-vous changer les chiffres dans votre code d'animation, de sorte que:
 
-+ The spaceship moves until it touches the Earth?
-+ The spaceship moves more slowly towards the Earth?
++ Le vaisseau spatial se déplace jusqu'à ce qu'il touche la Terre?
++ Le vaisseau spatial se déplace plus lentement vers la Terre?
 
-You'll need to change the numbers in this block:
+Vous devrez changer les nombres dans ce bloc:
 
-![Glide block](images/space-glide.png)
+![Glisser le bloc](images/space-glide.png)
 
 [[[generic-scratch-coordinates]]]
 
-\--- /challenge \---
+\--- /défi \---
