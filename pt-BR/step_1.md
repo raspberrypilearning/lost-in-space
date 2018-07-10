@@ -11,7 +11,7 @@ Você vai aprender a programar sua própria animação!
 
 ### O que você vai aprender
 
-Este projeto abrange elementos das seguintes vertentes do [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Este projeto abrange elementos das seguintes vertentes do [Currículo de Criação Digital Raspberry Pi](http://rpf.io/curriculum):
 
 + [Use construções básicas de programação para criar programas simples.](https://www.raspberrypi.org/curriculum/programming/creator)
 
@@ -19,4 +19,4 @@ Este projeto abrange elementos das seguintes vertentes do [Raspberry Pi Digital 
 
 Se você precisar imprimir este projeto, por favor use a [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
-Use o link no rodapé para acessar o repositório do GitHub para este projeto, que contém todos os recursos (incluindo um exemplo de projeto concluído) na pasta 'pt-BR / resources'.
+Use o link no rodapé para acessar o repositório do GitHub para este projeto, que contém todos os recursos (incluindo um exemplo do projeto concluído) na pasta 'pt-BR / resources'.
