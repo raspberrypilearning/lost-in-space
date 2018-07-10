@@ -17,6 +17,6 @@ Este projeto abrange elementos das seguintes vertentes do [Currículo de Criaç�
 
 ### Informações adicionais para educadores
 
-Se você precisar imprimir este projeto, por favor use a [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
+Se você precisar imprimir este projeto, por favor use a [versão para impressão](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
 Use o link no rodapé para acessar o repositório do GitHub para este projeto, que contém todos os recursos (incluindo um exemplo do projeto concluído) na pasta 'pt-BR / resources'.
