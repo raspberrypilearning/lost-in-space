@@ -2,7 +2,7 @@
 title: 迷失在太空
 theme: green
 hero_image: images/lost-in-space.png
-description: 學習如何編程您自己的動畫！
+description: 學習如何程式設計自己的動畫!
 original_url: https://www.codeclubprojects.org/en-GB/scratch/lost-in-space
 duration: 2
 listed: true
@@ -24,12 +24,12 @@ steps:
   - 
     title: 動畫一個太空船
   - 
-    title: 使用循環動畫
+    title: 使用迴圈進行動畫處理
   - 
     title: 漂浮的猴子
   - 
     title: 彈跳小行星
   - 
-    title: 亮閃閃的星星
+    title: 閃亮之星
   - 
     title: '挑戰：製作自己的動畫'
