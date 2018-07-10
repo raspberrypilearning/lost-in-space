@@ -18,7 +18,7 @@ Vamos fazer uma nave espacial que voe em direção à Terra!
 
 [[[generic-scratch-backdrop-from-library]]]
 
-+ Clique no seu ator 'Spaceship' e clique na aba ** Fantasias **.
++ Clique no seu ator 'Spaceship' e clique na aba **Fantasias**.
     
     ![Sprite costume](images/space-costume.png)
 
