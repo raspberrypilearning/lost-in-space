@@ -1,13 +1,13 @@
-## Bouncing asteroid
+## 튀어다니는 소행성
 
-Let's add some floating space rock to your animation.
+우주에서 떠다니는 암석을 추가해봅시다.
 
-+ Add a 'rock' sprite to your animation.
++ 애니매이션에 '돌(rock)' 스프라이트를 추가해주세요.
     
-    ![Adding a rock sprite](images/space-rock-sprite.png)
+    ![돌 스프라이트 추가하기](images/space-rock-sprite.png)
 
-+ Can you code your rock sprite to bounce around the stage?
++ 돌 스프라이트가 무대를 튀어다니게 만들 수 있나요?
     
-    ![Testing a bouncing rock](images/space-bounce-test.png)
+    ![튀어다니는 돌 테스트](images/space-bounce-test.png)
 
-\--- hints \--- \--- hint \--- When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**. \--- /hint \--- \--- hint \--- Here are the code blocks you'll need: ![Blocks for a bouncing rock](images/space-bounce-blocks.png) You can also set a more interesting starting direction for the rock with one of these blocks: ![Setting the rock's initial position](images/space-initial-position.png) \--- /hint \--- \--- hint \--- Here's the code to bounce your rock around the stage: ![Code for a bouncing rock](images/space-bounce-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- 녹색 **깃발을 누르면** 돌 스프라이트는 **영원히** 무대를 **움직이며** **튀어다닙니다**. \--- /hint \--- \--- hint \--- 필요한 코드 블록입니다: ![Blocks for a bouncing rock](images/space-bounce-blocks.png) 이 블록들 중 하나를 설정하여 더 재밌는 시작 방향을 만들 수 있습니다: ![Setting the rock's initial position](images/space-initial-position.png) \--- /hint \--- \--- hint \--- 돌이 무대를 튀어다니게 만드는 코드입니다: ![Code for a bouncing rock](images/space-bounce-code.png) \--- /hint \--- \--- /hints \---
