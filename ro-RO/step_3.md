@@ -1,55 +1,55 @@
-## Animating a spaceship
+## Să animăm o navă spațială
 
-Let's make a spaceship that flies towards the Earth!
+Hai să facem o navă spațială care zboară spre Pământ!
 
-+ Open a new empty Scratch project.
++ Deschideți un nou proiect Scratch.
 
 [[[generic-scratch-new-project]]]
 
-+ Add 'spaceship' and 'Earth' sprites to your Stage.
++ Adăugă personajele "NavăSpațială" și "Pământ" la Scenă.
     
-    ![Spaceship and Earth sprites](images/space-sprites.png)
+    ![Personajele Nava Spațială și Pământ](images/space-sprites.png)
 
 [[[generic-scratch-sprite-from-library]]]
 
-+ Add the 'Stars' backdrop to your Stage.
++ Adăugă fundalul "Stele" în scenă.
     
-    ![A space backdrop](images/space-backdrop.png)
+    ![Un fundal cu spațiu](images/space-backdrop.png)
 
 [[[generic-scratch-backdrop-from-library]]]
 
-+ Click on your spaceship sprite, and click the **Costumes** tab.
++ Fă clic pe personajul navei spațale și apoi clic pe tab-ul ** Costume **.
     
-    ![Sprite costume](images/space-costume.png)
+    ![Costume personaje](images/space-costume.png)
 
-+ Use the **arrow** tool to select the image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
++ Folosește unealta **Selectează** pentru a selecta imaginea. Apoi fă clic pe mânerul cu **rotița circulară** și rotește imaginea până când se află pe partea laterală.
     
-    ![Rotating a costume](images/space-rotate.png)
+    ![Rotirea unui costum](images/space-rotate.png)
 
-+ Add this code to your spaceship sprite:
++ Adăugă aceste linii de cod la personajul navei spațiale:
     
-    ![Spaceship code](images/space-animate.png)
+    ![Cod navă spațială](images/space-animate.png)
     
-    Change the numbers in the code blocks so that the code is exactly the same as in the image above.
+    Modifică numerele din blocurile de cod astfel încât codul să fie exact același ca în imaginea de mai sus.
     
-    If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
+    Dacă faci clic pe steagul verde, ar trebui să vezi că nava spațială vorbește, se rotește și se aliniază spre centrul scenei.
     
-    ![Testing a spaceship animation](images/space-animate-stage.png)
+    ![Testarea unei animații pentru nava spațială](images/space-animate-stage.png)
 
 [[[generic-scratch-saving]]]
 
 \--- challenge \---
 
-## Challenge: improving your animation
+## Provocare: îmbunătățește animația
 
-Can you change the numbers in your animation code, so that:
+Poți schimba numerele din codul tău de animație astfel încât:
 
-+ The spaceship moves until it touches the Earth?
-+ The spaceship moves more slowly towards the Earth?
++ Nava spațială se mișcă până când atinge Pământul?
++ Nava spațială se mișcă mai încet spre Pământ?
 
-You'll need to change the numbers in this block:
+Va trebui să modifici numerele din acest bloc:
 
-![Glide block](images/space-glide.png)
+![Bloc glisare](images/space-glide.png)
 
 [[[generic-scratch-coordinates]]]
 
