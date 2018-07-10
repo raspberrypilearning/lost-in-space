@@ -6,4 +6,4 @@
 
 ### 소프트웨어
 
-+ 스크래치 2.0 (온라인 또는 오프라인)
++ 스크래치 2.0 ([온라인](https://scratch.mit.edu/projects/editor/) 또는 [오프라인](https://scratch.mit.edu/scratch2download/))
