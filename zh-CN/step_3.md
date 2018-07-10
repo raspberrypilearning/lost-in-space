@@ -1,53 +1,55 @@
-## 第 1 步：制作宇宙飞船动画
+## 动画飞船
 
-让我们来制作一艘飞向地球的宇宙飞船！
+让我们建造一艘飞船飞向地球吧！
 
-+ 打开一个新的空白 Scratch 项目。
++ 打开一个空白Scratch工程。
 
 [[[generic-scratch-new-project]]]
 
-+ 向你的工作区添加“宇宙飞船”和“地球”子图。
-
-    ![Spaceship and Earth sprites](images/space-sprites.png)
++ 向舞台中添加“飞船”和“地球”两个角色。
+    
+    ![飞船和地球角色](images/space-sprites.png)
 
 [[[generic-scratch-sprite-from-library]]]
 
-+ 向你的工作区添加“星空”背景。
-
-    ![A space backdrop](images/space-backdrop.png)
++ 为舞台添加“星星“背景。
+    
+    ![太空背景](images/space-backdrop.png)
 
 [[[generic-scratch-backdrop-from-library]]]
 
-+ 点击你的宇宙飞船子图并点击**造型**选项卡。
++ 点击飞船角色，然后点击**造型**选项卡。
+    
+    ![角色造型](images/space-costume.png)
 
-	![Sprite costume](images/space-costume.png)
++ 用**箭头**工具选中图片。然后点击圆形**旋转**把手，旋转图片将图片旋转90度。
+    
+    ![旋转造型](images/space-rotate.png)
 
-+ 使用**箭头**工具选择图像。然后点击圆形**旋转**手柄，旋转图像直至处于横向位置。
-
-    ![Rotating a costume](images/space-rotate.png)
-
-+ 向你的宇宙飞船子图添加此代码：
-
-    ![Spaceship code](images/space-animate.png)
-
-    更改代码块中的数值，使代码与上文图片中的完全相同。
-
-    如果你点击绿色旗帜，你会看到宇宙飞船说话、翻转并滑向工作区中央。
-
-    ![Testing a spaceship animation](images/space-animate-stage.png)
++ 为飞船角色添加如下代码：
+    
+    ![飞船代码](images/space-animate.png)
+    
+    修改代码块中的数字，让它与上面的图片一致。
+    
+    点击绿旗，你应该会看到飞船说话，转向，然后驶向舞台中央。
+    
+    ![测试飞船动画](images/space-animate-stage.png)
 
 [[[generic-scratch-saving]]]
 
 --- challenge ---
-## 挑战：完善你的动画
-你能否更改你动画代码中的数值，使得：
 
-+ 宇宙飞船在触碰到地球之前一直移动？
-+ 宇宙飞船更加缓慢地向地球移动？
+## 挑战：改进你的动画
 
-你将需要更改此代码块中的数值：
+你能修改动画代码实现如下功能吗：
 
-![Glide block](images/space-glide.png)
++ 飞船碰到地球时停止移动
++ 飞船更缓慢地驶向地球
+
+你需要修改如下代码块里的数值：
+
+![滑行代码](images/space-glide.png)
 
 [[[generic-scratch-coordinates]]]
 

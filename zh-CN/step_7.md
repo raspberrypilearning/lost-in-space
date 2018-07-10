@@ -1,25 +1,13 @@
-## 第 5 步：闪亮的星星
+## 亮闪闪的星星
 
-让我们结合循环来制作闪亮的星星。
+让我们把循环组合起来，来创造一颗闪亮的星星。
 
-+ 向你的动画添加一个“星星”子图。
++ 向动画中添加“星星”角色。
+    
+    ![添加星星角色](images/space-star-sprite.png)
 
-	![Adding a star sprite](images/space-star-sprite.png)
++ 你能编码让星星不停地放大缩小吗？
+    
+    ![测试闪亮的星星](images/space-star-test.png)
 
-+ 你能否编写你的星星代码使其反复扩大和收缩？
-
-    ![Testing a shining star](images/space-star-test.png)
-
---- hints ---
---- hint ---
-绿色__旗帜被点击__时，你的星星子图应多次__更改尺寸__变得更大，然后多次__更改尺寸__变得更小。它应该进行此操作，从而能够__重复执行__扩大然后收缩。
---- /hint ---
---- hint ---
-以下是你将需要的代码块：
-![Blocks for a shining star](images/space-star-blocks.png)
---- /hint ---
---- hint ---
-以下是让你的星星闪亮所需的代码：
-![Code for a shining star](images/space-star-code.png)
---- /hint ---
---- /hints ---
+--- hints --- --- hint --- 当绿旗被点击时，星星应该放大一段时间，然后缩小一段时间。 如此不停地放大然后缩小。 --- /hint --- --- hint --- 这是你需要用到的代码块： ![Blocks for a shining star](images/space-star-blocks.png) --- /hint --- --- hint --- 这是让星星闪耀的代码： ![Code for a shining star](images/space-star-code.png) --- /hint --- --- /hints ---

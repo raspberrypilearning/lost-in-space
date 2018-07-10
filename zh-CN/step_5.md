@@ -1,31 +1,19 @@
-## 第 3 步：飞行猴子
+## 漂浮的猴子
 
-让我们在你的动画中增加一个迷失在太空的猴子！
+让我们向动画中加入一只迷失在太空中的猴子！
 
-+ 首先从库中添加“猴子”子图。
++ 首先从素材库中添加“猴子”角色。
+    
+    ![添加猴子角色](images/space-monkey-sprite.png)
 
-	![Adding a monkey sprite](images/space-monkey-sprite.png)
++ 点击新加入的猴子然后点击造型，你就可以编辑猴子的外观了。 点击椭圆工具在猴子头上画一顶白色的太空帽。
+    
+    ![猴子太空帽](images/space-monkey-edit.png)
 
-+ 如果你点击你的新猴子子图，然后点击**造型**，可以编辑猴子的外观。点击**椭圆**工具，在猴子的头部周围绘制一个白色的宇航员头盔。
++ 你能编码让猴子不停地缓慢旋转吗？
+    
+    测试并保存工程。你需要点击红色停止按钮来结束动画，否则它会一直动下去！
+    
+    ![旋转猴子代码](images/space-spin-test.png)
 
-	![Monkey space helmet](images/space-monkey-edit.png)
-
-+ 你能否向你的猴子子图添加代码，使其一直呈圆形缓慢旋转？
-
-    测试并保存你的项目。由于猴子会一直旋转，你需要点击红色**停止**按钮来停止此动画！
-
-    ![Blocks for a spinning monkey](images/space-spin-test.png)
-
---- hints ---
---- hint ---
-当绿色__旗帜被点击__时，你的猴子子图应__一直__呈圆形__旋转__。
---- /hint ---
---- hint ---
-以下是你将需要的代码块：
-![Blocks for a spinning monkey](images/space-spin-blocks.png)
---- /hint ---
---- hint ---
-以下是让你的猴子旋转所需的代码：
-![Code for a spinning monkey](images/space-spin-code.png)
---- /hint ---
---- /hints ---
+--- hints --- --- hint --- 当绿旗被点击时，猴子应该不停地转圈。 --- /hint --- --- hint --- 这是你需要用到的代码块： ![Blocks for a spinning monkey](images/space-spin-blocks.png) --- /hint --- --- hint --- 这是让猴子旋转的代码： ![Code for a spinning monkey](images/space-spin-code.png) --- /hint --- --- /hints ---
