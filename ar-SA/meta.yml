@@ -1,6 +1,6 @@
 ---
 title: تائه في الفضاء
-theme: أخضر
+theme: green
 hero_image: images/lost-in-space.png
 description: تعلَّم كيف تُبرمج الرسم المتحرك!
 original_url: https://www.codeclubprojects.org/en-GB/scratch/lost-in-space
@@ -9,9 +9,9 @@ listed: true
 copyedit: true
 ingredient: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-interests: الفضاء
+interests: space
 technologies: scratch
-site_areas: المشاريع
+site_areas: projects
 hardware: ''
 software: scratch
 version: 4
@@ -32,4 +32,4 @@ steps:
   - 
     title: نجم متلألئ
   - 
-    title: 'التحدي: ابتكر رسمًا متحركًا'
+    title: 'تحدي: اصنع رسمتك المتحركة'
