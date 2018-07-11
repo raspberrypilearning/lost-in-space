@@ -6,4 +6,4 @@
 
 ### البرنامج
 
-+ برنامج Scratch 2.0 (سواء كان عبر الإنترنت أو دون اتصال بالإنترنت)
++ برنامج Scratch 2.0 (سواء كان [عبر الإنترنت](https://scratch.mit.edu/projects/editor/) أو [دون اتصال بالإنترنت](https://scratch.mit.edu/scratch2download/))
