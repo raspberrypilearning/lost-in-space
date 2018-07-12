@@ -1,18 +1,18 @@
-## Animating using loops
+## Animasi menggunakan loops
 
-Cara lain untuk menganimasikan pesawat ruang angkasa adalah dengan menyuruhnya untuk bergerak sedikit banyak kali.
+Cara lain untuk menganimasikan pesawat luar angkasa adalah dengan menyuruhnya untuk bergerak sedikit banyak kali.
 
 + Hapus blok `luncur` dari kode Anda dengan mengklik kanan di atasnya dan mengklik **hapus**. Anda juga dapat menghapus kode dengan menariknya keluar dari area Script dan kembali ke area blok Kode.
     
     ![Menghapus blok geser](images/space-delete-glide.png)
 
-+ Dapatkah Anda menggunakan `pengulangan` blok untuk memindahkan pesawat ruang angkasa Anda ke Bumi?
++ Dapatkah Anda menggunakan `pengulangan` blok untuk memindahkan pesawat luar angkasa Anda ke Bumi?
     
-    Uji dan simpan: Pesawat ruang angkasa Anda harus bergerak ke arah Bumi persis seperti sebelumnya, kali ini menggunakan `pengulangan` blok.
+    Uji dan simpan: Pesawat luar angkasa Anda harus bergerak ke arah Bumi persis seperti sebelumnya, kali ini menggunakan `pengulangan` blok.
     
     ![Menguji animasi spaceship](images/space-animate-stage.png)
 
-\--- petunjuk \--- \--- petunjuk \--- Alih-alih **meluncur**, pesawat ruang angkasa Anda harus **berulang kali** **bergerak** beberapa langkah pada suatu waktu. \--- / hint \--- \--- hint \--- Berikut adalah blok kode yang Anda perlukan: ![Blocks for an animated spaceship](images/space-repeat-blocks.png) \--- / hint \--- \--- hint \--- Begini kode untuk menganimasikan pesawat luar angkasa Anda: ![Code for an animated spaceship](images/space-repeat-code.png) (Anda dapat menggunakan nomor yang berbeda dalam `pengulangan` dan `memindahkan` blok, selama pesawat ruang angkasa masih sampai ke Bumi!) \--- / petunjuk \--- \--- / petunjuk \---
+\--- hint \--- \--- hints \--- Alih-alih **meluncur**, pesawat luar angkasa Anda harusnya **berulang kali** **bergerak** beberapa langkah pada suatu waktu. \--- / hint \--- \--- hint \--- Berikut adalah blok kode yang Anda perlukan: ![Blocks for an animated spaceship](images/space-repeat-blocks.png) \--- / hint \--- \--- hint \--- Begini kode untuk menganimasikan pesawat luar angkasa Anda: ![Code for an animated spaceship](images/space-repeat-code.png) (Anda dapat menggunakan nomor yang berbeda dalam `pengulangan` dan `memindahkan` blok, selama pesawat ruang angkasa masih sampai ke Bumi!) \--- / petunjuk \--- \--- / petunjuk \---
 
 + Dapatkah Anda mengkodekan pesawat luar angkasa Anda untuk mengubah warna saat bergerak menuju Bumi?
     
