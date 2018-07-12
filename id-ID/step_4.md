@@ -12,20 +12,20 @@ Cara lain untuk menganimasikan pesawat luar angkasa adalah dengan menyuruhnya un
     
     ![Menguji animasi spaceship](images/space-animate-stage.png)
 
-\--- hint \--- \--- hints \--- Alih-alih **meluncur**, pesawat luar angkasa Anda harusnya **berulang kali** **bergerak** beberapa langkah pada suatu waktu. \--- / hint \--- \--- hint \--- Berikut adalah blok kode yang Anda perlukan: ![Blocks for an animated spaceship](images/space-repeat-blocks.png) \--- / hint \--- \--- hint \--- Begini kode untuk menganimasikan pesawat luar angkasa Anda: ![Code for an animated spaceship](images/space-repeat-code.png) (Anda dapat menggunakan nomor yang berbeda dalam `pengulangan` dan `memindahkan` blok, selama pesawat ruang angkasa masih sampai ke Bumi!) \--- / petunjuk \--- \--- / petunjuk \---
+\--- hint \--- \--- hints \--- Alih-alih **meluncur**, pesawat luar angkasa Anda harusnya **berulang kali** **bergerak** beberapa langkah pada suatu waktu. \--- /hint \--- \--- hint \--- Berikut adalah blok kode yang Anda perlukan: ![Blocks for an animated spaceship](images/space-repeat-blocks.png) \--- /hint \--- \--- hint \--- Berikut adalah kode untuk menganimasikan pesawat luar angkasa Anda: ![Code for an animated spaceship](images/space-repeat-code.png) (Anda dapat menggunakan nomor yang berbeda dalam `pengulangan` dan `pemindahan` blok, selama pesawat luarn angkasa masih bisa sampai ke Bumi!) \--- /hint \--- \--- /hints \---
 
-+ Dapatkah Anda mengkodekan pesawat luar angkasa Anda untuk mengubah warna saat bergerak menuju Bumi?
++ Dapatkah Anda mengkodekan pesawat luar angkasa Anda untuk mengubah warnanya pada saat ia bergerak menuju Bumi?
     
     Uji dan simpan.
     
     ![Menguji pesawat luar angkasa berubah warna](images/space-colour-test.png)
 
-\--- petunjuk \--- \--- petunjuk \--- Pesawat ruang angkasa Anda harus **berubah warna** saat bergerak. \--- / hint \--- \--- hint \--- Berikut adalah blok kode tambahan yang Anda perlukan: ![Block for changing colour](images/space-colour-blocks.png) \--- / hint \--- \--- hint \--- Begini kode untuk mengubah warna pesawat ruang angkasa Anda : ![Code for an animated spaceship](images/space-colour-code.png) \--- / petunjuk \--- \--- / petunjuk \---
+\--- hints \--- \--- hint \--- Pesawat luar angkasa Anda harusnya **berubah warna** saat bergerak. \--- /hint \--- \--- hint \--- Berikut adalah blok kode tambahan yang Anda perlukan: ![Block for changing colour](images/space-colour-blocks.png) \--- /hint \--- \--- hint \--- Berikut adalah kode untuk mengubah warna pesawat luar angkasa Anda: ![Code for an animated spaceship](images/space-colour-code.png) \--- /hint\--- \--- /hints\---
 
-+ Bisakah Anda membuat pesawat ruang angkasa Anda menjadi lebih kecil karena sampai ke Bumi?
++ Bisakah Anda membuat pesawat luar angkasa Anda menjadi lebih kecil karena sampai ke Bumi?
     
-    Uji dan simpan. Pesawat ruang angkasa Anda harus semakin kecil saat bergerak. Uji angkasa Anda waktu **detik**. Apakah itu ukuran yang tepat ketika dimulai?
+    Uji dan simpan. Pesawat ruang angkasa Anda seharusnya menjadi semakin kecil saat bergerak. Uji pesawat luar angkasa Anda **kedua kalinya**. Apakah itu ukuran yang tepat ketika dimulai?
     
     ![Menguji pesawat luar angkasa yang menyusut](images/space-size-test.png)
 
-\--- petunjuk \--- \--- petunjuk \--- Pesawat ruang angkasa Anda harus mulai dari **100% ukuran**, dan kemudian **ubah ukuran** dengan jumlah kecil saat bergerak. \--- / hint \--- \--- hint \--- Berikut adalah blok kode yang Anda perlukan: ![Blocks for changing size](images/space-size-blocks.png) \--- / hint \--- \--- hint \--- Begini kode untuk mengubah ukuran pesawat ruang angkasa Anda sebagai itu bergerak: ![Code for changing size](images/space-size-code.png) \--- / petunjuk \--- \--- / petunjuk \---
+\--- hints \--- \--- hint \--- Pesawat luar angkasa Anda seharusnya dimulai dari **ukuran 100%**, dan kemudian **berubah ukuran** dengan jumlah kecil pada saat bergerak. \--- /hint \--- \---hint \--- Berikut adalah blok kode yang Anda perlukan: ![Blocks for changing size](images/space-size-blocks.png) \--- /hint \--- \---hint \--- Berikut adalah kode untuk mengubah ukuran pesawat luar angkasa Anda pada saat ia bergerak: ![Code for changing size](images/space-size-code.png) \--- /hint \--- \--- /hints\---
