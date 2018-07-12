@@ -1,4 +1,4 @@
-## Shining star
+## Bintang Bersinar
 
 Mari gabungkan loop untuk membuat bintang yang bersinar.
 
@@ -10,4 +10,4 @@ Mari gabungkan loop untuk membuat bintang yang bersinar.
     
     ![Menguji bintang yang bersinar](images/space-star-test.png)
 
-\--- petunjuk \--- \--- petunjuk \--- Ketika bendera hijau **diklik**, sprite bintang Anda harus **mengubah ukuran** untuk memperbesar beberapa kali, lalu **mengubah ukuran** untuk menjadi lebih kecil beberapa kali . Ia harus melakukan ini agar ia tumbuh dan kemudian mengecil **selamanya**. \--- / hint \--- \--- hint \--- Berikut adalah blok kode yang Anda perlukan: ![Blocks for a shining star](images/space-star-blocks.png) \--- / hint \--- \--- hint \--- Berikut kode untuk membuat bersinar bintang Anda: ![Code for a shining star](images/space-star-code.png) \--- / petunjuk \--- \--- / petunjuk \---
+\--- hints \--- \--- hint\--- Ketika bendera hijau **diklik**, sprite bintang Anda harusnya **mengubah ukurannya** untuk menjadi beberapa kali lebih besar, lalu **mengubah ukurannya** untuk menjadi beberapa kali lebih kecil. Ia harus melakukan ini agar ia membesar dan kemudian mengecil **selamanya**. \--- /hint \--- \--- hint \--- Berikut adalah blok kode yang Anda perlukan: ![Blocks for a shining star](images/space-star-blocks.png) \--- /hint \--- \--- hint \--- Berikut kode untuk membuat bintang anda bersinar: ![Code for a shining star](images/space-star-code.png) \--- /hint \--- \--- /hints \---
