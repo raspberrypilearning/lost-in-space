@@ -1,13 +1,13 @@
-## Bouncing asteroid
+## Asteroid koji skakuće
 
-Let's add some floating space rock to your animation.
+Dodajmo plutajuću svemirsku stijenu u tvoju animaciju.
 
-+ Add a 'rock' sprite to your animation.
++ Dodaj lik 'rock' (stijena) u svoju animaciju.
     
-    ![Adding a rock sprite](images/space-rock-sprite.png)
+    ![Dodavanje lika stijene](images/space-rock-sprite.png)
 
-+ Can you code your rock sprite to bounce around the stage?
++ Da li možeš da kodiraš lik stijene tako da skakuće po pozornici?
     
-    ![Testing a bouncing rock](images/space-bounce-test.png)
+    ![Isprobavanje stijene koja skakuće](images/space-bounce-test.png)
 
-\--- hints \--- \--- hint \--- When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**. \--- /hint \--- \--- hint \--- Here are the code blocks you'll need: ![Blocks for a bouncing rock](images/space-bounce-blocks.png) You can also set a more interesting starting direction for the rock with one of these blocks: ![Setting the rock's initial position](images/space-initial-position.png) \--- /hint \--- \--- hint \--- Here's the code to bounce your rock around the stage: ![Code for a bouncing rock](images/space-bounce-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- Kada se **klikne na zelenu zastavicu** (flag is clicked), tvoj lik stijene treba da se **kreće** (move) i **skakuće** (bounce) po pozornici **neprestano** (forever). \--- /hint \--- \--- hint \--- Ovdje su blokovi kôda koji će ti biti potrebni: ![Blocks for a bouncing rock](images/space-bounce-blocks.png) Takođe, možeš da postaviš zanimljiviji početni pravac za stijenu sa jednim od ovih blokova: ![Setting the rock's initial position](images/space-initial-position.png) \--- /hint \--- \--- hint \--- Ovdje je kôd da napraviš da tvoja stijena skakuće po pozornici: ![Code for a bouncing rock](images/space-bounce-code.png) \--- /hint \--- \--- /hints \---
