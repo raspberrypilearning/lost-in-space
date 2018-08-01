@@ -1,8 +1,8 @@
 ---
-title: ロスト・イン・スペース/ 宇宙(うちゅう)で迷子(まいご)
+title: ロスト・イン・スペース / 宇宙 (うちゅう) で迷子 (まいご)
 theme: green
 hero_image: images/lost-in-space.png
-description: Learn how to program your own animation!
+description: アニメーションをプログラムしてみましょう！
 original_url: https://www.codeclubprojects.org/en-GB/scratch/lost-in-space
 duration: 2
 listed: true
@@ -18,18 +18,18 @@ version: 4
 last_tested: 2017-11-01
 steps:
   - 
-    title: ロスト・イン・スペース/ 宇宙(うちゅう)で迷子(まいご)
+    title: ロスト・イン・スペース / 宇宙(うちゅう)で迷子(まいご)
   - 
-    title: What you will need
+    title: 必要なもの
   - 
-    title: Animating a spaceship
+    title: 宇宙船 (うちゅうせん) のアニメーション
   - 
-    title: Animating using loops
+    title: ループを使ったアニメーション
   - 
-    title: Floating monkey
+    title: ういているサル
   - 
-    title: Bouncing asteroid
+    title: はずむ小惑星 (しょうわくせい)
   - 
-    title: Shining star
+    title: 光る星
   - 
-    title: 'Challenge: make your own animation'
+    title: 'チャレンジ: 自分のアニメーションを作ろう'
