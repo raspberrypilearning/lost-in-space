@@ -1,8 +1,8 @@
 ---
-title: Lost in space
+title: Perduts a l’espai
 theme: green
 hero_image: images/lost-in-space.png
-description: Learn how to program your own animation!
+description: A continuació aprendràs a programar la teva pròpia animació!
 original_url: https://www.codeclubprojects.org/en-GB/scratch/lost-in-space
 duration: 2
 listed: true
@@ -18,7 +18,7 @@ version: 4
 last_tested: 2017-11-01
 steps:
   - 
-    title: Introduction
+    title: Perduts a l’espai
   - 
     title: What you will need
   - 
