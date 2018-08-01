@@ -2,17 +2,17 @@
 
 宇宙で迷子 (まいご) になっているサルをアニメーションに追加しましょう！
 
-+ ライブラリーからサルのスプライトを追加しましょう。
++ ライブラリーからサルのスプライトを追加します。
     
     ![Adding a monkey sprite](images/space-monkey-sprite.png)
 
-+ サルのスプライトをクリックし、**コスチューム**をクリックします。サルの見え方を編集 (へんしゅう) できます。 Click the **ellipse** tool and draw a white space helmet around the monkey's head.
++ サルのスプライトをクリックし、**コスチューム**をクリックします。サルの見え方を編集 (へんしゅう) できます。 **楕円 (だえん) **ツールをクリックして、サルの頭に白いヘルメットをかいてください。
     
     ![Monkey space helmet](images/space-monkey-edit.png)
 
-+ Can you add code to your monkey sprite so that it spins slowly in a circle forever?
++ コードを入れて、サルがゆっくりと回転し続けるようにできますか？
     
-    Test and save your project. You'll have to click the red **stop** button to end this animation, as it goes on forever!
+    テストして保存しましょう。このアニメーションを止めるためには、赤い**停止**ボタンをクリックしなければなりません。(クリックしないと、ずっと回転します。)
     
     ![Blocks for a spinning monkey](images/space-spin-test.png)
 
