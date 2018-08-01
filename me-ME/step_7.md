@@ -1,13 +1,13 @@
-## Shining star
+## Zvijezda koja sija
 
-Let's combine loops to make a shining star.
+Hajde da kombinujemo petlje kako bismo napravili zvijezdu koja sija.
 
-+ Add a 'star' sprite to your animation.
++ Dodaj lik 'star' (zvijezda) u svoju animaciju.
     
-    ![Adding a star sprite](images/space-star-sprite.png)
+    ![Dodavanje lika zvijezde](images/space-star-sprite.png)
 
-+ Can you code your star to repeatedly grow and shrink?
++ Da li možeš da kodiraš svoju zvijezdu tako da se stalno povećava i smanjuje?
     
-    ![Testing a shining star](images/space-star-test.png)
+    ![Isprobavanje zvijezde koja sija](images/space-star-test.png)
 
-\--- hints \--- \--- hint \--- When the green **flag is clicked**, your star sprite should **change size** to get bigger a few times, and then **change size** to get smaller a few times. It should do this so that it grows and then shrinks **forever**. \--- /hint \--- \--- hint \--- Here are the code blocks you'll need: ![Blocks for a shining star](images/space-star-blocks.png) \--- /hint \--- \--- hint \--- Here's the code to make your star shine: ![Code for a shining star](images/space-star-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- Kada se **klikne na zelenu zastavicu** (flag is clicked), tvoj lik zvijezde bi trebalo da **promijeni veličinu** (change size) tako da se nekoliko puta poveća, a zatim da **promijeni veličinu** (change size) tako da se nekoliko puta smanji. To treba da napraviš tako da se povećava, a zatim smanjuje **neprestano** (forever). \--- /hint \--- \--- hint \--- Ovdje su blokovi kôda koji će ti biti potrebni: ![Blocks for a shining star](images/space-star-blocks.png) \--- /hint \--- \--- hint \--- Ovdje je kôd da napraviš da tvoja zvijezda sija: ![Code for a shining star](images/space-star-code.png) \--- /hint \--- \--- /hints \---
