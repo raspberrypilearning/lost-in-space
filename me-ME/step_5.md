@@ -1,19 +1,19 @@
-## Floating monkey
+## Majmun koji pluta
 
-Let's add a monkey who's lost in space to your animation!
+Dodajmo u tvoju animaciju majmuna koji je izgubljen u svemiru!
 
-+ Start by adding the 'monkey' sprite from the library.
++ Počni tako što ćeš dodati lik 'monkey' (majmun) iz biblioteke (library).
     
-    ![Adding a monkey sprite](images/space-monkey-sprite.png)
+    ![Dodavanje lika majmuna](images/space-monkey-sprite.png)
 
-+ If you click on your new monkey sprite and then click **Costumes**, you can edit how the monkey looks. Click the **ellipse** tool and draw a white space helmet around the monkey's head.
++ Ako klikneš na novi lik majmuna, a zatim klikneš na **Costumes** (Kostimi), možeš da urediš njegov izgled. Klikni na alatku **ellipse** (elipsa) i nacrtaj bijelu svemirsku kacigu oko majmunove glave.
     
-    ![Monkey space helmet](images/space-monkey-edit.png)
+    ![Majmunova svemirska kaciga](images/space-monkey-edit.png)
 
-+ Can you add code to your monkey sprite so that it spins slowly in a circle forever?
++ Da li možeš da dodaš kôd liku majmuna tako da se neprestano polako vrti ukrug?
     
-    Test and save your project. You'll have to click the red **stop** button to end this animation, as it goes on forever!
+    Isprobaj i sačuvaj svoj projekat. Treba da klikneš na crveno dugme **stop** da zaustaviš animaciju, pošto se nikada ne završava!
     
-    ![Blocks for a spinning monkey](images/space-spin-test.png)
+    ![Blokovi za majmuna koji se okreće](images/space-spin-test.png)
 
-\--- hints \--- \--- hint \--- When the green **flag is clicked**, your monkey sprite should **turn** in a circle **forever**. \--- /hint \--- \--- hint \--- Here are the code blocks you'll need: ![Blocks for a spinning monkey](images/space-spin-blocks.png) \--- /hint \--- \--- hint \--- Here's the code to make your monkey spin: ![Code for a spinning monkey](images/space-spin-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- Kada se **klikne na zelenu zastavicu** (flag is clicked), lik majmuna bi trebalo da se **neprestano** (forever) **okreće** (turn) ukrug. \--- /hint \--- \--- hint \--- Ovdje su blokovi kôda koji će ti biti potrebni: ![Blocks for a spinning monkey](images/space-spin-blocks.png) \--- /hint \--- \--- hint \--- Ovdje je kôd da napraviš da se tvoj majmun okreće: ![Code for a spinning monkey](images/space-spin-code.png) \--- /hint \--- \--- /hints \---
