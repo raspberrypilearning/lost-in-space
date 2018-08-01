@@ -28,4 +28,4 @@
     
     ![اختبار تقلص السفينة الفضائية](images/space-size-test.png)
 
-يجب أن يكون حجم السفينة عندما تبدأ معينًا إلى</strong>100%**، ثم **يتغير حجمها** تدريجيًا بمقدار صغير أثناء تحركها. --- /hint --- --- hint --- هنا التعليمات البرمجية التي ستحتاج إليها: ![Blocks for changing size](images/space-size-blocks.png) --- /hint --- --- hint --- هنا التعليمات البرمجية لتغيير حجم سفينة الفضاء عندما تتحرك: ![Code for changing size](images/space-size-code.png) --- /hint --- --- /hints ---</p>
+ --- hints --- --- hint ---يجب أن يكون حجم السفينة عندما تبدأ معينًا إلى **100%**، ثم **يتغير حجمها** تدريجيًا بمقدار صغير أثناء تحركها. --- /hint --- --- hint --- هنا التعليمات البرمجية التي ستحتاج إليها: ![Blocks for changing size](images/space-size-blocks.png) --- /hint --- --- hint --- هنا التعليمات البرمجية لتغيير حجم سفينة الفضاء عندما تتحرك: ![Code for changing size](images/space-size-code.png) --- /hint --- --- /hints ---

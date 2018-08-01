@@ -16,4 +16,4 @@
     
     ![امر برمجي لتدوير القرد](images/space-spin-test.png)
 
-**عند النقر فوق العلم الأخضر**، يجب أن **يدور** كائن القرد في دائرة </strong>باستمرار**. --- /hint --- --- hint --- هنا التعليمات البرمجية التي ستحتاجها: ![Blocks for a spinning monkey](images/space-spin-blocks.png) --- /hint --- --- hint --- هنا التعليمات البرمجية التي ستجعل القرد يدور: ![Code for a spinning monkey](images/space-spin-code.png) --- /hint --- --- /hints ---</p>
+--- hints --- --- hint --- **عند النقر فوق العلم الأخضر**، يجب أن **يدور** كائن القرد في دائرة **باستمرار**. --- /hint --- --- hint --- هنا التعليمات البرمجية التي ستحتاجها: ![Blocks for a spinning monkey](images/space-spin-blocks.png) --- /hint --- --- hint --- هنا التعليمات البرمجية التي ستجعل القرد يدور: ![Code for a spinning monkey](images/space-spin-code.png) --- /hint --- --- /hints ---</p>
