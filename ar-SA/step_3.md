@@ -1,4 +1,4 @@
-## الخطوة 1: تحريك سفينة فضاء
+## تحريك سفينة فضاء
 
 لننشئ سفينة فضاء تسبح نحو كوكب الأرض!
 
@@ -6,48 +6,50 @@
 
 [[[generic-scratch-new-project]]]
 
-+ أضف الكائنَين 'سفينة الفضاء' و'كوكب الأرض' إلى المنصة.
-
-    ![Spaceship and Earth sprites](images/space-sprites.png)
++ أضف الكائنين"سفينة الفضاء" و "كوكب الأرض" إلى المنصة.
+    
+    ![الكائنين سفينة الفضاء و كوكب الأرض](images/space-sprites.png)
 
 [[[generic-scratch-sprite-from-library]]]
 
-+ أضف الخلفية 'Stars' إلى المنصة.
-
-    ![A space backdrop](images/space-backdrop.png)
++ أضف خلفية "النجوم" إلى المنصة.
+    
+    ![خلفية الفضاء](images/space-backdrop.png)
 
 [[[generic-scratch-backdrop-from-library]]]
 
 + انقر فوق كائن سفينة الفضاء، ثم انقر فوق علامة التبويب **المظاهر**.
+    
+    ![مظهر الكائن](images/space-costume.png)
 
-	![Sprite costume](images/space-costume.png)
-
-+ استخدم أداة **السهم** لتحديد الصورة. ثم انقر فوق مقبض **التدوير** الدائري، وأدر الصورة حتى تكون مرتكزة على جانبها.
-
-    ![Rotating a costume](images/space-rotate.png)
++ استخدم أداة **السهم** لتحديد الصورة. ثم انقر فوق مقبض **التدوير الدائري**، وأدر الصورة حتى تكون مرتكزة على جانبها.
+    
+    ![تدوير المظهر](images/space-rotate.png)
 
 + أضف هذه التعليمة البرمجية إلى كائن سفينة الفضاء:
-
-    ![Spaceship code](images/space-animate.png)
-
+    
+    ![التعليمات البرمجية لسفينة الفضائية](images/space-animate.png)
+    
     غيِّر الأرقام الموجودة في قوالب التعليمات البرمجية بحيث تكون التعليمات البرمجية مماثلة لتلك الموضحة في الصورة أعلاه.
-
+    
     إذا نقرتَ على العلم الأخضر، فستجد أن سفينة الفضاء تتكلم ثم تستدير ثم تسبح نحو كوكب الأرض.
-
-    ![Testing a spaceship animation](images/space-animate-stage.png)
+    
+    ![اختبار تحرك سفينة الفضاء](images/space-animate-stage.png)
 
 [[[generic-scratch-saving]]]
 
 --- challenge ---
-## التحدي: تحسين الرسم المتحرك
+
+## تحدي: تحسين الرسم المتحرك
+
 هل يمكنك تغيير الأرقام في التعليمات البرمجية للرسم المتحرك، بحيث:
 
-+ تتحرك سفينة الفضاء حتى تلامس كوكب الأرض؟
++ تتحرك سفينة الفضاء حتى تُلامس كوكب الأرض؟
 + تتحرك سفينة الفضاء بشكل أبطأ نحو كوكب الأرض؟
 
 ستحتاج إلى تغيير الأرقام في هذا القالب:
 
-![Glide block](images/space-glide.png)
+![منع الإنزلاق](images/space-glide.png)
 
 [[[generic-scratch-coordinates]]]
 

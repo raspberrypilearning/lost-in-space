@@ -1,23 +1,22 @@
 ## المقدمة
 
-ستتعلَّم كيف تُبرمج الرسم المتحرك!
+ستتعلَّم كيف تُبرمج الرسم المتحرك الخاص بك!
 
-### ما ستصنعه
+### ما الذي ستصنعه
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/26818098/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/237958489/?autostart=false" frameborder="0"></iframe>
   <img src="images/space-final.png">
 </div>
 
-### ما ستتعلمه
+### ما الذي ستتعلمه
 
-يتناول هذا المشروع عناصر من الصفوف التالية من [المناهج الرقمية الخاصة بـ Raspberry Pi](http://rpf.io/curriculum):
+يتناول هذا المشروع عناصر من معايير المناهج الرقمية الخاصة بـ [Raspberry Pi](http://rpf.io/curriculum):
 
-+ [استخدام تراكيب البرمجة الأساسية لإنشاء برامج بسيطة](https://www.raspberrypi.org/curriculum/programming/creator)
-
++ [استخدم التراكيب البرمجية الأساسية لإنشاء برامج بسيطة.](https://www.raspberrypi.org/curriculum/programming/creator)
 
 ### معلومات إضافية للمعلمين
 
-إذا كنت بحاجة إلى طباعة هذا المشروع، فيُرجى استخدام [نسخة سهلة الطباعة](https://projects.raspberrypi.org/ar-SA/projects/lost-in-space/print){:target="_blank"}.
+إذا كنت بحاجة إلى طباعة هذا المشروع ، فالرجاء استخدام الإصدار [الملائم للطابعة](https://projects.raspberrypi.org/ar-SA/projects/lost-in-space/print){:target="_blank"}.
 
-استخدم الرابط الموجود في تذييل الصفحة للوصول إلى مستودع GitHub لهذا المشروع، الذي يحتوي على كل الموارد (ومنها مثال لمشروع مكتمل) في المجلد 'ar-SA/resources'.
+استخدم الرابط الموجود في تذييل الصفحة للوصول إلى مستودع GitHub لهذا المشروع، الذي يحتوي على كل الموارد (ومنها مثال لمشروع مكتمل) في المجلد 'ar-Sa/resources'.
