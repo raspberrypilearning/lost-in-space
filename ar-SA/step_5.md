@@ -1,31 +1,19 @@
-## الخطوة 3: قرد سابح
+## قرد سابح
 
 لنضِف قردًا تائهًا في الفضاء إلى الرسم المتحرك!
 
 + ابدأ بإضافة كائن 'القرد' من المكتبة.
-
-	![Adding a monkey sprite](images/space-monkey-sprite.png)
+    
+    ![إضافة كائن القرد](images/space-monkey-sprite.png)
 
 + إذا نقرتَ على كائن القرد الجديد ثم نقرتَ على علامة التبويب **المظاهر**، فسيمكنك تحرير الشكل الذي سيظهر به القرد. انقر فوق أداة **القطع الناقص** وارسم خوذة فضاء بيضاء حول رأس القرد.
-
-	![Monkey space helmet](images/space-monkey-edit.png)
+    
+    ![خوذة فضائية للقرد](images/space-monkey-edit.png)
 
 + هل يمكنك إضافة تعليمة برمجية إلى كائن القرد بحيث يدور ببطء في دائرة بشكل مستمر؟
-
+    
     اختبر مشروعك وقم بحفظه. ستحتاج إلى النقر فوق الزر الأحمر **إيقاف** لإنهاء هذه الحركة، لأنها ستتكرَّر باستمرار!
+    
+    ![امر برمجي لتدوير القرد](images/space-spin-test.png)
 
-    ![Blocks for a spinning monkey](images/space-spin-test.png)
-
---- hints ---
---- hint ---
-عند __النقر فوق العلم__ الأخضر، يجب أن __يدور__ كائن القرد في دائرة __بشكل مستمر__.
---- /hint ---
---- hint ---
-فيما يلي قوالب التعليمات البرمجية التي ستحتاج إليها:
-![Blocks for a spinning monkey](images/space-spin-blocks.png)
---- /hint ---
---- hint ---
-هذه هي التعليمة البرمجية لتدوير القرد:
-![Code for a spinning monkey](images/space-spin-code.png)
---- /hint ---
---- /hints ---
+**عند النقر فوق العلم الأخضر**، يجب أن **يدور** كائن القرد في دائرة </strong>باستمرار**. --- /hint --- --- hint --- هنا التعليمات البرمجية التي ستحتاجها: ![Blocks for a spinning monkey](images/space-spin-blocks.png) --- /hint --- --- hint --- هنا التعليمات البرمجية التي ستجعل القرد يدور: ![Code for a spinning monkey](images/space-spin-code.png) --- /hint --- --- /hints ---</p>
