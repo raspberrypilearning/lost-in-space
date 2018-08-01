@@ -2,7 +2,7 @@
 
 宇宙船を動かすには、別の方法もあります。それは何度も、少しずつ動くように宇宙船に教えることです。
 
-+ Delete the `glide` block from your code by right-clicking on it and clicking **delete**. You can also delete code by dragging it off the Script area and back into the Code blocks area.
++ 右クリックで**削除 (さくじょ) **を選んで、`変える`ブロックを消します。 スクリプトエリアからブロックエリアにブロックをドラッグして戻すことで、消すこともできます。
     
     ![Deleting the glide block](images/space-delete-glide.png)
 
