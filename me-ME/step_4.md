@@ -1,31 +1,31 @@
-## Animating using loops
+## Animacija pomoću petlji
 
-Another way to animate the spaceship is to tell it to move a small amount lots of times.
+Još jedan način da se animira svemirski brod je da mu se kaže da se kreće pomalo, ali više puta.
 
-+ Delete the `glide` block from your code by right-clicking on it and clicking **delete**. You can also delete code by dragging it off the Script area and back into the Code blocks area.
++ Obriši blok `glide` (klizi) iz svog kôda tako što ćeš kliknuti desnim tasterom miša na blok, a zatim kliknuti na **delete** (obriši). Takođe možeš obrisati kôd tako što ćeš ga povući van područja skripte nazad u područje blokova kôda.
     
-    ![Deleting the glide block](images/space-delete-glide.png)
+    ![Brisanje bloka glide (klizi)](images/space-delete-glide.png)
 
-+ Can you use a `repeat` block to move your spaceship towards the Earth?
++ Da li možeš da upotrijebiš blok `repeat` (ponovi) za kretanje tvog svemirskog broda ka Zemlji?
     
-    Test and save: Your spaceship should move towards the Earth exactly as before, this time using a `repeat` block.
+    Isprobaj i sačuvaj: Tvoj svemirski brod bi trebalo da se kreće ka Zemlji isto kao i ranije, ovaj put koristeći blok `repeat` (ponovi).
     
-    ![Testing a spaceship animation](images/space-animate-stage.png)
+    ![Isprobavanje animacije svemirskog broda](images/space-animate-stage.png)
 
-\--- hints \--- \--- hint \--- Instead of **gliding**, your spaceship should **repeatedly** **move** a few steps at a time. \--- /hint \--- \--- hint \--- Here are the code blocks you'll need: ![Blocks for an animated spaceship](images/space-repeat-blocks.png) \--- /hint \--- \--- hint \--- Here's the code to animate your spaceship: ![Code for an animated spaceship](images/space-repeat-code.png) (You can use different numbers in the `repeat` and `move` blocks, as long as the spaceship still gets to Earth!) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- Umjesto da **klizi** (gliding), tvoj svemirski brod bi trebalo da se **kreće** (move) po nekoliko koraka, u **više navrata** (repeatedly). \--- /hint \--- \--- hint \--- Ovdje su blokovi kôda koji će ti biti potrebni: ![Blocks for an animated spaceship](images/space-repeat-blocks.png) \--- /hint \--- \--- hint \--- Ovo je kôd za animaciju tvog svemirskog broda: ![Code for an animated spaceship](images/space-repeat-code.png) (Možeš da koristiš različite brojeve u blokovima `repeat` (ponovi) and `move` (idi), sve dok svemirski brod još uvijek stiže do Zemlje!) \--- /hint \--- \--- /hints \---
 
-+ Can you code your spaceship to change colour as it moves towards Earth?
++ Možeš li da kodiraš svoj svemirski brod da mijenja boju dok se kreće ka Zemlji?
     
-    Test and save.
+    Isprobaj i sačuvaj.
     
-    ![Testing a colour-changing spaceship](images/space-colour-test.png)
+    ![Isprobavanje svemirskog broda koji mijenja boju](images/space-colour-test.png)
 
-\--- hints \--- \--- hint \--- Your spaceship should **change colour** as it moves. \--- /hint \--- \--- hint \--- Here is the extra code block you'll need: ![Block for changing colour](images/space-colour-blocks.png) \--- /hint \--- \--- hint \--- Here's the code to change your spaceship's colour: ![Code for an animated spaceship](images/space-colour-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- Tvoj svemirski brod treba da **mijenja boju** (change colour) dok se kreće. \--- /hint \--- \--- hint \--- Ovo je dodatni blok kôda koji će ti biti potreban: ![Block for changing colour](images/space-colour-blocks.png) \--- /hint \--- \--- hint \--- Ovo je kôd za promjenu boje tvog svemirskog broda: ![Code for an animated spaceship](images/space-colour-code.png) \--- /hint \--- \--- /hints \---
 
-+ Can you make your spaceship get smaller as it gets to Earth?
++ Da li možeš da napraviš da se tvoj svemirski brod smanji dok stigne do Zemlje?
     
-    Test and save. Your spaceship should get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
+    Isprobaj i sačuvaj. Tvoj svemirski brod bi trebalo da se smanjuje dok se kreće. Isprobaj svemirski brod **još jednom**. Da li ima ispravnu veličinu na početku?
     
-    ![Testing a shrinking spaceship](images/space-size-test.png)
+    ![Isprobavanje smanjivanja svemirskog broda](images/space-size-test.png)
 
-\--- hints \--- \--- hint \--- Your spaceship should start at **100% size**, and then **change size** by a small amount as it moves. \--- /hint \--- \--- hint \--- Here is the code blocks you'll need: ![Blocks for changing size](images/space-size-blocks.png) \--- /hint \--- \--- hint \--- Here's the code to change your spaceship's size as it moves: ![Code for changing size](images/space-size-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- Tvoj svemirski brod bi trebalo da ima **100% veličinu** (100% size) na početku, a zatim da postepeno **mijenja veličinu** (change size) dok se kreće. \--- /hint \--- \--- hint \--- Ovdje su blokovi kôda koji će ti biti potrebni: ![Blocks for changing size](images/space-size-blocks.png) \--- /hint \--- \--- hint \--- Ovdje je kôd za promjenu veličine svemirskog broda dok se kreće: ![Code for changing size](images/space-size-code.png) \--- /hint \--- \--- /hints \---
