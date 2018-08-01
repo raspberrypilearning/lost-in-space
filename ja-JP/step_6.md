@@ -1,12 +1,12 @@
-## Bouncing asteroid
+## はずむ小惑星 (しょうわくせい)
 
-Let's add some floating space rock to your animation.
+宇宙に浮かぶ岩をアニメーションに追加しましょう。
 
-+ Add a 'rock' sprite to your animation.
++ アニメーションに「岩」のスプライトを追加してください。
     
     ![Adding a rock sprite](images/space-rock-sprite.png)
 
-+ Can you code your rock sprite to bounce around the stage?
++ 岩のスプライトにコードを入れて、ステージ中をはね回るようにできますか？
     
     ![Testing a bouncing rock](images/space-bounce-test.png)
 
