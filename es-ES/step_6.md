@@ -1,4 +1,4 @@
-## Bouncing asteroid
+## Un asteroide que rebota
 
 Agreguemos una roca espacial flotante a tu animación.
 
