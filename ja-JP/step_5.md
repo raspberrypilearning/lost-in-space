@@ -6,7 +6,7 @@
     
     ![Adding a monkey sprite](images/space-monkey-sprite.png)
 
-+ If you click on your new monkey sprite and then click **Costumes**, you can edit how the monkey looks. Click the **ellipse** tool and draw a white space helmet around the monkey's head.
++ サルのスプライトをクリックし、**コスチューム**をクリックします。サルの見え方を編集 (へんしゅう) できます。 Click the **ellipse** tool and draw a white space helmet around the monkey's head.
     
     ![Monkey space helmet](images/space-monkey-edit.png)
 
