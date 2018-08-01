@@ -1,55 +1,55 @@
-## Animating a spaceship
+## Animacija svemirskog broda
 
-Let's make a spaceship that flies towards the Earth!
+Napravimo svemirski brod koji leti prema Zemlji!
 
-+ Open a new empty Scratch project.
++ Otvori novi prazan Scratch projekat.
 
 [[[generic-scratch-new-project]]]
 
-+ Add 'spaceship' and 'Earth' sprites to your Stage.
++ Na svoju Pozornicu (Stage) dodaj likove (sprites) 'svemirski brod' i 'Zemlja'.
     
-    ![Spaceship and Earth sprites](images/space-sprites.png)
+    ![Likovi svemirskog broda i Zemlje](images/space-sprites.png)
 
 [[[generic-scratch-sprite-from-library]]]
 
-+ Add the 'Stars' backdrop to your Stage.
++ Na Pozornicu dodaj pozadinu (backdrop) 'Stars' (Zvijezde).
     
-    ![A space backdrop](images/space-backdrop.png)
+    ![Pozadina 'svemir'](images/space-backdrop.png)
 
 [[[generic-scratch-backdrop-from-library]]]
 
-+ Click on your spaceship sprite, and click the **Costumes** tab.
++ Klikni na lik svemirskog broda, a zatim klikni na karticu **Costumes** (Kostimi).
     
-    ![Sprite costume](images/space-costume.png)
+    ![Kostim lika](images/space-costume.png)
 
-+ Use the **arrow** tool to select the image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
++ Koristi alatku **arrow** (strelica) da izabereš sliku. Zatim klikni na circular **rotate** handle (ručicu za kružno okretanje) i okreći sliku dok ne bude okrenuta na bok.
     
-    ![Rotating a costume](images/space-rotate.png)
+    ![Okretanje kostima](images/space-rotate.png)
 
-+ Add this code to your spaceship sprite:
++ Dodaj sljedeći kôd liku svemirskog broda:
     
-    ![Spaceship code](images/space-animate.png)
+    ![Kôd svemirskog broda](images/space-animate.png)
     
-    Change the numbers in the code blocks so that the code is exactly the same as in the image above.
+    Izmijeni brojeve u blokovima kôda, tako da kôd bude isti kao na gornjoj slici.
     
-    If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
+    Ako klikneš na zelenu zastavicu, trebalo bi da vidiš svemirski brod koji govori, okreće se i klizi prema centru pozornice.
     
-    ![Testing a spaceship animation](images/space-animate-stage.png)
+    ![Isprobavanje animacije svemirskog broda](images/space-animate-stage.png)
 
 [[[generic-scratch-saving]]]
 
 \--- challenge \---
 
-## Challenge: improving your animation
+## Izazov: poboljšaj svoju animaciju
 
-Can you change the numbers in your animation code, so that:
+Možeš li da promijeniš brojeve u svom kôdu za animaciju, tako da se:
 
-+ The spaceship moves until it touches the Earth?
-+ The spaceship moves more slowly towards the Earth?
++ Svemirski brod kreće dok ne dodirne Zemlju?
++ Svemirski brod sporije kreće ka Zemlji?
 
-You'll need to change the numbers in this block:
+Moraćeš da promijeniš brojeve u ovom bloku:
 
-![Glide block](images/space-glide.png)
+![Blok glide (klizi)](images/space-glide.png)
 
 [[[generic-scratch-coordinates]]]
 
