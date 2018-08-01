@@ -1,4 +1,4 @@
-## Animating a spaceship
+## 宇宙船 (うちゅうせん) のアニメーション
 
 Let's make a spaceship that flies towards the Earth!
 
