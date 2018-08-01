@@ -16,4 +16,4 @@
     
     ![Blocks for a spinning monkey](images/space-spin-test.png)
 
-\--- hints \--- \--- hint \--- When the green **flag is clicked**, your monkey sprite should **turn** in a circle **forever**. \--- /hint \--- \--- hint \--- Here are the code blocks you'll need: ![Blocks for a spinning monkey](images/space-spin-blocks.png) \--- /hint \--- \--- hint \--- Here's the code to make your monkey spin: ![Code for a spinning monkey](images/space-spin-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- **グリーンフラッグがクリックされたとき**、 **ずっと**サルは**回転**し続けます。 \--- /hint \--- \--- hint \--- 使うブロックはこちらです。 ![Blocks for a spinning monkey](images/space-spin-blocks.png) \--- /hint \--- \--- hint \--- サルを回転するには、こうします。 ![Code for a spinning monkey](images/space-spin-code.png) \--- /hint \--- \--- /hints \---
