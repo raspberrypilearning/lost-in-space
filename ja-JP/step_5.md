@@ -1,8 +1,8 @@
-## Floating monkey
+## ういているサル
 
-Let's add a monkey who's lost in space to your animation!
+宇宙で迷子 (まいご) になっているサルをアニメーションに追加しましょう！
 
-+ Start by adding the 'monkey' sprite from the library.
++ ライブラリーからサルのスプライトを追加しましょう。
     
     ![Adding a monkey sprite](images/space-monkey-sprite.png)
 
