@@ -1,4 +1,4 @@
-## Shining star
+## Una estrella brillante
 
 Combinemos los bucles para hacer una estrella brillante.
 
