@@ -1,4 +1,4 @@
-## Floating monkey
+## Mono flotante
 
 ¡Agreguemos un mono perdido en el espacio a tu animación!
 
