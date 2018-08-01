@@ -30,9 +30,9 @@
     
     ![Spaceship code](images/space-animate.png)
     
-    Change the numbers in the code blocks so that the code is exactly the same as in the image above.
+    ブロックの中の数字を変えます。上にあるのとまったく同じようにしてください。
     
-    If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
+    グリーンフラッグをクリックすると、宇宙船がしゃべり、回転し、ステージの中央に向かって進んでいきます。
     
     ![Testing a spaceship animation](images/space-animate-stage.png)
 
@@ -40,14 +40,14 @@
 
 \--- challenge \---
 
-## Challenge: improving your animation
+## チャレンジ: アニメーションの改良（かいりょう）
 
-Can you change the numbers in your animation code, so that:
+アニメーションのコードの値 (あたい) を変えて、このようにできますか？
 
-+ The spaceship moves until it touches the Earth?
-+ The spaceship moves more slowly towards the Earth?
++ 宇宙船が地球にタッチするまで動かす
++ 宇宙船を地球に向かって、もっとゆっくり動かす
 
-You'll need to change the numbers in this block:
+このブロックの値を変える必要があります。
 
 ![Glide block](images/space-glide.png)
 
