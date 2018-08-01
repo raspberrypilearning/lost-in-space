@@ -1,4 +1,4 @@
-## Animating a spaceship
+## Animación de una nave espacial
 
 ¡Hagamos una nave espacial que vuela hacia la Tierra!
 
