@@ -1,6 +1,6 @@
-## Animating using loops
+## ループを使ったアニメーション
 
-Another way to animate the spaceship is to tell it to move a small amount lots of times.
+宇宙船を動かすには、別の方法もあります。それは何度も、少しずつ動くように宇宙船に教えることです。
 
 + Delete the `glide` block from your code by right-clicking on it and clicking **delete**. You can also delete code by dragging it off the Script area and back into the Code blocks area.
     
