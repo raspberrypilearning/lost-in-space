@@ -1,32 +1,32 @@
 ## 宇宙船 (うちゅうせん) のアニメーション
 
-Let's make a spaceship that flies towards the Earth!
+地球に向かって飛んでいく宇宙船をつくりましょう！
 
-+ Open a new empty Scratch project.
++ 新しいScratch (スクラッチ) のプロジェクトを開きましょう。
 
 [[[generic-scratch-new-project]]]
 
-+ Add 'spaceship' and 'Earth' sprites to your Stage.
++ 「Spaceship (宇宙船)」と「Earth (地球)」のスプライトをステージに追加してください。
     
     ![Spaceship and Earth sprites](images/space-sprites.png)
 
 [[[generic-scratch-sprite-from-library]]]
 
-+ Add the 'Stars' backdrop to your Stage.
++ 背景 (はいけい) には「stars (星)」を追加してください。
     
     ![A space backdrop](images/space-backdrop.png)
 
 [[[generic-scratch-backdrop-from-library]]]
 
-+ Click on your spaceship sprite, and click the **Costumes** tab.
++ 宇宙船をクリックして、**コスチューム**のタブをクリックしてください。
     
     ![Sprite costume](images/space-costume.png)
 
-+ Use the **arrow** tool to select the image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
++ 選択 (せんたく) するには**選択**ツールを使います。丸い**回転**ハンドルをクリックして、横になるまで回転させます。
     
     ![Rotating a costume](images/space-rotate.png)
 
-+ Add this code to your spaceship sprite:
++ 宇宙船のスプライトにこのコードを追加しましょう。
     
     ![Spaceship code](images/space-animate.png)
     
