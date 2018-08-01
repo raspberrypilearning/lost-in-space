@@ -1,12 +1,12 @@
-## Shining star
+## 光る星
 
-Let's combine loops to make a shining star.
+光る星を作るために、繰り返しを組み合わせましょう。
 
-+ Add a 'star' sprite to your animation.
++ 「星」のスプライトをアニメーションに追加してください。
     
     ![Adding a star sprite](images/space-star-sprite.png)
 
-+ Can you code your star to repeatedly grow and shrink?
++ コードを入れて、星を何度も大きくしたり、小さくしたりできますか？
     
     ![Testing a shining star](images/space-star-test.png)
 
