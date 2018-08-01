@@ -12,7 +12,7 @@
     
     ![Testing a spaceship animation](images/space-animate-stage.png)
 
-\--- hints \--- \--- hint \--- **変える**のではなく、 宇宙船は**何度も**少しずつ**動く**必要があります。 \--- /hint \--- \--- hint \--- 必要なブロックは次の通りです。 ![Blocks for an animated spaceship](images/space-repeat-blocks.png) \--- /hint \--- \--- hint \--- 宇宙船を動かすには、こうします。 ![Code for an animated spaceship](images/space-repeat-code.png) (宇宙船がちゃんと地球に着くのなら、`繰り返す`ブロックと`動かす`ブロックにちがう値 (あたい) を入れて変えることもできます。 ) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- **変わる**のではなく、 宇宙船は**何度も**少しずつ**動き**ます。 \--- /hint \--- \--- hint \--- 必要なブロックは次の通りです。 ![Blocks for an animated spaceship](images/space-repeat-blocks.png) \--- /hint \--- \--- hint \--- 宇宙船を動かすには、こうします。 ![Code for an animated spaceship](images/space-repeat-code.png) (宇宙船がちゃんと地球に着くのなら、`繰り返す`ブロックと`動かす`ブロックにちがう値 (あたい) を入れて変えることもできます。 ) \--- /hint \--- \--- /hints \---
 
 + コードを入れて、地球に向かっていく宇宙船の色を変えることができますか？
     
@@ -24,8 +24,8 @@
 
 + 地球に近づくにつれて宇宙船を小さくしていくことができますか？
     
-    Test and save. Your spaceship should get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
+    テストして保存しましょう。宇宙船は近づくにつれて小さくなっていきます。**2回目**のテストをしましょう。宇宙船はちょうどいい大きさで始まりますか？
     
     ![Testing a shrinking spaceship](images/space-size-test.png)
 
-\--- hints \--- \--- hint \--- Your spaceship should start at **100% size**, and then **change size** by a small amount as it moves. \--- /hint \--- \--- hint \--- Here is the code blocks you'll need: ![Blocks for changing size](images/space-size-blocks.png) \--- /hint \--- \--- hint \--- Here's the code to change your spaceship's size as it moves: ![Code for changing size](images/space-size-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- 宇宙船は**100%の大きさ**で始まり、動くにつれて少しずつ**大きさを変えます**。 \--- /hint \--- \--- hint \--- 使うブロックはこちらです。 ![Blocks for changing size](images/space-size-blocks.png) \--- /hint \--- \--- hint \--- 動く宇宙船の大きさを変えるには、こうします。 ![Code for changing size](images/space-size-code.png) \--- /hint \--- \--- /hints \---
