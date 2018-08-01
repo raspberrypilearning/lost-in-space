@@ -1,4 +1,4 @@
-## ループを使ったアニメーション
+## 繰り返し (くりかえし) を使ったアニメーション
 
 宇宙船を動かすには、別の方法もあります。それは何度も、少しずつ動くように宇宙船に教えることです。
 
@@ -6,9 +6,9 @@
     
     ![Deleting the glide block](images/space-delete-glide.png)
 
-+ Can you use a `repeat` block to move your spaceship towards the Earth?
++ `繰り返す (くりかえす) ` ブロックを使って、宇宙船を地球に向けて動かせますか？
     
-    Test and save: Your spaceship should move towards the Earth exactly as before, this time using a `repeat` block.
+    テストして保存しましょう。宇宙船は前と同じように地球に向けて動きますが、今回は`繰り返す` ブロックを使います。
     
     ![Testing a spaceship animation](images/space-animate-stage.png)
 
