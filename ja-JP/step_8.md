@@ -1,10 +1,10 @@
 \--- challenge \---
 
-## Challenge: make your own animation
+## チャレンジ: 自分のアニメーションを作ろう
 
-Stop your space animation, save it, and start a new Scratch project.
+宇宙のアニメーションを止めます。保存し、新しいScratchプロジェクトを始めてください。
 
-Use what you've learnt in this project to make your own animation. It can be anything you like, but try to make your animation match the setting. Here are some examples:
+このプロジェクトで学んだことを生かして、自分のアニメーションをつくりましょう。あなたの好きなもの、なんでも良いです。ただし、キャラクターに合ったアニメーションを目指してください。こちらがその例です。 screenshot
 
 ![screenshot](images/space-egs.png)
 
