@@ -16,4 +16,4 @@
     
     ![Blocks for a spinning monkey](images/space-spin-test.png)
 
-\--- hints \--- \--- hint \--- **グリーンフラッグがクリックされたとき**、 **ずっと**サルは**回転**し続けます。 \--- /hint \--- \--- hint \--- 使うブロックはこちらです。 ![Blocks for a spinning monkey](images/space-spin-blocks.png) \--- /hint \--- \--- hint \--- サルを回転するには、こうします。 ![Code for a spinning monkey](images/space-spin-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- **緑の旗がクリックされたとき**、 **ずっと**サルは**回転**し続けます。 \--- /hint \--- \--- hint \--- 使うブロックはこちらです。 ![Blocks for a spinning monkey](images/space-spin-blocks.png) \--- /hint \--- \--- hint \--- サルを回転するには、こうします。 ![Code for a spinning monkey](images/space-spin-code.png) \--- /hint \--- \--- /hints \---
