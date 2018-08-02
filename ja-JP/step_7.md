@@ -10,4 +10,4 @@
     
     ![Testing a shining star](images/space-star-test.png)
 
-\--- hints \--- \--- hint \--- **緑の旗がクリックされたとき**、星のスプライトは**大きさを変えて**少しずつ大きくなり、また**大きさを変えて**少しずつ小さくなります。 It should do this so that it grows and then shrinks **forever**. \--- /hint \--- \--- hint \--- Here are the code blocks you'll need: ![Blocks for a shining star](images/space-star-blocks.png) \--- /hint \--- \--- hint \--- Here's the code to make your star shine: ![Code for a shining star](images/space-star-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- **緑の旗がクリックされたとき**、星のスプライトは**大きさを変えて**少しずつ大きくなり、また**大きさを変えて**少しずつ小さくなります。 星は**ずっと**大きく、そして小さくなります。 \--- /hint \--- \--- hint \--- 使うブロックはこちらです。 ![Blocks for a shining star](images/space-star-blocks.png) \--- /hint \--- \--- hint \--- 星を光らせるには、こうします。 ![Code for a shining star](images/space-star-code.png) \--- /hint \--- \--- /hints \---
