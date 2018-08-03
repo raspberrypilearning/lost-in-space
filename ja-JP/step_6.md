@@ -2,7 +2,7 @@
 
 宇宙に浮かぶ岩をアニメーションに追加しましょう。
 
-+ アニメーションに「rock (岩)」のスプライトを追加してください。
++ アニメーションに岩のスプライトを追加してください。
     
     ![Adding a rock sprite](images/space-rock-sprite.png)
 
