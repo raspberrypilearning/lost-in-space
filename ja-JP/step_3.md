@@ -6,7 +6,7 @@
 
 [[[generic-scratch-new-project]]]
 
-+ 「Spaceship (宇宙船)」と「Earth (地球)」のスプライトをステージに追加してください。
++ 宇宙船と地球のスプライトをステージに追加してください。
     
     ![Spaceship and Earth sprites](images/space-sprites.png)
 
