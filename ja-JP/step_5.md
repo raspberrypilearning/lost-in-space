@@ -2,7 +2,7 @@
 
 宇宙で迷子 (まいご) になっているサルをアニメーションに追加しましょう！
 
-+ ライブラリーからサルのスプライトを追加します。
++ ライブラリーから「monkey(サル)」のスプライトを追加します。
     
     ![Adding a monkey sprite](images/space-monkey-sprite.png)
 
