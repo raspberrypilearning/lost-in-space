@@ -9,3 +9,9 @@
 ![截屏](images/space-egs.png)
 
 --- /challenge ---
+***
+### 社区贡献的翻译 
+
+该项目由 **于鑫** 翻译并通过 **Eva Zheng** 审查。
+
+我们出色的翻译志愿者帮助我们为世界各地的儿童提供学习编码的机会。通过翻译我们的项目，您可以帮助我们覆盖更多的儿童 - 更多详情请阅读[rpf.io/translators](https://rpf.io/translators)。
