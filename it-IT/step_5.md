@@ -1,4 +1,4 @@
-## Floating monkey
+## Scimmietta fluttuante
 
 Aggiungiamo alla tua animazione una scimmietta che si è persa nello spazio!
 
