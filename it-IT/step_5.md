@@ -6,7 +6,7 @@ Aggiungiamo alla tua animazione una scimmietta che si è persa nello spazio!
     
     ![Aggiungere lo sprite di una scimmia](images/space-monkey-sprite.png)
 
-+ Facendo click sullo sprite della scimmietta e poi sulla scheda **Costumi**, puoi modificare l'aspetto della scimmietta. Clicca sullo strumento **ellisse** per disegnare un casco sulla testa della scimmietta.
++ Facendo click sullo sprite 'scimmia' e poi sulla scheda **Costumi**, puoi modificare l'aspetto della scimmietta. Clicca sullo strumento **ellisse** per disegnare un casco sulla testa della scimmietta.
     
     ![Casco della scimmia](images/space-monkey-edit.png)
 
