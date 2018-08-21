@@ -1,4 +1,4 @@
-## Shining star
+## Stella splendente
 
 Combiniamo dei cicli per creare una stella che risplende.
 
