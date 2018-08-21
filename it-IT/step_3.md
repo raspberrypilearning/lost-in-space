@@ -6,7 +6,7 @@ Creiamo un'astronave che vola verso la Terra!
 
 [[[generic-scratch-new-project]]]
 
-+ Aggiungi gli sprite 'astronave' e 'Terra' al tuo stage.
++ Aggiungi gli sprite 'Astronave' e 'Terra' al tuo stage.
     
     ![Sprite 'Astronave' e 'Terra'](images/space-sprites.png)
 
