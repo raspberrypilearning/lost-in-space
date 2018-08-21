@@ -1,4 +1,4 @@
-## Animating a spaceship
+## Animare un'astronave
 
 Creiamo un'astronave che vola verso la Terra!
 
