@@ -16,4 +16,4 @@ Dodajmo u tvoju animaciju majmuna koji je izgubljen u svemiru!
     
     ![Blokovi za majmuna koji se okreće](images/space-spin-test.png)
 
-\--- hints \--- \--- hint \--- Kada se **klikne na zelenu zastavicu** (flag is clicked), lik majmuna bi trebalo da se **neprestano** (forever) **okreće** (turn) ukrug. \--- /hint \--- \--- hint \--- Ovdje su blokovi kôda koji će ti biti potrebni: ![Blocks for a spinning monkey](images/space-spin-blocks.png) \--- /hint \--- \--- hint \--- Ovdje je kôd da napraviš da se tvoj majmun okreće: ![Code for a spinning monkey](images/space-spin-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- Kada je **kliknuto na zelenu zastavicu** (flag is clicked), lik majmuna treba da se **neprestano** (forever) **okreće** (turn) ukrug. \--- /hint \--- \--- hint \--- Ovdje su blokovi kôda koji će ti biti potrebni: ![Blocks for a spinning monkey](images/space-spin-blocks.png) \--- /hint \--- \--- hint \--- Ovdje je kôd da napraviš da se tvoj majmun okreće: ![Code for a spinning monkey](images/space-spin-code.png) \--- /hint \--- \--- /hints \---
