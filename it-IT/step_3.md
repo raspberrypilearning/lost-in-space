@@ -18,7 +18,7 @@ Creiamo un'astronave che vola verso la Terra!
 
 [[[generic-scratch-backdrop-from-library]]]
 
-+ Fai clic sullo sprite dell'astronave, e poi clicca sulla scheda **Costumi**.
++ Fai clic sullo sprite 'Astronave' e poi clicca sulla scheda **Costumi**.
     
     ![Costume dello sprite](images/space-costume.png)
 
@@ -30,7 +30,7 @@ Creiamo un'astronave che vola verso la Terra!
     
     ![Codice dell'astronave](images/space-animate.png)
     
-    Cambia i numeri nei blocchi di codice in modo che il codice sia identico a quello dell'immagine qui sopra.
+    Cambia i numeri nei blocchi di codice in modo che risulti identico a quello dell'immagine qui sopra.
     
     Facendo click sulla bandierina verde, dovresti vedere l'astronave parlare, girare e planare verso il centro dello schermo.
     
