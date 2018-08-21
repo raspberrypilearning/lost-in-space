@@ -1,4 +1,4 @@
-## Bouncing asteroid
+## Asteroide che rimbalza
 
 Aggiungiamo un po' di rocce spaziali fluttuanti alla tua animazione.
 
