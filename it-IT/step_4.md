@@ -2,7 +2,7 @@
 
 Un altro modo per animare l'astronave è di dirle di muoversi di una piccola quantità per varie volte.
 
-+ Rimuovi il blocco `scivola`dal tuo codice cliccando con il tasto destro del mouse sul blocco e scegliendo **cancella**. Puoi anche eliminare il codice trascinandolo dall'area grigia verso l'area dei blocchi di codice.
++ Rimuovi il blocco `scivola` dal tuo codice cliccando con il tasto destro del mouse sul blocco e scegliendo **cancella**. Puoi anche eliminare il codice trascinandolo dall'area grigia verso l'area dei blocchi di codice.
     
     ![Cancellare il blocco scivola](images/space-delete-glide.png)
 
