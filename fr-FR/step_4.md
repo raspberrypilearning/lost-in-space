@@ -12,7 +12,7 @@ Une autre façon d'animer le vaisseau spatial est de lui dire de bouger un petit
     
     ![Test d'une animation de vaisseau spatial](images/space-animate-stage.png)
 
-\--- astuces \--- \--- indice \--- Au lieu de ** glisser **, votre vaisseau spatial devrait ** à plusieurs reprises ** ** se déplacer ** quelques étapes à la fois. \--- /hint \--- \--- hint \--- Here are the code blocks you'll need: ![Blocks for an animated spaceship](images/space-repeat-blocks.png) \--- /hint \--- \--- hint \--- Here's the code to animate your spaceship: ![Code for an animated spaceship](images/space-repeat-code.png) (You can use different numbers in the `repeat` and `move` blocks, as long as the spaceship still gets to Earth!) \--- /hint \--- \--- /hints \---
+\--- astuces \--- \--- indice \--- Au lieu de ** glisser **, votre vaisseau spatial devrait ** à plusieurs reprises ** ** se déplacer ** quelques étapes à la fois. \--- /hint \--- \--- hint \--- Voici les blocs de code dont vous aurez besoin: <0 /> \--- /hint \--- \--- hint \--- Voici le code pour animer votre vaisseau spatial: <1 /> (Vous pouvez utiliser différents nombres dans boucle `répéter indéfiniment` et ` déplacer ` , tant que le vaisseau spatial arrive encore sur Terre!) \--- / hint \--- \--- / hints \---
 
 + Pouvez-vous coder votre vaisseau spatial pour qu'il change de couleur lorsqu'il se déplace vers la Terre?
     
@@ -20,7 +20,7 @@ Une autre façon d'animer le vaisseau spatial est de lui dire de bouger un petit
     
     ![Test d'un vaisseau spatial changeant de couleur](images/space-colour-test.png)
 
-\--- astuces \--- \--- indice \--- Votre vaisseau spatial devrait ** changer de couleur ** quand il bouge. \--- /hint \--- \--- hint \--- Here is the extra code block you'll need: ![Block for changing colour](images/space-colour-blocks.png) \--- /hint \--- \--- hint \--- Here's the code to change your spaceship's colour: ![Code for an animated spaceship](images/space-colour-code.png) \--- /hint \--- \--- /hints \---
+\--- astuces \--- \--- indice \--- Votre vaisseau spatial devrait ** changer de couleur ** quand il bouge. \--- /hint \--- \--- hint \--- Voici les blocs de code dont tu auras besoin: ![Block for changing colour](images/space-colour-blocks.png) \--- /hint \--- \--- hint \--- Voici le code pour changer la couleur de ton vaisseau spatial : ![Code for an animated spaceship](images/space-colour-code.png) \--- /hint \--- \--- /hints \---
 
 + Pouvez-vous faire en sorte que la taille de votre vaisseau spatial diminue au fur et à mesure qu'il arrive sur Terre?
     
@@ -28,4 +28,4 @@ Une autre façon d'animer le vaisseau spatial est de lui dire de bouger un petit
     
     ![Tester un vaisseau spatial rétrécissant](images/space-size-test.png)
 
-\--- astuces \--- \--- indice \--- Votre vaisseau devrait commencer à ** 100% taille ** , puis ** diminuez la taille ** progressivement quand il se déplace. \--- /hint \--- \--- hint \--- Here is the code blocks you'll need: ![Blocks for changing size](images/space-size-blocks.png) \--- /hint \--- \--- hint \--- Here's the code to change your spaceship's size as it moves: ![Code for changing size](images/space-size-code.png) \--- /hint \--- \--- /hints \---
+\--- astuces \--- \--- indice \--- Votre vaisseau devrait commencer à ** 100% taille ** , puis ** diminuez la taille ** progressivement quand il se déplace. \--- /hint \--- \--- hint \--- Voici les blocs de code dont tu auras besoin: ![Blocks for changing size](images/space-size-blocks.png) \--- /hint \--- \--- hint \--- Voici le code pour changer la taille de ton vaisseau spatial quand il bouge : ![Code for changing size](images/space-size-code.png) \--- /hint \--- \--- /hints \---
