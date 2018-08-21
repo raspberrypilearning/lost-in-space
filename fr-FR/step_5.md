@@ -16,4 +16,4 @@ Ajoutons un singe perdu dans l'espace à votre animation!
     
     ![Blocs pour un singe en rotation](images/space-spin-test.png)
 
-\--- hints \--- \--- hint \--- When the green **flag is clicked**, your monkey sprite should **turn** in a circle **forever**. \--- /hint \--- \--- hint \--- Here are the code blocks you'll need: ![Blocks for a spinning monkey](images/space-spin-blocks.png) \--- /hint \--- \--- hint \--- Here's the code to make your monkey spin: ![Code for a spinning monkey](images/space-spin-code.png) \--- /hint \--- \--- /hints \---
+\--- hints \--- \--- hint \--- Lorsque le drapeau vert ** est cliqué ** , votre sprite singe devrait ** tourner ** dans un cercle ** indéfiniment ** . \--- /hint \--- \--- hint \--- Voici les blocs de code dont tu auras besoin: ![Blocks for a spinning monkey](images/space-spin-blocks.png) \--- /hint \--- \--- hint \--- Voici le code pour faire tourner ton singe : ![Code for a spinning monkey](images/space-spin-code.png) \--- /hint \--- \--- /hints \---
