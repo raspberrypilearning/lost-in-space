@@ -22,7 +22,7 @@ Napravimo svemirski brod koji leti prema Zemlji!
     
     ![Kostim lika](images/space-costume.png)
 
-+ Koristi alatku **arrow** (strelica) da izabereš sliku. Zatim klikni na circular **rotate** handle (ručicu za kružno okretanje) i okreći sliku dok ne bude okrenuta na bok.
++ Koristi alatku **arrow** (strelica) da izabereš sliku. Zatim klikni na circular **rotate** handle (ručica za kružno okretanje) i okreći sliku dok ne bude okrenuta na bok.
     
     ![Okretanje kostima](images/space-rotate.png)
 
