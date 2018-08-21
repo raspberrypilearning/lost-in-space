@@ -1,24 +1,24 @@
-## Animating a spaceship
+## अंतरिक्ष-यान एनिमेट करना
 
-Let's make a spaceship that flies towards the Earth!
+चलिए पृथ्वी की ओर उड़ने वाला अंतरिक्ष-यान बनाएँ!
 
-+ Open a new empty Scratch project.
++ एक नया खाली स्क्रैच प्रोजेक्ट खोलें।
 
 [[[generic-scratch-new-project]]]
 
-+ Add 'spaceship' and 'Earth' sprites to your Stage.
++ अपनी स्टेज में 'अनतरिक्ष यान' और 'पृथ्वी' स्प्राइट जोड़ें।
     
     ![Spaceship and Earth sprites](images/space-sprites.png)
 
 [[[generic-scratch-sprite-from-library]]]
 
-+ Add the 'Stars' backdrop to your Stage.
++ अपनी स्टेज में 'सितारे' पृष्ठभूमि(backdrop) जोड़ें।
     
     ![A space backdrop](images/space-backdrop.png)
 
 [[[generic-scratch-backdrop-from-library]]]
 
-+ Click on your spaceship sprite, and click the **Costumes** tab.
++ अपने अनतरिक्ष-यान स्प्राइट पर क्लिक करें, और पोशाक**(Costumes)** टैब पर क्लिक करें।
     
     ![Sprite costume](images/space-costume.png)
 
