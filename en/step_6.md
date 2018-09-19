@@ -1,27 +1,25 @@
-## Bouncing asteroid
+## Shining star
 
-Let's add some floating space rock to your animation.
+Let's combine loops to make a shining star.
 
-+ Add a 'rock' sprite to your animation.
++ Add a 'star' sprite to your animation.
 
-	![Adding a rock sprite](images/space-rock-sprite.png)
+	![Adding a star sprite](images/space-star-sprite.png)
 
-+ Can you code your rock sprite to bounce around the stage?
++ Can you code your star to repeatedly grow and shrink?
 
-    ![Testing a bouncing rock](images/space-bounce-test.png)
+    ![Testing a shining star](images/space-star-test.png)
 
 --- hints ---
 --- hint ---
-When the green __flag is clicked__, your rock sprite should __move__ and __bounce__ around the stage __forever__.
+When the green __flag is clicked__, your star sprite should __change size__ to get bigger a few times, and then __change size__ to get smaller a few times. It should do this so that it grows and then shrinks __forever__.
 --- /hint ---
 --- hint ---
 Here are the code blocks you'll need:
-![Blocks for a bouncing rock](images/space-bounce-blocks.png)
-You can also set a more interesting starting direction for the rock with one of these blocks:
-![Setting the rock's initial position](images/space-initial-position.png)
+![Blocks for a shining star](images/space-star-blocks.png)
 --- /hint ---
 --- hint ---
-Here's the code to bounce your rock around the stage:
-![Code for a bouncing rock](images/space-bounce-code.png)
+Here's the code to make your star shine:
+![Code for a shining star](images/space-star-code.png)
 --- /hint ---
 --- /hints ---
