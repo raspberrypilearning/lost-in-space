@@ -19,6 +19,7 @@ last_tested: 2018-09-19
 steps:
 - title: Introduction
 - title: Animating a spaceship
+- title: 'Challenge: improving your animation'
 - title: Animating using loops
 - title: Floating monkey
 - title: Bouncing asteroid

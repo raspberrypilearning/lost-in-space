@@ -1,27 +1,31 @@
-## Bouncing asteroid
+## Floating monkey
 
-Let's add some floating space rock to your animation.
+Let's add a monkey who's lost in space to your animation!
 
-+ Add a 'rock' sprite to your animation.
++ Start by adding the 'monkey' sprite from the library.
 
-	![Adding a rock sprite](images/space-rock-sprite.png)
+	![Adding a monkey sprite](images/space-monkey-sprite.png)
 
-+ Can you code your rock sprite to bounce around the stage?
++ If you click on your new monkey sprite and then click **Costumes**, you can edit how the monkey looks. Click the **ellipse** tool and draw a white space helmet around the monkey's head.
 
-    ![Testing a bouncing rock](images/space-bounce-test.png)
+	![Monkey space helmet](images/space-monkey-edit.png)
+
++ Can you add code to your monkey sprite so that it spins slowly in a circle forever?
+
+    Test and save your project. You'll have to click the red **stop** button to end this animation, as it goes on forever!
+
+    ![Blocks for a spinning monkey](images/space-spin-test.png)
 
 --- hints ---
 --- hint ---
-When the green __flag is clicked__, your rock sprite should __move__ and __bounce__ around the stage __forever__.
+When the green __flag is clicked__, your monkey sprite should __turn__ in a circle __forever__.
 --- /hint ---
 --- hint ---
 Here are the code blocks you'll need:
-![Blocks for a bouncing rock](images/space-bounce-blocks.png)
-You can also set a more interesting starting direction for the rock with one of these blocks:
-![Setting the rock's initial position](images/space-initial-position.png)
+![Blocks for a spinning monkey](images/space-spin-blocks.png)
 --- /hint ---
 --- hint ---
-Here's the code to bounce your rock around the stage:
-![Code for a bouncing rock](images/space-bounce-code.png)
+Here's the code to make your monkey spin:
+![Code for a spinning monkey](images/space-spin-code.png)
 --- /hint ---
 --- /hints ---

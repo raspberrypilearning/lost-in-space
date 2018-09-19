@@ -1,10 +1,25 @@
---- challenge ---
-## Challenge: make your own animation
+## Shining star
 
-Stop your space animation, save it, and start a new Scratch project.
+Let's combine loops to make a shining star.
 
-Use what you've learnt in this project to make your own animation. It can be anything you like, but try to make your animation match the setting. Here are some examples:
++ Add a 'star' sprite to your animation.
 
-![screenshot](images/space-egs.png)
+	![Adding a star sprite](images/space-star-sprite.png)
 
---- /challenge ---
++ Can you code your star to repeatedly grow and shrink?
+
+    ![Testing a shining star](images/space-star-test.png)
+
+--- hints ---
+--- hint ---
+When the green __flag is clicked__, your star sprite should __change size__ to get bigger a few times, and then __change size__ to get smaller a few times. It should do this so that it grows and then shrinks __forever__.
+--- /hint ---
+--- hint ---
+Here are the code blocks you'll need:
+![Blocks for a shining star](images/space-star-blocks.png)
+--- /hint ---
+--- hint ---
+Here's the code to make your star shine:
+![Code for a shining star](images/space-star-code.png)
+--- /hint ---
+--- /hints ---
