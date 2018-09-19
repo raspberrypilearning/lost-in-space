@@ -4,20 +4,38 @@ You are going to learn how to program your own animation!
 
 ### What you will make
 
+--- no-print ---
+Click on the green flag to see the animation.
+
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/26818098/?autostart=false" frameborder="0"></iframe>
   <img src="images/space-final.png">
 </div>
 
-### What you will learn
+--- /no-print ---
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+--- print-only ---
 
-+ [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+![Complete project](images/showcase_static.png)
 
+--- /print-only ---
+
+--- collapse ---
+---
+title: What you will need
+---
+### Hardware
+
++ Computer capable of running Scratch 2.0
+
+### Software
+
++ Scratch 2.0 (either [online](https://scratch.mit.edu/projects/editor/) or [offline](https://scratch.mit.edu/scratch2download/))
+
+--- /collapse ---
 
 ### Additional information for educators
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+[Here is a link to the resources for this project](https://github.com/raspberrypilearning/lost-in-space/blob/master/en/resources/lost-in-space-resources.zip).
