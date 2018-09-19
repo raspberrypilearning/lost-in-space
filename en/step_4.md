@@ -2,9 +2,16 @@
 
 Another way to animate the spaceship is to tell it to move a small amount lots of times.
 
-+ Delete the `glide` block from your code by right-clicking on it and clicking **delete**. You can also delete code by dragging it off the Script area and back into the Code blocks area.
++ Delete the `glide`{:class="blockmotion"} block from your code by right-clicking on it and clicking **delete**. You can also delete code by dragging it off the Script area and back into the Code blocks area.
 
-	![Deleting the glide block](images/space-delete-glide.png)
+```blocks
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) secs
+point towards [Earth v]
+glide (1) secs to x:(0) y:(0)
+```
 
 + Can you use a `repeat` block to move your spaceship towards the Earth?
 

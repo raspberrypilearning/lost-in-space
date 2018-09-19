@@ -28,20 +28,20 @@ Let's make a spaceship that flies towards the Earth!
 
 + Add this code to your spaceship sprite:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+    ![Spaceship sprite](images/sprite-spaceship.png)
 
-```blocks
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) secs
-point towards [Earth v]
-glide (1) secs to x:(0) y:(0)
-```
+    ```blocks
+    when flag clicked
+    point in direction (0)
+    go to x:(-150) y:(-150)
+    say [Let's go] for (2) secs
+    point towards [Earth v]
+    glide (1) secs to x:(0) y:(0)
+    ```
 
-Change the numbers in the code blocks so that the code is exactly the same as in the image above.
+    Change the numbers in the code blocks so that the code is exactly the same as in the image above.
 
-If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
+    If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
 
     ![Testing a spaceship animation](images/space-animate-stage.png)
 
