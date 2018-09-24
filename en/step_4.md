@@ -2,7 +2,8 @@
 
 Another way to animate the spaceship is to tell it to move a small amount lots of times.
 
-+ Delete the `glide`{:class="blockmotion"} block from your code by right-clicking on it and clicking **delete**. You can also delete code by dragging it off the Script area and back into the Code blocks area.
+--- task ---
+Delete the `glide`{:class="blockmotion"} block from your code by right-clicking on it and clicking **delete**. You can also delete code by dragging it off the Script area and back into the Code blocks area.
 
 ```blocks
 when flag clicked
@@ -12,8 +13,10 @@ say [Let's go] for (2) secs
 point towards [Earth v]
 glide (1) secs to x:(0) y:(0)
 ```
+--- /task ---
 
-+ Can you use a `repeat` block to move your spaceship towards the Earth?
+--- task ---
+Can you use a `repeat` block to move your spaceship towards the Earth?
 
     Test and save: Your spaceship should move towards the Earth exactly as before, this time using a `repeat` block.
 
@@ -34,7 +37,10 @@ Here's the code to animate your spaceship:
 --- /hint ---
 --- /hints ---
 
-+ Can you code your spaceship to change colour as it moves towards Earth?
+--- /task ---
+
+--- task ---
+Can you code your spaceship to change colour as it moves towards Earth?
 
     Test and save.
 
@@ -53,6 +59,7 @@ Here's the code to change your spaceship's colour:
 ![Code for an animated spaceship](images/space-colour-code.png)
 --- /hint ---
 --- /hints ---
+--- /task ---
 
 + Can you make your spaceship get smaller as it gets to Earth?
 
