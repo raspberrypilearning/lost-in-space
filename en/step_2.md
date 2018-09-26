@@ -4,9 +4,6 @@ Let's make a spaceship that flies towards the Earth!
 
 --- task ---
 Open a new empty Scratch project.
-
-[[[generic-scratch-new-project]]]
-
 --- /task ---
 
 --- task ---
@@ -22,8 +19,6 @@ Add 'spaceship' and 'Earth' sprites to your Stage.
 Add the 'Stars' backdrop to your Stage.
 
 ![A space backdrop](images/space-backdrop.png)
-
-[[[generic-scratch-backdrop-from-library]]]
 
 --- /task ---
 
@@ -62,6 +57,3 @@ Change the numbers in the code blocks so that the code is exactly the same as ab
 If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
 
 ![Testing a spaceship animation](images/space-animate-stage.png)
-
-
-[[[generic-scratch-saving]]]
