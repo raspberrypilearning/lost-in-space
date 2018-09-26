@@ -35,7 +35,7 @@ Here's the code to make your monkey spin:
 ```blocks
 when flag clicked
 forever
-    turn (1) degrees
+    turn cw (1) degrees
 ```
 --- /hint ---
 --- /hints ---

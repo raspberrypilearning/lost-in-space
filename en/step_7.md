@@ -29,9 +29,11 @@ when flag clicked
 forever
     repeat (20)
         change size by (2)
+    end
     repeat (20)
         change size by (-2)
+    end
 ```
 --- /hint ---
 --- /hints ---
---- task ---
+--- /task ---

@@ -31,7 +31,7 @@ when flag clicked
 point towards [Earth v]
 forever
     move (2) steps
-    if on edge bounce
+    if on edge, bounce
 ```
 --- /hint ---
 --- /hints ---
