@@ -33,6 +33,7 @@ forever
     repeat (20)
         change size by (-2)
     end
+    
 ```
 --- /hint ---
 --- /hints ---
