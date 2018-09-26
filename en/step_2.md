@@ -12,7 +12,7 @@ Open a new empty Scratch project.
 --- task ---
 Add 'spaceship' and 'Earth' sprites to your Stage.
 
-    ![Spaceship and Earth sprites](images/space-sprites.png)
+![Spaceship and Earth sprites](images/space-sprites.png)
 
 [[[generic-scratch-sprite-from-library]]]
 
@@ -21,7 +21,7 @@ Add 'spaceship' and 'Earth' sprites to your Stage.
 --- task ---
 Add the 'Stars' backdrop to your Stage.
 
-    ![A space backdrop](images/space-backdrop.png)
+![A space backdrop](images/space-backdrop.png)
 
 [[[generic-scratch-backdrop-from-library]]]
 
@@ -30,36 +30,36 @@ Add the 'Stars' backdrop to your Stage.
 --- task ---
 Click on your spaceship sprite, and click the **Costumes** tab.
 
-	![Sprite costume](images/space-costume.png)
+![Sprite costume](images/space-costume.png)
 
 --- /task ---
 
 --- task ---
 Use the **arrow** tool to select the image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
 
-    ![Rotating a costume](images/space-rotate.png)
+![Rotating a costume](images/space-rotate.png)
 
 --- /task ---
 
 --- task ---
 Add this code to your spaceship sprite:
 
-    ![Spaceship sprite](images/sprite-spaceship.png)
+![Spaceship sprite](images/sprite-spaceship.png)
 
-    ```blocks
-    when flag clicked
-    point in direction (0)
-    go to x:(-150) y:(-150)
-    say [Let's go] for (2) secs
-    point towards [Earth v]
-    glide (1) secs to x:(0) y:(0)
-    ```
+```blocks
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) secs
+point towards [Earth v]
+glide (1) secs to x:(0) y:(0)
+```
 
-    Change the numbers in the code blocks so that the code is exactly the same as in the image above.
+Change the numbers in the code blocks so that the code is exactly the same as in the image above.
 
-    If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
+If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
 
-    ![Testing a spaceship animation](images/space-animate-stage.png)
+![Testing a spaceship animation](images/space-animate-stage.png)
 --- /task ---
 
 [[[generic-scratch-saving]]]

@@ -16,11 +16,11 @@ glide (1) secs to x:(0) y:(0)
 --- /task ---
 
 --- task ---
-Can you use a `repeat` block to move your spaceship towards the Earth?
+Can you use a `repeat`{:class="blockcontrol"} block to move your spaceship towards the Earth?
 
-    Test and save: Your spaceship should move towards the Earth exactly as before, this time using a `repeat` block.
+Test and save: Your spaceship should move towards the Earth exactly as before, this time using a `repeat` block.
 
-    ![Testing a spaceship animation](images/space-animate-stage.png)
+![Testing a spaceship animation](images/space-animate-stage.png)
 
 --- hints ---
 --- hint ---
@@ -32,8 +32,17 @@ Here are the code blocks you'll need:
 --- /hint ---
 --- hint ---
 Here's the code to animate your spaceship:
-![Code for an animated spaceship](images/space-repeat-code.png)
-(You can use different numbers in the `repeat` and `move` blocks, as long as the spaceship still gets to Earth!)
+```blocks
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) secs
+point towards [Earth v]
+glide (1) secs to x:(0) y:(0)
+repeat (200)
+    move (2) steps
+```
+(You can use different numbers in the `repeat`{:class="blockcontrol"} and `move`{:class="blockmotion"} blocks, as long as the spaceship still gets to Earth!)
 --- /hint ---
 --- /hints ---
 
@@ -42,9 +51,9 @@ Here's the code to animate your spaceship:
 --- task ---
 Can you code your spaceship to change colour as it moves towards Earth?
 
-    Test and save.
+Test and save.
 
-    ![Testing a colour-changing spaceship](images/space-colour-test.png)
+![Testing a colour-changing spaceship](images/space-colour-test.png)
 
 --- hints ---
 --- hint ---
