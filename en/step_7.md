@@ -2,13 +2,17 @@
 
 Let's combine loops to make a shining star.
 
-+ Add a 'star' sprite to your animation.
+--- task ---
+Add a 'star' sprite to your animation.
 
-	![Adding a star sprite](images/space-star-sprite.png)
+![Adding a star sprite](images/space-star-sprite.png)
 
-+ Can you code your star to repeatedly grow and shrink?
+--- /task ---
 
-    ![Testing a shining star](images/space-star-test.png)
+--- task ---
+Can you code your star to repeatedly grow and shrink?
+
+![Testing a shining star](images/space-star-test.png)
 
 --- hints ---
 --- hint ---
@@ -20,6 +24,14 @@ Here are the code blocks you'll need:
 --- /hint ---
 --- hint ---
 Here's the code to make your star shine:
-![Code for a shining star](images/space-star-code.png)
+```blocks
+when flag clicked
+forever
+    repeat (20)
+        change size by (2)
+    repeat (20)
+        change size by (-2)
+```
 --- /hint ---
 --- /hints ---
+--- task ---

@@ -2,13 +2,17 @@
 
 Let's add some floating space rock to your animation.
 
-+ Add a 'rock' sprite to your animation.
+--- task ---
+Add a 'rock' sprite to your animation.
 
-	![Adding a rock sprite](images/space-rock-sprite.png)
+![Adding a rock sprite](images/space-rock-sprite.png)
 
-+ Can you code your rock sprite to bounce around the stage?
+--- /task ---
 
-    ![Testing a bouncing rock](images/space-bounce-test.png)
+--- task ---
+Can you code your rock sprite to bounce around the stage?
+
+![Testing a bouncing rock](images/space-bounce-test.png)
 
 --- hints ---
 --- hint ---
@@ -22,6 +26,13 @@ You can also set a more interesting starting direction for the rock with one of 
 --- /hint ---
 --- hint ---
 Here's the code to bounce your rock around the stage:
-![Code for a bouncing rock](images/space-bounce-code.png)
+```blocks
+when flag clicked
+point towards [Earth v]
+forever
+    move (2) steps
+    if on edge bounce
+```
 --- /hint ---
 --- /hints ---
+--- /task ---
