@@ -26,6 +26,7 @@ You can also set a more interesting starting direction for the rock with one of 
 --- /hint ---
 --- hint ---
 Here's the code to bounce your rock around the stage:
+![Rock sprite](images/sprite-rock.png)
 ```blocks
 when flag clicked
 point towards [Earth v]

@@ -24,6 +24,7 @@ Here are the code blocks you'll need:
 --- /hint ---
 --- hint ---
 Here's the code to make your star shine:
+![Star sprite](images/sprite-star.png)
 ```blocks
 when flag clicked
 forever
@@ -33,7 +34,7 @@ forever
     repeat (20)
         change size by (-2)
     end
-    
+
 ```
 --- /hint ---
 --- /hints ---

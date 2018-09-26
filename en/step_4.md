@@ -5,6 +5,8 @@ Another way to animate the spaceship is to tell it to move a small amount lots o
 --- task ---
 Delete the `glide`{:class="blockmotion"} block from your code by right-clicking on it and clicking **delete**. You can also delete code by dragging it off the Script area and back into the code blocks area.
 
+![Spaceship sprite](images/sprite-spaceship.png)
+
 ```blocks
 when flag clicked
 point in direction (0)
@@ -32,6 +34,7 @@ Here are the code blocks you'll need:
 --- /hint ---
 --- hint ---
 Here's the code to animate your spaceship:
+![Spaceship sprite](images/sprite-spaceship.png)
 ```blocks
 when flag clicked
 point in direction (0)
@@ -51,6 +54,7 @@ repeat (200)
 --- task ---
 Can you code your spaceship to change colour as it moves towards Earth? Use this block:
 
+![Spaceship sprite](images/sprite-spaceship.png)
 ```blocks
 change [color v] effect by (25)
 ```
@@ -66,6 +70,7 @@ Can you make your spaceship get smaller as it gets to Earth?
 
 Your spaceship should start at __100% size__, and then __change size__ by a small amount as it moves. Use these blocks:
 
+![Spaceship sprite](images/sprite-spaceship.png)
 ```blocks
 change size by (10)
 set size to (100) %

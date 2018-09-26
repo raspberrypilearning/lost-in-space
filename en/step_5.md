@@ -32,6 +32,8 @@ Here are the code blocks you'll need:
 --- /hint ---
 --- hint ---
 Here's the code to make your monkey spin:
+
+![Monkey sprite](images/sprite-monkey.png)
 ```blocks
 when flag clicked
 forever
@@ -44,4 +46,4 @@ forever
 
 Test and save your project. You'll have to click the red **stop** button to end this animation, as it goes on forever!
 
-![Blocks for a spinning monkey](images/space-spin-test.png)
+![Test the spinning monkey](images/space-spin-test.png)
