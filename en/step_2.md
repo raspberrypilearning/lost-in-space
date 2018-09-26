@@ -55,11 +55,13 @@ point towards [Earth v]
 glide (1) secs to x:(0) y:(0)
 ```
 
-Change the numbers in the code blocks so that the code is exactly the same as in the image above.
+Change the numbers in the code blocks so that the code is exactly the same as above.
+
+--- /task ---
 
 If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
 
 ![Testing a spaceship animation](images/space-animate-stage.png)
---- /task ---
+
 
 [[[generic-scratch-saving]]]
