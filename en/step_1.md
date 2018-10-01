@@ -40,6 +40,15 @@ title: What you will need
 
 --- collapse ---
 ---
+title: What you will learn
+---
+
++ Animate a sprite using a loop
++ Change the appearance of a sprite
+
+--- /collapse ---
+--- collapse ---
+---
 title: Additional information for educators
 ---
 
