@@ -3,21 +3,13 @@
 Let's make a spaceship that flies towards the Earth!
 
 --- task ---
-Open a new empty Scratch project.
 
---- collapse ---
----
-title: I'm using Scratch online
----
-Open the starter project [rpf.io/scratchon](http://rpf.io/scratchon){:target="_blank"}.
---- /collapse ---
+Open a new Scratch project.
 
---- collapse ---
----
-title: I'm using Scratch offline
----
-Download the starter project [rpf.io/scratchoff](http://rpf.io/scratchoff), and then open it using the offline Scratch editor.
---- /collapse ---
+**Online:** Open a new online Scratch project at [rpf.io/scratchon](http://rpf.io/scratchon).
+
+**Offline:** Open a new project in the offline editor.
+If you need to download the Scratch offline editor you will find it at [rpf.io/scratchoff](http://rpf.io/scratchoff).
 
 --- /task ---
 
