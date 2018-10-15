@@ -20,7 +20,20 @@ When the green __flag is clicked__, your star sprite should __change size__ to g
 --- /hint ---
 --- hint ---
 Here are the code blocks you'll need:
-![Blocks for a shining star](images/space-star-blocks.png)
+
+```blocks
+repeat (10)
+
+when flag clicked
+
+repeat (10)
+
+change size by (10)
+
+change size by (10)
+
+forever
+```
 --- /hint ---
 --- hint ---
 Here's the code to make your star shine:

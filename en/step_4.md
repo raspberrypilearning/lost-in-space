@@ -30,7 +30,13 @@ Instead of __gliding__, your spaceship should __repeatedly__ __move__ a few step
 --- /hint ---
 --- hint ---
 Here are the code blocks you'll need:
-![Blocks for an animated spaceship](images/space-repeat-blocks.png)
+
+```blocks
+move (10) steps
+
+repeat (10)
+```
+
 --- /hint ---
 --- hint ---
 Here's the code to animate your spaceship:
