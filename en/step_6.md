@@ -22,13 +22,13 @@ When the green __flag is clicked__, your rock sprite should __move__ and __bounc
 Here are the code blocks you'll need:
 
 ```blocks
-forever
-
 move (10) steps
 
 if on edge bounce
 
 when flag clicked
+
+forever
 ```
 
 You can also set a more interesting starting direction for the rock with one of these blocks:

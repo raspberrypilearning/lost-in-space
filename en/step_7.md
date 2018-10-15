@@ -23,10 +23,12 @@ Here are the code blocks you'll need:
 
 ```blocks
 repeat (10)
+end
 
 when flag clicked
 
 repeat (10)
+end
 
 change size by (10)
 
