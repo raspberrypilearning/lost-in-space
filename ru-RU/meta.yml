@@ -1,0 +1,35 @@
+---
+title: Потерянный в космосе
+theme: зеленый
+hero_image: Изображения / потерянных в-space.png
+description: Узнайте, как программировать собственную анимацию!
+original_url: https://www.codeclubprojects.org/en-GB/scratch/lost-in-space
+duration: 2
+listed: true
+copyedit: true
+ingredient: false
+curriculum: 1, design-0, programming-1, phys-comp-0, production-0, community-0
+interests: пространство
+technologies: царапина
+site_areas: проектов
+hardware: ''
+software: царапина
+version: 4
+last_tested: 2017-11-01
+steps:
+  - 
+    title: Введение
+  - 
+    title: Что тебе понадобится
+  - 
+    title: Анимация космического корабля
+  - 
+    title: Анимация с использованием петель
+  - 
+    title: Плавающая обезьяна
+  - 
+    title: Отскок астероида
+  - 
+    title: Сияющая звезда
+  - 
+    title: 'Задача: создать собственную анимацию'
