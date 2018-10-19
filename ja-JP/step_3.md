@@ -22,7 +22,7 @@
     
     ![Sprite costume](images/space-costume.png)
 
-+ 選択 (せんたく) するには**選択**ツールを使います。丸い**回転**ハンドルをクリックして、横になるまで回転させます。
++ 選択 (せんたく) するには**矢印 (やじるし)**ツールを使います。丸い**回転**ハンドルをクリックして、横になるまで回転させます。
     
     ![Rotating a costume](images/space-rotate.png)
 
