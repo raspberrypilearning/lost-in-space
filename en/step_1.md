@@ -26,7 +26,7 @@ title: What you will need
 ---
 ### Hardware
 
-+ Computer capable of running Scratch 2.0
++ A computer capable of running Scratch 2.0
 
 ### Software
 
@@ -54,6 +54,6 @@ title: Additional information for educators
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
-[Here is a link to the resources for this project](https://github.com/raspberrypilearning/lost-in-space/blob/master/en/resources/lost-in-space-resources.zip).
+You can download [the completed project here](https://github.com/raspberrypilearning/lost-in-space/blob/master/en/resources/lost-in-space-resources.zip).
 
 --- /collapse ---
