@@ -1,15 +1,16 @@
 ## Animating a spaceship
 
-Let's make a spaceship that flies towards the Earth!
+Your first step will be to create a spaceship that flies towards the Earth!
 
 --- task ---
 
 Open a new Scratch project.
 
-**Online:** Open a new online Scratch project at [rpf.io/scratchon](http://rpf.io/scratchon).
+**Online:** open a new online Scratch project at [rpf.io/scratchon](http://rpf.io/scratchon).
 
 **Offline:** Open a new project in the offline editor.
-If you need to download the Scratch offline editor you will find it at [rpf.io/scratchoff](http://rpf.io/scratchoff).
+
+If you need to download and install the Scratch offline editor, you will find it at [rpf.io/scratchoff](http://rpf.io/scratchoff).
 
 --- /task ---
 
@@ -30,14 +31,14 @@ Add the 'Stars' backdrop to your Stage.
 --- /task ---
 
 --- task ---
-Click on your spaceship sprite, and click the **Costumes** tab.
+Click on your spaceship sprite, and click on the **Costumes** tab.
 
 ![Sprite costume](images/space-costume.png)
 
 --- /task ---
 
 --- task ---
-Use the **arrow** tool to select the image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+Use the **arrow** tool to select the spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
 
 ![Rotating a costume](images/space-rotate.png)
 
@@ -57,7 +58,7 @@ point towards [Earth v]
 glide (1) secs to x:(0) y:(0)
 ```
 
-Change the numbers in the code blocks so that the code is exactly the same as above.
+Change the numbers in the code blocks you've added so that the code is exactly the same as above.
 
 --- /task ---
 
