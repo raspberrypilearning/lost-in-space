@@ -54,6 +54,6 @@ title: Additional information for educators
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
-You can download [the completed project here](https://github.com/raspberrypilearning/lost-in-space/blob/master/en/resources/lost-in-space-resources.zip).
+[Here is a link to the solution for this project](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
 --- /collapse ---
