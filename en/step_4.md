@@ -3,11 +3,11 @@
 Another way to animate the spaceship is to tell it to move a small amount many times
 
 --- task ---
-Delete the `glide`{:class="blockmotion"} block from your code. To do this, right-click on the block, and then click on **delete**.
+Delete the `glide`{:class="block3motion"} block from your code. To do this, right-click on the block, and then click on **delete**.
 
 ![Spaceship sprite](images/sprite-spaceship.png)
 
-```blocks
+```blocks3
 when flag clicked
 point in direction (0)
 go to x:(-150) y:(-150)
@@ -21,7 +21,7 @@ Another way to delete code is to drag it off the Script area and back into the c
 --- /task ---
 
 --- task ---
-Can you use a `repeat`{:class="blockcontrol"} block to move your spaceship towards the Earth?
+Can you use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
 
 ![Testing a spaceship animation](images/space-animate-stage.png)
 
@@ -34,7 +34,7 @@ Instead of __gliding__, your spaceship should __repeatedly__ __move__ a few step
 --- hint ---
 Here are the code blocks you need:
 
-```blocks
+```blocks3
 move (10) steps
 
 repeat (10)
@@ -44,7 +44,7 @@ repeat (10)
 --- hint ---
 Here is the code to animate your spaceship:
 ![Spaceship sprite](images/sprite-spaceship.png)
-```blocks
+```blocks3
 when flag clicked
 point in direction (0)
 go to x:(-150) y:(-150)
@@ -54,11 +54,11 @@ glide (1) secs to x:(0) y:(0)
 repeat (200)
     move (2) steps
 ```
-You can use different numbers in the `repeat`{:class="blockcontrol"} and `move`{:class="blockmotion"} blocks, as long as the spaceship still gets to Earth!
+You can use different numbers in the `repeat`{:class="block3control"} and `move`{:class="block3motion"} blocks, as long as the spaceship still gets to Earth!
 --- /hint ---
 --- /hints ---
 
-Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="blockcontrol"} block.
+Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
 
 --- /task ---
 
@@ -68,7 +68,7 @@ Can you add code to your spaceship sprite so that the spaceship changes colour a
 Use this block:
 
 ![Spaceship sprite](images/sprite-spaceship.png)
-```blocks
+```blocks3
 change [color v] effect by (25)
 ```
 
@@ -86,7 +86,7 @@ Your spaceship should start at __100% size__, and then __change size__ by a smal
 Use these blocks:
 
 ![Spaceship sprite](images/sprite-spaceship.png)
-```blocks
+```blocks3
 change size by (10)
 set size to (100) %
 ```

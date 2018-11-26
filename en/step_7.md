@@ -21,7 +21,7 @@ When the green __flag is clicked__, your star sprite should __change size__ to g
 --- hint ---
 Here are the code blocks you need:
 
-```blocks
+```blocks3
 repeat (10)
 end
 
@@ -40,7 +40,7 @@ forever
 --- hint ---
 Here's the code to make your star grow and shrink:
 ![Star sprite](images/sprite-star.png)
-```blocks
+```blocks3
 when flag clicked
 forever
     repeat (20)

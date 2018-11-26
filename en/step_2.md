@@ -19,7 +19,7 @@ Add 'spaceship' and 'Earth' sprites to your Stage.
 
 ![Spaceship and Earth sprites](images/space-sprites.png)
 
-[[[generic-scratch-sprite-from-library]]]
+[[[generic-scratch3-sprite-from-library]]]
 
 --- /task ---
 
@@ -49,7 +49,7 @@ Add this code to your spaceship sprite:
 
 ![Spaceship sprite](images/sprite-spaceship.png)
 
-```blocks
+```blocks3
 when flag clicked
 point in direction (0)
 go to x:(-150) y:(-150)
