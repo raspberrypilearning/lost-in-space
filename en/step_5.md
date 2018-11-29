@@ -36,7 +36,14 @@ When the green __flag is clicked__, your monkey sprite should __turn__ in a circ
 --- hint ---
 
 Here are the code blocks you need:
-![Blocks for a spinning monkey](images/space-spin-blocks.png)
+```blocks3
+forever
+end
+
+turn cw (15) degrees
+
+when flag clicked
+```
 
 --- /hint ---
 --- hint ---
