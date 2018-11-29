@@ -31,14 +31,14 @@ Add the 'Stars' backdrop to your Stage.
 --- /task ---
 
 --- task ---
-Click on your rocketship sprite, and click on the **Costumes** tab.
+Click on your spaceship sprite, and click on the **Costumes** tab.
 
 ![Sprite costume](images/space-costume.png)
 
 --- /task ---
 
 --- task ---
-Use the **arrow** tool to click and drag a box around the whole rocketship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
 
 ![Rotating a costume](images/space-rotate.png)
 
