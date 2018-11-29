@@ -12,7 +12,7 @@ Add a 'star' sprite to your stage.
 --- task ---
 Can you add code to your star sprite to make the star repeatedly grow and shrink?
 
-![Testing a shining star](images/space-star-test.png)
+![Testing a shining star](images/sprite-star.png)
 
 --- hints ---
 --- hint ---
