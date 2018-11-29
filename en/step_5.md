@@ -12,7 +12,13 @@ Start by adding the 'monkey' sprite from the library.
 Click on your new monkey sprite and then click on **Costumes** so that you can edit how the monkey looks.
 
 --- task ---
-Click on the **ellipse** tool and then use it to draw a white space helmet around the monkey's head.
+Select a transparent fill colour (a red line) and a white outline. You can make the colour white by setting the saturation to 0.
+
+![Make white colour](images/make-white.png)
+--- /task ---
+
+--- task ---
+Click on the **circle** tool and then use it to draw a white space helmet around the monkey's head.
 
 ![Monkey space helmet](images/space-monkey-edit.png)
 

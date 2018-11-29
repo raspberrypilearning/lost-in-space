@@ -3,7 +3,7 @@
 Another way to animate the spaceship is to tell it to move a small amount many times
 
 --- task ---
-Delete the `glide`{:class="block3motion"} block from your code. To do this, right-click on the block, and then click on **delete**.
+Delete the `glide`{:class="block3motion"} block from your code. To do this, drag it off the Script area and back into the code blocks area.
 
 ![Spaceship sprite](images/sprite-spaceship.png)
 
@@ -13,10 +13,8 @@ point in direction (0)
 go to x:(-150) y:(-150)
 say [Let's go] for (2) secs
 point towards [Earth v]
-glide (1) secs to x:(0) y:(0)
+- glide (1) secs to x:(0) y:(0)
 ```
-
-Another way to delete code is to drag it off the Script area and back into the code blocks area.
 
 --- /task ---
 
@@ -50,7 +48,6 @@ point in direction (0)
 go to x:(-150) y:(-150)
 say [Let's go] for (2) secs
 point towards [Earth v]
-glide (1) secs to x:(0) y:(0)
 repeat (200)
     move (2) steps
 ```
@@ -88,6 +85,7 @@ Use these blocks:
 ![Spaceship sprite](images/sprite-spaceship.png)
 ```blocks3
 change size by (10)
+
 set size to (100) %
 ```
 --- /task ---

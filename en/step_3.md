@@ -2,8 +2,8 @@
 
 Can you change the numbers in your animation code so that:
 
-+ The rocketship moves until it touches the Earth?
-+ The rocketship moves more slowly towards the Earth?
++ The spaceship moves until it touches the Earth?
++ The spaceship moves more slowly towards the Earth?
 
 You'll need to change the numbers in this block:
 
