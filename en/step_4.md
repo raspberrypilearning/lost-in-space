@@ -3,7 +3,7 @@
 Another way to animate the spaceship is to tell it to move a small amount many times
 
 --- task ---
-Delete the `glide`{:class="block3motion"} block from your code. To do this, drag it off the Script area and back into the code blocks area.
+Delete the `glide`{:class="block3motion"} block from your code. To do this, drag the block off the Code area and drop it back where the other single code blocks are.
 
 ![Spaceship sprite](images/sprite-spaceship.png)
 
