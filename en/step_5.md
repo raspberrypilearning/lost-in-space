@@ -12,7 +12,7 @@ Start by adding the 'monkey' sprite from the library.
 Click on your new monkey sprite and then click on **Costumes** so that you can edit how the monkey looks.
 
 --- task ---
-Select a transparent fill colour (a red line) and a white outline. You can make the colour white by setting the saturation to 0.
+Set the fill to be transparent by selecting the red line. For the outline, set a white colour by moving the Saturation slider to `0`.
 
 ![Make white colour](images/make-white.png)
 --- /task ---
