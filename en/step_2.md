@@ -49,14 +49,7 @@ Add this code to your spaceship sprite:
 
 ![Spaceship sprite](images/sprite-spaceship.png)
 
-```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) secs
-point towards [Earth v]
-glide (1) secs to x:(0) y:(0)
-```
+![blocks_1545292606_6265159](images/blocks_1545292606_6265159.png)
 
 Change the numbers in the code blocks you've added so that the code is exactly the same as above.
 
