@@ -1,25 +1,32 @@
 ## Shining star
 
-Let's combine loops to make a shining star.
+Now you will combine loops to make a shining star.
 
-+ Add a 'star' sprite to your animation.
+--- task ---
+Add a 'star' sprite to your stage.
 
-	![Adding a star sprite](images/space-star-sprite.png)
+![Adding a star sprite](images/space-star-sprite.png)
 
-+ Can you code your star to repeatedly grow and shrink?
+--- /task ---
 
-    ![Testing a shining star](images/space-star-test.png)
+--- task ---
+Can you add code to your star sprite to make the star repeatedly grow and shrink?
+
+![Testing a shining star](images/sprite-star.png)
 
 --- hints ---
 --- hint ---
-When the green __flag is clicked__, your star sprite should __change size__ to get bigger a few times, and then __change size__ to get smaller a few times. It should do this so that it grows and then shrinks __forever__.
+When the green __flag is clicked__, your star sprite should __change size__ to get bigger a few times, and then __change size__ to get smaller a few times. It should do this so that it gets bigger and then smaller __forever__ and looks like it's shining light.
 --- /hint ---
 --- hint ---
-Here are the code blocks you'll need:
-![Blocks for a shining star](images/space-star-blocks.png)
+Here are the code blocks you need:
+
+![blocks_1545292620_932417](images/blocks_1545292620_932417.png)
 --- /hint ---
 --- hint ---
-Here's the code to make your star shine:
-![Code for a shining star](images/space-star-code.png)
+Here's the code to make your star grow and shrink:
+![Star sprite](images/sprite-star.png)
+![blocks_1545292622_0366294](images/blocks_1545292622_0366294.png)
 --- /hint ---
 --- /hints ---
+--- /task ---

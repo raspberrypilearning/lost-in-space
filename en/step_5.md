@@ -1,31 +1,56 @@
 ## Floating monkey
 
-Let's add a monkey who's lost in space to your animation!
+Now you will add a monkey who's lost in space to your animation!
 
-+ Start by adding the 'monkey' sprite from the library.
+--- task ---
+Start by adding the 'monkey' sprite from the library.
 
-	![Adding a monkey sprite](images/space-monkey-sprite.png)
+![Adding a monkey sprite](images/space-monkey-sprite.png)
 
-+ If you click on your new monkey sprite and then click **Costumes**, you can edit how the monkey looks. Click the **ellipse** tool and draw a white space helmet around the monkey's head.
+--- /task ---
 
-	![Monkey space helmet](images/space-monkey-edit.png)
+Click on your new monkey sprite and then click on **Costumes** so that you can edit how the monkey looks.
 
-+ Can you add code to your monkey sprite so that it spins slowly in a circle forever?
+--- task ---
+Set the fill to be transparent by selecting the red line. For the outline, set a white colour by moving the Saturation slider to `0`.
 
-    Test and save your project. You'll have to click the red **stop** button to end this animation, as it goes on forever!
+![Make white colour](images/make-white.png)
+--- /task ---
 
-    ![Blocks for a spinning monkey](images/space-spin-test.png)
+--- task ---
+Click on the **circle** tool and then use it to draw a white space helmet around the monkey's head.
+
+![Monkey space helmet](images/space-monkey-edit.png)
+
+--- /task ---
+
+--- task ---
+Can you add code to your monkey sprite so that it spins slowly in a circle forever?
 
 --- hints ---
 --- hint ---
+
 When the green __flag is clicked__, your monkey sprite should __turn__ in a circle __forever__.
+
 --- /hint ---
 --- hint ---
-Here are the code blocks you'll need:
-![Blocks for a spinning monkey](images/space-spin-blocks.png)
+
+Here are the code blocks you need:
+![blocks_1545292615_4122484](images/blocks_1545292615_4122484.png)
+
 --- /hint ---
 --- hint ---
+
 Here's the code to make your monkey spin:
-![Code for a spinning monkey](images/space-spin-code.png)
+
+![Monkey sprite](images/sprite-monkey.png)
+
+![blocks_1545292616_5017798](images/blocks_1545292616_5017798.png)
 --- /hint ---
 --- /hints ---
+
+--- /task ---
+
+Test and save your project. You'll have to click on the red **stop** button to end this animation, as it runs forever!
+
+![Test the spinning monkey](images/space-spin-test.png)
