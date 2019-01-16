@@ -9,6 +9,8 @@ You'll need to change the numbers in this block:
 
 ![Rocketship sprite](images/sprite-spaceship.png)
 
-![blocks_1545292608_8136356](images/blocks_1545292608_8136356.png)
+```blocks3
+glide (1) secs to x:(0) y:(0)
+```
 
 [[[generic-scratch3-coordinates]]]
