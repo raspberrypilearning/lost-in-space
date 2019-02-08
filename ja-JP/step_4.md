@@ -1,4 +1,4 @@
-## Animation using loops
+## 繰り返し (くりかえし) を使ったアニメーション
 
 Another way to animate the spaceship is to tell it to move a small amount many times
 
