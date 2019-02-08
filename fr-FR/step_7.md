@@ -1,13 +1,47 @@
 ## Étoile brillante
 
-Créeons des boucles pour faire une étoile brillante.
+Now you will combine loops to make a shining star.
 
-+ Ajoutez un lutin «star» à votre animation.
-    
-    ![Ajout d’un lutin étoile](images/space-star-sprite.png)
+\--- task \--- Add a 'star' sprite to your stage.
 
-+ Pouvez-vous coder votre étoile pour qu'elle grossisse et rétrécisse tout le temps?
-    
-    ![Tester une étoile brillante](images/space-star-test.png)
+![Adding a star sprite](images/space-star-sprite.png)
 
-\--- hints \--- \--- hint \--- Lorsque le drapeau vert ** est cliqué ** , votre lutin étoile devrait ** changer de taille ** pour grossir plusieurs fois, puis ** changer de taille ** devenir plus petit plusieurs fois. Il devrait le faire pour qu'il grandisse puis rétrécisse ** pour toujours ** . \--- /hint \--- \--- hint \--- Voici les blocs de code dont tu auras besoin: ![Blocks for a shining star](images/space-star-blocks.png) \--- /hint \--- \--- hint \--- Voici le code pour faire briller ton étoile : ![Code for a shining star](images/space-star-code.png) \--- /hint \--- \--- /hints \---
+\--- /task \---
+
+\--- task \--- Can you add code to your star sprite to make the star repeatedly grow and shrink?
+
+![Testing a shining star](images/sprite-star.png)
+
+\--- hints \--- \--- hint \--- When the green **flag is clicked**, your star sprite should **change size** to get bigger a few times, and then **change size** to get smaller a few times. It should do this so that it gets bigger and then smaller **forever** and looks like it's shining light. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
+
+```blocks3
+repeat (10)
+end
+
+when flag clicked
+
+repeat (10)
+end
+
+change size by (10)
+
+change size by (10)
+
+forever
+```
+
+\--- /hint \--- \--- hint \--- Here's the code to make your star grow and shrink: ![Star sprite](images/sprite-star.png)
+
+```blocks3
+when flag clicked
+forever
+    repeat (20)
+        change size by (2)
+    end
+    repeat (20)
+        change size by (-2)
+    end
+
+```
+
+\--- /hint \--- \--- /hints \--- \--- /task \---
