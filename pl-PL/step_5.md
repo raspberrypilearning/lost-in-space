@@ -1,60 +1,60 @@
-## Floating monkey
+## Pływająca małpa
 
-Now you will add a monkey who's lost in space to your animation!
+Teraz dodamy małpę, która zaginęła w kosmosie do twojej animacji!
 
-\--- task \--- Start by adding the 'monkey' sprite from the library.
+\--- task \--- Zacznij od dodania sprite'a "monkey" z biblioteki.
 
-![Adding a monkey sprite](images/space-monkey-sprite.png)
+![Dodanie sprita małpy](images/space-monkey-sprite.png)
 
-\--- /task \---
+\--- / task \---
 
-Click on your new monkey sprite and then click on **Costumes** so that you can edit how the monkey looks.
+Kliknij na swój nowy duszek małpy, a następnie kliknij **Kostiumy** , aby móc edytować wygląd małpy.
 
-\--- task \--- Set the fill to be transparent by selecting the red line. For the outline, set a white colour by moving the Saturation slider to `0`.
+\--- task \--- Ustawić wypełnienie jako przezroczyste, wybierając czerwoną linię. W przypadku konturu ustaw biały kolor, przesuwając suwak Nasycenie w położenie `0`.
 
-![Make white colour](images/make-white.png) \--- /task \---
+![Zrób biały kolor](images/make-white.png) \--- / task \---
 
-\--- task \--- Click on the **circle** tool and then use it to draw a white space helmet around the monkey's head.
+\--- task \--- Kliknij narzędzie **circle** , a następnie użyj go do narysowania białego hełmu wokół głowy małpy.
 
-![Monkey space helmet](images/space-monkey-edit.png)
+![Małpi kosmiczny hełm](images/space-monkey-edit.png)
 
-\--- /task \---
+\--- / task \---
 
-\--- task \--- Can you add code to your monkey sprite so that it spins slowly in a circle forever?
+\--- task \--- Czy możesz dodać kod do swojej sprite małpy, tak aby obracała się powoli w kółko na zawsze?
 
-\--- hints \--- \--- hint \---
+\--- wskazówki \--- \--- wskazówka \---
 
-When the green **flag is clicked**, your monkey sprite should **turn** in a circle **forever**.
+Gdy zielona **flag kliknięciu**, twoja małpa sprite powinien **tura** w okręgu **wiecznie**.
 
-\--- /hint \--- \--- hint \---
+\--- / wskazówka \--- \--- wskazówka \---
 
-Here are the code blocks you need:
-
-```blocks3
-forever
-end
-
-turn cw (15) degrees
-
-when flag clicked
-```
-
-\--- /hint \--- \--- hint \---
-
-Here's the code to make your monkey spin:
-
-![Monkey sprite](images/sprite-monkey.png)
+Oto potrzebne bloki kodu:
 
 ```blocks3
-when flag clicked
-forever
-    turn cw (1) degrees
+na zawsze
+koniec
+
+zakrętu cw (15) stopni
+
+po kliknięciu flagi
 ```
 
-\--- /hint \--- \--- /hints \---
+\--- / wskazówka \--- \--- wskazówka \---
 
-\--- /task \---
+Oto kod, który sprawi, że twoja małpa się zakręci:
 
-Test and save your project. You'll have to click on the red **stop** button to end this animation, as it runs forever!
+![Sprite małpa](images/sprite-monkey.png)
 
-![Test the spinning monkey](images/space-spin-test.png)
+```blocks3
+kiedy flaga kliknęła
+zawsze
+    obrót cw (1) stopni
+```
+
+\--- / wskazówka \--- \--- / wskazówki \---
+
+\--- / task \---
+
+Przetestuj i zapisz swój projekt. Będziesz musiał kliknąć czerwony przycisk **zatrzymania** , aby zakończyć tę animację, ponieważ działa ona wiecznie!
+
+![Przetestuj wirującą małpę](images/space-spin-test.png)
