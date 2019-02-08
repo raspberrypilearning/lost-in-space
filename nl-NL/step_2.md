@@ -1,8 +1,8 @@
-## Animating a spaceship
+## Een ruimteschip animeren
 
 Your first step will be to create a spaceship that flies towards the Earth!
 
-\--- task \---
+\--- task \----
 
 Open a new Scratch project.
 
@@ -57,6 +57,6 @@ Change the numbers in the code blocks you've added so that the code is exactly t
 
 \--- /task \---
 
-If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
+Als je op de groene vlag klikt zie je het ruimteschip praten en zie je het draaien en glijden naar het midden van het speelveld.
 
 ![Testing a spaceship animation](images/space-animate-stage.png)
