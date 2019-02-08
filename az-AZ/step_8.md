@@ -1,11 +1,7 @@
-\--- çağırış \---
-
 ## Challenge: öz animasiya edin
 
-Kosmik animasiyanı dayandırın, saxlamaq və yeni Scratch layihəsinə başlayın.
+Stop your space animation, save it, and start a new Scratch project.
 
-Öz animasiya etmək üçün bu layihədə öyrəndiklərinizi istifadə edin. İstədiyiniz hər hansı bir şey ola bilər, ancaq animasiyanı qəbulu uyğunlaşdırmağa çalışın. Burada bəzi nümunələr var:
+Use what you've learned in this project to make your own animation. It can be anything you like, but try to make your animation match the background you choose. Here are some examples:
 
-![ekran görüntüsü](images/space-egs.png)
-
-\--- / problem
+![screenshot](images/space-egs.png)
