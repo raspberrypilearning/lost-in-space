@@ -1,10 +1,10 @@
-## Floating monkey
+## Schwebender Affe
 
 Now you will add a monkey who's lost in space to your animation!
 
 \--- task \--- Start by adding the 'monkey' sprite from the library.
 
-![Adding a monkey sprite](images/space-monkey-sprite.png)
+![Hinzufügen einer Affen-Figur](images/space-monkey-sprite.png)
 
 \--- /task \---
 
