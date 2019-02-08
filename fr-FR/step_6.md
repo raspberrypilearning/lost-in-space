@@ -1,49 +1,49 @@
-## Astéroïde rebondissant
+## Défi : Créez votre propre animation
 
-Now you will add a floating space rock to your animation.
+Vous allez maintenant ajouter un espace rock flottant à votre animation.
 
-\--- task \--- Add a 'rock' sprite to your animation.
+\--- task \--- Ajoutez un sprite 'rock' à votre animation.
 
-![Adding a rock sprite](images/space-rock-sprite.png)
+![Ajout d’un lutin de roche](images/space-rock-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Can you add code for your rock sprite so that the rock bounces around the stage?
+\--- task \--- Pouvez-vous ajouter du code pour votre sprite rock afin que le rock rebondisse sur la scène?
 
-![Testing a bouncing rock](images/space-bounce-test.png)
+![Tester un rocher rebondissant](images/space-bounce-test.png)
 
-\--- hints \--- \--- hint \--- When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
-
-```blocks3
-move (10) steps
-
-if on edge bounce
-
-when flag clicked
-
-forever
-```
-
-You can also set a more interesting starting direction for the rock sprite with one of these blocks:
+\--- indices \--- \--- indice \--- Lorsque le drapeau vert ** est cliqué ** , votre lutin rocher devrait ** bouger ** et ** rebondir ** autour de la scène ** pour toujours ** . \--- / astuce \--- \--- astuce \--- Voici les blocs de code dont vous avez besoin:
 
 ```blocks3
-turn cw (15) degrees
+déplacer (10) étapes
 
-point towards (Earth v)
+si rebond
+
+lorsque le drapeau est cliqué
+
+pour toujours
 ```
 
-\--- /hint \--- \--- hint \---
-
-Here's the code for making your rock bounce around the stage:
-
-![Rock sprite](images/sprite-rock.png)
+Vous pouvez également définir une direction de départ plus intéressante pour le sprite rock avec l'un de ces blocs:
 
 ```blocks3
-when flag clicked
-point towards (Earth v)
-forever
-    move (2) steps
-    if on edge, bounce
+tourner cw (15) degrés
+
+point vers (Terre v)
 ```
 
-\--- /hint \--- \--- /hints \--- \--- /task \---
+\--- / indice \--- \--- indice \---
+
+Voici le code pour faire rebondir votre rock sur la scène:
+
+![Sprite de roche](images/sprite-rock.png)
+
+```blocks3
+lorsque le drapeau est cliqué sur
+point vers (Terre v)
+pour toujours
+    déplacer (2) étapes
+    si sur rebord
+```
+
+\--- / astuce \--- \--- / astuces \--- \--- / tâche \---
