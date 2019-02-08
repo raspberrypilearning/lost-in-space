@@ -1,16 +1,16 @@
-## Challenge: improve your animation
+## Изазов: побољшајте своју анимацију
 
-Can you change the numbers in your animation code so that:
+Можете ли да промените бројеве у шифри анимације тако да:
 
-+ The spaceship moves until it touches the Earth?
-+ The spaceship moves more slowly towards the Earth?
++ Свемирски брод се помера док не додирне Земљу?
++ Свемирски брод креће спорије према Земљи?
 
-You'll need to change the numbers in this block:
+Мораћете да промените бројеве у овом блоку:
 
-![Rocketship sprite](images/sprite-spaceship.png)
+![Роцкетсхип сприте](images/sprite-spaceship.png)
 
 ```blocks3
-glide (1) secs to x:(0) y:(0)
+глиде (1) сецс то к: (0) и: (0)
 ```
 
 [[[generic-scratch3-coordinates]]]
