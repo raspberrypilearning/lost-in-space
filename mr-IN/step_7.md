@@ -1,47 +1,47 @@
-## Shining star
+## चमकणारा तारा
 
-Now you will combine loops to make a shining star.
+आता चमकदार तारा बनविण्यासाठी आपण लूप एकत्र करू.
 
-\--- task \--- Add a 'star' sprite to your stage.
+\--- कार्य \--- आपल्या स्टेजवर 'स्टार' स्पिट जोडा.
 
-![Adding a star sprite](images/space-star-sprite.png)
+![एक स्टार स्पिट जोडत आहे](images/space-star-sprite.png)
 
-\--- /task \---
+\--- / कार्य \---
 
-\--- task \--- Can you add code to your star sprite to make the star repeatedly grow and shrink?
+\--- कार्य \--- स्टार पुन्हा वारंवार वाढू आणि संकीर्ण करण्यासाठी आपल्या स्टार स्प्राइटमध्ये कोड जोडू शकता?
 
-![Testing a shining star](images/sprite-star.png)
+![चमकणारा तारा तपासत आहे](images/sprite-star.png)
 
-\--- hints \--- \--- hint \--- When the green **flag is clicked**, your star sprite should **change size** to get bigger a few times, and then **change size** to get smaller a few times. It should do this so that it gets bigger and then smaller **forever** and looks like it's shining light. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
-
-```blocks3
-repeat (10)
-end
-
-when flag clicked
-
-repeat (10)
-end
-
-change size by (10)
-
-change size by (10)
-
-forever
-```
-
-\--- /hint \--- \--- hint \--- Here's the code to make your star grow and shrink: ![Star sprite](images/sprite-star.png)
+\--- इशारे \--- \--- इशारा \--- हिरव्या तेव्हा **ध्वज क्लिक केले आहे**, आपल्या स्टार परी पाहिजे **बदल आकार** काही वेळा मोठा, आणि नंतर **बदल आकार** लहान मिळविण्यासाठी काही वेळा. हे असे करणे आवश्यक आहे जेणेकरून ते मोठे होईल आणि नंतर **लहान असेल** आणि ते तेजस्वी प्रकाशासारखे दिसते. \--- / संकेत \--- \--- इशारा \--- येथे आपल्याला आवश्यक असलेले कोड अवरोध आहेत:
 
 ```blocks3
-when flag clicked
-forever
-    repeat (20)
-        change size by (2)
-    end
-    repeat (20)
-        change size by (-2)
-    end
+पुनरावृत्ती (10)
+शेवट
+
+जेव्हा ध्वज क्लिक केले
+
+पुनरावृत्ती (10)
+समाप्ती
+
+बदल आकार (10)
+
+बदलाचे आकार (10)
+
+कायमचे
+```
+
+\--- / संकेत \--- \--- इशारा \--- आपला तारा वाढवण्यासाठी आणि संक्षिप्त करण्यासाठी येथे कोड आहे: ![स्टार स्प्राइट](images/sprite-star.png)
+
+```blocks3
+जेव्हा ध्वज
+कायमचे क्लिक केले जाते
+    पुनरावृत्ती (20)
+        बदल आकार (2)
+    समाप्ती
+    पुनरावृत्ती (20)
+        बदल आकार (-2)
+    समाप्ती
 
 ```
 
-\--- /hint \--- \--- /hints \--- \--- /task \---
+\--- / संकेत \--- \--- / संकेत \--- \--- / कार्य \---
