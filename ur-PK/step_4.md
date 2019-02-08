@@ -1,31 +1,89 @@
-## Animating using loops
+## Animation using loops
 
-جہاز کا متحرک کرنے کا دوسرا راستہ یہ ہے کہ اسے تھوڑا سا بہت سی بار منتقل کرنے کے لۓ بتاؤ.
+Another way to animate the spaceship is to tell it to move a small amount many times
 
-+ حذف `گلائیڈ` اس پر دایاں کلک کر کے اپنے کوڈ سے بلاک اور کلک کرنے **کو خارج کر دیں**. آپ اس کوڈ کو بھی سکرپٹ کے علاقے کو گھسیٹ کر واپس لے کر کوڈ بلاکس کے علاقے میں بھی خارج کرسکتے ہیں.
-    
-    ![گلائڈ بلاک کو حذف کرنا](images/space-delete-glide.png)
+\--- task \--- Delete the `glide`{:class="block3motion"} block from your code. To do this, drag the block off the Code area and drop it back where the other single code blocks are.
 
-+ آپ کو ایک استعمال کرسکتا `دہرانے` زمین کی طرف آپ کے جہاز کو منتقل کرنے کے لئے بلاک؟
-    
-    ٹیسٹ اور بچانے کے: آپ جہاز ایک کو استعمال کرتے ہوئے اس وقت، بالکل پہلے کی طرح زمین کی طرف منتقل کرنا چاہئے `دہرانے` بلاک.
-    
-    ![ایک جہاز حرکت پذیری کی جانچ](images/space-animate-stage.png)
+![Spaceship sprite](images/sprite-spaceship.png)
 
-\--- اشارہ \--- \--- اشارہ \--- بجائے **گلائڈنگ**، آپ کے جہاز **مرتبہ بار بار** **منتقل کرنا چاہئے** ایک وقت میں چند قدم. \--- / اشارہ \--- \--- اشارہ \--- یہاں کوڈ بلاکس آپ کی ضرورت ہو گی ہیں: ![Blocks for an animated spaceship](images/space-repeat-blocks.png) \--- / اشارہ \--- \--- اشارہ \--- یہاں اپنے جہاز متحرک کرنے کے لئے کوڈ ہے: ![Code for an animated spaceship](images/space-repeat-code.png) (آپ مختلف نمبروں میں `بار` اور `` بلاکس کو منتقل کر سکتے ہیں، جب تک کہ جہاز اب بھی زمین پر جاتا ہے!) \--- / اشارہ \--- \--- اشارہ \---
+```blocks3
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
 
-+ کیا آپ اپنی جگہ کو رنگ بدلنے کے لۓ اپنے جہاز کی طرف اشارہ کر سکتے ہیں کیونکہ یہ زمین کی طرف بڑھتی ہے؟
-    
-    ٹیسٹ اور محفوظ کریں.
-    
-    ![ایک رنگ تبدیل کرنے کے جہاز کی جانچ](images/space-colour-test.png)
+- glide (1) secs to x:(0) y:(0)
+```
 
-\--- اشارے \--- \--- اشارہ \--- آپ جہاز کرنا چاہئے **تبدیلی کے رنگ** یہ چلتا ہے کے طور پر. \--- / اشارہ \--- \--- اشارہ \--- یہاں ایک اضافی کوڈ بلاک ہے جو آپ کو ضرورت ہو گی: ![Block for changing colour](images/space-colour-blocks.png) \--- / اشارہ \--- \--- اشارہ \--- آپ کے جہاز کی رنگ تبدیل کرنے کے لئے یہاں کوڈ ہے. ![Code for an animated spaceship](images/space-colour-code.png) \--- / اشارہ \--- \--- / اشارہ \--- \---
+\--- /task \---
 
-+ کیا آپ اپنا جہاز کم کر سکتے ہیں کیونکہ یہ زمین پر ہوتا ہے؟
-    
-    ٹیسٹ اور محفوظ کریں. آپ کا جہاز چھوٹا جاسکتا ہے جیسا کہ یہ چلتا ہے. ایک آپ کے جہاز کو ٹیسٹ **دوسری بار**. کیا یہ صحیح سائز ہے جب یہ شروع ہوتا ہے؟
-    
-    ![ایک سکریو جہاز کی جانچ پڑتال](images/space-size-test.png)
+\--- task \--- Can you use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
 
-\--- اشارہ \--- \--- اشارہ \--- آپ کا جہاز **100٪ سائز**پر شروع ہونا چاہئے، اور اس کے بعد ایک چھوٹا سا رقم کی طرف سے **تبدیلی کے سائز** ہونا چاہئے. \--- / اشارہ \--- \--- اشارہ \--- یہاں کوڈ بلاکس آپ کی ضرورت ہو گی ہے: ![Blocks for changing size](images/space-size-blocks.png) \--- / اشارہ \--- \--- اشارہ \--- یہاں کے طور پر آپ کے جہاز کے سائز کو تبدیل کرنے کا کوڈ ہے یہ چلتا ہے: ![Code for changing size](images/space-size-code.png) \--- / اشارہ \--- \--- / اشارہ \---
+![Testing a spaceship animation](images/space-animate-stage.png)
+
+\--- hints \--- \--- hint \---
+
+Instead of **gliding**, your spaceship should **repeatedly** **move** a few steps at a time.
+
+\--- /hint \--- \--- hint \--- Here are the code blocks you need:
+
+```blocks3
+move (10) steps
+
+repeat (10)
+```
+
+\--- /hint \--- \--- hint \--- Here is the code to animate your spaceship: ![Spaceship sprite](images/sprite-spaceship.png)
+
+```blocks3
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
+```
+
+You can use different numbers in the `repeat`{:class="block3control"} and `move`{:class="block3motion"} blocks, as long as the spaceship still gets to Earth! \--- /hint \--- \--- /hints \---
+
+Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
+
+\--- /task \---
+
+\--- task \--- Can you add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
+
+Use this block:
+
+![Spaceship sprite](images/sprite-spaceship.png)
+
+```blocks3
+change [color v] effect by (25)
+```
+
+Test and save your code.
+
+![Testing a colour-changing spaceship](images/space-colour-test.png)
+
+\--- /task \---
+
+\--- task \--- Can you make your spaceship get smaller as it moves towards Earth?
+
+Your spaceship should start at **100% size**, and then **change size** by a small amount each time it moves.
+
+Use these blocks:
+
+![Spaceship sprite](images/sprite-spaceship.png)
+
+```blocks3
+change size by (10)
+
+set size to (100) %
+```
+
+\--- /task \---
+
+Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
+
+![Testing a shrinking spaceship](images/space-size-test.png)
