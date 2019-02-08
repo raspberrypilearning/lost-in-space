@@ -1,13 +1,47 @@
 ## Bintang Bersinar
 
-Mari gabungkan loop untuk membuat bintang yang bersinar.
+Now you will combine loops to make a shining star.
 
-+ Tambahkan sprite 'bintang' ke animasi Anda.
-    
-    ![Menambahkan sprite bintang](images/space-star-sprite.png)
+\--- task \--- Add a 'star' sprite to your stage.
 
-+ Bisakah Anda mengkodekan bintang Anda untuk berulang kali tumbuh dan menyusut?
-    
-    ![Menguji bintang yang bersinar](images/space-star-test.png)
+![Adding a star sprite](images/space-star-sprite.png)
 
-\--- hints \--- \--- hint\--- Ketika bendera hijau **diklik**, sprite bintang Anda harusnya **mengubah ukurannya** untuk menjadi beberapa kali lebih besar, lalu **mengubah ukurannya** untuk menjadi beberapa kali lebih kecil. Ia harus melakukan ini agar ia membesar dan kemudian mengecil **selamanya**. \--- /hint \--- \--- hint \--- Berikut adalah blok kode yang Anda perlukan: ![Blocks for a shining star](images/space-star-blocks.png) \--- /hint \--- \--- hint \--- Berikut kode untuk membuat bintang anda bersinar: ![Code for a shining star](images/space-star-code.png) \--- /hint \--- \--- /hints \---
+\--- /task \---
+
+\--- task \--- Can you add code to your star sprite to make the star repeatedly grow and shrink?
+
+![Testing a shining star](images/sprite-star.png)
+
+\--- hints \--- \--- hint \--- When the green **flag is clicked**, your star sprite should **change size** to get bigger a few times, and then **change size** to get smaller a few times. It should do this so that it gets bigger and then smaller **forever** and looks like it's shining light. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
+
+```blocks3
+repeat (10)
+end
+
+when flag clicked
+
+repeat (10)
+end
+
+change size by (10)
+
+change size by (10)
+
+forever
+```
+
+\--- /hint \--- \--- hint \--- Here's the code to make your star grow and shrink: ![Star sprite](images/sprite-star.png)
+
+```blocks3
+when flag clicked
+forever
+    repeat (20)
+        change size by (2)
+    end
+    repeat (20)
+        change size by (-2)
+    end
+
+```
+
+\--- /hint \--- \--- /hints \--- \--- /task \---
