@@ -1,13 +1,47 @@
 ## Shining star
 
-Laten we lussen bij elkaar brengen om een ​fonkelende ster te maken.
+Now you will combine loops to make a shining star.
 
-+ Voeg een 'star'-sprite toe aan je animatie.
-    
-    ![Adding a star sprite](images/space-star-sprite.png)
+\--- task \--- Add a 'star' sprite to your stage.
 
-+ Kun je de ster zo programmeren dat die de hele tijd groter en kleiner wordt?
-    
-    ![Testing a shining star](images/space-star-test.png)
+![Adding a star sprite](images/space-star-sprite.png)
 
-\--- hints \--- \--- hint \--- Als de **groene vlag wordt aangeklikt** kun je een paar keer met **verander grootte met** de ster groter maken en met **verander grootte met** die ook weer kleiner maken. De ster zou met **herhaal** voor altijd moeten groeien en krimpen. \--- /hint \--- \--- hint \--- Dit zijn de blokken die je nodig hebt: ![Blocks for a shining star](images/space-star-blocks.png) \--- /hint \--- \--- hint \--- Dit is het programma waarmee je de ster kunt laten fonkelen: ![Code for a shining star](images/space-star-code.png) \--- /hint \--- \--- /hints \---
+\--- /task \---
+
+\--- task \--- Can you add code to your star sprite to make the star repeatedly grow and shrink?
+
+![Testing a shining star](images/sprite-star.png)
+
+\--- hints \--- \--- hint \--- When the green **flag is clicked**, your star sprite should **change size** to get bigger a few times, and then **change size** to get smaller a few times. It should do this so that it gets bigger and then smaller **forever** and looks like it's shining light. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
+
+```blocks3
+repeat (10)
+end
+
+when flag clicked
+
+repeat (10)
+end
+
+change size by (10)
+
+change size by (10)
+
+forever
+```
+
+\--- /hint \--- \--- hint \--- Here's the code to make your star grow and shrink: ![Star sprite](images/sprite-star.png)
+
+```blocks3
+when flag clicked
+forever
+    repeat (20)
+        change size by (2)
+    end
+    repeat (20)
+        change size by (-2)
+    end
+
+```
+
+\--- /hint \--- \--- /hints \--- \--- /task \---
