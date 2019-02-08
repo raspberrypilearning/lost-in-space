@@ -1,47 +1,47 @@
 ## Étoile brillante
 
-Now you will combine loops to make a shining star.
+Maintenant, vous allez combiner les boucles pour faire une étoile brillante.
 
-\--- task \--- Add a 'star' sprite to your stage.
+\--- task \--- Ajoutez un sprite 'star' à votre scène.
 
-![Adding a star sprite](images/space-star-sprite.png)
+![Ajout d’un lutin étoile](images/space-star-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Can you add code to your star sprite to make the star repeatedly grow and shrink?
+\--- task \--- Pouvez-vous ajouter du code à votre sprite d'étoile pour faire croître et rétrécir l'étoile de façon répétée?
 
-![Testing a shining star](images/sprite-star.png)
+![Tester une étoile brillante](images/sprite-star.png)
 
-\--- hints \--- \--- hint \--- When the green **flag is clicked**, your star sprite should **change size** to get bigger a few times, and then **change size** to get smaller a few times. It should do this so that it gets bigger and then smaller **forever** and looks like it's shining light. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
-
-```blocks3
-repeat (10)
-end
-
-when flag clicked
-
-repeat (10)
-end
-
-change size by (10)
-
-change size by (10)
-
-forever
-```
-
-\--- /hint \--- \--- hint \--- Here's the code to make your star grow and shrink: ![Star sprite](images/sprite-star.png)
+\--- hints \--- \--- hint \--- Lorsque le drapeau vert ** est cliqué ** , votre lutin étoile devrait ** changer de taille ** pour grossir plusieurs fois, puis ** changer de taille ** devenir plus petit plusieurs fois. Il devrait le faire afin qu'il soit plus grand et plus petit **pour toujours** et ressemble à ça brille la lumière. \--- / astuce \--- \--- astuce \--- Voici les blocs de code dont vous avez besoin:
 
 ```blocks3
-when flag clicked
-forever
-    repeat (20)
-        change size by (2)
-    end
-    repeat (20)
-        change size by (-2)
-    end
+répéter (10)
+fin
+
+lorsque le drapeau est cliqué
+
+répéter (10)
+fin
+
+changer la taille de (10)
+
+changer la taille de (10)
+
+pour toujours
+```
+
+\--- / indice \--- \--- indice \--- Voici le code pour faire grossir et réduire votre étoile: ![Star Sprite](images/sprite-star.png)
+
+```blocks3
+Lorsque le drapeau est cliqué
+pour toujours
+    répéter (20)
+        changer la taille de (2)
+    fin
+    répéter (20)
+        changer de taille de (-2)
+    fin
 
 ```
 
-\--- /hint \--- \--- /hints \--- \--- /task \---
+\--- / astuce \--- \--- / astuces \--- \--- / tâche \---
