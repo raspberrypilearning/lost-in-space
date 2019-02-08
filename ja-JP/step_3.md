@@ -1,11 +1,11 @@
-## Challenge: improve your animation
+## 宇宙船 (うちゅうせん) のアニメーション
 
 Can you change the numbers in your animation code so that:
 
-+ The spaceship moves until it touches the Earth?
-+ The spaceship moves more slowly towards the Earth?
++ 宇宙船を地球にタッチするまで動かす
++ 宇宙船を地球に向かって、もっとゆっくり動かす
 
-You'll need to change the numbers in this block:
+このブロックの値を変える必要があります。
 
 ![Rocketship sprite](images/sprite-spaceship.png)
 
