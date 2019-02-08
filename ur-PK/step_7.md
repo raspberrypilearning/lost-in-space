@@ -1,13 +1,47 @@
 ## Shining star
 
-چلو ایک چمکتا ستارہ بنانے کے لئے loops جمع.
+Now you will combine loops to make a shining star.
 
-+ آپ کے حرکت پذیری میں ایک 'ستارہ' سپرے شامل کریں.
-    
-    ![ایک ستارہ سپرے شامل](images/space-star-sprite.png)
+\--- task \--- Add a 'star' sprite to your stage.
 
-+ کیا آپ اپنے اسٹار کو بار بار بڑھنے اور ہٹانے کے لۓ کر سکتے ہیں؟
-    
-    ![چمکتا ستارہ کی جانچ پڑتال](images/space-star-test.png)
+![Adding a star sprite](images/space-star-sprite.png)
 
-\--- اشارے \--- \--- اشارہ \--- سبز جب **پرچم پر کلک کیا جاتا ہے**، اپنا ستارہ سپرائٹ چاہئے **تبدیلی سائز** بڑی چند بار حاصل کرنے کے لئے، اور پھر **تبدیلی سائز** چھوٹا چند بار حاصل کرنے کے لئے . یہ اگتا ہے تاکہ یہ اس کو کیا کرنا چاہئے اور اس کے بعد کردیتا **ہمیشہ کے لئے**. \--- / اشارہ \--- \--- اشارہ \--- یہاں کوڈ بلاکس آپ کو ضرورت ہو گی: ![Blocks for a shining star](images/space-star-blocks.png) \--- / اشارہ \--- \--- اشارہ \--- آپ کے ستارہ چمک بنانے کے لئے یہاں کوڈ ہے: ![Code for a shining star](images/space-star-code.png) \--- / اشارہ \--- \--- / اشارہ \---
+\--- /task \---
+
+\--- task \--- Can you add code to your star sprite to make the star repeatedly grow and shrink?
+
+![Testing a shining star](images/sprite-star.png)
+
+\--- hints \--- \--- hint \--- When the green **flag is clicked**, your star sprite should **change size** to get bigger a few times, and then **change size** to get smaller a few times. It should do this so that it gets bigger and then smaller **forever** and looks like it's shining light. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
+
+```blocks3
+repeat (10)
+end
+
+when flag clicked
+
+repeat (10)
+end
+
+change size by (10)
+
+change size by (10)
+
+forever
+```
+
+\--- /hint \--- \--- hint \--- Here's the code to make your star grow and shrink: ![Star sprite](images/sprite-star.png)
+
+```blocks3
+when flag clicked
+forever
+    repeat (20)
+        change size by (2)
+    end
+    repeat (20)
+        change size by (-2)
+    end
+
+```
+
+\--- /hint \--- \--- /hints \--- \--- /task \---
