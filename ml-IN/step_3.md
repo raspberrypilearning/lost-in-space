@@ -1,56 +1,16 @@
-## Animating a spaceship
+## Challenge: improve your animation
 
-ഭൂമിയുടെ ആകാശത്തു പറക്കുന്ന ഒരു വിക്ഷേപണം ഉണ്ടാക്കാം!
+Can you change the numbers in your animation code so that:
 
-+ ഒരു പുതിയ ശൂന്യ സ്ക്രോച്ച് പ്രോജക്റ്റ് തുറക്കുക.
++ The spaceship moves until it touches the Earth?
++ The spaceship moves more slowly towards the Earth?
 
-[[[generic-scratch-new-project]]]
+You'll need to change the numbers in this block:
 
-+ നിങ്ങളുടെ സ്റ്റേഷനിൽ 'ശൂന്യാകാശ', 'ഭൂമി' സ്പൈറ്റുകൾ എന്നിവ ചേർക്കുക.
-    
-    ![സ്പെയ്സ്ഷിപ്പ് ആൻഡ് എർത്ത് സ്പിരിറ്റ്സ്](images/space-sprites.png)
+![Rocketship sprite](images/sprite-spaceship.png)
 
-[[[generic-scratch-sprite-from-library]]]
+```blocks3
+glide (1) secs to x:(0) y:(0)
+```
 
-+ നിങ്ങളുടെ സ്റ്റേജിലേക്ക് 'നക്ഷത്രങ്ങൾ' ബാക്ക്ട്രോപ്പ് ചേർക്കുക.
-    
-    ![ഒരു സ്പെയ്സ് ബാക്ക്ഡ്രോപ്പ്](images/space-backdrop.png)
-
-[[[generic-scratch-backdrop-from-library]]]
-
-+ നിങ്ങളുടെ spaceship sprite- ൽ ക്ലിക്ക് ചെയ്യുക, **കോസ്റ്റ്യുകൾ** ടാബിൽ ക്ലിക്കുചെയ്യുക.
-    
-    ![Sprite കോസ്റ്റ്യൂം](images/space-costume.png)
-
-+ ഇമേജ് തിരഞ്ഞെടുക്കുന്നതിന് **അമ്പടയാളം** ഉപകരണം ഉപയോഗിക്കുക. തുടർന്ന് സർക്യുർ **കറക് തിരുകുക** ഹാൻഡിൽ ക്ലിക്ക് ചെയ്യുക. ചിത്രത്തിന്റെ വശത്തേക്ക് അതുവരെ തിരിക്കുക.
-    
-    ![ഒരു വേഷവും തിരിക്കുന്നു](images/space-rotate.png)
-
-+ നിങ്ങളുടെ കോപ്പി സ്പ്രൈറ്റിലേക്ക് ഈ കോഡ് ചേർക്കുക:
-    
-    ![വിന്യാസ കോഡ്](images/space-animate.png)
-    
-    കോഡ് ബ്ലോക്കിലെ നമ്പറുകൾ മാറ്റുക അങ്ങനെ കോഡ് മുകളിൽ ഇമേജിൽ പോലെ തന്നെയാണ്.
-    
-    നിങ്ങൾ പച്ച പതാകലിൽ ക്ലിക്കുചെയ്താൽ, നിങ്ങൾക്ക് സ്പെയ്സഷിപ്പ് കാണും, തിരിഞ്ഞ്, സ്റ്റേജിലെ മധ്യഭാഗത്തേക്ക് തിരിയുക.
-    
-    ![ഒരു സ്പേസ്സൈറ്റ് ആനിമേഷൻ പരിശോധിക്കുന്നു](images/space-animate-stage.png)
-
-[[[generic-scratch-saving]]]
-
-\--- വെല്ലുവിളി \---
-
-## വെല്ലുവിളി: നിങ്ങളുടെ ആനിമേഷൻ മെച്ചപ്പെടുത്തുക
-
-നിങ്ങളുടെ ആനിമേഷൻ കോഡിലെ സംഖ്യകൾ മാറ്റാനാകുമോ, അപ്പോൾ:
-
-+ ഭൂമിയെ സ്പർശിക്കുന്നതുവരെ സ്പേസ്ഷിപ്പി നീങ്ങുന്നുവോ?
-+ ഭൂമിയുടെ സാവധാനം പോകാറായോ?
-
-ഈ ബ്ലോക്കിലെ നമ്പറുകൾ നിങ്ങൾ മാറ്റേണ്ടതാണ്:
-
-![ഗ്ലൈഡ് ബ്ലോക്ക്](images/space-glide.png)
-
-[[[generic-scratch-coordinates]]]
-
-\--- / വെല്ലുവിളി \---
+[[[generic-scratch3-coordinates]]]
