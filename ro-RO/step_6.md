@@ -1,49 +1,49 @@
-## Bouncing asteroid
+## Bomba asteroidului
 
-Now you will add a floating space rock to your animation.
+Acum veți adăuga o piatră spațială plutitoare în animația dvs.
 
-\--- task \--- Add a 'rock' sprite to your animation.
+\--- task \--- Adăugați un sprite "rock" la animație.
 
-![Adding a rock sprite](images/space-rock-sprite.png)
+![Adăugarea unui sprite rock](images/space-rock-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Can you add code for your rock sprite so that the rock bounces around the stage?
+\--- task \--- Poți să adaugi un cod pentru sprite-ul tău rock, astfel încât rockul să bată în jurul scenei?
 
-![Testing a bouncing rock](images/space-bounce-test.png)
+![Testarea unei stânci răvășitoare](images/space-bounce-test.png)
 
-\--- hints \--- \--- hint \--- When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
-
-```blocks3
-move (10) steps
-
-if on edge bounce
-
-when flag clicked
-
-forever
-```
-
-You can also set a more interesting starting direction for the rock sprite with one of these blocks:
+\--- indicii \--- \--- indiciu \--- Când verde **pavilion este apasat**, roca sprite - ul ar trebui să **muta** și **Bounce** în jurul scenei **pentru totdeauna**. \--- / hint \--- \--- sugestie \--- Aici sunt blocurile de cod de care aveți nevoie:
 
 ```blocks3
-turn cw (15) degrees
+mișcați (10) pașii
 
-point towards (Earth v)
+dacă faceți saltul de margine
+
+atunci când steagul a dat clic pe
+
+pentru totdeauna
 ```
 
-\--- /hint \--- \--- hint \---
-
-Here's the code for making your rock bounce around the stage:
-
-![Rock sprite](images/sprite-rock.png)
+De asemenea, puteți seta o direcție de pornire mai interesantă pentru sprite rock cu unul dintre aceste blocuri:
 
 ```blocks3
-when flag clicked
-point towards (Earth v)
-forever
-    move (2) steps
-    if on edge, bounce
+rotiți cw (15) grade
+
+punct spre (Pamant v)
 ```
 
-\--- /hint \--- \--- /hints \--- \--- /task \---
+\--- / indiciu \--- \--- indiciu \---
+
+Iată codul pentru a face rock-ul sări în jurul scenei:
+
+![Sprite rock](images/sprite-rock.png)
+
+```blocks3
+când pavilionul a dat clic
+spre (Pământ v)
+pentru totdeauna
+    mișcați (2) pași
+    dacă pe margine, săriți
+```
+
+\--- / indiciu \--- \--- / sugestii \--- \--- / sarcina \---
