@@ -4,15 +4,15 @@ Now you will add a floating space rock to your animation.
 
 \--- task \--- Add a 'rock' sprite to your animation.
 
-![Adding a rock sprite](images/space-rock-sprite.png)
+![إضافة كائن القرد](images/space-rock-sprite.png)
 
 \--- /task \---
 
 \--- task \--- Can you add code for your rock sprite so that the rock bounces around the stage?
 
-![Testing a bouncing rock](images/space-bounce-test.png)
+![اختبار إرتداد الصخرة](images/space-bounce-test.png)
 
-\--- hints \--- \--- hint \--- When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
+\--- hints \--- \--- hint \--- **عند النقر فوق العلم الأخضر**، يجب أن ي**تحرك** كائن الصخرة و **يرتد** عن حواف المنصة **باستمرار**. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
 
 ```blocks3
 move (10) steps
