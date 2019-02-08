@@ -1,49 +1,49 @@
-## Bouncing asteroid
+## Боунцинг астероид
 
-Now you will add a floating space rock to your animation.
+Сада ћете својој анимацији додати плутајућу свемирску стијену.
 
-\--- task \--- Add a 'rock' sprite to your animation.
+\--- задатак \--- Додајте 'роцк' сприте својој анимацији.
 
-![Adding a rock sprite](images/space-rock-sprite.png)
+![Додавање каменог духова](images/space-rock-sprite.png)
 
-\--- /task \---
+\--- /задатак \---
 
-\--- task \--- Can you add code for your rock sprite so that the rock bounces around the stage?
+\--- задатак \--- Можете ли додати код за ваш роцк сприте тако да се роцк боунцес око позорнице?
 
-![Testing a bouncing rock](images/space-bounce-test.png)
+![Тестирање одскочног камена](images/space-bounce-test.png)
 
-\--- hints \--- \--- hint \--- When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
-
-```blocks3
-move (10) steps
-
-if on edge bounce
-
-when flag clicked
-
-forever
-```
-
-You can also set a more interesting starting direction for the rock sprite with one of these blocks:
+\--- савети \--- \--- наговештај \--- Када је зелени **застава се кликне**, ваш рок дух треба **потез** и **Боунце** око бине **заувек**. \--- / хинт \--- \--- хинт \--- Овде су кодни блокови који су вам потребни:
 
 ```blocks3
-turn cw (15) degrees
+преместите (10) кораке
 
-point towards (Earth v)
+ако се на ивици одбије
+
+када је заставица кликнула
+
+заувек
 ```
 
-\--- /hint \--- \--- hint \---
-
-Here's the code for making your rock bounce around the stage:
-
-![Rock sprite](images/sprite-rock.png)
+Такође можете да поставите занимљивији правац покретања за роцк сприте са једним од ових блокова:
 
 ```blocks3
-when flag clicked
-point towards (Earth v)
-forever
-    move (2) steps
-    if on edge, bounce
+окренути цв (15) степени
+
+према (Еартх в)
 ```
 
-\--- /hint \--- \--- /hints \--- \--- /task \---
+\--- / хинт \--- \--- хинт \---
+
+Ево шифре за израду одскочне даске на стази:
+
+![Роцк сприте](images/sprite-rock.png)
+
+```blocks3
+када је заставица кликнула
+правцу (Земља в)
+заувек
+    померила (2) кораке
+    ако су на ивици, одбили
+```
+
+\--- / хинт \--- \--- / хинтс \--- \--- / таск \---
