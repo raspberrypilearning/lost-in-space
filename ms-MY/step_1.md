@@ -1,22 +1,63 @@
+\--- no-print \---
+
+This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
+
+\--- /no-print \---
+
 ## Pengenalan
 
-Anda akan belajar bagaimana untuk memprogram animasi anda sendiri!
+You are going to learn how to program your own animation!
 
 ### Apa yang anda akan buat
 
+\--- no-print \--- Click on the green flag to see the animation.
+
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/26818098/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
   <img src="images/space-final.png">
 </div>
 
-### Apa yang akan anda pelajari
+\--- /no-print \---
 
-Projek ini merangkumi unsur-unsur dari helaian berikut [Kurikulum Pembuatan Digital Raspberry Pi](http://rpf.io/curriculum):
+\--- print-only \---
 
-+ [Gunakan pembentukan pengaturcaraan asas untuk membuat program mudah.](https://www.raspberrypi.org/curriculum/programming/creator)
+![Complete project](images/showcase_static.png)
 
-### Maklumat tambahan untuk pendidik
+\--- /print-only \---
 
-Jika anda perlu mencetak projek ini, sila gunakan versi [mesra pencetak](https://projects.raspberrypi.org/en/projects/lost-in-space/print){: target = "_ blank"}.
+## \--- collapse \---
 
-Gunakan pautan di footer untuk mengakses repositori GitHub untuk projek ini, yang mengandungi semua sumber (termasuk contoh projek selesai) di folder 'en / resources'.
+## title: What you will need
+
+### Hardware
+
++ A computer capable of running Scratch 3
+
+### Software
+
++ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
+
+### Downloads
+
++ None
+
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: What you will learn
+
++ Animate a sprite using a loop
++ Change the appearance of a sprite
+
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: Additional information for educators
+
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
+
+[Here is a link to the solution for this project](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+
+\--- /collapse \---
