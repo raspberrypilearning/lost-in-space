@@ -1,13 +1,49 @@
 ## Bouncing asteroid
 
-आपल्या एनिमेशन मध्ये काही फ्लोटिंग स्पेस रॉक जोडू.
+Now you will add a floating space rock to your animation.
 
-+ आपल्या अॅनिमेशनमध्ये एक 'रॉक' प्रेत जोडा.
-    
-    ![एक रॉक प्रेत जोडणे](images/space-rock-sprite.png)
+\--- task \--- Add a 'rock' sprite to your animation.
 
-+ आपण आपल्या रॉक परीला स्टेजच्या सभोवताली बाऊन्स करु शकता का?
-    
-    ![शेथिंग रॉकची चाचणी करणे](images/space-bounce-test.png)
+![Adding a rock sprite](images/space-rock-sprite.png)
 
-\--- इशारे \--- \--- इशारा \--- हिरव्या तेव्हा **ध्वज क्लिक केले आहे**, आपल्या रॉक परी पाहिजे **हलवा** आणि **बाऊन्स** टप्प्यात सुमारे **कायमचे**. \--- / इशारा \--- \--- इशारा \--- येथे आपल्याला आवश्यक असलेल्या कोड ब्लॉक आहेत: ![Blocks for a bouncing rock](images/space-bounce-blocks.png) आपण या ब्लॉक्सपैकी एकासह रॉकसाठी अधिक मनोरंजक सुगम दिशा सेट देखील करू शकता: ![Setting the rock's initial position](images/space-initial-position.png) \--- / इशारा \--- \--- इशारा \--- याठिकाणी आपल्या रॉकला बाउन्स करण्यासाठी हा कोड आहे: ![Code for a bouncing rock](images/space-bounce-code.png) \--- / इशारा \--- \--- / संकेत \---
+\--- /task \---
+
+\--- task \--- Can you add code for your rock sprite so that the rock bounces around the stage?
+
+![Testing a bouncing rock](images/space-bounce-test.png)
+
+\--- hints \--- \--- hint \--- When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
+
+```blocks3
+move (10) steps
+
+if on edge bounce
+
+when flag clicked
+
+forever
+```
+
+You can also set a more interesting starting direction for the rock sprite with one of these blocks:
+
+```blocks3
+turn cw (15) degrees
+
+point towards (Earth v)
+```
+
+\--- /hint \--- \--- hint \---
+
+Here's the code for making your rock bounce around the stage:
+
+![Rock sprite](images/sprite-rock.png)
+
+```blocks3
+when flag clicked
+point towards (Earth v)
+forever
+    move (2) steps
+    if on edge, bounce
+```
+
+\--- /hint \--- \--- /hints \--- \--- /task \---
