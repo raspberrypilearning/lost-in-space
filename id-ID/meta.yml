@@ -12,12 +12,12 @@ steps:
   - 
     title: pengantar
   - 
-    title: Animating a spaceship
+    title: Animasi pesawat ruang angkasa
   - 
-    title: 'Challenge: improve your animation'
+    title: 'Tantangan: tingkatkan animasi Anda'
     challenge: true
   - 
-    title: Animation using loops
+    title: Animasi menggunakan loop
   - 
     title: Monyet mengambang
   - 
@@ -28,4 +28,4 @@ steps:
     title: 'Tantangan: buat animasi Anda sendiri'
     challenge: true
   - 
-    title: What next?
+    title: Apa selanjutnya?
