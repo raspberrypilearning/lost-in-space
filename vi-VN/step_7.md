@@ -1,13 +1,47 @@
-## Shining star
+## Ngôi sao sáng
 
-Hãy kết hợp các vòng để tạo ra một ngôi sao sáng.
+Bây giờ bạn sẽ kết hợp các vòng lặp để tạo thành một ngôi sao sáng.
 
-+ Thêm ảnh 'sao' vào hoạt ảnh của bạn.
-    
-    ![Thêm một ngôi sao sprite](images/space-star-sprite.png)
+\--- task \--- Thêm một sprite 'star' vào sân khấu của bạn.
 
-+ Bạn có thể mã ngôi sao của bạn liên tục phát triển và thu nhỏ không?
-    
-    ![Thử nghiệm một ngôi sao sáng](images/space-star-test.png)
+![Thêm một ngôi sao](images/space-star-sprite.png)
 
-\--- gợi ý \--- \--- gợi ý \--- Khi cờ **màu xanh lá cây được nhấp**, ma sao của bạn nên **thay đổi kích thước** để có được lớn hơn một vài lần, và sau đó **thay đổi kích thước** để có được nhỏ hơn một vài lần . Nó nên làm điều này để nó phát triển và sau đó co lại **mãi mãi**. \--- / hint \--- \--- hint \--- Đây là các khối mã bạn sẽ cần: ![Blocks for a shining star](images/space-star-blocks.png) \--- / hint \--- \--- hint \--- Đây là mã để làm cho ngôi sao của bạn tỏa sáng: ![Code for a shining star](images/space-star-code.png) \--- / gợi ý \--- \--- / gợi ý \---
+\--- /bài tập \---
+
+\--- task \--- Bạn có thể thêm mã vào sprite sao của mình để làm cho ngôi sao liên tục phát triển và co lại không?
+
+![Thử nghiệm một ngôi sao sáng](images/sprite-star.png)
+
+\--- gợi ý \--- \--- gợi ý \--- Khi màu xanh lá cây **lá cờ được nhấp**, ma sao bạn nên **thay đổi kích thước** để có được lớn hơn một vài lần, và sau đó **thay đổi kích thước** để có được một nhỏ vài lần. Nó nên làm điều này để nó lớn hơn và nhỏ hơn **mãi mãi** và trông giống như nó đang phát sáng. \--- / gợi ý \--- \--- gợi ý \--- Đây là các khối mã bạn cần:
+
+```blocks3
+lặp lại (10)
+kết thúc
+
+khi cờ nhấp
+
+lần lặp lại (10)
+kết thúc
+
+thay đổi kích thước bằng (10)
+
+thay đổi kích thước theo (10)
+
+mãi mãi
+```
+
+\--- / gợi ý \--- \--- gợi ý \--- Đây là mã để làm cho ngôi sao của bạn phát triển và co lại: ![Ngôi sao](images/sprite-star.png)
+
+```blocks3
+khi cờ nhấp
+mãi mãi
+    lặp lại (20)
+        thay đổi kích thước bằng (2)
+    kết thúc
+    lặp lại (20)
+        thay đổi kích thước theo (-2)
+    kết thúc
+
+```
+
+\--- / gợi ý \--- \--- / gợi ý \--- \--- / nhiệm vụ \---
