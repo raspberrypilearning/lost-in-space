@@ -1,31 +1,31 @@
 ---
 title: Zagubiona w kosmosie
-hero_image: images/lost-in-space.png
+hero_image: images / lost-in-space.png
 description: Naucz się, jak zaprogramować swoją własną animację!
 original_url: https://www.codeclubprojects.org/en-GB/scratch/lost-in-space
 listed: true
 copyedit: true
-technologies: scratch
+technologies: zadraśnięcie
 version: 4
 last_tested: 2017-11-01
 steps:
   - 
     title: Zagubiona w kosmosie
   - 
-    title: Animating a spaceship
+    title: Animowanie statku kosmicznego
   - 
-    title: 'Challenge: improve your animation'
+    title: 'Wyzwanie: popraw swoją animację'
     challenge: true
   - 
-    title: Animation using loops
+    title: Animacja za pomocą pętli
   - 
-    title: Floating monkey
+    title: Pływająca małpa
   - 
-    title: Bouncing asteroid
+    title: Odbijając asteroidę
   - 
-    title: Shining star
+    title: Błyszcząca gwiazda
   - 
-    title: 'Challenge: make your own animation'
+    title: 'Wyzwanie: zrób własną animację'
     challenge: true
   - 
-    title: What next?
+    title: Co następne?
