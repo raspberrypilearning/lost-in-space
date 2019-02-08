@@ -1,13 +1,49 @@
 ## Bouncing asteroid
 
-چلو آپ کے حرکت پذیری پر کچھ فلوٹنگ خلائی راک شامل کریں.
+Now you will add a floating space rock to your animation.
 
-+ آپ کے حرکت پذیری کے لئے ایک 'راک' سپرے شامل کریں.
-    
-    ![ایک پتھر سپرے شامل](images/space-rock-sprite.png)
+\--- task \--- Add a 'rock' sprite to your animation.
 
-+ کیا آپ اپنے پتھر کی چھلانگ کو اسٹیج کے ارد گرد اچھالنے کے لۓ کر سکتے ہیں؟
-    
-    ![ایک شیخی پتھر کی جانچ پڑتال](images/space-bounce-test.png)
+![Adding a rock sprite](images/space-rock-sprite.png)
 
-\--- اشارے \--- \--- اشارہ \--- سبز جب **پرچم پر کلک کیا جاتا ہے**، آپ کی چٹان سپرائٹ ہونا چاہئے **اقدام** اور **اچھال** سٹیج کے ارد گرد **ہمیشہ کے**. \--- / اشارہ \--- \--- اشارہ \--- یہاں کوڈ بلاک ہیں جو آپ کی ضرورت ہو گی: ![Blocks for a bouncing rock](images/space-bounce-blocks.png) آپ کو ان بلاکس میں سے ایک کے ساتھ ایک دلچسپ دلچسپ آغاز سمت مقرر کر سکتے ہیں: ![Setting the rock's initial position](images/space-initial-position.png) \--- \--- / اشارہ \--- \--- اشارہ \--- مرحلہ کے ارد گرد اپنے پتھر اچھالنے کے لئے یہاں کوڈ ہے: ![Code for a bouncing rock](images/space-bounce-code.png) \--- / اشارہ \--- \--- / اشارہ \---
+\--- /task \---
+
+\--- task \--- Can you add code for your rock sprite so that the rock bounces around the stage?
+
+![Testing a bouncing rock](images/space-bounce-test.png)
+
+\--- hints \--- \--- hint \--- When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
+
+```blocks3
+move (10) steps
+
+if on edge bounce
+
+when flag clicked
+
+forever
+```
+
+You can also set a more interesting starting direction for the rock sprite with one of these blocks:
+
+```blocks3
+turn cw (15) degrees
+
+point towards (Earth v)
+```
+
+\--- /hint \--- \--- hint \---
+
+Here's the code for making your rock bounce around the stage:
+
+![Rock sprite](images/sprite-rock.png)
+
+```blocks3
+when flag clicked
+point towards (Earth v)
+forever
+    move (2) steps
+    if on edge, bounce
+```
+
+\--- /hint \--- \--- /hints \--- \--- /task \---
