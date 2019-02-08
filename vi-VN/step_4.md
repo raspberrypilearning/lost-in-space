@@ -1,31 +1,89 @@
-## Animating using loops
+## Hoạt hình sử dụng các vòng lặp
 
-Một cách khác để tạo động lực cho tàu vũ trụ là nói với nó để di chuyển một số lượng nhỏ rất nhiều lần.
+Một cách khác để làm sống động tàu vũ trụ là bảo nó di chuyển một lượng nhỏ nhiều lần
 
-+ Xóa khối `trượt` khỏi mã của bạn bằng cách nhấp chuột phải vào mã đó và nhấp vào **xóa**. Bạn cũng có thể xóa mã bằng cách kéo nó ra khỏi vùng Script và quay trở lại khu vực Chặn mã.
-    
-    ![Xóa khối trượt](images/space-delete-glide.png)
+\--- task \--- Xóa khối `glide`{: class = "block3motion"} khỏi mã của bạn. Để thực hiện việc này, hãy kéo khối ra khỏi vùng Mã và thả nó trở lại nơi có các khối mã đơn lẻ khác.
 
-+ Bạn có thể sử dụng `lặp lại` khối để di chuyển tàu vũ trụ của bạn về phía Trái đất không?
-    
-    Kiểm tra và lưu: Tàu vũ trụ của bạn nên di chuyển về phía Trái đất chính xác như trước đây, lần này bằng cách sử dụng một khối `lặp lại`.
-    
-    ![Thử nghiệm hoạt ảnh trên tàu vũ trụ](images/space-animate-stage.png)
+![Tàu vũ trụ](images/sprite-spaceship.png)
 
-\--- gợi ý \--- \--- gợi ý \--- Thay vì **trượt**, tàu vũ trụ của bạn nên **liên tục** **di chuyển** một vài bước tại một thời điểm. \--- / hint \--- \--- hint \--- Đây là các khối mã bạn sẽ cần: ![Blocks for an animated spaceship](images/space-repeat-blocks.png) \--- / hint \--- \--- hint \--- Đây là mã để tạo hiệu ứng cho tàu vũ trụ của bạn: ![Code for an animated spaceship](images/space-repeat-code.png) (Bạn có thể sử dụng các số khác nhau trong `lặp lại` và `di chuyển` khối, miễn là tàu vũ trụ vẫn tiếp tục vào Trái đất!) \--- / hint \--- \--- / hint \---
+```blocks3
+khi cờ nhấp
+điểm theo hướng (0)
+đi đến x: (- 150) y: (- 150)
+nói [Hãy đi] trong (2) giây
+điểm về phía (Trái đất v)
 
-+ Bạn có thể mã tàu vũ trụ của bạn để thay đổi màu sắc khi nó di chuyển về phía Trái Đất không?
-    
-    Kiểm tra và lưu.
-    
-    ![Kiểm tra tàu vũ trụ thay đổi màu sắc](images/space-colour-test.png)
+- lướt (1) giây đến x: (0) y: (0)
+```
 
-\--- gợi ý \--- \--- gợi ý \--- Tàu vũ trụ của bạn nên **thay đổi màu** khi nó di chuyển. \--- / hint \--- \--- hint \--- Đây là khối mã phụ bạn sẽ cần: ![Block for changing colour](images/space-colour-blocks.png) \--- / hint \--- \--- hint \--- Đây là mã để thay đổi màu của tàu vũ trụ : ![Code for an animated spaceship](images/space-colour-code.png) \--- / gợi ý \--- \--- / gợi ý \---
+\--- /bài tập \---
 
-+ Bạn có thể làm cho tàu vũ trụ của bạn nhận được nhỏ hơn khi nó được trái đất?
-    
-    Kiểm tra và lưu. Tàu vũ trụ của bạn sẽ nhỏ hơn khi nó di chuyển. Kiểm tra con tàu vũ trụ của bạn một **giây thời gian**. Nó có đúng kích cỡ khi nó bắt đầu không?
-    
-    ![Thử nghiệm một tàu vũ trụ thu hẹp](images/space-size-test.png)
+\--- task \--- Bạn có thể sử dụng khối `lặp`{: class = "block3control"} để di chuyển tàu vũ trụ của bạn về Trái đất không?
 
-\--- gợi ý \--- \--- gợi ý \--- Tàu vũ trụ của bạn nên bắt đầu ở **100% kích thước**, và sau đó **thay đổi kích thước** bởi một lượng nhỏ khi nó di chuyển. \--- / hint \--- \--- hint \--- Đây là các khối mã bạn sẽ cần: ![Blocks for changing size](images/space-size-blocks.png) \--- / hint \--- \--- hint \--- Đây là mã để thay đổi kích thước của tàu vũ trụ của bạn nó di chuyển: ![Code for changing size](images/space-size-code.png) \--- / hint \--- \--- / hint \---
+![Thử nghiệm hoạt hình tàu vũ trụ](images/space-animate-stage.png)
+
+\--- gợi ý \--- \--- gợi ý \---
+
+Thay vì **trượt**, tàu vũ trụ của bạn nên **lần lặp lại** **di chuyển** một vài bước một lần.
+
+\--- / gợi ý \--- \--- gợi ý \--- Đây là các khối mã bạn cần:
+
+```blocks3
+di chuyển (10) bước
+
+lặp lại (10)
+```
+
+\--- / gợi ý \--- \--- gợi ý \--- Đây là mã để hoạt hình tàu vũ trụ của bạn: ![Tàu vũ trụ](images/sprite-spaceship.png)
+
+```blocks3
+khi cờ nhấp
+điểm theo hướng (0)
+đi đến x: (- 150) y: (- 150)
+nói [Hãy đi] trong (2) giây
+điểm về phía (Trái đất v)
+lặp lại (200)
+    (2) bước
+```
+
+Bạn có thể sử dụng các số khác nhau trong các khối `lặp lại`{: class = "block3control"} và `di chuyển`{: class = "block3motion"}, miễn là tàu vũ trụ vẫn đến Trái đất! \--- / gợi ý \--- \--- / gợi ý \---
+
+Kiểm tra và lưu mã của bạn. Tàu vũ trụ của bạn sẽ di chuyển về Trái đất chính xác như trước đây, nhưng lần này nó sử dụng khối `lặp lại`{: class = "block3control"}.
+
+\--- /bài tập \---
+
+\--- task \--- Bạn có thể thêm mã vào sprite tàu vũ trụ của mình để tàu vũ trụ đổi màu khi nó di chuyển về Trái đất không?
+
+Sử dụng khối này:
+
+![Tàu vũ trụ](images/sprite-spaceship.png)
+
+```blocks3
+thay đổi hiệu ứng [màu v] bằng (25)
+```
+
+Kiểm tra và lưu mã của bạn.
+
+![Kiểm tra tàu vũ trụ đổi màu](images/space-colour-test.png)
+
+\--- /bài tập \---
+
+\--- nhiệm vụ \--- Bạn có thể làm cho tàu vũ trụ của mình nhỏ hơn khi nó di chuyển về Trái đất không?
+
+Tàu vũ trụ của bạn nên bắt đầu ở **100% kích thước**, và sau đó **thay đổi kích thước** bằng một lượng nhỏ mỗi lần nó di chuyển.
+
+Sử dụng các khối này:
+
+![Tàu vũ trụ](images/sprite-spaceship.png)
+
+```blocks3
+thay đổi kích thước theo (10)
+
+đặt kích thước thành (100)%
+```
+
+\--- /bài tập \---
+
+Kiểm tra và lưu mã của bạn. Tàu vũ trụ của bạn bây giờ sẽ nhỏ hơn khi nó di chuyển. Kiểm tra tàu vũ trụ của bạn **giây lần**. Có phải là kích thước phù hợp khi nó bắt đầu?
+
+![Kiểm tra một tàu vũ trụ thu nhỏ](images/space-size-test.png)
