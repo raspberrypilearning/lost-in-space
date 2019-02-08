@@ -1,13 +1,49 @@
 ## Asteroid koji poskakuje
 
-Dodajmo plutajuću svemirsku stijenu u tvoju animaciju.
+Now you will add a floating space rock to your animation.
 
-+ Dodaj lik 'rock' (stijena) u svoju animaciju.
-    
-    ![Dodavanje lika stijene](images/space-rock-sprite.png)
+\--- task \--- Add a 'rock' sprite to your animation.
 
-+ Da li možeš da kodiraš lik stijene tako da odskače od rubova pozornice?
-    
-    ![Isprobavanje stijene koja poskakuje](images/space-bounce-test.png)
+![Adding a rock sprite](images/space-rock-sprite.png)
 
-\--- hints \--- \--- hint \--- Kada je **kliknuto na zelenu zastavicu** (flag is clicked), tvoj lik stijene treba da se **kreće** (move) i **odskakuje** (bounce) po pozornici **neprestano** (forever). \--- /hint \--- \--- hint \--- Ovdje su blokovi kôda koji će ti biti potrebni: ![Blocks for a bouncing rock](images/space-bounce-blocks.png) Takođe, možeš da postaviš zanimljiviji početni pravac za stijenu sa jednim od ovih blokova: ![Setting the rock's initial position](images/space-initial-position.png) \--- /hint \--- \--- hint \--- Ovdje je kôd da napraviš da tvoja stijena odskakuje po pozornici: ![Code for a bouncing rock](images/space-bounce-code.png) \--- /hint \--- \--- /hints \---
+\--- /task \---
+
+\--- task \--- Can you add code for your rock sprite so that the rock bounces around the stage?
+
+![Testing a bouncing rock](images/space-bounce-test.png)
+
+\--- hints \--- \--- hint \--- When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
+
+```blocks3
+move (10) steps
+
+if on edge bounce
+
+when flag clicked
+
+forever
+```
+
+You can also set a more interesting starting direction for the rock sprite with one of these blocks:
+
+```blocks3
+turn cw (15) degrees
+
+point towards (Earth v)
+```
+
+\--- /hint \--- \--- hint \---
+
+Here's the code for making your rock bounce around the stage:
+
+![Rock sprite](images/sprite-rock.png)
+
+```blocks3
+when flag clicked
+point towards (Earth v)
+forever
+    move (2) steps
+    if on edge, bounce
+```
+
+\--- /hint \--- \--- /hints \--- \--- /task \---
