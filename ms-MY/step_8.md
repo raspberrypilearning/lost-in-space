@@ -1,11 +1,7 @@
-\--- cabaran \---
-
 ## Cabaran: buat animasi anda sendiri
 
-Hentikan animasi ruang anda, simpannya, dan mulakan projek Scratch baru.
+Stop your space animation, save it, and start a new Scratch project.
 
-Gunakan apa yang anda pelajari dalam projek ini untuk membuat animasi anda sendiri. Ia boleh menjadi apa sahaja yang anda suka, tapi cuba buat animasi anda sepadan dengan tetapannya. Berikut adalah beberapa contoh:
+Use what you've learned in this project to make your own animation. It can be anything you like, but try to make your animation match the background you choose. Here are some examples:
 
-![tangkapan skrin](images/space-egs.png)
-
-\--- / cabaran \---
+![screenshot](images/space-egs.png)
