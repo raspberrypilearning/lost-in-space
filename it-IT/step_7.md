@@ -1,13 +1,47 @@
 ## Stella splendente
 
-Combiniamo dei cicli per creare una stella che risplende.
+Now you will combine loops to make a shining star.
 
-+ Aggiungi lo sprite 'stella' alla tua animazione.
-    
-    ![Aggiungere la sprite di una stella](images/space-star-sprite.png)
+\--- task \--- Add a 'star' sprite to your stage.
 
-+ Puoi aggiungere del codice per far sì che la tua stella si ingrandisca e si rimpicciolisca ripetutamente?
-    
-    ![Testare una stella splendente](images/space-star-test.png)
+![Adding a star sprite](images/space-star-sprite.png)
 
-\--- hints \--- \--- hint \--- Dopo aver **cliccato su ⚑**, la tua stella dovrebbe **cambiare dimensione** per un po', diventando più grande, e poi dovrebbe **cambiare di nuovo dimensione** per un po', diventando più piccola. Fai in modo che la stella si ingrandisca e rimpicciolisca **per sempre**. \--- /hint \--- \--- hint \--- Ecco di quali blocchi di codice avrai bisogno: ![Blocks for a shining star](images/space-star-blocks.png) \--- /hint \--- \--- hint \--- Ecco il codice che farà splendere la tua stella: ![Code for a shining star](images/space-star-code.png) \--- /hint \--- \--- /hints \---
+\--- /task \---
+
+\--- task \--- Can you add code to your star sprite to make the star repeatedly grow and shrink?
+
+![Testing a shining star](images/sprite-star.png)
+
+\--- hints \--- \--- hint \--- When the green **flag is clicked**, your star sprite should **change size** to get bigger a few times, and then **change size** to get smaller a few times. It should do this so that it gets bigger and then smaller **forever** and looks like it's shining light. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
+
+```blocks3
+repeat (10)
+end
+
+when flag clicked
+
+repeat (10)
+end
+
+change size by (10)
+
+change size by (10)
+
+forever
+```
+
+\--- /hint \--- \--- hint \--- Here's the code to make your star grow and shrink: ![Star sprite](images/sprite-star.png)
+
+```blocks3
+when flag clicked
+forever
+    repeat (20)
+        change size by (2)
+    end
+    repeat (20)
+        change size by (-2)
+    end
+
+```
+
+\--- /hint \--- \--- /hints \--- \--- /task \---
