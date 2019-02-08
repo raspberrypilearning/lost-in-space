@@ -1,22 +1,63 @@
+\--- không in \---
+
+Đây là phiên bản **Scratch 3** của dự án. Ngoài ra còn có một [phiên bản Scratch 2 của dự án](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
+
+\--- / không in \---
+
 ## Giới thiệu
 
 Bạn sẽ học cách lập trình hoạt hình của riêng bạn!
 
 ### Những gì bạn sẽ làm
 
+\--- không in \--- Nhấp vào cờ màu xanh lá cây để xem hoạt hình.
+
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/26818098/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
   <img src="images/space-final.png">
 </div>
 
-### Những gì bạn sẽ học
+\--- / không in \---
 
-Dự án này bao gồm các yếu tố từ các chuỗi sau đây của [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+\--- chỉ in \---
 
-+ [Sử dụng các cấu trúc lập trình cơ bản để tạo các chương trình đơn giản.](https://www.raspberrypi.org/curriculum/programming/creator)
+![Hoàn thành dự án](images/showcase_static.png)
 
-### Thông tin bổ sung dành cho nhà giáo dục
+\--- / chỉ in \---
 
-Nếu bạn cần in dự án này, vui lòng sử dụng phiên bản [thân thiện với máy in](https://projects.raspberrypi.org/en/projects/lost-in-space/print){: target = "_ blank"}.
+## \--- sự sụp đổ \---
 
-Sử dụng liên kết ở chân trang để truy cập kho lưu trữ GitHub cho dự án này, chứa tất cả các tài nguyên (bao gồm một ví dụ đã hoàn thành dự án) trong thư mục 'en / resources'.
+## tiêu đề: Những gì bạn sẽ cần
+
+### Phần cứng
+
++ Một máy tính có khả năng chạy Scratch 3
+
+### Phần mềm
+
++ Cào 3 ( [trực tuyến](http://rpf.io/scratchon){: target = "_ blank"} hoặc [ngoại tuyến](http://rpf.io/scratchoff){: target = "_ blank"})
+
+### Tải xuống
+
++ không ai
+
+\--- /sự sụp đổ \---
+
+## \--- sự sụp đổ \---
+
+## tiêu đề: bạn sẽ học được gì
+
++ Làm sinh động một sprite bằng cách sử dụng một vòng lặp
++ Thay đổi diện mạo của một sprite
+
+\--- /sự sụp đổ \---
+
+## \--- sự sụp đổ \---
+
+## tiêu đề: Thông tin bổ sung cho các nhà giáo dục
+
+Nếu bạn cần in dự án này, vui lòng sử dụng [phiên bản thân thiện với máy in](https://projects.raspberrypi.org/en/projects/lost-in-space/print){: target = "_ blank"}.
+
+[Đây là liên kết đến giải pháp cho dự án này](http://rpf.io/p/en/lost-in-space-get){: target = "_ blank"}.
+
+\--- /sự sụp đổ \---
