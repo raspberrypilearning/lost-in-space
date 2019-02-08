@@ -1,13 +1,49 @@
 ## Bouncing asteroid
 
-Lisätään jokin kelluva avaruuskalli animaatioihisi.
+Now you will add a floating space rock to your animation.
 
-+ Lisää "rock" sprite animaatiostasi.
-    
-    ![Lisäämällä rock sprite](images/space-rock-sprite.png)
+\--- task \--- Add a 'rock' sprite to your animation.
 
-+ Voitko koodata rock-spriteäsi pomppimaan lavan ympäri?
-    
-    ![Testaa pomppiva kallio](images/space-bounce-test.png)
+![Adding a rock sprite](images/space-rock-sprite.png)
 
-\--- vinkit \--- \--- vinkki \--- Kun vihreä **lippu napsautetaan**, sinun rock sprite on **siirrettävä** ja **ponnahtaa** lavan **ympärille ikuisesti**. \--- / hint \--- \--- vinkki \--- Seuraavassa on tarvittavia koodilohkoja: ![Blocks for a bouncing rock](images/space-bounce-blocks.png) Voit myös asettaa mielenkiintoisemman kallistuksen aloitussuuntaa jollakin näistä lohkoista: ![Setting the rock's initial position](images/space-initial-position.png) \--- / hint \--- \--- vinkki \--- Tässä on koodi pyöräytä kalliosi ympäri vaiheessa: ![Code for a bouncing rock](images/space-bounce-code.png) \--- / hint \--- \--- / vinkkejä \---
+\--- /task \---
+
+\--- task \--- Can you add code for your rock sprite so that the rock bounces around the stage?
+
+![Testing a bouncing rock](images/space-bounce-test.png)
+
+\--- hints \--- \--- hint \--- When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
+
+```blocks3
+move (10) steps
+
+if on edge bounce
+
+when flag clicked
+
+forever
+```
+
+You can also set a more interesting starting direction for the rock sprite with one of these blocks:
+
+```blocks3
+turn cw (15) degrees
+
+point towards (Earth v)
+```
+
+\--- /hint \--- \--- hint \---
+
+Here's the code for making your rock bounce around the stage:
+
+![Rock sprite](images/sprite-rock.png)
+
+```blocks3
+when flag clicked
+point towards (Earth v)
+forever
+    move (2) steps
+    if on edge, bounce
+```
+
+\--- /hint \--- \--- /hints \--- \--- /task \---
