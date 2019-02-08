@@ -1,62 +1,62 @@
-## Animating a spaceship
+## Menggayakan pesawat angkasa
 
-Your first step will be to create a spaceship that flies towards the Earth!
+Langkah pertama anda adalah untuk membuat kapal angkasa yang terbang ke Bumi!
 
-\--- task \---
+\--- tugas \---
 
-Open a new Scratch project.
+Buka projek Scratch baru.
 
-**Online:** open a new online Scratch project at [rpf.io/scratchon](http://rpf.io/scratchon){:target="_blank"}.
+**Online:** buka projek Scratch talian baru di [rpf.io/scratchon](http://rpf.io/scratchon){: target = "_ blank"}.
 
-**Offline:** open a new project in the offline editor.
+**Luar talian:** buka projek baru dalam editor luar talian.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Sekiranya anda perlu memuat turun dan memasang editor luar talian Scratch, anda boleh menemuinya di [rpf.io/scratchoff](http://rpf.io/scratchoff){: target = "_ blank"}.
 
-\--- /task \---
+\--- / tugas \---
 
-\--- task \--- Add 'rocketship' and 'Earth' sprites to your Stage.
+\--- tugas \--- Tambahkan 'rocketship' dan 'Earth' sprites ke Peringkat anda.
 
-![Spaceship and Earth sprites](images/space-sprites.png)
+![Spaceship dan sprite Earth](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
-\--- /task \---
+\--- / tugas \---
 
-\--- task \--- Add the 'Stars' backdrop to your Stage.
+\--- tugas \--- Tambahkan latar belakang 'Bintang' ke Tahap anda.
 
-![A space backdrop](images/space-backdrop.png)
+![Latar belakang ruang](images/space-backdrop.png)
 
-\--- /task \---
+\--- / tugas \---
 
-\--- task \--- Click on your spaceship sprite, and click on the **Costumes** tab.
+\--- task \--- Klik pada sprites kapal angkasa anda, dan klik pada **Kostum** tab.
 
-![Sprite costume](images/space-costume.png)
+![Kostum Sprite](images/space-costume.png)
 
-\--- /task \---
+\--- / tugas \---
 
-\--- task \--- Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+\--- task \--- Gunakan tool **panah** untuk mengklik dan seret kotak di sekeliling seluruh imej kapal angkasa. Kemudian klik pada pekeliling **berputar** pegangan, dan putar imej sehingga ia berada di sisinya.
 
-![Rotating a costume](images/space-rotate.png)
+![Memusing pakaian](images/space-rotate.png)
 
-\--- /task \---
+\--- / tugas \---
 
-\--- task \--- Add this code to your spaceship sprite:
+\--- tugas \--- Tambah kod ini ke sprite kapal angkasa anda:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Sprite kapal angkasa](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-glide (1) secs to x:(0) y:(0)
+apabila bendera mengklik
+poin ke arah (0)
+pergi ke x: (- 150) y: (- 150)
+katakan [Mari kita pergi] untuk (2) saat
+titik ke arah (Bumi v)
+meluncur (1) x: (0) y: (0)
 ```
 
-Change the numbers in the code blocks you've added so that the code is exactly the same as above.
+Ubah nombor dalam blok kod yang telah anda tambahkan supaya kod tersebut sama persis seperti di atas.
 
-\--- /task \---
+\--- / tugas \---
 
-If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
+Jika anda mengklik bendera hijau, anda akan melihat ruang angkasa bercakap, berpaling, dan meluncur ke arah pusat pentas.
 
-![Testing a spaceship animation](images/space-animate-stage.png)
+![Menguji animasi kapal angkasa](images/space-animate-stage.png)
