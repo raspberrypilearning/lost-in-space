@@ -1,18 +1,18 @@
-## Bouncing asteroid
+## Αναπήδηση αστεροειδούς
 
 Now you will add a floating space rock to your animation.
 
 \--- task \--- Add a 'rock' sprite to your animation.
 
-![Adding a rock sprite](images/space-rock-sprite.png)
+![Προσθέτοντας ένα αντικείμενο βράχου](images/space-rock-sprite.png)
 
 \--- /task \---
 
 \--- task \--- Can you add code for your rock sprite so that the rock bounces around the stage?
 
-![Testing a bouncing rock](images/space-bounce-test.png)
+![Δοκιμάζοντας ένα βράχο που αναπηδά](images/space-bounce-test.png)
 
-\--- hints \--- \--- hint \--- When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
+\--- συμβουλές \--- \--- υπαινιγμός \--- Όταν πατήσετε το πράσινο ** σημαία **, ο σκίτης σας πρέπει να κινηθεί ** ** και ** αναπήδηση ** γύρω από τη σκηνή ** για πάντα **. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
 
 ```blocks3
 move (10) steps
