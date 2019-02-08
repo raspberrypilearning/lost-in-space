@@ -1,4 +1,4 @@
-## Animation using loops
+## Animacija pomoću petlji
 
 Another way to animate the spaceship is to tell it to move a small amount many times
 
@@ -20,7 +20,7 @@ point towards (Earth v)
 
 \--- task \--- Can you use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
 
-![Testing a spaceship animation](images/space-animate-stage.png)
+![Isprobavanje animacije svemirskog broda](images/space-animate-stage.png)
 
 \--- hints \--- \--- hint \---
 
@@ -64,7 +64,7 @@ change [color v] effect by (25)
 
 Test and save your code.
 
-![Testing a colour-changing spaceship](images/space-colour-test.png)
+![Isprobavanje svemirskog broda koji mijenja boju](images/space-colour-test.png)
 
 \--- /task \---
 
@@ -86,4 +86,4 @@ set size to (100) %
 
 Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
 
-![Testing a shrinking spaceship](images/space-size-test.png)
+![Isprobavanje smanjivanja svemirskog broda](images/space-size-test.png)
