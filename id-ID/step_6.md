@@ -1,13 +1,49 @@
 ## Asteroid Memantul
 
-Mari tambahkan beberapa batu angkasa mengambang ke animasi Anda.
+Now you will add a floating space rock to your animation.
 
-+ Tambahkan sprite 'batu' ke animasi Anda.
-    
-    ![Menambahkan sprite batu](images/space-rock-sprite.png)
+\--- task \--- Add a 'rock' sprite to your animation.
 
-+ Bisakah Anda mengkodekan sprite rock Anda untuk memantul di sekitar panggung?
-    
-    ![Menguji batu yang memantul](images/space-bounce-test.png)
+![Adding a rock sprite](images/space-rock-sprite.png)
 
-\--- petunjuk \--- \--- petunjuk \--- Ketika bendera **hijau diklik**, sprite batuan Anda harus **bergerak** dan **memantul** sekitar panggung **selamanya**. \--- / hint \--- \--- hint \--- Berikut adalah blok kode yang Anda perlukan: ![Blocks for a bouncing rock](images/space-bounce-blocks.png) Anda juga dapat mengatur arah awal yang lebih menarik untuk rock dengan salah satu dari blok-blok ini: ![Setting the rock's initial position](images/space-initial-position.png) \--- / hint \--- \--- hint \--- Inilah kode untuk memantulkan batu Anda di sekitar panggung: ![Code for a bouncing rock](images/space-bounce-code.png) \--- / petunjuk \--- \--- / petunjuk \---
+\--- /task \---
+
+\--- task \--- Can you add code for your rock sprite so that the rock bounces around the stage?
+
+![Testing a bouncing rock](images/space-bounce-test.png)
+
+\--- hints \--- \--- hint \--- When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
+
+```blocks3
+move (10) steps
+
+if on edge bounce
+
+when flag clicked
+
+forever
+```
+
+You can also set a more interesting starting direction for the rock sprite with one of these blocks:
+
+```blocks3
+turn cw (15) degrees
+
+point towards (Earth v)
+```
+
+\--- /hint \--- \--- hint \---
+
+Here's the code for making your rock bounce around the stage:
+
+![Rock sprite](images/sprite-rock.png)
+
+```blocks3
+when flag clicked
+point towards (Earth v)
+forever
+    move (2) steps
+    if on edge, bounce
+```
+
+\--- /hint \--- \--- /hints \--- \--- /task \---
