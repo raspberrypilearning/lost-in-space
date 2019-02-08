@@ -1,4 +1,4 @@
-## Animating a spaceship
+## 動畫一個太空船
 
 Your first step will be to create a spaceship that flies towards the Earth!
 
@@ -16,7 +16,7 @@ If you need to download and install the Scratch offline editor, you can find it 
 
 \--- task \--- Add 'rocketship' and 'Earth' sprites to your Stage.
 
-![Spaceship and Earth sprites](images/space-sprites.png)
+![太空船和地球角色](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -24,19 +24,19 @@ If you need to download and install the Scratch offline editor, you can find it 
 
 \--- task \--- Add the 'Stars' backdrop to your Stage.
 
-![A space backdrop](images/space-backdrop.png)
+![一個太空背景](images/space-backdrop.png)
 
 \--- /task \---
 
 \--- task \--- Click on your spaceship sprite, and click on the **Costumes** tab.
 
-![Sprite costume](images/space-costume.png)
+![角色造型](images/space-costume.png)
 
 \--- /task \---
 
 \--- task \--- Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
 
-![Rotating a costume](images/space-rotate.png)
+![旋轉一件造型](images/space-rotate.png)
 
 \--- /task \---
 
@@ -57,6 +57,6 @@ Change the numbers in the code blocks you've added so that the code is exactly t
 
 \--- /task \---
 
-If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
+如果你點擊綠旗，你將看到太空船說話，轉身，然後滑向舞台中央。
 
-![Testing a spaceship animation](images/space-animate-stage.png)
+![測試太空船動畫](images/space-animate-stage.png)
