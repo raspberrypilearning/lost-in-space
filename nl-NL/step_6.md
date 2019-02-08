@@ -1,4 +1,4 @@
-## Bouncing asteroid
+## Stuiterende asteroïde
 
 Now you will add a floating space rock to your animation.
 
@@ -12,7 +12,7 @@ Now you will add a floating space rock to your animation.
 
 ![Testing a bouncing rock](images/space-bounce-test.png)
 
-\--- hints \--- \--- hint \--- When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
+\--- hints \--- \--- hint \--- Als de **groene vlag is aangeklikt** zou de rots-sprite **stappen moeten nemen** en **herhaal**delijk moeten **omkeren aan de rand** van het speelveld. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
 
 ```blocks3
 move (10) steps
