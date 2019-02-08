@@ -1,19 +1,60 @@
 ## Floating monkey
 
-讓我們在您的太空中的動畫添加一隻迷路的猴子！
+Now you will add a monkey who's lost in space to your animation!
 
-+ 首先添加庫中的'猴子'角色。
-    
-    ![添加一個猴子角色](images/space-monkey-sprite.png)
+\--- task \--- Start by adding the 'monkey' sprite from the library.
 
-+ 如果您點擊新的猴子角色，然後點擊 **造型**，您可以編輯猴子的外觀。 點擊 **橢圓** 工具，然後在猴子的頭部周圍繪製一個白色太空頭盔。
-    
-    ![猴子的太空頭盔](images/space-monkey-edit.png)
+![Adding a monkey sprite](images/space-monkey-sprite.png)
 
-+ 您能編碼讓猴子角色慢慢地在一個圈內旋轉嗎？
-    
-    測試與保存您的項目。你一定要點擊紅色的 **停止** 按鈕來結束這個動畫。要不然它會一直持續下去！
-    
-    ![一隻旋轉的猴子的代碼塊](images/space-spin-test.png)
+\--- /task \---
 
-\--- hints \--- \--- hint \--- 當**綠旗**被點擊時，你的猴子角色應該將 **永遠** 在一個圓圈 **轉圈**。 \--- /hint \--- \--- hint \--- 以下是您需要的代碼塊： ![Blocks for a spinning monkey](images/space-spin-blocks.png) \--- /hint \--- \--- hint \--- 以下是讓您的猴子旋轉的代碼： ![Code for a spinning monkey](images/space-spin-code.png) \--- /hint \--- \--- /hints \---
+Click on your new monkey sprite and then click on **Costumes** so that you can edit how the monkey looks.
+
+\--- task \--- Set the fill to be transparent by selecting the red line. For the outline, set a white colour by moving the Saturation slider to `0`.
+
+![Make white colour](images/make-white.png) \--- /task \---
+
+\--- task \--- Click on the **circle** tool and then use it to draw a white space helmet around the monkey's head.
+
+![Monkey space helmet](images/space-monkey-edit.png)
+
+\--- /task \---
+
+\--- task \--- Can you add code to your monkey sprite so that it spins slowly in a circle forever?
+
+\--- hints \--- \--- hint \---
+
+When the green **flag is clicked**, your monkey sprite should **turn** in a circle **forever**.
+
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
+
+```blocks3
+forever
+end
+
+turn cw (15) degrees
+
+when flag clicked
+```
+
+\--- /hint \--- \--- hint \---
+
+Here's the code to make your monkey spin:
+
+![Monkey sprite](images/sprite-monkey.png)
+
+```blocks3
+when flag clicked
+forever
+    turn cw (1) degrees
+```
+
+\--- /hint \--- \--- /hints \---
+
+\--- /task \---
+
+Test and save your project. You'll have to click on the red **stop** button to end this animation, as it runs forever!
+
+![Test the spinning monkey](images/space-spin-test.png)
