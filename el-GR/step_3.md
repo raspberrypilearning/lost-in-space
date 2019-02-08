@@ -1,56 +1,16 @@
-## Animating a spaceship
+## Challenge: improve your animation
 
-Ας κάνουμε ένα διαστημόπλοιο που πετά προς τη Γη!
+Can you change the numbers in your animation code so that:
 
-+ Άνοιξε ένα νέο έργο στο Scratch.
++ The spaceship moves until it touches the Earth?
++ The spaceship moves more slowly towards the Earth?
 
-[[[generic-scratch-new-project]]]
+You'll need to change the numbers in this block:
 
-+ Πρόσθεσε τα αντικείμενα "spaceship" και "Earth" στο σκηνικό σου.
-    
-    ![Αντικείμενα Διαστημόπλοιο και Γη](images/space-sprites.png)
+![Rocketship sprite](images/sprite-spaceship.png)
 
-[[[generic-scratch-sprite-from-library]]]
+```blocks3
+glide (1) secs to x:(0) y:(0)
+```
 
-+ Πρόσθεσε το υπόβαθρο "Stars" στο σκηνικό σου.
-    
-    ![Ένα υπόβαθρο διαστήματος](images/space-backdrop.png)
-
-[[[generic-scratch-backdrop-from-library]]]
-
-+ Κάνε κλικ στο αντικείμενο διαστημόπλοιο και ξανά κλικ στην καρτέλα **Ενδυμασίες**.
-    
-    ![Ενδυμασία αντικειμένου](images/space-costume.png)
-
-+ Χρησιμοποίησε το **βέλος** για να επιλέξεις την εικόνα. Στη συνέχεια, κάνε κλικ στη στρόγγυλη **περιστρεφόμενη** λαβή και περιέστρεψε την εικόνα μέχρι να γυρίσει στο πλάϊ.
-    
-    ![Περιστροφή μιας ενδυμασίας](images/space-rotate.png)
-
-+ Πρόσθεσε αυτόν τον κώδικα στο αντικείμενο διαστημόπλοιο:
-    
-    ![Κώδικας διαστημόπλοιου](images/space-animate.png)
-    
-    Άλλαξε τους αριθμούς στα μπλοκ έτσι ώστε ο κώδικας να είναι ακριβώς ίδιος όπως στην παραπάνω εικόνα.
-    
-    Αν κάνεις κλικ στην πράσινη σημαία, θα πρέπει να δεις το διαστημόπλοιο να μιλά, να γυρίζει και να γλιστρά προς το κέντρο του σκηνικού.
-    
-    ![Δοκιμάζοντας ένα κινούμενο σχέδιο διαστημόπλοιου](images/space-animate-stage.png)
-
-[[[generic-scratch-saving]]]
-
-\--- challenge \---
-
-## Πρόκληση: βελτίωση του κινούμενου σχεδίου σου
-
-Μπορείς να αλλάξεις τους αριθμούς στον κώδικα έτσι ώστε:
-
-+ Το διαστημόπλοιο να κινείται μέχρι να αγγίξει τη Γη;
-+ Το διαστημόπλοιο να κινείται πιο αργά προς τη Γη;
-
-Θα χρειαστεί να αλλάξεις τους αριθμούς σε αυτό το μπλοκ:
-
-![Μπλοκ ολίσθησης](images/space-glide.png)
-
-[[[generic-scratch-coordinates]]]
-
-\--- /challenge \---
+[[[generic-scratch3-coordinates]]]
