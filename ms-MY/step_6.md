@@ -1,49 +1,49 @@
-## Bouncing asteroid
+## Memantul asteroid
 
-Now you will add a floating space rock to your animation.
+Kini anda akan menambah batu ruang terapung untuk animasi anda.
 
-\--- task \--- Add a 'rock' sprite to your animation.
+\--- tugas \--- Tambahkan 'rock' sprite ke animasi anda.
 
-![Adding a rock sprite](images/space-rock-sprite.png)
+![Menambahkan sprit batu](images/space-rock-sprite.png)
 
-\--- /task \---
+\--- / tugas \---
 
-\--- task \--- Can you add code for your rock sprite so that the rock bounces around the stage?
+\--- task \--- Bolehkah anda menambah kod untuk sprite batu anda sehingga rock melantun di sekitar panggung?
 
-![Testing a bouncing rock](images/space-bounce-test.png)
+![Menguji batu yang melantun](images/space-bounce-test.png)
 
-\--- hints \--- \--- hint \--- When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
-
-```blocks3
-move (10) steps
-
-if on edge bounce
-
-when flag clicked
-
-forever
-```
-
-You can also set a more interesting starting direction for the rock sprite with one of these blocks:
+\--- petunjuk \--- \--- petunjuk \--- Apabila bendera hijau **diklik**, sprite batu anda harus **bergerak** dan **melantun** sekitar panggung **selamanya**. \--- / petunjuk \--- \--- petunjuk \--- Berikut adalah blok kode yang anda perlukan:
 
 ```blocks3
-turn cw (15) degrees
+gerakkan (10) langkah
 
-point towards (Earth v)
+jika pada lantungan tepi
+
+apabila bendera diklik
+
+selama-lamanya
 ```
 
-\--- /hint \--- \--- hint \---
-
-Here's the code for making your rock bounce around the stage:
-
-![Rock sprite](images/sprite-rock.png)
+Anda juga boleh menetapkan arah permulaan yang lebih menarik untuk sprite batu dengan salah satu blok:
 
 ```blocks3
-when flag clicked
-point towards (Earth v)
-forever
-    move (2) steps
-    if on edge, bounce
+putar cw (15) darjah
+
+titik ke arah (Bumi v)
 ```
 
-\--- /hint \--- \--- /hints \--- \--- /task \---
+\--- / petunjuk \--- \--- petunjuk \---
+
+Berikut adalah kod untuk membuat batu anda melantun di sekitar pentas:
+
+![Sprit rock](images/sprite-rock.png)
+
+```blocks3
+apabila bendera mengklik
+titik ke arah (Bumi v)
+selama-lamanya
+    bergerak (2) langkah
+    jika di tepi, melantun
+```
+
+\--- / petunjuk \--- \--- / petunjuk \--- \--- / tugas \---
