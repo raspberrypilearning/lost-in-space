@@ -1,22 +1,63 @@
+\--- no-print \---
+
+This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
+
+\--- /no-print \---
+
 ## परिचय
 
-आपण स्वतःचे एनीमेशन कसे प्रोग्राम करावे ते जाणून घेण्यासाठी जात आहोत!
+You are going to learn how to program your own animation!
 
 ### आपण काय करीन
 
+\--- no-print \--- Click on the green flag to see the animation.
+
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/26818098/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
   <img src="images/space-final.png">
 </div>
 
-### आपण काय शिकू
+\--- /no-print \---
 
-हा प्रकल्प खालील रास पासून घटक समाविष्ट आहे [रास्पबेरी पी डिजिटल तयार अभ्यासक्रम](http://rpf.io/curriculum):
+\--- print-only \---
 
-+ [सोप्या प्रोग्राम्स तयार करण्यासाठी मूलभूत प्रोग्रामिंग सिस्टम्स वापरा.](https://www.raspberrypi.org/curriculum/programming/creator)
+![Complete project](images/showcase_static.png)
 
-### शिक्षकांसाठी अतिरिक्त माहिती
+\--- /print-only \---
 
-आपल्याला हे प्रोजेक्ट प्रिंट करण्याची आवश्यकता असल्यास, कृपया [प्रिंटर-फ्रेंडली आवृत्ती](https://projects.raspberrypi.org/en/projects/lost-in-space/print){: target = "_ blank"} वापरा.
+## \--- collapse \---
 
-या प्रकल्पासाठी GitHub रिपॉझिटरी ऍक्सेस करण्यासाठी फूटरमध्ये दुवा वापरा, ज्यात 'एन / संसाधने' फोल्डरमध्ये सर्व संसाधने (उदाहरणार्थ तयार झालेले प्रकल्प समाविष्ट आहे) समाविष्ट आहे.
+## title: What you will need
+
+### Hardware
+
++ A computer capable of running Scratch 3
+
+### Software
+
++ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
+
+### Downloads
+
++ None
+
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: What you will learn
+
++ Animate a sprite using a loop
++ Change the appearance of a sprite
+
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: Additional information for educators
+
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
+
+[Here is a link to the solution for this project](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+
+\--- /collapse \---
