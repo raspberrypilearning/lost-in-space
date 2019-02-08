@@ -12,7 +12,7 @@ steps:
   - 
     title: 介紹
   - 
-    title: Animating a spaceship
+    title: 動畫一個太空船
   - 
     title: 'Challenge: improve your animation'
     challenge: true
@@ -28,4 +28,4 @@ steps:
     title: '挑戰：製作自己的動畫'
     challenge: true
   - 
-    title: What next?
+    title: 挑戰：改變鼓的造型
