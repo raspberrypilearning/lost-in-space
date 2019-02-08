@@ -1,63 +1,63 @@
-\--- no-print \---
+\--- brak wydruku \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
+To jest wersja **Scratch 3** . Istnieje również [Scratch 2 wersja projektu](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
 
-\--- /no-print \---
+\--- / brak wydruku \---
 
 ## Wstęp
 
-You are going to learn how to program your own animation!
+Nauczysz się programować swoją własną animację!
 
 ### Co będziesz robił
 
-\--- no-print \--- Click on the green flag to see the animation.
+\--- no-print \--- Kliknij zieloną flagę, aby zobaczyć animację.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
   <img src="images/space-final.png">
 </div>
 
-\--- /no-print \---
+\--- / brak wydruku \---
 
-\--- print-only \---
+\--- tylko do wydruku \---
 
-![Complete project](images/showcase_static.png)
+![Kompletny projekt](images/showcase_static.png)
 
-\--- /print-only \---
+\--- / tylko do wydruku \---
 
-## \--- collapse \---
+## \--- zawalić się \---
 
-## title: What you will need
+## title: Czego będziesz potrzebować
 
-### Hardware
+### Sprzęt komputerowy
 
-+ A computer capable of running Scratch 3
++ Komputer zdolny do uruchomienia gry Scratch 3
 
-### Software
+### Oprogramowanie
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 ( [online](http://rpf.io/scratchon){: target = "_ blank"} lub [offline](http://rpf.io/scratchoff){: target = "_ blank"})
 
-### Downloads
+### Pliki do pobrania
 
-+ None
++ Żaden
 
-\--- /collapse \---
+\--- /zawalić się \---
 
-## \--- collapse \---
+## \--- zawalić się \---
 
-## title: What you will learn
+## title: Czego się dowiesz
 
-+ Animate a sprite using a loop
-+ Change the appearance of a sprite
++ Animuj duszka za pomocą pętli
++ Zmień wygląd duszka
 
-\--- /collapse \---
+\--- /zawalić się \---
 
-## \--- collapse \---
+## \--- zawalić się \---
 
-## title: Additional information for educators
+## tytuł: dodatkowe informacje dla nauczycieli
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
+Jeśli chcesz wydrukować ten projekt, użyj wersji</a>{: target = "_ blank" do wydruku}}.</p> 
 
-[Here is a link to the solution for this project](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+[Tutaj znajduje się link do rozwiązania tego projektu](http://rpf.io/p/en/lost-in-space-get){: target = "_ blank"}.
 
-\--- /collapse \---
+\--- /zawalić się \---
