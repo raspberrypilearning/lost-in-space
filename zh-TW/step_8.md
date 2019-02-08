@@ -1,11 +1,7 @@
-\--- challenge \---
-
 ## 挑戰：製作您自己的動畫
 
-停止您的太空動畫，保存它，並開始一個新的Scratch項目。
+Stop your space animation, save it, and start a new Scratch project.
 
-使用您在此項目中學到的知識來製作你自己的動畫。它可以是任何你喜歡的，但嘗試使你的動畫匹配的設置。以下是其中一些例子：
+Use what you've learned in this project to make your own animation. It can be anything you like, but try to make your animation match the background you choose. Here are some examples:
 
-![截圖](images/space-egs.png)
-
-\--- /challenge \---
+![screenshot](images/space-egs.png)
