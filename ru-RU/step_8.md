@@ -1,7 +1,7 @@
 ## Задача: создать собственную анимацию
 
-Stop your space animation, save it, and start a new Scratch project.
+Остановите космическую анимацию, сохраните ее и начните новый проект Scratch.
 
-Use what you've learned in this project to make your own animation. It can be anything you like, but try to make your animation match the background you choose. Here are some examples:
+Используйте то, что вы узнали в этом проекте, чтобы создать собственную анимацию. Это может быть что угодно, но постарайтесь, чтобы анимация соответствовала выбранному вами фону. Вот некоторые примеры:
 
-![screenshot](images/space-egs.png)
+![Скриншот](images/space-egs.png)
