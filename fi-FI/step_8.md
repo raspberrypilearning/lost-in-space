@@ -1,11 +1,7 @@
-\--- haaste \---
-
 ## Haaste: tee oma animaatio
 
-Pysäytä tilaa animaatio, tallenna se ja aloita uusi Scratch-projekti.
+Stop your space animation, save it, and start a new Scratch project.
 
-Käytä tätä projektia, mitä olet oppinut tekemään omasta animaatiosta. Se voi olla mikä tahansa, mutta yritä tehdä animaasi vastaamaan asetusta. Seuraavassa on muutamia esimerkkejä:
+Use what you've learned in this project to make your own animation. It can be anything you like, but try to make your animation match the background you choose. Here are some examples:
 
-![kuvakaappaus](images/space-egs.png)
-
-\--- /haaste \---
+![screenshot](images/space-egs.png)
