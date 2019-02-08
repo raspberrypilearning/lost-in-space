@@ -1,11 +1,11 @@
-## Challenge: improve your animation
+## Ein Raumschiff animieren
 
 Can you change the numbers in your animation code so that:
 
-+ The spaceship moves until it touches the Earth?
-+ The spaceship moves more slowly towards the Earth?
++ Sich das Raumschiff bewegt, bis es die Erde berührt?
++ Sich das Raumschiff langsamer auf die Erde zu bewegt?
 
-You'll need to change the numbers in this block:
+Du musst die Zahlen in diesem Block ändern:
 
 ![Rocketship sprite](images/sprite-spaceship.png)
 
