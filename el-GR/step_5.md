@@ -1,10 +1,10 @@
-## Floating monkey
+## Πλωτή μαϊμού
 
 Now you will add a monkey who's lost in space to your animation!
 
 \--- task \--- Start by adding the 'monkey' sprite from the library.
 
-![Adding a monkey sprite](images/space-monkey-sprite.png)
+![Προσθέτοντας ένα αντικείμενο μαϊμού](images/space-monkey-sprite.png)
 
 \--- /task \---
 
@@ -16,7 +16,7 @@ Click on your new monkey sprite and then click on **Costumes** so that you can e
 
 \--- task \--- Click on the **circle** tool and then use it to draw a white space helmet around the monkey's head.
 
-![Monkey space helmet](images/space-monkey-edit.png)
+![Διαστημικό κράνος μαϊμούς](images/space-monkey-edit.png)
 
 \--- /task \---
 
