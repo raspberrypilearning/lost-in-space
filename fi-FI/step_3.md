@@ -1,56 +1,16 @@
-## Animating a spaceship
+## Challenge: improve your animation
 
-Tehdään avaruusalusta, joka lentää kohti maata!
+Can you change the numbers in your animation code so that:
 
-+ Avaa uusi tyhjä Scratch-projekti.
++ The spaceship moves until it touches the Earth?
++ The spaceship moves more slowly towards the Earth?
 
-[[[generic-scratch-new-project]]]
+You'll need to change the numbers in this block:
 
-+ Lisää "avaruusalus" ja "maapallon" spritsejä lavalle.
-    
-    ![Avaruusalus ja maapallon sprites](images/space-sprites.png)
+![Rocketship sprite](images/sprite-spaceship.png)
 
-[[[generic-scratch-sprite-from-library]]]
+```blocks3
+glide (1) secs to x:(0) y:(0)
+```
 
-+ Lisää Stars-taustakuvan vaiheeseesi.
-    
-    ![Tilaa taustalla](images/space-backdrop.png)
-
-[[[generic-scratch-backdrop-from-library]]]
-
-+ Napsauta avaruusalus sprite ja napsauta **Puvut** -välilehteä.
-    
-    ![Sprite puku](images/space-costume.png)
-
-+ Valitse kuva **-nuolella** -työkalulla. Napsauta sitten pyöreä **kiertää** kahvaa ja kiertää kuvaa, kunnes se on sen sivussa.
-    
-    ![Pyöritetään puku](images/space-rotate.png)
-
-+ Lisää tämä koodi avaruusalustasi sprite:
-    
-    ![Avaruusaluskoodi](images/space-animate.png)
-    
-    Muuta koodilohkojen numerot niin, että koodi on täsmälleen sama kuin yllä olevassa kuvassa.
-    
-    Jos napsautat vihreää lippua, sinun pitäisi nähdä avaruusalus puhua, kääntyä ja liukua kohti keskustaa.
-    
-    ![Ilma-aluksen animaation testaaminen](images/space-animate-stage.png)
-
-[[[generic-scratch-saving]]]
-
-\--- haaste \---
-
-## Haaste: animaation parantaminen
-
-Voitko muuttaa animaatiokoodisi numeroita niin, että:
-
-+ Avaruusalus liikkuu, kunnes se koskettaa maata?
-+ Avaruusalus liikkuu hitaammin maan päällä?
-
-Sinun on muutettava tämän blokin numeroita:
-
-![Liukukappale](images/space-glide.png)
-
-[[[generic-scratch-coordinates]]]
-
-\--- /haaste \---
+[[[generic-scratch3-coordinates]]]
