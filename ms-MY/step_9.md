@@ -1,3 +1,3 @@
-## What next?
+## Apa selepas ini?
 
-Try the [Ghostbusters](https://projects.raspberrypi.org/en/projects/ghostbusters) project! In that project, you will learn how to create a game with ghosts that appear all over the place and that you need to catch. You will also learn how to add a timer and a score to the game, so that you can see how many ghosts you are able to catch.
+Cuba projek Ghostbusters</a> ! Dalam projek itu, anda akan belajar bagaimana membuat permainan dengan hantu yang muncul di seluruh tempat dan yang anda perlukan untuk menangkap. Anda juga akan belajar bagaimana untuk menambah pemasa dan skor untuk permainan, supaya anda dapat melihat berapa banyak hantu yang anda dapat menangkap.</p>
