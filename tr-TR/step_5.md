@@ -1,19 +1,60 @@
-## Floating monkey
+## Yüzen maymun
 
-Animasyonunuza uzayda kaybeden bir maymunu ekleyelim!
+Şimdi animasyonunuzda uzayda kaybolan bir maymunu ekleyeceksiniz!
 
-+ Kütüphaneden 'maymun' hareketli grafiğini ekleyerek başlayın.
-    
-    ![Bir maymun sprite ekleme](images/space-monkey-sprite.png)
+\--- görev \--- Kütüphaneden 'maymun' sprite ekleyerek başlayın.
 
-+ Yeni maymun hareketli grafiğe tıklarsanız ve ardından **Kostüm**tıklarsanız, maymunun nasıl göründüğünü düzenleyebilirsiniz. **elips** aracını tıklayın ve maymun kafasının etrafına beyaz bir alan kaskı çizin.
-    
-    ![Maymun uzay kaskı](images/space-monkey-edit.png)
+![Bir maymun sprite ekleme](images/space-monkey-sprite.png)
 
-+ Maymun hareketli grafiğine kod ekleyebilir, böylece sonsuza dek bir daire içinde yavaşça dönebilir mi?
-    
-    Projenizi test edin ve kaydedin. Sonsuza dek sürdüğü için bu animasyonu sonlandırmak için kırmızı **durdur** düğmesine tıklamanız gerekecek!
-    
-    ![Bir iplik maymun için bloklar](images/space-spin-test.png)
+\--- /task \---
 
-\--- ipuçları \--- \--- ipucu \--- yeşil zaman **bayrak tıklandığında**, maymun sprite gerektiği **dönüş** daire şeklinde **sonsuza**. \--- / ipucu \--- \--- ipucu \--- İhtiyacın olacak kod blokları: ![Blocks for a spinning monkey](images/space-spin-blocks.png) \--- / ipucu \--- \--- ipucu \--- İşte maymun spin yapmak için kod: ![Code for a spinning monkey](images/space-spin-code.png) \--- / ipucu \--- \--- / ipuçları \---
+Yeni maymun sprite seçeneğine tıklayın ve ardından maymunun görünüşünü düzenleyebilmeniz için **Kostüm** üzerine tıklayın.
+
+\--- görev \--- Dolguyu kırmızı çizgiyi seçerek saydam olacak şekilde ayarlayın. Anahat için, Doygunluk kaydırıcısını `0`getirerek beyaz bir renk ayarlayın.
+
+![Beyaz renk yapmak](images/make-white.png) \--- /task \---
+
+\--- görev \--- **dairenin** aracına tıklayın ve ardından maymunun kafasının etrafına beyaz bir boşluk kask çizmek için kullanın.
+
+![Maymun uzay kaskı](images/space-monkey-edit.png)
+
+\--- /task \---
+
+\--- görev \--- Sonsuza dek bir dairede yavaşça dönmesi için maymun sprite kodunuzu ekleyebilir misiniz?
+
+\--- ipuçları \--- \--- ipucu \---
+
+Yeşil zaman **bayrak tıklandığında**, maymun sprite gerektiği **dönüş** daire şeklinde **sonsuza**.
+
+\--- / ipucu \--- \--- ipucu \---
+
+İhtiyacınız olan kod blokları:
+
+```blocks3
+sonsuza kadar
+son
+
+bayrak tıklandığında cw (15) derece
+
+çevirin
+```
+
+\--- / ipucu \--- \--- ipucu \---
+
+İşte maymunun dönmesini sağlayacak kod:
+
+![Maymun sprite](images/sprite-monkey.png)
+
+```blocks3
+bayrak
+sonsuza kadar
+    tıklatıldığında cw (1) derece
+```
+
+\--- / ipucu \--- \--- / ipuçları \---
+
+\--- /görev \---
+
+Projenizi test edin ve kaydedin. Bu animasyonu sonlandırmak için sonsuza dek sürecek olan kırmızı **stop** butonuna tıklamanız gerekecek!
+
+![Dönen maymunu test et](images/space-spin-test.png)
