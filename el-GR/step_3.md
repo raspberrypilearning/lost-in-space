@@ -1,11 +1,11 @@
-## Challenge: improve your animation
+## Δίνοντας κίνηση σε ένα διαστημόπλοιο
 
 Can you change the numbers in your animation code so that:
 
-+ The spaceship moves until it touches the Earth?
-+ The spaceship moves more slowly towards the Earth?
++ Το διαστημόπλοιο να κινείται μέχρι να αγγίξει τη Γη;
++ Το διαστημόπλοιο να κινείται πιο αργά προς τη Γη;
 
-You'll need to change the numbers in this block:
+Θα χρειαστεί να αλλάξεις τους αριθμούς σε αυτό το μπλοκ:
 
 ![Rocketship sprite](images/sprite-spaceship.png)
 
