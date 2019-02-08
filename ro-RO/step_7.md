@@ -1,47 +1,47 @@
-## Shining star
+## Stea stralucitoare
 
-Now you will combine loops to make a shining star.
+Acum veți combina buclele pentru a crea o stea strălucitoare.
 
-\--- task \--- Add a 'star' sprite to your stage.
+\--- sarcina \--- Adăugați un sprite "star" la scenă.
 
-![Adding a star sprite](images/space-star-sprite.png)
+![Adăugarea unui sprite stele](images/space-star-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Can you add code to your star sprite to make the star repeatedly grow and shrink?
+\--- task \--- Puteți adăuga un cod la starul dvs. sprite pentru a face ca steaua să crească în mod repetat și să se micsoreze?
 
-![Testing a shining star](images/sprite-star.png)
+![Testarea unei stele strălucitoare](images/sprite-star.png)
 
-\--- hints \--- \--- hint \--- When the green **flag is clicked**, your star sprite should **change size** to get bigger a few times, and then **change size** to get smaller a few times. It should do this so that it gets bigger and then smaller **forever** and looks like it's shining light. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
-
-```blocks3
-repeat (10)
-end
-
-when flag clicked
-
-repeat (10)
-end
-
-change size by (10)
-
-change size by (10)
-
-forever
-```
-
-\--- /hint \--- \--- hint \--- Here's the code to make your star grow and shrink: ![Star sprite](images/sprite-star.png)
+\--- indicii \--- \--- indiciu \--- Când verde **pavilion este apasat**, sprite - ul ar trebui să stea **schimbare dimensiune** pentru a obține mai mari de câteva ori, iar apoi **schimbe dimensiunea** pentru a obține o mai mică de câteva ori. Ar trebui să facă acest lucru astfel încât să devină mai mare și apoi să fie mai mic **pentru totdeauna** și arată ca lumina strălucitoare. \--- / hint \--- \--- sugestie \--- Aici sunt blocurile de cod de care aveți nevoie:
 
 ```blocks3
-when flag clicked
-forever
-    repeat (20)
-        change size by (2)
-    end
-    repeat (20)
-        change size by (-2)
-    end
+repetati (10)
+sfarsitul
+
+cand apasati steagul
+
+repeta (10)
+sfarsitul
+
+modificati marimea cu (10)
+
+schimbati marimea cu (10)
+
+pentru totdeauna
+```
+
+\--- / indiciu \--- \--- indiciu \--- Iată codul pentru a face ca steaua să crească și să se micșoreze: ![Star sprite](images/sprite-star.png)
+
+```blocks3
+când pavilionul a făcut clic
+pentru totdeauna
+    repetare (20)
+        dimensiune schimbare cu (2)
+    final
+    repetare (20)
+        schimbare mărime cu (-2)
+    sfârșit
 
 ```
 
-\--- /hint \--- \--- /hints \--- \--- /task \---
+\--- / indiciu \--- \--- / sugestii \--- \--- / sarcina \---
