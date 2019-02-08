@@ -1,13 +1,49 @@
 ## Bouncing asteroid
 
-നിങ്ങളുടെ animation ൽ കുറച്ച് ഫ്ലോട്ടിംഗ് സ്പേസ് റോക്ക് ചേർക്കാം.
+Now you will add a floating space rock to your animation.
 
-+ നിങ്ങളുടെ ആനിമേഷനിലേക്ക് ഒരു 'പാറ' സ്പ്രിറ്റ് ചേർക്കുക.
-    
-    ![ഒരു പാറ മല ഉപയോഗിച്ച് ചേർക്കുന്നു](images/space-rock-sprite.png)
+\--- task \--- Add a 'rock' sprite to your animation.
 
-+ സ്റ്റേജിൽ ബൌൺ ചെയ്യാൻ നിങ്ങളുടെ റോക്ക് സ്പോർട്ടിനെ നിങ്ങൾക്ക് കോഡ് ചെയ്യാൻ കഴിയുമോ?
-    
-    ![ഒരു ബൗൺസിംഗ് റോക്ക് പരിശോധിക്കുന്നു](images/space-bounce-test.png)
+![Adding a rock sprite](images/space-rock-sprite.png)
 
-\--- hints \--- \--- hint \--- When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**. \--- / hint \--- \--- സൂചന \--- നിങ്ങൾക്ക് ആവശ്യമുള്ള കോഡ് ബ്ലോക്കുകൾ ഇവിടെയുണ്ട്: ![Blocks for a bouncing rock](images/space-bounce-blocks.png) ഈ ബ്ലോക്കുകളിലൊന്നിന് റോക്കുമായുള്ള കൂടുതൽ രസകരമായ ഒരു ദിശയും നിങ്ങൾക്ക് സജ്ജമാക്കാൻ കഴിയും: ![Setting the rock's initial position](images/space-initial-position.png) \--- / സൂചന \--- \--- സൂചന \--- സ്റ്റേജിൽ നിങ്ങളുടെ പാറയെ വീശിപ്പിക്കുന്നതിനുള്ള കോഡ് ഇവിടെയുണ്ട്: ![Code for a bouncing rock](images/space-bounce-code.png) \--- / സൂചന \--- \--- / / സൂചനകൾ \---
+\--- /task \---
+
+\--- task \--- Can you add code for your rock sprite so that the rock bounces around the stage?
+
+![Testing a bouncing rock](images/space-bounce-test.png)
+
+\--- hints \--- \--- hint \--- When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
+
+```blocks3
+move (10) steps
+
+if on edge bounce
+
+when flag clicked
+
+forever
+```
+
+You can also set a more interesting starting direction for the rock sprite with one of these blocks:
+
+```blocks3
+turn cw (15) degrees
+
+point towards (Earth v)
+```
+
+\--- /hint \--- \--- hint \---
+
+Here's the code for making your rock bounce around the stage:
+
+![Rock sprite](images/sprite-rock.png)
+
+```blocks3
+when flag clicked
+point towards (Earth v)
+forever
+    move (2) steps
+    if on edge, bounce
+```
+
+\--- /hint \--- \--- /hints \--- \--- /task \---
