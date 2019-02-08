@@ -1,4 +1,4 @@
-## Animating a spaceship
+## अंतरिक्ष-यान एनिमेट करना
 
 Your first step will be to create a spaceship that flies towards the Earth!
 
