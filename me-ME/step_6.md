@@ -4,15 +4,15 @@ Now you will add a floating space rock to your animation.
 
 \--- task \--- Add a 'rock' sprite to your animation.
 
-![Adding a rock sprite](images/space-rock-sprite.png)
+![Dodavanje lika stijene](images/space-rock-sprite.png)
 
 \--- /task \---
 
 \--- task \--- Can you add code for your rock sprite so that the rock bounces around the stage?
 
-![Testing a bouncing rock](images/space-bounce-test.png)
+![Isprobavanje stijene koja poskakuje](images/space-bounce-test.png)
 
-\--- hints \--- \--- hint \--- When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
+\--- hints \--- \--- hint \--- Kada je **kliknuto na zelenu zastavicu** (flag is clicked), tvoj lik stijene treba da se **kreće** (move) i **odskakuje** (bounce) po pozornici **neprestano** (forever). \--- /hint \--- \--- hint \--- Here are the code blocks you need:
 
 ```blocks3
 move (10) steps
