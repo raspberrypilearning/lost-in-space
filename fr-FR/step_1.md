@@ -1,16 +1,16 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
+Ceci est la version **Scratch 3** du projet. Il y a aussi une [la version Scratch 2 du projet](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
 
 \--- /no-print \---
 
 ## Introduction
 
-You are going to learn how to program your own animation!
+Vous allez apprendre à programmer votre propre animation!
 
-### Ce que tu vas faire
+### Ce que tu feras
 
-\--- no-print \--- Click on the green flag to see the animation.
+\--- no-print \--- Cliquez sur le drapeau vert pour voir l'animation.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -21,43 +21,43 @@ You are going to learn how to program your own animation!
 
 \--- print-only \---
 
-![Complete project](images/showcase_static.png)
+![Projet complet](images/showcase_static.png)
 
 \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: Ce qu'il faut avoir
 
-### Hardware
+### Matériel informatique
 
-+ A computer capable of running Scratch 3
++ Un ordinateur capable d'exécuter Scratch 3
 
-### Software
+### Logiciels
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 ( [en ligne](http://rpf.io/scratchon) ou [hors ligne](http://rpf.io/scratchoff)")
 
-### Downloads
+### Téléchargements
 
-+ None
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: What you will learn
-
-+ Animate a sprite using a loop
-+ Change the appearance of a sprite
++ Aucun
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: Ce que tu vas apprendre
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
++ Animer un sprite à l'aide d'une boucle
++ Changer l'apparence d'un sprite
 
-[Here is a link to the solution for this project](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+\--- /collapse \---
+
+## \--- collapse \---
+
+## titre: informations supplémentaires pour les éducateurs
+
+Si tu as besoin d'imprimer ce projet, merci d'utiliser la [Version imprimable](https://projects.raspberrypi.org/en/projects/lost-in-space/print) {: target = "_ blank"}.
+
+[Voici un lien vers la solution pour ce projet](http://rpf.io/p/en/lost-in-space-get){: target = "_ blank"}.
 
 \--- /collapse \---
