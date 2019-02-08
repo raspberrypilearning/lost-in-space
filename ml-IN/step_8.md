@@ -1,11 +1,7 @@
-\--- വെല്ലുവിളി \---
-
 ## വെല്ലുവിളി: നിങ്ങളുടെ സ്വന്തം ആനിമേഷൻ ഉണ്ടാക്കുക
 
-നിങ്ങളുടെ സ്പെയ്സ് ആനിമേഷൻ നിർത്തുക, അത് സംരക്ഷിക്കുക, ഒരു പുതിയ സ്ക്രാച്ച് പ്രോജക്റ്റ് ആരംഭിക്കുക.
+Stop your space animation, save it, and start a new Scratch project.
 
-നിങ്ങളുടെ സ്വന്തം ആനിമേഷൻ ഉണ്ടാക്കാൻ ഈ പദ്ധതിയിൽ നിങ്ങൾ പഠിച്ച കാര്യങ്ങൾ ഉപയോഗിക്കുക. ഇത് നിങ്ങൾക്ക് ഇഷ്ടമുള്ള എന്തും ആയിരിക്കാം, എന്നാൽ നിങ്ങളുടെ ആനിമേഷൻ നിങ്ങളുടെ ക്രമീകരണവുമായി പൊരുത്തപ്പെടുന്നതിന് ശ്രമിക്കൂ. ചില ഉദാഹരണങ്ങൾ ഇതാ:
+Use what you've learned in this project to make your own animation. It can be anything you like, but try to make your animation match the background you choose. Here are some examples:
 
-![സ്ക്രീൻഷോട്ട്](images/space-egs.png)
-
-\--- / വെല്ലുവിളി \---
+![screenshot](images/space-egs.png)
