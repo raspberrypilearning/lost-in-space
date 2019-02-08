@@ -1,4 +1,4 @@
-## Animation using loops
+## लूप्स का इस्तेमाल करके एनिमेट करना
 
 Another way to animate the spaceship is to tell it to move a small amount many times
 
