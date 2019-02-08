@@ -1,11 +1,11 @@
-## Challenge: improve your animation
+## 移动飞船
 
 Can you change the numbers in your animation code so that:
 
-+ The spaceship moves until it touches the Earth?
-+ The spaceship moves more slowly towards the Earth?
++ 飞船碰到地球时停止移动
++ 飞船更缓慢地驶向地球
 
-You'll need to change the numbers in this block:
+你需要修改如下代码块里的数值：
 
 ![Rocketship sprite](images/sprite-spaceship.png)
 
