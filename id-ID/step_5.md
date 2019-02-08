@@ -1,19 +1,60 @@
 ## Monyet Mengambang
 
-Mari tambahkan monyet yang hilang di ruang angkasa untuk animasi Anda!
+Now you will add a monkey who's lost in space to your animation!
 
-+ Mulailah dengan menambahkan sprite 'monyet' dari perpustakaan.
-    
-    ![Menambahkan sprite monyet](images/space-monkey-sprite.png)
+\--- task \--- Start by adding the 'monkey' sprite from the library.
 
-+ Jika Anda mengklik sprite monyet baru Anda dan kemudian klik **Kostum**, Anda dapat mengedit tampilan monyet. Klik alat **ellipse** dan gambar sebuah helm ruang putih di sekitar kepala monyet.
-    
-    ![Helm ruang monyet](images/space-monkey-edit.png)
+![Adding a monkey sprite](images/space-monkey-sprite.png)
 
-+ Dapatkah Anda menambahkan kode ke sprite monyet Anda sehingga berputar perlahan dalam lingkaran selamanya?
-    
-    Uji dan simpan proyek Anda. Anda harus mengklik tombol merah **stop** untuk mengakhiri animasi ini, karena terus berjalan selamanya!
-    
-    ![Blok untuk monyet berputar](images/space-spin-test.png)
+\--- /task \---
 
-\--- petunjuk \--- \--- petunjuk \--- Ketika bendera hijau **diklik**, sprite monyet Anda harus **mengubah** dalam lingkaran **selamanya**. \--- / hint \--- \--- hint \--- Berikut adalah blok kode yang Anda perlukan: ![Blocks for a spinning monkey](images/space-spin-blocks.png) \--- / petunjuk \--- \--- petunjuk \--- Ini kode untuk membuat monyet Anda berputar: ![Code for a spinning monkey](images/space-spin-code.png) \--- / petunjuk \--- \--- / petunjuk \---
+Click on your new monkey sprite and then click on **Costumes** so that you can edit how the monkey looks.
+
+\--- task \--- Set the fill to be transparent by selecting the red line. For the outline, set a white colour by moving the Saturation slider to `0`.
+
+![Make white colour](images/make-white.png) \--- /task \---
+
+\--- task \--- Click on the **circle** tool and then use it to draw a white space helmet around the monkey's head.
+
+![Monkey space helmet](images/space-monkey-edit.png)
+
+\--- /task \---
+
+\--- task \--- Can you add code to your monkey sprite so that it spins slowly in a circle forever?
+
+\--- hints \--- \--- hint \---
+
+When the green **flag is clicked**, your monkey sprite should **turn** in a circle **forever**.
+
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
+
+```blocks3
+forever
+end
+
+turn cw (15) degrees
+
+when flag clicked
+```
+
+\--- /hint \--- \--- hint \---
+
+Here's the code to make your monkey spin:
+
+![Monkey sprite](images/sprite-monkey.png)
+
+```blocks3
+when flag clicked
+forever
+    turn cw (1) degrees
+```
+
+\--- /hint \--- \--- /hints \---
+
+\--- /task \---
+
+Test and save your project. You'll have to click on the red **stop** button to end this animation, as it runs forever!
+
+![Test the spinning monkey](images/space-spin-test.png)
