@@ -6,7 +6,7 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 ## Uvod
 
-You are going to learn how to program your own animation!
+Naučićeš kako da programiraš sopstvenu animaciju!
 
 ### Šta ćeš napraviti
 
@@ -27,15 +27,15 @@ You are going to learn how to program your own animation!
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: Šta će ti biti potrebno
 
-### Hardware
+### Hardver
 
-+ A computer capable of running Scratch 3
++ Računar koji može da pokrene Scratch 3
 
-### Software
+### Softver
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 ([online](http://rpf.io/scratchon){:target="_blank"} ili [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 ### Downloads
 
@@ -45,7 +45,7 @@ You are going to learn how to program your own animation!
 
 ## \--- collapse \---
 
-## title: What you will learn
+## title: Šta ćeš naučiti
 
 + Animate a sprite using a loop
 + Change the appearance of a sprite
@@ -56,7 +56,7 @@ You are going to learn how to program your own animation!
 
 ## title: Additional information for educators
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
+Ukoliko je potrebno da odštampate ovaj projekat, koristite [verziju za štampu](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
 [Here is a link to the solution for this project](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
