@@ -1,31 +1,89 @@
-## Animating using loops
+## Animation using loops
 
-Ένας άλλος τρόπος να ζωντανέψεις το διαστημόπλοιο είναι να του πεις να κινείται ελάχιστα αλλά πολλές φορές.
+Another way to animate the spaceship is to tell it to move a small amount many times
 
-+ Διάγραψε το μπλοκ `ολίσθησης` από τον κώδικα σου κάνοντας δεξί κλικ πάνω του και πατώντας **διαγραφή**. Μπορείς επίσης να διαγράψεις τον κώδικα σύροντάς τον από την περιοχή κωδικοποίησης πίσω στην περιοχή μπλοκ κώδικα.
-    
-    ![Διαγραφή του μπλοκ ολίσθησης](images/space-delete-glide.png)
+\--- task \--- Delete the `glide`{:class="block3motion"} block from your code. To do this, drag the block off the Code area and drop it back where the other single code blocks are.
 
-+ Μπορείς να χρησιμοποιήσεις ένα μπλοκ `επανάληψης` για να κινήσεις το διαστημόπλοιο σου προς τη Γη;
-    
-    Δοκίμασε και αποθήκευσε: Το διαστημόπλοιο θα πρέπει να κινείται προς τη Γη ακριβώς όπως και πριν, χρησιμοποιώντας αυτή τη φορά ένα μπλοκ `επανάληψης`.
-    
-    ![Δοκιμάζοντας ένα κινούμενο σχέδιο διαστημόπλοιου](images/space-animate-stage.png)
+![Spaceship sprite](images/sprite-spaceship.png)
 
-\--- hints \--- \--- hint \--- Αντί να **ολισθαίνει**, το διαστημόπλοιο θα πρέπει **επαναλαμβανόμενα** **να κινείται** μερικά βήματα κάθε φορά. \--- /hint \--- \--- hint \--- Εδώ είναι τα μπλοκ κώδικα που θα χρειαστείς: ![Blocks for an animated spaceship](images/space-repeat-blocks.png) \--- /hint \--- \--- hint \--- Έτσι πρέπει να είναι ο κώδικάς σου: ![Code for an animated spaceship](images/space-repeat-code.png) (Μπορείς να χρησιμοποιήσεις διαφορετικούς αριθμούς στα μπλοκ `επανάληψης` και `κίνησης`, όσο το διαστημόπλοιο κινείται προς τη Γη!) \--- /hint \--- \--- /hints \---
+```blocks3
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
 
-+ Μπορείς να προγραμματίσεις το διαστημόπλοιό σου να αλλάζει χρώμα καθώς κινείται προς τη Γη;
-    
-    Δοκίμασε και αποθήκευσε.
-    
-    ![Δοκιμή ενός διαστημοπλοίου που αλλάζει χρώματα](images/space-colour-test.png)
+- glide (1) secs to x:(0) y:(0)
+```
 
-\--- hints \--- \--- hint \--- Το διαστημόπλοιο πρέπει **να αλλάζει χρώμα** καθώς κινείται. \--- /hint \--- \--- hint \--- Εδώ είναι τα επιπλέον μπλοκ κώδικα που θα χρειαστείς: ![Block for changing colour](images/space-colour-blocks.png) \--- /hint \--- \--- hint \--- Εδώ είναι ο κώδικας για να αλλάζεις το χρώμα του διαστημοπλοίου σου: ![Code for an animated spaceship](images/space-colour-code.png) \--- /hint \--- \--- /hints \---
+\--- /task \---
 
-+ Μπορείς να μικραίνεις το διαστημόπλοιο καθώς κινείται προς τη Γη;
-    
-    Δοκίμασε και αποθήκευσε. Το διαστημόπλοιο θα πρέπει να γίνεται μικρότερο καθώς κινείται. Δοκίμασε το διαστημόπλοιο μία **δεύτερη φορά**. Έχει το σωστό μέγεθος όταν ξεκινάει;
-    
-    ![Δοκιμάζοντας ένα συρρικνούμενο διαστημόπλοιο](images/space-size-test.png)
+\--- task \--- Can you use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
 
-\--- hints \--- \--- hint \--- Το διαστημόπλοιο θα πρέπει να ξεκινά με το **100% μέγεθος** και, στη συνέχεια, **να αλλάζει μέγεθος** ελάχιστα καθώς κινείται. \--- /hint \--- \--- hint \--- Εδώ είναι τα επιπλέον μπλοκ κώδικα που θα χρειαστείς: ![Blocks for changing size](images/space-size-blocks.png) \--- /hint \--- \--- hint \--- Εδώ είναι ο κώδικας για να αλλάζεις το μέγεθος του διαστημοπλοίου σου καθώς κινείται: ![Code for changing size](images/space-size-code.png) \--- /hint \--- \--- /hints \---
+![Testing a spaceship animation](images/space-animate-stage.png)
+
+\--- hints \--- \--- hint \---
+
+Instead of **gliding**, your spaceship should **repeatedly** **move** a few steps at a time.
+
+\--- /hint \--- \--- hint \--- Here are the code blocks you need:
+
+```blocks3
+move (10) steps
+
+repeat (10)
+```
+
+\--- /hint \--- \--- hint \--- Here is the code to animate your spaceship: ![Spaceship sprite](images/sprite-spaceship.png)
+
+```blocks3
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
+```
+
+You can use different numbers in the `repeat`{:class="block3control"} and `move`{:class="block3motion"} blocks, as long as the spaceship still gets to Earth! \--- /hint \--- \--- /hints \---
+
+Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
+
+\--- /task \---
+
+\--- task \--- Can you add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
+
+Use this block:
+
+![Spaceship sprite](images/sprite-spaceship.png)
+
+```blocks3
+change [color v] effect by (25)
+```
+
+Test and save your code.
+
+![Testing a colour-changing spaceship](images/space-colour-test.png)
+
+\--- /task \---
+
+\--- task \--- Can you make your spaceship get smaller as it moves towards Earth?
+
+Your spaceship should start at **100% size**, and then **change size** by a small amount each time it moves.
+
+Use these blocks:
+
+![Spaceship sprite](images/sprite-spaceship.png)
+
+```blocks3
+change size by (10)
+
+set size to (100) %
+```
+
+\--- /task \---
+
+Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
+
+![Testing a shrinking spaceship](images/space-size-test.png)
