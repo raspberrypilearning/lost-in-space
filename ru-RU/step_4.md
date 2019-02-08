@@ -1,89 +1,89 @@
-## Animation using loops
+## Анимация с использованием петель
 
-Another way to animate the spaceship is to tell it to move a small amount many times
+Еще один способ оживить космический корабль - сказать ему, чтобы он много раз двигался
 
-\--- task \--- Delete the `glide`{:class="block3motion"} block from your code. To do this, drag the block off the Code area and drop it back where the other single code blocks are.
+\--- task \--- Удалите блок `glide`{: class = "block3motion"} из вашего кода. Для этого перетащите блок из области «Код» и верните его туда, где находятся другие отдельные блоки кода.
 
-![Spaceship sprite](images/sprite-spaceship.png)
-
-```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-
-- glide (1) secs to x:(0) y:(0)
-```
-
-\--- /task \---
-
-\--- task \--- Can you use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
-
-![Testing a spaceship animation](images/space-animate-stage.png)
-
-\--- hints \--- \--- hint \---
-
-Instead of **gliding**, your spaceship should **repeatedly** **move** a few steps at a time.
-
-\--- /hint \--- \--- hint \--- Here are the code blocks you need:
+![Космический корабль спрайт](images/sprite-spaceship.png)
 
 ```blocks3
-move (10) steps
+когда флаг щелкнул
+в направлении (0)
+перейти к x: (- 150) y: (- 150)
+сказать [пойдем] в течение (2) секунд
+указать в направлении (Земля v)
 
-repeat (10)
+- скользить (1) секунды в x: (0) y: (0)
 ```
 
-\--- /hint \--- \--- hint \--- Here is the code to animate your spaceship: ![Spaceship sprite](images/sprite-spaceship.png)
+\--- / задача \---
+
+\--- task \--- Можете ли вы использовать блок `repeat`{: class = "block3control"} для перемещения вашего космического корабля к Земле?
+
+![Тестирование анимации космического корабля](images/space-animate-stage.png)
+
+\--- подсказки \--- \--- подсказка \---
+
+Вместо **скользящего**, ваш космический корабль должен **раза** **двигаться** по несколько шагов за раз.
+
+\--- / подсказка \--- \--- подсказка \--- Вот нужные вам блоки кода:
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-repeat (200)
-    move (2) steps
+двигаться (10) шаги
+
+повторить (10)
 ```
 
-You can use different numbers in the `repeat`{:class="block3control"} and `move`{:class="block3motion"} blocks, as long as the spaceship still gets to Earth! \--- /hint \--- \--- /hints \---
-
-Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
-
-\--- /task \---
-
-\--- task \--- Can you add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
-
-Use this block:
-
-![Spaceship sprite](images/sprite-spaceship.png)
+\--- / подсказка \--- \--- подсказка \--- Вот код для анимации вашего космического корабля: ![Космический корабль спрайт](images/sprite-spaceship.png)
 
 ```blocks3
-change [color v] effect by (25)
+когда флаг щелкнул
+пункт в направлении (0)
+перейти к x: (- 150) y: (- 150)
+сказать [Пойдем] в течение (2) секунд
+точки в направлении (Земля v)
+повтора (200)
+    перемещений (2) шаги
 ```
 
-Test and save your code.
+Вы можете использовать разные числа в блоках `repeat`{: class = "block3control"} и `move`{: class = "block3motion"}, пока космический корабль все еще достигает Земли! \--- / подсказка \--- \--- / подсказка \---
 
-![Testing a colour-changing spaceship](images/space-colour-test.png)
+Протестируйте и сохраните ваш код. Ваш космический корабль должен двигаться к Земле точно так же, как и раньше, но на этот раз он использует блок `repeat`{: class = "block3control"}
 
-\--- /task \---
+\--- / задача \---
 
-\--- task \--- Can you make your spaceship get smaller as it moves towards Earth?
+\--- задача \--- Можете ли вы добавить код к своему спрайту космического корабля, чтобы космический корабль менял цвет при движении к Земле?
 
-Your spaceship should start at **100% size**, and then **change size** by a small amount each time it moves.
+Используйте этот блок:
 
-Use these blocks:
-
-![Spaceship sprite](images/sprite-spaceship.png)
+![Космический корабль спрайт](images/sprite-spaceship.png)
 
 ```blocks3
-change size by (10)
-
-set size to (100) %
+изменить эффект [цвет v] на (25)
 ```
 
-\--- /task \---
+Протестируйте и сохраните ваш код.
 
-Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
+![Тестирование изменяющего цвет космического корабля](images/space-colour-test.png)
 
-![Testing a shrinking spaceship](images/space-size-test.png)
+\--- / задача \---
+
+\--- задача \--- Можете ли вы сделать ваш космический корабль меньше по мере его движения к Земле?
+
+Ваш космический корабль должен начинаться с **100% размера**, а затем **меняет размер** на небольшую величину при каждом движении.
+
+Используйте эти блоки:
+
+![Космический корабль спрайт](images/sprite-spaceship.png)
+
+```blocks3
+изменить размер на (10)
+
+установить размер (100)%
+```
+
+\--- / задача \---
+
+Протестируйте и сохраните ваш код. Ваш космический корабль теперь должен уменьшаться по мере движения. Проверьте свой космический корабль в **секунд**. Это правильный размер, когда он начинается?
+
+![Испытание сокращающегося космического корабля](images/space-size-test.png)
