@@ -1,63 +1,63 @@
-\--- no-print \---
+\--- нет печати \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
+Это **Scratch 3** версия проекта. Существует также версия [Scratch 2 проекта](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
 
-\--- /no-print \---
+\--- / без печати \---
 
 ## Введение
 
-You are going to learn how to program your own animation!
+Вы научитесь программировать собственную анимацию!
 
 ### Что вы сделаете
 
-\--- no-print \--- Click on the green flag to see the animation.
+\--- no-print \--- Нажмите на зеленый флаг, чтобы увидеть анимацию.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
   <img src="images/space-final.png">
 </div>
 
-\--- /no-print \---
+\--- / без печати \---
 
-\--- print-only \---
+\--- только для печати \---
 
-![Complete project](images/showcase_static.png)
+![Завершить проект](images/showcase_static.png)
 
-\--- /print-only \---
+\--- / только для печати \---
 
-## \--- collapse \---
+## \--- свернуть \---
 
-## title: What you will need
+## название: что вам нужно
 
-### Hardware
+### аппаратные средства
 
-+ A computer capable of running Scratch 3
++ Компьютер с поддержкой Scratch 3
 
-### Software
+### Программного обеспечения
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Царапина 3 (либо [онлайн](http://rpf.io/scratchon){: target = "_ blank"} или [offline](http://rpf.io/scratchoff){: target = "_ blank"})
 
-### Downloads
+### Загрузки
 
-+ None
++ Никто
 
-\--- /collapse \---
+\--- / свернуть \---
 
-## \--- collapse \---
+## \--- свернуть \---
 
-## title: What you will learn
+## title: Что вы выучите
 
-+ Animate a sprite using a loop
-+ Change the appearance of a sprite
++ Анимировать спрайт с помощью цикла
++ Изменить внешний вид спрайта
 
-\--- /collapse \---
+\--- / свернуть \---
 
-## \--- collapse \---
+## \--- свернуть \---
 
-## title: Additional information for educators
+## title: Дополнительная информация для педагогов
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
+Если вам нужно распечатать этот проект, пожалуйста , используйте [Версия для печати](https://projects.raspberrypi.org/en/projects/lost-in-space/print){: TARGET = «_blank»}.
 
-[Here is a link to the solution for this project](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+[Вот ссылка на решение для этого проекта](http://rpf.io/p/en/lost-in-space-get){: target = "_ blank"}.
 
-\--- /collapse \---
+\--- / свернуть \---
