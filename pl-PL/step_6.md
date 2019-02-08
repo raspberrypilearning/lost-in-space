@@ -1,49 +1,49 @@
-## Bouncing asteroid
+## Odbijając asteroidę
 
-Now you will add a floating space rock to your animation.
+Teraz dodacie pływającą spację do swojej animacji.
 
-\--- task \--- Add a 'rock' sprite to your animation.
+\--- task \--- Dodaj sprite'a "rock" do swojej animacji.
 
-![Adding a rock sprite](images/space-rock-sprite.png)
+![Dodanie sprita skalnego](images/space-rock-sprite.png)
 
-\--- /task \---
+\--- / task \---
 
-\--- task \--- Can you add code for your rock sprite so that the rock bounces around the stage?
+\--- task \--- Czy umiesz dodać kod do swojego sprite'a, żeby skała odbijała się od sceny?
 
-![Testing a bouncing rock](images/space-bounce-test.png)
+![Testowanie odbijającej skały](images/space-bounce-test.png)
 
-\--- hints \--- \--- hint \--- When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
+\--- wskazówki \--- \--- podpowiedź \--- Po kliknięciu zielonej **flagi**, twój sprite kamień powinien **przesuwać** i **odbijać się** na scenie **zawsze**. \--- / wskazówka \--- \--- podpowiedź \--- Oto potrzebne bloki kodu:
 
 ```blocks3
 move (10) steps
 
-if on edge bounce
+jeśli po odbiciu od krawędzi
 
-when flag clicked
+gdy flaga kliknęła
 
-forever
+zawsze
 ```
 
-You can also set a more interesting starting direction for the rock sprite with one of these blocks:
+Możesz również ustawić bardziej interesujący kierunek początkowy dla sprite'a skalnego za pomocą jednego z tych bloków:
 
 ```blocks3
-turn cw (15) degrees
+obróć cw (15) stopni
 
-point towards (Earth v)
+punkt w kierunku (Ziemia v)
 ```
 
-\--- /hint \--- \--- hint \---
+\--- / wskazówka \--- \--- wskazówka \---
 
-Here's the code for making your rock bounce around the stage:
+Oto kod, dzięki któremu Twój rock odbija się od sceny:
 
-![Rock sprite](images/sprite-rock.png)
+![Sprajak skalny](images/sprite-rock.png)
 
 ```blocks3
-when flag clicked
-point towards (Earth v)
-forever
-    move (2) steps
-    if on edge, bounce
+kiedy flaga kliknęła
+punkt w kierunku (Ziemia v)
+zawsze
+    ruch (2) kroki
+    jeśli na krawędzi, odbicie
 ```
 
-\--- /hint \--- \--- /hints \--- \--- /task \---
+\--- / wskazówka \--- \--- / wskazówki \--- \--- / zadanie \---
