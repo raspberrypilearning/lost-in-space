@@ -1,11 +1,11 @@
-## Challenge: improve your animation
+## Animare usando i loop
 
 Can you change the numbers in your animation code so that:
 
-+ The spaceship moves until it touches the Earth?
-+ The spaceship moves more slowly towards the Earth?
++ L'astronave si muova fino a toccare la Terra?
++ L'astronave si muova lentamente verso la Terra?
 
-You'll need to change the numbers in this block:
+Dovrai modificare i numeri in questo blocco:
 
 ![Rocketship sprite](images/sprite-spaceship.png)
 
