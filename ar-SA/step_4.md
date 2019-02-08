@@ -1,4 +1,4 @@
-## Animation using loops
+## التحريك باستخدام حلقات التكرار
 
 Another way to animate the spaceship is to tell it to move a small amount many times
 
@@ -16,11 +16,11 @@ point towards (Earth v)
 - glide (1) secs to x:(0) y:(0)
 ```
 
-\--- /task \---
+\---/task--
 
 \--- task \--- Can you use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
 
-![Testing a spaceship animation](images/space-animate-stage.png)
+![اختبار تحرك سفينة الفضاء](images/space-animate-stage.png)
 
 \--- hints \--- \--- hint \---
 
@@ -50,7 +50,7 @@ You can use different numbers in the `repeat`{:class="block3control"} and `move`
 
 Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
 
-\--- /task \---
+\---/task\---
 
 \--- task \--- Can you add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
 
@@ -64,7 +64,7 @@ change [color v] effect by (25)
 
 Test and save your code.
 
-![Testing a colour-changing spaceship](images/space-colour-test.png)
+![اختبار تغيير لون السفينة الفضائية](images/space-colour-test.png)
 
 \--- /task \---
 
@@ -86,4 +86,4 @@ set size to (100) %
 
 Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
 
-![Testing a shrinking spaceship](images/space-size-test.png)
+![اختبار تقلص السفينة الفضائية](images/space-size-test.png)
