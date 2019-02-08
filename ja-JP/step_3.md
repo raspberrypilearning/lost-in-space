@@ -1,56 +1,16 @@
-## 宇宙船 (うちゅうせん) のアニメーション
+## Challenge: improve your animation
 
-地球に向かって飛んでいく宇宙船をつくりましょう！
+Can you change the numbers in your animation code so that:
 
-+ 新しいScratch (スクラッチ) のプロジェクトを開きましょう。
++ The spaceship moves until it touches the Earth?
++ The spaceship moves more slowly towards the Earth?
 
-[[[generic-scratch-new-project]]]
+You'll need to change the numbers in this block:
 
-+ 宇宙船と地球のスプライトをステージに追加してください。
-    
-    ![Spaceship and Earth sprites](images/space-sprites.png)
+![Rocketship sprite](images/sprite-spaceship.png)
 
-[[[generic-scratch-sprite-from-library]]]
+```blocks3
+glide (1) secs to x:(0) y:(0)
+```
 
-+ 背景 (はいけい) には「stars (星)」を追加してください。
-    
-    ![A space backdrop](images/space-backdrop.png)
-
-[[[generic-scratch-backdrop-from-library]]]
-
-+ 宇宙船をクリックして、**コスチューム**のタブをクリックしてください。
-    
-    ![Sprite costume](images/space-costume.png)
-
-+ 選択 (せんたく) するには**矢印 (やじるし)**ツールを使います。丸い**回転**ハンドルをクリックして、横になるまで回転させます。
-    
-    ![Rotating a costume](images/space-rotate.png)
-
-+ 宇宙船のスプライトにこのコードを追加しましょう。
-    
-    ![Spaceship code](images/space-animate.png)
-    
-    ブロックの中の数字を変えます。上にあるのとまったく同じようにしてください。
-    
-    緑の旗をクリックすると、宇宙船がしゃべり、回転し、ステージの中央に向かって進んでいきます。
-    
-    ![Testing a spaceship animation](images/space-animate-stage.png)
-
-[[[generic-scratch-saving]]]
-
-\--- challenge \---
-
-## チャレンジ: アニメーションの改良（かいりょう）
-
-アニメーションのコードの値 (あたい) を変えて、このようにできますか？
-
-+ 宇宙船を地球にタッチするまで動かす
-+ 宇宙船を地球に向かって、もっとゆっくり動かす
-
-このブロックの値を変える必要があります。
-
-![Glide block](images/space-glide.png)
-
-[[[generic-scratch-coordinates]]]
-
-\--- /challenge \---
+[[[generic-scratch3-coordinates]]]
