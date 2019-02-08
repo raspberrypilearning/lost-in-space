@@ -1,31 +1,31 @@
 ---
 title: Изгубљени у свемиру
-hero_image: images/lost-in-space.png
+hero_image: имагес / лост-ин-спаце.пнг
 description: Научићеш како да програмираш сопствену анимацију!
-original_url: https://www.codeclubprojects.org/en-GB/scratch/lost-in-space
+original_url: хттпс://ввв.цодецлубпројецтс.орг/ен-ГБ/сцратцх/лост-ин-спаце
 listed: true
 copyedit: true
-technologies: scratch
+technologies: сцратцх
 version: 4
 last_tested: 2017-11-01
 steps:
   - 
     title: Изгубљени у свемиру
   - 
-    title: Animating a spaceship
+    title: Анимирање свемирског брода
   - 
-    title: 'Challenge: improve your animation'
+    title: 'Изазов: побољшајте своју анимацију'
     challenge: true
   - 
-    title: Animation using loops
+    title: Анимација помоћу петље
   - 
-    title: Floating monkey
+    title: Плутајући мајмун
   - 
-    title: Bouncing asteroid
+    title: Боунцинг астероид
   - 
-    title: Shining star
+    title: Схининг стар
   - 
-    title: 'Challenge: make your own animation'
+    title: 'Изазов: направите сопствену анимацију'
     challenge: true
   - 
-    title: What next?
+    title: Шта даље?
