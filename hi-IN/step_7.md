@@ -1,4 +1,4 @@
-## Shining star
+## चमकता तारा
 
 Now you will combine loops to make a shining star.
 
