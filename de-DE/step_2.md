@@ -1,4 +1,4 @@
-## Animating a spaceship
+## Ein Raumschiff animieren
 
 Your first step will be to create a spaceship that flies towards the Earth!
 
@@ -16,7 +16,7 @@ If you need to download and install the Scratch offline editor, you can find it 
 
 \--- task \--- Add 'rocketship' and 'Earth' sprites to your Stage.
 
-![Spaceship and Earth sprites](images/space-sprites.png)
+![Die Figuren Raumschiff und Erde](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -24,7 +24,7 @@ If you need to download and install the Scratch offline editor, you can find it 
 
 \--- task \--- Add the 'Stars' backdrop to your Stage.
 
-![A space backdrop](images/space-backdrop.png)
+![Ein Weltraum-Bühnenbild](images/space-backdrop.png)
 
 \--- /task \---
 
@@ -36,7 +36,7 @@ If you need to download and install the Scratch offline editor, you can find it 
 
 \--- task \--- Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
 
-![Rotating a costume](images/space-rotate.png)
+![Eine Figur drehen](images/space-rotate.png)
 
 \--- /task \---
 
@@ -57,6 +57,6 @@ Change the numbers in the code blocks you've added so that the code is exactly t
 
 \--- /task \---
 
-If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
+Wenn du auf die grüne Flagge klickst, sollten Sie sehen, wie das Raumschiff "spricht", sich dreht und zur Mitte der Bühne gleitet.
 
-![Testing a spaceship animation](images/space-animate-stage.png)
+![Test einer Raumschiff-Animation](images/space-animate-stage.png)
