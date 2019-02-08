@@ -1,63 +1,63 @@
-\--- no-print \---
+\--- но-принт \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
+Ово је **сцратцх 3** верзија пројекта. Постоји и верзија пројекта [Сцратцх 2](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
 
-\--- /no-print \---
+\--- / без штампања \---
 
-## Introduction
+## Увод
 
-You are going to learn how to program your own animation!
+Научит ћете како програмирати властиту анимацију!
 
-### What you will make
+### Шта ћеш направити
 
-\--- no-print \--- Click on the green flag to see the animation.
+\--- но-принт \--- Кликните на зелену заставу да бисте видели анимацију.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
   <img src="images/space-final.png">
 </div>
 
-\--- /no-print \---
+\--- / без штампања \---
 
-\--- print-only \---
+\--- само за испис \---
 
-![Complete project](images/showcase_static.png)
+![Комплетан пројекат](images/showcase_static.png)
 
-\--- /print-only \---
+\--- / само за испис \---
 
-## \--- collapse \---
+## \--- колапс \---
 
-## title: What you will need
+## наслов: Шта ће вам требати
 
-### Hardware
+### Хардвер
 
-+ A computer capable of running Scratch 3
++ Рачунар способан за покретање Сцратцх 3
 
-### Software
+### Софтвер
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Сцратцх 3 (или [онлине](http://rpf.io/scratchon){: таргет = "_ бланк"} или [оффлине](http://rpf.io/scratchoff){: таргет = "_ бланк"})
 
-### Downloads
+### Преузимања
 
-+ None
++ Ниједан
 
-\--- /collapse \---
+\--- /колапс \---
 
-## \--- collapse \---
+## \--- колапс \---
 
-## title: What you will learn
+## титле: Шта ћете научити
 
-+ Animate a sprite using a loop
-+ Change the appearance of a sprite
++ Анимирајте сприте користећи петљу
++ Промените изглед спритеа
 
-\--- /collapse \---
+\--- /колапс \---
 
-## \--- collapse \---
+## \--- колапс \---
 
-## title: Additional information for educators
+## назив: Додатне информације за едукаторе
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
+Ако желите да одштампате овај пројекат, молимо користите [верзију за штампач](https://projects.raspberrypi.org/en/projects/lost-in-space/print){: таргет = "_ бланк"}.
 
-[Here is a link to the solution for this project](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+[Овде је линк на решење за овај пројекат](http://rpf.io/p/en/lost-in-space-get){: таргет = "_ бланк"}.
 
-\--- /collapse \---
+\--- /колапс \---
