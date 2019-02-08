@@ -1,62 +1,62 @@
-## Animating a spaceship
+## Animowanie statku kosmicznego
 
-Your first step will be to create a spaceship that flies towards the Earth!
+Pierwszym krokiem będzie stworzenie statku kosmicznego lecącego w kierunku Ziemi!
 
-\--- task \---
+\--- zadanie \---
 
-Open a new Scratch project.
+Otwórz nowy projekt Scratch.
 
-**Online:** open a new online Scratch project at [rpf.io/scratchon](http://rpf.io/scratchon){:target="_blank"}.
+**Online:** Otwórz nowy projekt Scratch online na [rpf.io/scratchon](http://rpf.io/scratchon){: target = "_ blank"}.
 
-**Offline:** open a new project in the offline editor.
+**Offline:** Otwórz nowy projekt w edytorze offline.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Jeśli chcesz pobrać i zainstalować edytor offline Scratch, możesz go znaleźć pod adresem [rpf.io/scratchoff](http://rpf.io/scratchoff){: target = "_ blank"}.
 
-\--- /task \---
+\--- / task \---
 
-\--- task \--- Add 'rocketship' and 'Earth' sprites to your Stage.
+\--- task \--- Dodaj duchy "rocketship" i "Earth" do swojego stołu montażowego.
 
-![Spaceship and Earth sprites](images/space-sprites.png)
+![Spaceship i Earth Spites](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
-\--- /task \---
+\--- / task \---
 
-\--- task \--- Add the 'Stars' backdrop to your Stage.
+\--- task \--- Dodaj tło "Stars" do stołu montażowego.
 
-![A space backdrop](images/space-backdrop.png)
+![Tło przestrzeni](images/space-backdrop.png)
 
-\--- /task \---
+\--- / task \---
 
-\--- task \--- Click on your spaceship sprite, and click on the **Costumes** tab.
+\--- task \--- Kliknij na ikonkę statku kosmicznego i kliknij na zakładkę **Costumes**.
 
-![Sprite costume](images/space-costume.png)
+![Kostium Sprite](images/space-costume.png)
 
-\--- /task \---
+\--- / task \---
 
-\--- task \--- Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+\--- task \--- Użyj narzędzia **arrow** , aby kliknąć i przeciągnąć okno wokół całego obrazu statku kosmicznego. Następnie kliknij okrągły uchwyt **obróć** i obróć obraz, aż znajdzie się na boku.
 
-![Rotating a costume](images/space-rotate.png)
+![Obracanie kostiumu](images/space-rotate.png)
 
-\--- /task \---
+\--- / task \---
 
-\--- task \--- Add this code to your spaceship sprite:
+\--- task \--- Dodaj ten kod do swojego sprita statku kosmicznego:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Spitehip sprite](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-glide (1) secs to x:(0) y:(0)
+kiedy flaga kliknęła
+punktów w kierunku (0)
+przejdź do x: (- 150) y: (- 150)
+powiedz [Chodźmy] na (2) sekundy
+punkty w kierunku (Ziemia v)
+przesuniecie (1) seksu do x: (0) y: (0)
 ```
 
-Change the numbers in the code blocks you've added so that the code is exactly the same as above.
+Zmień liczby w dodanych blokach kodu, aby kod był dokładnie taki sam jak powyżej.
 
-\--- /task \---
+\--- / task \---
 
-If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
+Jeśli klikniesz zieloną flagę, powinieneś zobaczyć, jak statek kosmiczny mówi, skręca i ślizga się w kierunku środka sceny.
 
-![Testing a spaceship animation](images/space-animate-stage.png)
+![Testowanie animacji statku kosmicznego](images/space-animate-stage.png)
