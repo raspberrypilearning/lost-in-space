@@ -1,47 +1,47 @@
-## Shining star
+## Схининг стар
 
-Now you will combine loops to make a shining star.
+Сада ћете комбиновати петље да бисте направили сјајну звезду.
 
-\--- task \--- Add a 'star' sprite to your stage.
+\--- задатак \--- Додајте 'стар' сприте на вашу сцену.
 
-![Adding a star sprite](images/space-star-sprite.png)
+![Додавање звезде](images/space-star-sprite.png)
 
-\--- /task \---
+\--- /задатак \---
 
-\--- task \--- Can you add code to your star sprite to make the star repeatedly grow and shrink?
+\--- задатак \--- Можете ли додати код свом звјезданом духу како би звијезда стално расла и смањивала се?
 
-![Testing a shining star](images/sprite-star.png)
+![Тестирање сјајне звезде](images/sprite-star.png)
 
-\--- hints \--- \--- hint \--- When the green **flag is clicked**, your star sprite should **change size** to get bigger a few times, and then **change size** to get smaller a few times. It should do this so that it gets bigger and then smaller **forever** and looks like it's shining light. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
-
-```blocks3
-repeat (10)
-end
-
-when flag clicked
-
-repeat (10)
-end
-
-change size by (10)
-
-change size by (10)
-
-forever
-```
-
-\--- /hint \--- \--- hint \--- Here's the code to make your star grow and shrink: ![Star sprite](images/sprite-star.png)
+\--- савети \--- \--- наговештај \--- Када је зелени **је застава кликне**, твоја звезда дух треба **промена величине** да се већи неколико пута, а онда **величина промена** да је мања Неколико пута. То би требало да уради тако да постане веће и онда мање **заувек** и изгледа као да светли. \--- / хинт \--- \--- хинт \--- Овде су кодни блокови који су вам потребни:
 
 ```blocks3
-when flag clicked
-forever
-    repeat (20)
-        change size by (2)
-    end
-    repeat (20)
-        change size by (-2)
-    end
+поновите (10)
+крај
+
+када је кликнула
+
+понови (10)
+крај
+
+промени величину према (10)
+
+промени величину од (10)
+
+заувек
+```
+
+\--- / хинт \--- \--- хинт \--- Ево кода како би ваша звезда расла и смањила се: ![Стар сприте](images/sprite-star.png)
+
+```blocks3
+када је флаг кликнуо
+заувек
+    понови (20)
+        промени величину од (2)
+    крај
+    понови (20)
+        промени величину од (-2)
+    крај
 
 ```
 
-\--- /hint \--- \--- /hints \--- \--- /task \---
+\--- / хинт \--- \--- / хинтс \--- \--- / таск \---
