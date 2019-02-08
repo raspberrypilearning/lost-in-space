@@ -1,19 +1,60 @@
-## Floating monkey
+## Плаваюча мавпа
 
-Додамо мавпу, що загубилася в космосі, до вашої анімації!
+Now you will add a monkey who's lost in space to your animation!
 
-+ Спочатку додайте спрайт 'мавпа' з бібліотеки.
-    
-    ![Додавання спрайту мавпи](images/space-monkey-sprite.png)
+\--- task \--- Start by adding the 'monkey' sprite from the library.
 
-+ Якщо ви клацнете на спрайт мавпи, а потім натисните кнопку **Образи**, то зможете редагувати вигляд мавпи. Натисніть на інструмент "**еліпс**" і намалюйте біле коло у вигляді шолома навколо голови мавпи.
-    
-    ![Космічний шолом мавпи](images/space-monkey-edit.png)
+![Додавання спрайту мавпи](images/space-monkey-sprite.png)
 
-+ Чи можете ви додати код до спрайту мавпи так, щоб він постійно повільно крутився?
-    
-    Випробуйте і збережіть проект. Вам доведеться натиснути червону кнопку **стоп**, щоб зупинити анімацію, яка крутиться вічно!
-    
-    ![Блоки для мавпи, що обертається](images/space-spin-test.png)
+\--- /task \---
 
-\--- hints \--- \--- hint \--- коли зелений **прапор натиснено**, спрайт мавпи має **обертатися** навколо себе **завжди**. \--- /hint \--- \--- hint \--- Ось блоки кодів, які вам знадобляться: <0 /> \--- /hint \--- \--- hint \--- Ось код, що змусить вашу мавпи обертатися: <1 /> \--- /hint \--- \--- /hints \---
+Click on your new monkey sprite and then click on **Costumes** so that you can edit how the monkey looks.
+
+\--- task \--- Set the fill to be transparent by selecting the red line. For the outline, set a white colour by moving the Saturation slider to `0`.
+
+![Make white colour](images/make-white.png) \--- /task \---
+
+\--- task \--- Click on the **circle** tool and then use it to draw a white space helmet around the monkey's head.
+
+![Космічний шолом мавпи](images/space-monkey-edit.png)
+
+\--- /task \---
+
+\--- task \--- Can you add code to your monkey sprite so that it spins slowly in a circle forever?
+
+\--- hints \--- \--- hint \---
+
+When the green **flag is clicked**, your monkey sprite should **turn** in a circle **forever**.
+
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
+
+```blocks3
+forever
+end
+
+turn cw (15) degrees
+
+when flag clicked
+```
+
+\--- /hint \--- \--- hint \---
+
+Here's the code to make your monkey spin:
+
+![Monkey sprite](images/sprite-monkey.png)
+
+```blocks3
+when flag clicked
+forever
+    turn cw (1) degrees
+```
+
+\--- /hint \--- \--- /hints \---
+
+\--- /task \---
+
+Test and save your project. You'll have to click on the red **stop** button to end this animation, as it runs forever!
+
+![Test the spinning monkey](images/space-spin-test.png)
