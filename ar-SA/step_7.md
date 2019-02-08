@@ -4,15 +4,15 @@ Now you will combine loops to make a shining star.
 
 \--- task \--- Add a 'star' sprite to your stage.
 
-![Adding a star sprite](images/space-star-sprite.png)
+![إضافة كائن النجم](images/space-star-sprite.png)
 
 \--- /task \---
 
 \--- task \--- Can you add code to your star sprite to make the star repeatedly grow and shrink?
 
-![Testing a shining star](images/sprite-star.png)
+![اختبار النجم اللامع](images/sprite-star.png)
 
-\--- hints \--- \--- hint \--- When the green **flag is clicked**, your star sprite should **change size** to get bigger a few times, and then **change size** to get smaller a few times. It should do this so that it gets bigger and then smaller **forever** and looks like it's shining light. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
+\--- hints \--- \--- hint \--- **عند النقر فوق العلم الأخضر**، يجب أن **يتغير حجم** كائن النجم ليكبُر تدريجيًا عدة مرات ثم **يتغير حجمه** ليصغُر تدريجيًا عدة مرات. It should do this so that it gets bigger and then smaller **forever** and looks like it's shining light. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
 
 ```blocks3
 repeat (10)
