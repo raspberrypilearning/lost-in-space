@@ -1,62 +1,62 @@
-## Animating a spaceship
+## Animer un vaisseau spatial
 
-Your first step will be to create a spaceship that flies towards the Earth!
+Votre première étape sera de créer un vaisseau spatial qui vole vers la Terre!
 
 \--- task \---
 
-Open a new Scratch project.
+Ouvrez un nouveau projet Scratch.
 
-**Online:** open a new online Scratch project at [rpf.io/scratchon](http://rpf.io/scratchon){:target="_blank"}.
+**En ligne:** ouvre un nouveau projet Scratch en ligne à [rpf.io/scratchon](http://rpf.io/scratchon){: target = "_ blank"}.
 
-**Offline:** open a new project in the offline editor.
+**Hors ligne:** ouvre un nouveau projet dans l'éditeur hors ligne.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Si vous devez télécharger et installer l'éditeur hors ligne Scratch, vous pouvez le trouver à l'adresse [rpf.io/scratchoff](http://rpf.io/scratchoff){: target = "_ blank"}.
 
 \--- /task \---
 
-\--- task \--- Add 'rocketship' and 'Earth' sprites to your Stage.
+\--- task \--- Ajoutez les sprites 'rocketship' et 'Earth' à votre scène.
 
-![Spaceship and Earth sprites](images/space-sprites.png)
+![Les lutins Spaceship et Terre](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
 \--- /task \---
 
-\--- task \--- Add the 'Stars' backdrop to your Stage.
+\--- task \--- Ajoutez le fond 'Stars' à votre scène.
 
-![A space backdrop](images/space-backdrop.png)
-
-\--- /task \---
-
-\--- task \--- Click on your spaceship sprite, and click on the **Costumes** tab.
-
-![Sprite costume](images/space-costume.png)
+![Un arrière plan](images/space-backdrop.png)
 
 \--- /task \---
 
-\--- task \--- Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+\--- task \--- Cliquez sur votre sprite de vaisseau spatial, puis sur l'onglet **Costumes**.
 
-![Rotating a costume](images/space-rotate.png)
+![Costume de lutin](images/space-costume.png)
 
 \--- /task \---
 
-\--- task \--- Add this code to your spaceship sprite:
+\--- task \--- Utilisez l'outil **flèche** pour cliquer et faire glisser une zone autour de l'image du vaisseau spatial. Cliquez ensuite sur la poignée circulaire **rotation** et faites pivoter l'image jusqu'à ce qu'elle soit sur le côté.
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Faire pivoter un costume](images/space-rotate.png)
+
+\--- /task \---
+
+\--- task \--- Ajoutez ce code à votre sprite de vaisseau spatial:
+
+![Sprite de vaisseau spatial](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-glide (1) secs to x:(0) y:(0)
+lorsque le drapeau est cliqué
+point en direction (0)
+aller à x: (- 150) y: (- 150)
+dire [Allons-y] pendant (2) secondes
+points en direction de (Terre v)
+glisse (1) seconde à x: (0) y: (0)
 ```
 
-Change the numbers in the code blocks you've added so that the code is exactly the same as above.
+Modifiez les numéros dans les blocs de code que vous avez ajoutés pour que le code soit exactement le même que ci-dessus.
 
 \--- /task \---
 
-If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
+Si vous cliquez sur le drapeau vert, vous devriez voir le vaisseau parler, tourner et glisser vers le centre de la scène.
 
-![Testing a spaceship animation](images/space-animate-stage.png)
+![Test d'une animation de vaisseau spatial](images/space-animate-stage.png)
