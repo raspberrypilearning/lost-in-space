@@ -7,12 +7,12 @@ listed: true
 copyedit: true
 technologies: scratch
 version: 4
-last_tested: 2017-11-01
+last_tested: 2018-09-26
 steps:
   - 
     title: Uvod
   - 
-    title: Šta će ti biti potrebno
+    title: Animacija svemirskog broda
   - 
     title: 'Animacija svemirskog broda'
     challenge: true
@@ -28,4 +28,4 @@ steps:
     title: 'Izazov: napravi sopstvenu animaciju'
     challenge: true
   - 
-    title: What next?
+    title: 'Izazov: promijeni kostim bubnja'
