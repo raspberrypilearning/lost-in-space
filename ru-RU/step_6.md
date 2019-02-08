@@ -1,49 +1,49 @@
 ## Отскок астероида
 
-Now you will add a floating space rock to your animation.
+Теперь вы добавите плавающий космический камень в вашу анимацию.
 
-\--- task \--- Add a 'rock' sprite to your animation.
+\--- задача \--- Добавьте «спрайт» в вашу анимацию.
 
-![Adding a rock sprite](images/space-rock-sprite.png)
+![Добавление каменного спрайта](images/space-rock-sprite.png)
 
-\--- /task \---
+\--- / задача \---
 
-\--- task \--- Can you add code for your rock sprite so that the rock bounces around the stage?
+\--- задача \--- Можете ли вы добавить код для своего спрайта, чтобы скакала вокруг сцены?
 
-![Testing a bouncing rock](images/space-bounce-test.png)
+![Тестирование прыгающего камня](images/space-bounce-test.png)
 
-\--- hints \--- \--- hint \--- When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
-
-```blocks3
-move (10) steps
-
-if on edge bounce
-
-when flag clicked
-
-forever
-```
-
-You can also set a more interesting starting direction for the rock sprite with one of these blocks:
+\--- подсказки \--- \--- подсказка \--- Если щелкнуть зеленый флаг ****, ваш каменный спрайт должен **переместиться на** и **отскочить от** вокруг стадии **навсегда**. \--- / подсказка \--- \--- подсказка \--- Вот нужные вам блоки кода:
 
 ```blocks3
-turn cw (15) degrees
+move (10) шагов
 
-point towards (Earth v)
+если отскок от края
+
+когда флаг нажал
+
+навсегда
 ```
 
-\--- /hint \--- \--- hint \---
-
-Here's the code for making your rock bounce around the stage:
-
-![Rock sprite](images/sprite-rock.png)
+Вы также можете установить более интересное начальное направление для спрайта с одним из следующих блоков:
 
 ```blocks3
-when flag clicked
-point towards (Earth v)
-forever
-    move (2) steps
-    if on edge, bounce
+поверните cw (15) градусов на
+
+градусов в направлении (Земля v)
 ```
 
-\--- /hint \--- \--- /hints \--- \--- /task \---
+\--- / подсказка \--- \--- подсказка \---
+
+Вот код для того, чтобы заставить ваш рок подпрыгивать на сцене:
+
+![Рок спрайт](images/sprite-rock.png)
+
+```blocks3
+когда флаг щелкнул
+пункт к (Земля v)
+навсегда
+    двигаться (2) шаги
+    если на краю, отказов
+```
+
+\--- / подсказка \--- \--- / подсказка \--- \--- / задача \---
