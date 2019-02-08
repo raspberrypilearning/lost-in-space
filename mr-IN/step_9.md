@@ -1,3 +1,3 @@
-## What next?
+## पुढे काय?
 
-Try the [Ghostbusters](https://projects.raspberrypi.org/en/projects/ghostbusters) project! In that project, you will learn how to create a game with ghosts that appear all over the place and that you need to catch. You will also learn how to add a timer and a score to the game, so that you can see how many ghosts you are able to catch.
+[घोस्टबस्टर](https://projects.raspberrypi.org/en/projects/ghostbusters) प्रोजेक्ट वापरून पहा! त्या प्रोजेक्टमध्ये, आपण भूत ठिकाणी सर्वत्र दिसणार्या आणि आपल्याला पकडण्याची आवश्यकता असलेल्या गेमसह गेम कसा तयार करावा हे शिकाल. आपण गेममध्ये टाइमर आणि स्कोअर कसा जोडावा हे देखील शिकाल, जेणेकरून आपण किती भूत शोधू शकता हे आपण पाहू शकता.
