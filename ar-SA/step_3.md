@@ -1,56 +1,16 @@
-## تحريك سفينة فضاء
+## Challenge: improve your animation
 
-لننشئ سفينة فضاء تسبح نحو كوكب الأرض!
+Can you change the numbers in your animation code so that:
 
-+ افتح مشروع Scratch جديدًا وفارغًا.
++ The spaceship moves until it touches the Earth?
++ The spaceship moves more slowly towards the Earth?
 
-[[[generic-scratch-new-project]]]
+You'll need to change the numbers in this block:
 
-+ أضف الكائنين"سفينة الفضاء" و "كوكب الأرض" إلى المنصة.
-    
-    ![الكائنين سفينة الفضاء و كوكب الأرض](images/space-sprites.png)
+![Rocketship sprite](images/sprite-spaceship.png)
 
-[[[generic-scratch-sprite-from-library]]]
+```blocks3
+glide (1) secs to x:(0) y:(0)
+```
 
-+ أضف خلفية "النجوم" إلى المنصة.
-    
-    ![خلفية الفضاء](images/space-backdrop.png)
-
-[[[generic-scratch-backdrop-from-library]]]
-
-+ انقر فوق كائن سفينة الفضاء، ثم انقر فوق علامة التبويب **المظاهر**.
-    
-    ![مظهر الكائن](images/space-costume.png)
-
-+ استخدم أداة **السهم** لتحديد الصورة. ثم انقر فوق مقبض **التدوير الدائري**، وأدر الصورة حتى تكون مرتكزة على جانبها.
-    
-    ![تدوير المظهر](images/space-rotate.png)
-
-+ أضف هذه التعليمة البرمجية إلى كائن سفينة الفضاء:
-    
-    ![التعليمات البرمجية لسفينة الفضائية](images/space-animate.png)
-    
-    غيِّر الأرقام الموجودة في قوالب التعليمات البرمجية بحيث تكون التعليمات البرمجية مماثلة لتلك الموضحة في الصورة أعلاه.
-    
-    إذا نقرتَ على العلم الأخضر، فستجد أن سفينة الفضاء تتكلم ثم تستدير ثم تسبح نحو كوكب الأرض.
-    
-    ![اختبار تحرك سفينة الفضاء](images/space-animate-stage.png)
-
-[[[generic-scratch-saving]]]
-
-\--- challenge \---
-
-## تحدي: تحسين الرسم المتحرك
-
-هل يمكنك تغيير الأرقام في التعليمات البرمجية للرسم المتحرك، بحيث:
-
-+ تتحرك سفينة الفضاء حتى تُلامس كوكب الأرض؟
-+ تتحرك سفينة الفضاء بشكل أبطأ نحو كوكب الأرض؟
-
-ستحتاج إلى تغيير الأرقام في هذا القالب:
-
-![منع الإنزلاق](images/space-glide.png)
-
-[[[generic-scratch-coordinates]]]
-
-\--- /challenge \---
+[[[generic-scratch3-coordinates]]]
