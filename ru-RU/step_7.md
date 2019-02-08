@@ -1,47 +1,47 @@
 ## Сияющая звезда
 
-Now you will combine loops to make a shining star.
+Теперь вы будете комбинировать петли, чтобы сделать сияющую звезду.
 
-\--- task \--- Add a 'star' sprite to your stage.
+\--- задача \--- Добавить «звездный» спрайт на вашу сцену.
 
-![Adding a star sprite](images/space-star-sprite.png)
+![Добавление звездного спрайта](images/space-star-sprite.png)
 
-\--- /task \---
+\--- / задача \---
 
-\--- task \--- Can you add code to your star sprite to make the star repeatedly grow and shrink?
+\--- задача \--- Можете ли вы добавить код в свой звездный спрайт, чтобы звезда постоянно увеличивалась и уменьшалась?
 
-![Testing a shining star](images/sprite-star.png)
+![Испытание сияющей звезды](images/sprite-star.png)
 
-\--- hints \--- \--- hint \--- When the green **flag is clicked**, your star sprite should **change size** to get bigger a few times, and then **change size** to get smaller a few times. It should do this so that it gets bigger and then smaller **forever** and looks like it's shining light. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
-
-```blocks3
-repeat (10)
-end
-
-when flag clicked
-
-repeat (10)
-end
-
-change size by (10)
-
-change size by (10)
-
-forever
-```
-
-\--- /hint \--- \--- hint \--- Here's the code to make your star grow and shrink: ![Star sprite](images/sprite-star.png)
+\--- подсказки \--- \--- подсказка \--- При нажатии зеленого флажка ****ваш звездный спрайт должен **изменить размер** чтобы увеличить его в несколько раз, а затем **изменить размер** чтобы уменьшить его. несколько раз. Он должен сделать это так, чтобы он становился больше, а затем меньше **навсегда** и выглядел так, как будто он светит светом. \--- / подсказка \--- \--- подсказка \--- Вот нужные вам блоки кода:
 
 ```blocks3
-when flag clicked
-forever
-    repeat (20)
-        change size by (2)
-    end
-    repeat (20)
-        change size by (-2)
-    end
+повторить (10)
+конец
+
+при нажатии флага
+
+повтор (10)
+конец
+
+изменить размер на (10)
+
+изменить размер на (10)
+
+навсегда
+```
+
+\--- / подсказка \--- \--- подсказка \--- Вот код, который заставит вашу звезду расти и уменьшаться: ![Звездный спрайт](images/sprite-star.png)
+
+```blocks3
+когда флаг нажал
+навсегда
+    повтор (20)
+        изменить размер на (2)
+    конец
+    повторить (20)
+        изменить размер на (-2)
+    конец
 
 ```
 
-\--- /hint \--- \--- /hints \--- \--- /task \---
+\--- / подсказка \--- \--- / подсказка \--- \--- / задача \---
