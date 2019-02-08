@@ -1,49 +1,49 @@
 ## Asteroid Memantul
 
-Now you will add a floating space rock to your animation.
+Sekarang Anda akan menambahkan rock ruang apung ke animasi Anda.
 
-\--- task \--- Add a 'rock' sprite to your animation.
+\--- task \--- Tambahkan sprite 'rock' ke animasi Anda.
 
-![Adding a rock sprite](images/space-rock-sprite.png)
+![Menambahkan sprite batu](images/space-rock-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Can you add code for your rock sprite so that the rock bounces around the stage?
+\--- task \--- Bisakah Anda menambahkan kode untuk sprite batu Anda sehingga batu memantul di sekitar panggung?
 
-![Testing a bouncing rock](images/space-bounce-test.png)
+![Menguji batu yang memantul](images/space-bounce-test.png)
 
-\--- hints \--- \--- hint \--- When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
-
-```blocks3
-move (10) steps
-
-if on edge bounce
-
-when flag clicked
-
-forever
-```
-
-You can also set a more interesting starting direction for the rock sprite with one of these blocks:
+\--- hints \--- \--- hint \--- Ketika flag **hijau diklik**, sprite rock Anda harus **bergerak** dan **memantul** sekitar stage **selamanya**. \--- / hint \--- \--- hint \--- Ini adalah blok kode yang Anda butuhkan:
 
 ```blocks3
-turn cw (15) degrees
+bergerak (10) langkah
 
-point towards (Earth v)
+jika di tepi terpental
+
+saat bendera diklik
+
+selamanya
 ```
 
-\--- /hint \--- \--- hint \---
+Anda juga dapat menetapkan arah awal yang lebih menarik untuk sprite batu dengan salah satu dari blok ini:
 
-Here's the code for making your rock bounce around the stage:
+```blocks3
+putar cw (15) derajat
+
+titik ke arah (Earth v)
+```
+
+\--- / hint \--- \--- hint \---
+
+Berikut kode untuk membuat batu memantul di sekitar panggung:
 
 ![Rock sprite](images/sprite-rock.png)
 
 ```blocks3
-when flag clicked
-point towards (Earth v)
-forever
-    move (2) steps
-    if on edge, bounce
+ketika bendera diklik
+titik ke arah (Earth v)
+selamanya
+    bergerak (2) langkah
+    jika di tepi, terpental
 ```
 
-\--- /hint \--- \--- /hints \--- \--- /task \---
+\--- / hint \--- \--- / hints \--- \--- / task \---
