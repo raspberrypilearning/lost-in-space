@@ -1,60 +1,60 @@
 ## Плавающая обезьяна
 
-Now you will add a monkey who's lost in space to your animation!
+Теперь вы добавите обезьяну, которая потерялась в космосе, к вашей анимации!
 
-\--- task \--- Start by adding the 'monkey' sprite from the library.
+\--- task \--- Начните с добавления спрайта 'monkey' из библиотеки.
 
-![Adding a monkey sprite](images/space-monkey-sprite.png)
+![Добавление спрайта обезьяны](images/space-monkey-sprite.png)
 
-\--- /task \---
+\--- / задача \---
 
-Click on your new monkey sprite and then click on **Costumes** so that you can edit how the monkey looks.
+Нажмите на свой новый спрайт обезьяны и затем нажмите **Костюмов** чтобы вы могли редактировать, как выглядит обезьяна.
 
-\--- task \--- Set the fill to be transparent by selecting the red line. For the outline, set a white colour by moving the Saturation slider to `0`.
+\--- задача \--- Установите заливку прозрачной, выделив красную линию. Для контура установите белый цвет, переместив ползунок Насыщенность в `0`.
 
-![Make white colour](images/make-white.png) \--- /task \---
+![Сделать белый цвет](images/make-white.png) \--- / задача \---
 
-\--- task \--- Click on the **circle** tool and then use it to draw a white space helmet around the monkey's head.
+\--- task \--- Нажмите на инструмент **circle** и затем используйте его, чтобы нарисовать белый космический шлем вокруг головы обезьяны
 
-![Monkey space helmet](images/space-monkey-edit.png)
+![Космический шлем обезьяны](images/space-monkey-edit.png)
 
-\--- /task \---
+\--- / задача \---
 
-\--- task \--- Can you add code to your monkey sprite so that it spins slowly in a circle forever?
+\--- задача \--- Можете ли вы добавить код к вашему спрайту обезьяны, чтобы он медленно вращался по кругу навсегда?
 
-\--- hints \--- \--- hint \---
+\--- подсказки \--- \--- подсказка \---
 
-When the green **flag is clicked**, your monkey sprite should **turn** in a circle **forever**.
+Когда зеленый флажок **нажимается**, ваш спрайт обезьяны должен **повернуть** по кругу **навсегда**.
 
-\--- /hint \--- \--- hint \---
+\--- / подсказка \--- \--- подсказка \---
 
-Here are the code blocks you need:
-
-```blocks3
-forever
-end
-
-turn cw (15) degrees
-
-when flag clicked
-```
-
-\--- /hint \--- \--- hint \---
-
-Here's the code to make your monkey spin:
-
-![Monkey sprite](images/sprite-monkey.png)
+Вот блоки кода, которые вам нужны:
 
 ```blocks3
-when flag clicked
-forever
-    turn cw (1) degrees
+навсегда
+конец
+
+поворот cw (15) градусов
+
+при нажатии флага
 ```
 
-\--- /hint \--- \--- /hints \---
+\--- / подсказка \--- \--- подсказка \---
 
-\--- /task \---
+Вот код, который заставит вашу обезьяну вращаться:
 
-Test and save your project. You'll have to click on the red **stop** button to end this animation, as it runs forever!
+![Обезьяна спрайт](images/sprite-monkey.png)
 
-![Test the spinning monkey](images/space-spin-test.png)
+```blocks3
+когда флаг нажал
+навсегда
+    поворот cw (1) градусов
+```
+
+\--- / подсказка \--- \--- / подсказка \---
+
+\--- / задача \---
+
+Протестируйте и сохраните ваш проект. Вы должны нажать на красную **Остановка** кнопку , чтобы закончить эту анимацию, как это работает навсегда!
+
+![Испытайте вращающуюся обезьяну](images/space-spin-test.png)
