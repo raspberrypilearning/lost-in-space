@@ -1,13 +1,47 @@
 ## Shining star
 
-讓我們結合循環來創造一顆閃亮的星星。
+Now you will combine loops to make a shining star.
 
-+ 將“星星”角色添加到您的動畫中。
-    
-    ![添加一個星星角色](images/space-star-sprite.png)
+\--- task \--- Add a 'star' sprite to your stage.
 
-+ 你可以編碼您的星星反復成長和縮小嗎？
-    
-    ![測試一顆閃亮的星星](images/space-star-test.png)
+![Adding a star sprite](images/space-star-sprite.png)
 
-\--- hints \--- \--- hint \--- 當 **綠旗**被點擊時，你的星星角色應該會 **改變尺寸** 變大幾次，然後再**改變尺寸** 變小幾次。 它應該這樣做，以便它增長，然後 **永遠** 縮小。 \--- /hint \--- \--- hint \--- 以下是您需要的代碼塊： ![Blocks for a shining star](images/space-star-blocks.png) \--- /hint \--- \--- hint \--- 以下是讓您的星星閃耀的代碼： ![Code for a shining star](images/space-star-code.png) \--- /hint \--- \--- /hints \---
+\--- /task \---
+
+\--- task \--- Can you add code to your star sprite to make the star repeatedly grow and shrink?
+
+![Testing a shining star](images/sprite-star.png)
+
+\--- hints \--- \--- hint \--- When the green **flag is clicked**, your star sprite should **change size** to get bigger a few times, and then **change size** to get smaller a few times. It should do this so that it gets bigger and then smaller **forever** and looks like it's shining light. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
+
+```blocks3
+repeat (10)
+end
+
+when flag clicked
+
+repeat (10)
+end
+
+change size by (10)
+
+change size by (10)
+
+forever
+```
+
+\--- /hint \--- \--- hint \--- Here's the code to make your star grow and shrink: ![Star sprite](images/sprite-star.png)
+
+```blocks3
+when flag clicked
+forever
+    repeat (20)
+        change size by (2)
+    end
+    repeat (20)
+        change size by (-2)
+    end
+
+```
+
+\--- /hint \--- \--- /hints \--- \--- /task \---
