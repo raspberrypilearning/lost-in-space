@@ -12,12 +12,12 @@ steps:
   - 
     title: Введение
   - 
-    title: Animating a spaceship
+    title: Анимация космического корабля
   - 
-    title: 'Challenge: improve your animation'
+    title: 'Задача: улучшить свою анимацию'
     challenge: true
   - 
-    title: Animation using loops
+    title: Анимация с использованием петель
   - 
     title: Плавающая обезьяна
   - 
@@ -28,4 +28,4 @@ steps:
     title: 'Задача: создать собственную анимацию'
     challenge: true
   - 
-    title: What next?
+    title: Что дальше?
