@@ -1,49 +1,49 @@
-## Bouncing asteroid
+## लघुग्रह उंचावणे
 
-Now you will add a floating space rock to your animation.
+आता आपण आपल्या अॅनिमेशनमध्ये एक फ्लोटिंग स्पेस रॉक जोडेल.
 
-\--- task \--- Add a 'rock' sprite to your animation.
+\--- कार्य \--- आपल्या अॅनिमेशनमध्ये 'रॉक' स्प्राइट जोडा.
 
-![Adding a rock sprite](images/space-rock-sprite.png)
+![एक रॉक sprite जोडत आहे](images/space-rock-sprite.png)
 
-\--- /task \---
+\--- / कार्य \---
 
-\--- task \--- Can you add code for your rock sprite so that the rock bounces around the stage?
+\--- कार्य \--- आपण आपल्या रॉक स्प्राइटसाठी कोड जोडू शकता जेणेकरून खडकाची चोच उभी होईल?
 
-![Testing a bouncing rock](images/space-bounce-test.png)
+![एक बाउंसिंग रॉक चाचणी](images/space-bounce-test.png)
 
-\--- hints \--- \--- hint \--- When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
-
-```blocks3
-move (10) steps
-
-if on edge bounce
-
-when flag clicked
-
-forever
-```
-
-You can also set a more interesting starting direction for the rock sprite with one of these blocks:
+\--- इशारे \--- \--- इशारा \--- हिरव्या तेव्हा **ध्वज क्लिक केले आहे**, आपल्या रॉक परी पाहिजे **हलवा** आणि **बाऊन्स** टप्प्यात सुमारे **कायमचे**. \--- / संकेत \--- \--- इशारा \--- येथे आपल्याला आवश्यक असलेले कोड अवरोध आहेत:
 
 ```blocks3
-turn cw (15) degrees
+हलवा (10) चरणांची
 
-point towards (Earth v)
+धार बाऊन्स वर तर
+
+ध्वज क्लिक केले तेव्हा
+
+कायमचे
 ```
 
-\--- /hint \--- \--- hint \---
-
-Here's the code for making your rock bounce around the stage:
-
-![Rock sprite](images/sprite-rock.png)
+रॉक स्प्राइटसाठी आपण या ब्लॉक्समधील एक अधिक मनोरंजक प्रारंभ दिशा देखील सेट करु शकता:
 
 ```blocks3
-when flag clicked
-point towards (Earth v)
-forever
-    move (2) steps
-    if on edge, bounce
+सीडब्ल्यू (15) अंश
+
+पॉइंट दिशेने (पृथ्वी विरुद्ध)
 ```
 
-\--- /hint \--- \--- /hints \--- \--- /task \---
+\--- / इशारा \--- \--- इशारा \---
+
+स्टेजच्या आसपास आपला रॉक उंचावण्यासाठी कोड येथे आहे:
+
+![रॉक sprite](images/sprite-rock.png)
+
+```blocks3
+जेव्हा ध्वज
+पॉइंटच्या दिशेने (पृथ्वी व्ही)
+कायमचे क्लिक करेल तेव्हा काठावर, बाउंसवर असल्यास
+    हल (2) चरण
+
+```
+
+\--- / संकेत \--- \--- / संकेत \--- \--- / कार्य \---
