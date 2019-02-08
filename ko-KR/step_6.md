@@ -4,15 +4,15 @@ Now you will add a floating space rock to your animation.
 
 \--- task \--- Add a 'rock' sprite to your animation.
 
-![Adding a rock sprite](images/space-rock-sprite.png)
+![돌 스프라이트 추가하기](images/space-rock-sprite.png)
 
 \--- /task \---
 
 \--- task \--- Can you add code for your rock sprite so that the rock bounces around the stage?
 
-![Testing a bouncing rock](images/space-bounce-test.png)
+![튀어다니는 돌 테스트](images/space-bounce-test.png)
 
-\--- hints \--- \--- hint \--- When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
+\--- hints \--- \--- hint \--- 녹색 **깃발을 누르면** 돌 스프라이트는 **영원히** 무대를 **움직이며** **튀어다닙니다**. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
 
 ```blocks3
 move (10) steps
