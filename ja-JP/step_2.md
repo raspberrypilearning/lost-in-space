@@ -1,4 +1,4 @@
-## Animating a spaceship
+## 宇宙船 (うちゅうせん) のアニメーション
 
 Your first step will be to create a spaceship that flies towards the Earth!
 
@@ -57,6 +57,6 @@ Change the numbers in the code blocks you've added so that the code is exactly t
 
 \--- /task \---
 
-If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
+緑の旗をクリックすると、宇宙船がしゃべり、回転し、ステージの中央に向かって進んでいきます。
 
 ![Testing a spaceship animation](images/space-animate-stage.png)
