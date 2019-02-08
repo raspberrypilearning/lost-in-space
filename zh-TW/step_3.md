@@ -2,10 +2,10 @@
 
 Can you change the numbers in your animation code so that:
 
-+ The spaceship moves until it touches the Earth?
-+ The spaceship moves more slowly towards the Earth?
++ 太空船運行直到觸及地球？
++ 太空船向著地球更慢運行？
 
-You'll need to change the numbers in this block:
+您需要更改此區塊中的數字：
 
 ![Rocketship sprite](images/sprite-spaceship.png)
 
