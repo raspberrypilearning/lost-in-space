@@ -1,22 +1,63 @@
+\--- no-print \---
+
+This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
+
+\--- /no-print \---
+
 ## はじめに
 
-アニメーションをプログラムする方法を学びましょう！
+You are going to learn how to program your own animation!
 
 ### 作るもの
 
+\--- no-print \--- Click on the green flag to see the animation.
+
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/26818098/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
   <img src="images/space-final.png">
 </div>
 
-### 学習すること
+\--- /no-print \---
 
-このプロジェクトでは [Raspberry Pi デジタル・メイキング・カリキュラム](http://rpf.io/curriculum)（英語）の柱の一つである、プログラミングの以下の要素を学びます。
+\--- print-only \---
 
-+ [基本的なプログラミング構文を使って、簡単なプログラムを作る](https://www.raspberrypi.org/curriculum/programming/creator)
+![Complete project](images/showcase_static.png)
 
-### 教育者のための追加情報
+\--- /print-only \---
 
-このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_ blank"}を使用してください。
+## \--- collapse \---
 
-フッターのリンクを使用して、このプロジェクトのGitHubリポジトリにアクセスします。このリポジトリには、 'en / resources'フォルダ内のすべてのリソース（完成プロジェクトの例を含む）が含まれています。
+## title: What you will need
+
+### Hardware
+
++ A computer capable of running Scratch 3
+
+### Software
+
++ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
+
+### Downloads
+
++ None
+
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: What you will learn
+
++ Animate a sprite using a loop
++ Change the appearance of a sprite
+
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: Additional information for educators
+
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
+
+[Here is a link to the solution for this project](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+
+\--- /collapse \---
