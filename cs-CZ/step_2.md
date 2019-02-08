@@ -1,4 +1,4 @@
-## Animating a spaceship
+## Animování kosmické lodi
 
 Your first step will be to create a spaceship that flies towards the Earth!
 
