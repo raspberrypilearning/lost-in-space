@@ -1,11 +1,7 @@
-\--- چیلنج \--- \---
-
 ## چیلنج: اپنا اپنا حرکت پذیری بنائیں
 
-اپنا خلائی حرکت پذیری بند کرو، اسے بچاؤ اور ایک نئی سکریچ منصوبے شروع کرو.
+Stop your space animation, save it, and start a new Scratch project.
 
-اس منصوبے میں جو آپ نے اپنی اپنی حرکت پذیری بنانے کے لئے سیکھا ہے اس کا استعمال کریں. یہ آپ کی پسند میں کچھ بھی ہوسکتا ہے، لیکن آپ کی حرکت پذیری ترتیب سے مماثل کرنے کی کوشش کریں. یہاں کچھ مثالیں ہیں:
+Use what you've learned in this project to make your own animation. It can be anything you like, but try to make your animation match the background you choose. Here are some examples:
 
-![اسکرین شاٹ](images/space-egs.png)
-
-\--- / چیلنج \---
+![screenshot](images/space-egs.png)
