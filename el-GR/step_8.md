@@ -1,6 +1,6 @@
 ## Πρόκληση: δημιούργησε το δικό σου κινούμενο σχέδιο
 
-Stop your space animation, save it, and start a new Scratch project.
+Σταμάτησε το κινούμενο σχέδιο, αποθήκευσε το και ξεκίνα ένα νέο έργο Scratch.
 
 Use what you've learned in this project to make your own animation. It can be anything you like, but try to make your animation match the background you choose. Here are some examples:
 
