@@ -1,22 +1,63 @@
+\--- no-print \---
+
+This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
+
+\--- /no-print \---
+
 ## Введення
 
 Ви навчитеся програмувати власну анімацію!
 
 ### Те, що вам знадобиться
 
+\--- no-print \--- Click on the green flag to see the animation.
+
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/26818098/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
   <img src="images/space-final.png">
 </div>
 
-### Те, що ви дізнаєтеся
+\--- /no-print \---
 
-Цей проект охоплює елементи з наступних напрямків навчального плану [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+\--- print-only \---
 
-+ [Використовуйте основні конструкції для створення простих програм.](https://www.raspberrypi.org/curriculum/programming/creator)
+![Complete project](images/showcase_static.png)
 
-### Додаткова інформація для вчителів
+\--- /print-only \---
+
+## \--- collapse \---
+
+## title: What you will need
+
+### Обладнання
+
++ Комп'ютер, що підтримує Scratch 3
+
+### Програмне забезпечення
+
++ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
+
+### Downloads
+
++ None
+
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: What you will learn
+
++ Animate a sprite using a loop
++ Change the appearance of a sprite
+
+\---collapse\---
+
+## \--- collapse \---
+
+## title: Additional information for educators
 
 Якщо вам потрібно роздрукувати цей проект, скористайтеся [версією для друку](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_ blank"}.
 
-Скористайтеся посиланням у нижньому колонтитулі, щоб отримати доступ до сховища GitHub для даного проекту, який містить усі ресурси (включаючи приклад готового проекту) в папці en / resources.
+[Here is a link to the solution for this project](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+
+\--- /collapse \---
