@@ -1,16 +1,16 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
+Aceasta este versiunea **Scratch 3** a proiectului. Există , de asemenea , o [versiune Scratch 2 a proiectului](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
 
 \--- /no-print \---
 
 ## Introducere
 
-You are going to learn how to program your own animation!
+Vei învăța să programezi propria animație!
 
-### Ce vei face
+### Ce trebuie să faci
 
-\--- no-print \--- Click on the green flag to see the animation.
+\--- no-print \--- Faceți clic pe steagul verde pentru a vedea animația.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -21,43 +21,43 @@ You are going to learn how to program your own animation!
 
 \--- print-only \---
 
-![Complete project](images/showcase_static.png)
+![Proiect complet](images/showcase_static.png)
 
 \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: De ce vei avea nevoie
 
 ### Hardware
 
-+ A computer capable of running Scratch 3
++ Un computer capabil de a rula Scratch 3
 
-### Software
+### Programe
 
 + Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
-### Downloads
+### Descărcări
 
-+ None
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: What you will learn
-
-+ Animate a sprite using a loop
-+ Change the appearance of a sprite
++ Nici unul
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## titlu: Ce veți învăța
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
++ Animați un sprite folosind o buclă
++ Modificați aspectul unui sprite
 
-[Here is a link to the solution for this project](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+\--- /restrange \---
+
+## \--- collapse \---
+
+## titlu: Informații suplimentare pentru educatori
+
+Dacă aveți nevoie să tipăriți acest proiect, vă rugăm să folosiți versiunea [ imprimabilă ](https://projects.raspberrypi.org/en/projects/lost-in-space/print) {: Target = "_ blank"}.
+
+[Aici este un link către soluția pentru acest proiect](http://rpf.io/p/en/lost-in-space-get){: target = "_ blank"}.
 
 \--- /collapse \---
