@@ -6,7 +6,7 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 ## 들어가며
 
-You are going to learn how to program your own animation!
+나만의 애니메이션을 프로그램 하는 방법을 배울 것입니다!
 
 ### 만들게 될 것
 
@@ -27,37 +27,37 @@ You are going to learn how to program your own animation!
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: 준비물
 
-### Hardware
+### 하드웨어
 
-+ A computer capable of running Scratch 3
++ 스크래치 3을 실행할 수 있는 컴퓨터
 
-### Software
+### 소프트웨어
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ 스크래치 3 ( [온라인](http://rpf.io/scratchon){:target="_ blank"} 또는 [offline](http://rpf.io/scratchoff){:target="_ blank"})
 
 ### Downloads
 
 + None
 
-\--- /collapse \---
+\--- / collapse \---
 
 ## \--- collapse \---
 
-## title: What you will learn
+## title: 배우게 될 것
 
 + Animate a sprite using a loop
 + Change the appearance of a sprite
 
 \--- /collapse \---
 
-## \--- collapse \---
+## \--- 중간생략 \---
 
 ## title: Additional information for educators
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
+이 프로젝트를 인쇄하려면, [프린트용 버전](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}을 사용하십시오.
 
 [Here is a link to the solution for this project](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
-\--- /collapse \---
+-- /collapse \---
