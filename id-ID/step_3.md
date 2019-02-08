@@ -1,56 +1,16 @@
-## Menganimasikan sebuah pesawat luar angkasa
+## Challenge: improve your animation
 
-Mari kita buat pesawat luar angkasa yang terbang menuju ke Bumi!
+Can you change the numbers in your animation code so that:
 
-+ Buka proyek Scratch kosong baru.
++ The spaceship moves until it touches the Earth?
++ The spaceship moves more slowly towards the Earth?
 
-[[[generic-scratch-new-project]]]
+You'll need to change the numbers in this block:
 
-+ Tambahkan 'pesawat luar angkasa' dan 'Bumi' ke Level Anda.
-    
-    ![Sprite Pesawat luar angkasa dan Bumi](images/space-sprites.png)
+![Rocketship sprite](images/sprite-spaceship.png)
 
-[[[generic-scratch-sprite-from-library]]]
+```blocks3
+glide (1) secs to x:(0) y:(0)
+```
 
-+ Tambahkan latar belakang 'Bintang' ke Level Anda.
-    
-    ![Latar belakang luar angkasa](images/space-backdrop.png)
-
-[[[generic-scratch-backdrop-from-library]]]
-
-+ Klik sprite pesawat luar angkasa anda, dan klik tab **Kostum**.
-    
-    ![Kostum sprite](images/space-costume.png)
-
-+ Gunakan alat **panah** untuk memilih alat gambar. Kemudian klik pada lingkaran pegangan **memutar**, dan putar gambar sampai berada pada sisinya.
-    
-    ![Memutar kostum](images/space-rotate.png)
-
-+ Tambahkan kode ini ke sprite pesawat luar angkasa Anda:
-    
-    ![Kode pesawat luar angkasa](images/space-animate.png)
-    
-    Ubah angka dalam blok kode sehingga kode persis sama seperti pada gambar di atas.
-    
-    Jika Anda mengklik bendera hijau, Anda harus melihat pesawat ruang angkasa berbicara, berputar, dan meluncur ke tengah panggung.
-    
-    ![Menguji animasi pesawat luar angkasa](images/space-animate-stage.png)
-
-[[[generic-scratch-saving]]]
-
-\--- challenge \---
-
-## Tantangan: meningkatkan animasi Anda
-
-Dapatkah Anda mengubah angka dalam kode animasi Anda, sehingga:
-
-+ Pesawat luar angkasa bergerak sampai menyentuh Bumi?
-+ Pesawat luar angkasa bergerak lebih lambat ke arah Bumi?
-
-Anda harus mengubah angka dalam blok ini:
-
-![Blok meluncur](images/space-glide.png)
-
-[[[generic-scratch-coordinates]]]
-
-\--- /challenge \---
+[[[generic-scratch3-coordinates]]]
