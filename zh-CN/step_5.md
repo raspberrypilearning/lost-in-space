@@ -1,19 +1,60 @@
 ## 漂浮的猴子
 
-让我们向动画中加入一只迷失在太空中的猴子！
+Now you will add a monkey who's lost in space to your animation!
 
-+ 首先从素材库中添加“猴子”角色。
-    
-    ![添加猴子角色](images/space-monkey-sprite.png)
+\--- task \--- Start by adding the 'monkey' sprite from the library.
 
-+ 点击新加入的猴子然后点击**造型**，你就可以编辑猴子的外观了。 点击**椭圆**工具在猴子头上画一顶白色的太空帽。
-    
-    ![猴子太空帽](images/space-monkey-edit.png)
+![Adding a monkey sprite](images/space-monkey-sprite.png)
 
-+ 你能编码让猴子不停地缓慢旋转吗？
-    
-    测试并保存工程。你需要点击红色**停止**按钮来结束动画，否则它会一直动下去！
-    
-    ![旋转猴子代码](images/space-spin-test.png)
+\--- /task \---
 
-\--- hints \--- \--- hint \--- 当绿**旗被点击**时，猴子应该**不停地****转圈**。 \--- /hint \--- \--- hint \--- 这是你需要用到的代码块： ![Blocks for a spinning monkey](images/space-spin-blocks.png) \--- /hint \--- \--- hint \--- 这是让猴子旋转的代码： ![Code for a spinning monkey](images/space-spin-code.png) \--- /hint \--- \--- /hints \---
+Click on your new monkey sprite and then click on **Costumes** so that you can edit how the monkey looks.
+
+\--- task \--- Set the fill to be transparent by selecting the red line. For the outline, set a white colour by moving the Saturation slider to `0`.
+
+![Make white colour](images/make-white.png) \--- /task \---
+
+\--- task \--- Click on the **circle** tool and then use it to draw a white space helmet around the monkey's head.
+
+![Monkey space helmet](images/space-monkey-edit.png)
+
+\--- /task \---
+
+\--- task \--- Can you add code to your monkey sprite so that it spins slowly in a circle forever?
+
+\--- hints \--- \--- hint \---
+
+When the green **flag is clicked**, your monkey sprite should **turn** in a circle **forever**.
+
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
+
+```blocks3
+forever
+end
+
+turn cw (15) degrees
+
+when flag clicked
+```
+
+\--- /hint \--- \--- hint \---
+
+Here's the code to make your monkey spin:
+
+![Monkey sprite](images/sprite-monkey.png)
+
+```blocks3
+when flag clicked
+forever
+    turn cw (1) degrees
+```
+
+\--- /hint \--- \--- /hints \---
+
+\--- /task \---
+
+Test and save your project. You'll have to click on the red **stop** button to end this animation, as it runs forever!
+
+![Test the spinning monkey](images/space-spin-test.png)
