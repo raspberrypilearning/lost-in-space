@@ -1,62 +1,62 @@
-## Animating a spaceship
+## Анимирање свемирског брода
 
-Your first step will be to create a spaceship that flies towards the Earth!
+Ваш први корак ће бити да направите свемирски брод који лети према Земљи!
 
-\--- task \---
+\--- задатак \---
 
-Open a new Scratch project.
+Отворите нови Сцратцх пројекат.
 
-**Online:** open a new online Scratch project at [rpf.io/scratchon](http://rpf.io/scratchon){:target="_blank"}.
+**Онлине:** отвори нови онлине Сцратцх пројекат на [рпф.ио/сцратцхон](http://rpf.io/scratchon){: таргет = "_ бланк"}.
 
-**Offline:** open a new project in the offline editor.
+**Оффлине:** отворите нови пројекат у оффлине уређивачу.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Ако желите да преузмете и инсталирате Сцратцх оффлине едитор, можете га пронаћи на [рпф.ио/сцратцхофф](http://rpf.io/scratchoff){: таргет = "_ бланк"}.
 
-\--- /task \---
+\--- /задатак \---
 
-\--- task \--- Add 'rocketship' and 'Earth' sprites to your Stage.
+\--- таск \--- Додајте 'роцкетсхип' и 'Еартх' спритес на вашу сцену.
 
-![Spaceship and Earth sprites](images/space-sprites.png)
+![Свемирски брод и земаљски духови](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
-\--- /task \---
+\--- /задатак \---
 
-\--- task \--- Add the 'Stars' backdrop to your Stage.
+\--- задатак \--- Додајте позадину 'Старс' на вашу сцену.
 
-![A space backdrop](images/space-backdrop.png)
+![Просторна позадина](images/space-backdrop.png)
 
-\--- /task \---
+\--- /задатак \---
 
-\--- task \--- Click on your spaceship sprite, and click on the **Costumes** tab.
+\--- задатак \--- Кликните на свој сприте свемирског брода и кликните на картицу **Цостумес**.
 
-![Sprite costume](images/space-costume.png)
+![Сприте цостуме](images/space-costume.png)
 
-\--- /task \---
+\--- /задатак \---
 
-\--- task \--- Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+\--- задатак \--- Помоћу алата **стрелице** кликните и повуците оквир око цијеле слике свемирског брода. Затим кликните на кружном **ротирање** дршком, и окрените слику док је на њеној страни.
 
-![Rotating a costume](images/space-rotate.png)
+![Ротирајући костим](images/space-rotate.png)
 
-\--- /task \---
+\--- /задатак \---
 
-\--- task \--- Add this code to your spaceship sprite:
+\--- задатак \--- Додајте овај код у ваш свемирски брод:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Спацесхип сприте](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-glide (1) secs to x:(0) y:(0)
+када је заставица кликнула
+у правцу (0)
+идите на к: (- 150) и: (- 150)
+реците [Идемо] на (2) секунде
+бода према (Еартх в)
+глиде (1) сек. к: (0) и: (0)
 ```
 
-Change the numbers in the code blocks you've added so that the code is exactly the same as above.
+Промените бројеве у блоковима кода које сте додали тако да је код потпуно исти као горе.
 
-\--- /task \---
+\--- /задатак \---
 
-If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
+Ако кликнете на зелену заставу, требало би да видите како свемирски брод говори, окрећете се и клизи према центру фазе.
 
-![Testing a spaceship animation](images/space-animate-stage.png)
+![Тестирање анимације свемирског брода](images/space-animate-stage.png)
