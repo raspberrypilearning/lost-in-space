@@ -1,18 +1,18 @@
-## Shining star
+## Błyszcząca gwiazda
 
-Now you will combine loops to make a shining star.
+Teraz połączysz pętle, by stworzyć świecącą gwiazdę.
 
-\--- task \--- Add a 'star' sprite to your stage.
+\--- task \--- Dodaj sprite 'star' do swojej sceny.
 
-![Adding a star sprite](images/space-star-sprite.png)
+![Dodanie sprite gwiazdy](images/space-star-sprite.png)
 
-\--- /task \---
+\--- / task \---
 
-\--- task \--- Can you add code to your star sprite to make the star repeatedly grow and shrink?
+\--- task \--- Czy umiesz dodać kod do swojego gwiazdkowego sprite'a, aby gwiazda kilkakrotnie rosła i kurczyła?
 
-![Testing a shining star](images/sprite-star.png)
+![Testowanie świecącej gwiazdy](images/sprite-star.png)
 
-\--- hints \--- \--- hint \--- When the green **flag is clicked**, your star sprite should **change size** to get bigger a few times, and then **change size** to get smaller a few times. It should do this so that it gets bigger and then smaller **forever** and looks like it's shining light. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
+\--- wskazówki \--- \--- podpowiedź \--- Gdy kliknie się na zieloną flagę ****, twój sprite gwiazda powinien **zmienić rozmiar** aby powiększyć kilka razy, a następnie **zmienić rozmiar** aby uzyskać mniejszy kilka razy. Powinno to zrobić, aby było większe, a następnie mniejsze o **zawsze** i wygląda na to, że świeci światłem. \--- / wskazówka \--- \--- podpowiedź \--- Oto potrzebne bloki kodu:
 
 ```blocks3
 repeat (10)
@@ -25,23 +25,23 @@ end
 
 change size by (10)
 
-change size by (10)
+zmień rozmiar o (10)
 
-forever
+zawsze
 ```
 
-\--- /hint \--- \--- hint \--- Here's the code to make your star grow and shrink: ![Star sprite](images/sprite-star.png)
+\--- / wskazówka \--- \--- podpowiedź \--- Oto kod, dzięki któremu twoja gwiazda rośnie i kurczy się: ![Gwiazdowy sprite](images/sprite-star.png)
 
 ```blocks3
-when flag clicked
-forever
-    repeat (20)
-        change size by (2)
-    end
-    repeat (20)
-        change size by (-2)
-    end
+kiedy flaga kliknęła
+zawsze
+    powtórzyć (20)
+        zmienić rozmiar przez (2)
+    koniec
+    powtórzyć (20)
+        zmienić rozmiar przez (-2)
+    koniec
 
 ```
 
-\--- /hint \--- \--- /hints \--- \--- /task \---
+\--- / wskazówka \--- \--- / wskazówki \--- \--- / zadanie \---
