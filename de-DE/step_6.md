@@ -1,10 +1,10 @@
-## Bouncing asteroid
+## Abprallender Asteroid
 
 Now you will add a floating space rock to your animation.
 
 \--- task \--- Add a 'rock' sprite to your animation.
 
-![Adding a rock sprite](images/space-rock-sprite.png)
+![Hinzufügen der Rocks-Figur](images/space-rock-sprite.png)
 
 \--- /task \---
 
@@ -12,7 +12,7 @@ Now you will add a floating space rock to your animation.
 
 ![Testing a bouncing rock](images/space-bounce-test.png)
 
-\--- hints \--- \--- hint \--- When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
+\--- hints \--- \--- hint \--- Wenn die grüne **Flagge angeklickt** wird, sollte sich deine Felsen-Figur **bewegen** und quer über die Bühne hüpfen, indem sie **fortlaufend** **vom Rand abprallt**. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
 
 ```blocks3
 move (10) steps
