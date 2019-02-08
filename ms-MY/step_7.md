@@ -1,47 +1,47 @@
-## Shining star
+## Bintang bersinar
 
-Now you will combine loops to make a shining star.
+Sekarang anda akan menggabungkan gelung untuk membuat bintang bersinar.
 
-\--- task \--- Add a 'star' sprite to your stage.
+\--- tugas \--- Tambahkan sprite 'bintang' ke panggung anda.
 
-![Adding a star sprite](images/space-star-sprite.png)
+![Menambahkan sprit bintang](images/space-star-sprite.png)
 
-\--- /task \---
+\--- / tugas \---
 
-\--- task \--- Can you add code to your star sprite to make the star repeatedly grow and shrink?
+\--- task \--- Bolehkah anda menambahkan kod ke sprite bintang anda untuk membuat bintang berulang kali tumbuh dan mengecut?
 
-![Testing a shining star](images/sprite-star.png)
+![Menguji bintang bersinar](images/sprite-star.png)
 
-\--- hints \--- \--- hint \--- When the green **flag is clicked**, your star sprite should **change size** to get bigger a few times, and then **change size** to get smaller a few times. It should do this so that it gets bigger and then smaller **forever** and looks like it's shining light. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
-
-```blocks3
-repeat (10)
-end
-
-when flag clicked
-
-repeat (10)
-end
-
-change size by (10)
-
-change size by (10)
-
-forever
-```
-
-\--- /hint \--- \--- hint \--- Here's the code to make your star grow and shrink: ![Star sprite](images/sprite-star.png)
+\--- petunjuk \--- \--- petunjuk \--- Apabila bendera hijau **diklik**, sprite bintang anda harus **menukar saiz** untuk mendapatkan lebih besar beberapa kali, dan kemudian **mengubah saiz** untuk mendapatkan yang lebih kecil beberapa kali. Ia harus melakukan ini supaya ia menjadi lebih besar dan kemudian lebih kecil **selamanya** dan kelihatan seperti cahaya bersinar. \--- / petunjuk \--- \--- petunjuk \--- Berikut adalah blok kode yang anda perlukan:
 
 ```blocks3
-when flag clicked
-forever
-    repeat (20)
-        change size by (2)
-    end
-    repeat (20)
-        change size by (-2)
-    end
+ulangi (10)
+hujung
+
+apabila bendera diklik
+
+ulang (10)
+hujung
+
+menukar saiz oleh (10)
+
+menukar saiz oleh (10)
+
+selamanya
+```
+
+\--- / petunjuk \--- \--- petunjuk \--- Berikut ialah kod untuk membuat bintang anda tumbuh dan mengecut: ![Sprite bintang](images/sprite-star.png)
+
+```blocks3
+apabila bendera diklik
+selamanya
+    ulangi (20)
+        menukar saiz oleh (2)
+    hujung
+    ulangi (20)
+        menukar saiz oleh (-2)
+    hujung
 
 ```
 
-\--- /hint \--- \--- /hints \--- \--- /task \---
+\--- / petunjuk \--- \--- / petunjuk \--- \--- / tugas \---
