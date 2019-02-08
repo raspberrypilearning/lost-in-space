@@ -1,13 +1,49 @@
-## Bouncing asteroid
+## Sıçrayan asteroit
 
-Animasyonunuza biraz boşluk kayan kaya ekleyelim.
+Şimdi animasyonunuza kayan bir boşluk taşı ekleyeceksiniz.
 
-+ Animasyonunuza bir 'rock' sprite ekleyin.
-    
-    ![Bir rock sprite ekleme](images/space-rock-sprite.png)
+\--- görev \--- Animasyonunuza bir 'rock' sprite ekleyin.
 
-+ Rock sprite'ınızı sahnenin etrafında zıplamak için kodlayabilir misiniz?
-    
-    ![Zıplayan bir kayayı test etme](images/space-bounce-test.png)
+![Kaya sprite ekleme](images/space-rock-sprite.png)
 
-\--- püf noktaları \--- \--- ipucu \--- Yeşil **bayrağına**tıkladığınızda, rock sprite **sonsuza dek**evre **etrafında** ve **sıçrama** hareket etmelidir. \--- / hint \--- \--- hint \--- İhtiyacınız olacak kod blokları şunlardır: ![Blocks for a bouncing rock](images/space-bounce-blocks.png) Ayrıca şu bloklardan biriyle kaya için daha ilginç bir başlangıç ​​yönü ayarlayabilirsiniz: ![Setting the rock's initial position](images/space-initial-position.png) \--- / ipucu \--- \--- ipucu \--- İşte sahneyi sahnenin etrafında döndürmek için kod: ![Code for a bouncing rock](images/space-bounce-code.png) \--- / ipucu \--- \--- / ipuçları \---
+\--- /task \---
+
+\--- görev \--- Kaya sahnenin etrafında zıplayabilmek için rock sprite kodunuzu ekleyebilir misiniz?
+
+![Sıçrayan bir kayanın test edilmesi](images/space-bounce-test.png)
+
+\--- ipuçları \--- \--- ipucu \--- yeşil **bayrak tıklandığında**, kaya sprite gerektiği **hamle** ve **sıçrama** sahne etrafında **sonsuza**. \--- / hint \--- \--- hint \--- İhtiyacınız olan kod blokları:
+
+```blocks3
+adım (10) hareket ettirmek
+
+kenar sıçrama olursa
+
+bayrak tıklandığında
+
+sonsuza
+```
+
+Bu bloklardan biriyle kaya sprite için daha ilginç bir başlangıç yönü belirleyebilirsiniz:
+
+```blocks3
+cw (15) derece
+
+noktaya (Dünya v) döndürün
+```
+
+\--- / ipucu \--- \--- ipucu \---
+
+İşte rock'ınızı sahnede zıplatmanın kodu:
+
+![Kaya sprite](images/sprite-rock.png)
+
+```blocks3
+bayrak
+işaretini tıklattığında (Earth v)
+sonsuza dek
+    hareket ettirin (2)
+    adımda kenarda, sekme
+```
+
+\--- / ipucu \--- \--- / ipuçları \--- \--- / görev \---
