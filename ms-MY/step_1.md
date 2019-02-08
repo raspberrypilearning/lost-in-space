@@ -1,63 +1,63 @@
-\--- no-print \---
+\--- tidak mencetak \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
+Ini adalah versi **Scratch 3** projek. Terdapat juga [Scratch 2 versi projek](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
 
-\--- /no-print \---
+\--- / tidak mencetak \---
 
 ## Pengenalan
 
-You are going to learn how to program your own animation!
+Anda akan belajar bagaimana untuk memprogram animasi anda sendiri!
 
 ### Apa yang anda akan buat
 
-\--- no-print \--- Click on the green flag to see the animation.
+\--- tidak mencetak \--- Klik pada bendera hijau untuk melihat animasi.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
   <img src="images/space-final.png">
 </div>
 
-\--- /no-print \---
+\--- / tidak mencetak \---
 
-\--- print-only \---
+\--- cetak sahaja \---
 
-![Complete project](images/showcase_static.png)
+![Projek lengkap](images/showcase_static.png)
 
-\--- /print-only \---
+\--- / cetak sahaja \---
 
-## \--- collapse \---
+## \--- runtuh \---
 
-## title: What you will need
+## tajuk: Apa yang anda perlukan
 
-### Hardware
+### Perkakasan
 
-+ A computer capable of running Scratch 3
++ Komputer yang mampu menjalankan Scratch 3
 
-### Software
+### Perisian
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (baik [talian](http://rpf.io/scratchon){: target = "_ blank"} atau [offline](http://rpf.io/scratchoff){: target = "_ blank"})
 
-### Downloads
+### Muat turun
 
-+ None
++ Tiada
 
-\--- /collapse \---
+\--- / runtuh \---
 
-## \--- collapse \---
+## \--- runtuh \---
 
-## title: What you will learn
+## tajuk: Apa yang akan anda pelajari
 
-+ Animate a sprite using a loop
-+ Change the appearance of a sprite
++ Elakkan sprite menggunakan gelung
++ Tukar rupa sprite
 
-\--- /collapse \---
+\--- / runtuh \---
 
-## \--- collapse \---
+## \--- runtuh \---
 
-## title: Additional information for educators
+## tajuk: Maklumat tambahan untuk pendidik
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
+Sekiranya anda perlu mencetak projek ini, sila gunakan versi [mesra pencetak](https://projects.raspberrypi.org/en/projects/lost-in-space/print){: target = "_ blank"}.
 
-[Here is a link to the solution for this project](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+[Berikut ialah pautan kepada penyelesaian untuk projek ini](http://rpf.io/p/en/lost-in-space-get){: target = "_ blank"}.
 
-\--- /collapse \---
+\--- / runtuh \---
