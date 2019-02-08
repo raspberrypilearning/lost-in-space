@@ -12,12 +12,12 @@ steps:
   - 
     title: परिचय
   - 
-    title: Animating a spaceship
+    title: एक स्पेसशिप एनीमेटिंग
   - 
-    title: 'Challenge: improve your animation'
+    title: 'आव्हानः आपल्या अॅनिमेशनमध्ये सुधारणा करा'
     challenge: true
   - 
-    title: Animation using loops
+    title: Loops वापरून अॅनिमेशन
   - 
     title: फ्लोटिंग म बंदर
   - 
@@ -28,4 +28,4 @@ steps:
     title: 'आव्हान: आपल्या स्वत: च्या अॅनिमेशन करा'
     challenge: true
   - 
-    title: What next?
+    title: पुढे काय?
