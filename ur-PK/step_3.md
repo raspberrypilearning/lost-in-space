@@ -1,56 +1,16 @@
-## Animating a spaceship
+## Challenge: improve your animation
 
-چلو ایک جہاز ہے جو زمین کی طرف پرواز کرتا ہے!
+Can you change the numbers in your animation code so that:
 
-+ ایک نیا خالی سکریچ پروجیکٹ کھولیں.
++ The spaceship moves until it touches the Earth?
++ The spaceship moves more slowly towards the Earth?
 
-[[[generic-scratch-new-project]]]
+You'll need to change the numbers in this block:
 
-+ اپنے اسٹیج پر 'جہاز' اور 'زمین' کے اسپرت شامل کریں.
-    
-    ![جہاز اور زمین sprites](images/space-sprites.png)
+![Rocketship sprite](images/sprite-spaceship.png)
 
-[[[generic-scratch-sprite-from-library]]]
+```blocks3
+glide (1) secs to x:(0) y:(0)
+```
 
-+ اپنے اسٹیج پر 'ستاروں' کے پس منظر میں شامل کریں.
-    
-    ![ایک خلائی پس منظر](images/space-backdrop.png)
-
-[[[generic-scratch-backdrop-from-library]]]
-
-+ اپنے جہاز کی جگہ پر چھلانگ پر کلک کریں، اور **ملبوسات** ٹیب پر کلک کریں.
-    
-    ![سپرائٹ کا لباس](images/space-costume.png)
-
-+ تصویر کو منتخب کرنے کیلئے **تیر** آلہ کا استعمال کریں. پھر سرکلر **پر کلک کریں** ہینڈل، اور اس تصویر پر جب تک کہ اس تصویر پر گھمائیں.
-    
-    ![ایک لباس گھومنا](images/space-rotate.png)
-
-+ اس کوڈ کو آپ کی اسپوری شپ سپرے میں شامل کریں:
-    
-    ![جہاز کا کوڈ](images/space-animate.png)
-    
-    کوڈ بلاکس میں نمبر تبدیل کریں تاکہ کوڈ بالکل اوپر کی تصویر میں اسی طرح کی ہے.
-    
-    اگر آپ سبز پرچم پر کلک کریں تو، آپ کو جہاز کو بولتے ہیں، باری دکھائیں اور اسٹیج کے مرکز کی طرف نظر آتے ہیں.
-    
-    ![ایک جہاز حرکت پذیری کی جانچ](images/space-animate-stage.png)
-
-[[[generic-scratch-saving]]]
-
-\--- چیلنج \--- \---
-
-## چیلنج: آپ کی حرکت پذیری کو بہتر بنانے
-
-آپ اپنی تعداد میں اپنے حرکت پذیری کوڈ میں تبدیل کر سکتے ہیں، تاکہ:
-
-+ اس جہاز تک چلتا ہے جب تک کہ وہ زمین کو چھو نہ سکے؟
-+ جہاز زمین کی طرف زیادہ آہستہ آہستہ چلتا ہے؟
-
-آپ کو اس بلاک میں نمبروں کو تبدیل کرنے کی ضرورت ہوگی.
-
-![گلائڈ بلاک](images/space-glide.png)
-
-[[[generic-scratch-coordinates]]]
-
-\--- / چیلنج \---
+[[[generic-scratch3-coordinates]]]
