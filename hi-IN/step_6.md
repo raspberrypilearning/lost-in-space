@@ -1,4 +1,4 @@
-## Bouncing asteroid
+## उछलने वाले क्षुद्रग्रह
 
 Now you will add a floating space rock to your animation.
 
