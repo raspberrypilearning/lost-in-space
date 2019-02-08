@@ -1,56 +1,16 @@
-## Animacija svemirskog broda
+## Challenge: improve your animation
 
-Napravimo svemirski brod koji leti prema Zemlji!
+Can you change the numbers in your animation code so that:
 
-+ Otvori novi prazan Scratch projekat.
++ The spaceship moves until it touches the Earth?
++ The spaceship moves more slowly towards the Earth?
 
-[[[generic-scratch-new-project]]]
+You'll need to change the numbers in this block:
 
-+ Na svoju Pozornicu (Stage) dodaj likove (sprites) 'svemirski brod' i 'Zemlja'.
-    
-    ![Likovi svemirskog broda i Zemlje](images/space-sprites.png)
+![Rocketship sprite](images/sprite-spaceship.png)
 
-[[[generic-scratch-sprite-from-library]]]
+```blocks3
+glide (1) secs to x:(0) y:(0)
+```
 
-+ Na Pozornicu dodaj pozadinu (backdrop) 'Stars' (Zvijezde).
-    
-    ![Pozadina 'svemir'](images/space-backdrop.png)
-
-[[[generic-scratch-backdrop-from-library]]]
-
-+ Klikni na lik svemirskog broda, a zatim klikni na karticu **Costumes** (Kostimi).
-    
-    ![Kostim lika](images/space-costume.png)
-
-+ Koristi alatku **arrow** (strelica) da izabereš sliku. Zatim klikni na circular **rotate** handle (ručica za kružno okretanje) i okreći sliku dok ne bude okrenuta na bok.
-    
-    ![Okretanje kostima](images/space-rotate.png)
-
-+ Dodaj sljedeći kôd liku svemirskog broda:
-    
-    ![Kôd svemirskog broda](images/space-animate.png)
-    
-    Izmijeni brojeve u blokovima kôda, tako da kôd bude isti kao na gornjoj slici.
-    
-    Ako klikneš na zelenu zastavicu, trebalo bi da vidiš svemirski brod koji govori, okreće se i klizi prema centru pozornice.
-    
-    ![Isprobavanje animacije svemirskog broda](images/space-animate-stage.png)
-
-[[[generic-scratch-saving]]]
-
-\--- challenge \---
-
-## Izazov: poboljšaj svoju animaciju
-
-Možeš li da promijeniš brojeve u svom kôdu za animaciju, tako da se:
-
-+ Svemirski brod kreće dok ne dodirne Zemlju?
-+ Svemirski brod sporije kreće ka Zemlji?
-
-Moraćeš da promijeniš brojeve u ovom bloku:
-
-![Blok glide (klizi)](images/space-glide.png)
-
-[[[generic-scratch-coordinates]]]
-
-\--- /challenge \---
+[[[generic-scratch3-coordinates]]]
