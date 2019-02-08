@@ -1,22 +1,63 @@
+\--- no-print \---
+
+This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
+
+\--- /no-print \---
+
 ## 介紹
 
-你將學習如何編程你自己的動畫！
+You are going to learn how to program your own animation!
 
 ### 你會做出
 
+\--- no-print \--- Click on the green flag to see the animation.
+
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/26818098/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
   <img src="images/space-final.png">
 </div>
 
-### 你會學到什麼
+\--- /no-print \---
 
-本項目涵蓋 [樹莓派數字化課程](http://rpf.io/curriculum)的以下內容：
+\--- print-only \---
 
-+ [使用基本的編程結構來創造簡單的程序。](https://www.raspberrypi.org/curriculum/programming/creator)
+![Complete project](images/showcase_static.png)
 
-### 給教育工作者的額外資訊
+\--- /print-only \---
 
-如果您需要打印此項目，請使用 [適合打印的版本](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}。
+## \--- collapse \---
 
-使用頁腳中的鏈接訪問此項目的GitHub存儲庫，其中包含'en / resources'文件夾中的所有資源(包括示例完成的項目)。
+## title: What you will need
+
+### Hardware
+
++ A computer capable of running Scratch 3
+
+### Software
+
++ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
+
+### Downloads
+
++ None
+
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: What you will learn
+
++ Animate a sprite using a loop
++ Change the appearance of a sprite
+
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: Additional information for educators
+
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
+
+[Here is a link to the solution for this project](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+
+\--- /collapse \---
