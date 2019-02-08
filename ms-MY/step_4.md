@@ -1,89 +1,89 @@
-## Animation using loops
+## Animasi menggunakan gelung
 
-Another way to animate the spaceship is to tell it to move a small amount many times
+Satu lagi cara untuk menghidupkan kapal angkasa ialah menceritakannya untuk bergerak sedikit sebanyak
 
-\--- task \--- Delete the `glide`{:class="block3motion"} block from your code. To do this, drag the block off the Code area and drop it back where the other single code blocks are.
+\--- task \--- Padamkan `glide`{: class = "block3motion"} blok dari kod anda. Untuk melakukan ini, seret blok dari kawasan Kod dan jatuhkannya kembali di mana blok kod tunggal yang lain.
 
-![Spaceship sprite](images/sprite-spaceship.png)
-
-```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-
-- glide (1) secs to x:(0) y:(0)
-```
-
-\--- /task \---
-
-\--- task \--- Can you use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
-
-![Testing a spaceship animation](images/space-animate-stage.png)
-
-\--- hints \--- \--- hint \---
-
-Instead of **gliding**, your spaceship should **repeatedly** **move** a few steps at a time.
-
-\--- /hint \--- \--- hint \--- Here are the code blocks you need:
+![Sprite kapal angkasa](images/sprite-spaceship.png)
 
 ```blocks3
-move (10) steps
+apabila bendera diklik
+titik ke arah (0)
+pergi ke x: (- 150) y: (- 150)
+katakan [Mari kita pergi] untuk (2) saat
+titik ke arah (Bumi v)
 
-repeat (10)
+- meluncur (1) untuk x: (0) y: (0)
 ```
 
-\--- /hint \--- \--- hint \--- Here is the code to animate your spaceship: ![Spaceship sprite](images/sprite-spaceship.png)
+\--- / tugas \---
+
+\--- tugas \--- Bolehkah anda menggunakan `ulangan`{: class = "block3control"} menyekat untuk memindahkan pesawat ruang angkasa anda ke arah Bumi?
+
+![Menguji animasi kapal angkasa](images/space-animate-stage.png)
+
+\--- petunjuk \--- \--- petunjuk \---
+
+Daripada **meluncur**, kapal angkasa anda perlu **berulang** **bergerak** beberapa langkah pada satu masa.
+
+\--- / petunjuk \--- \--- petunjuk \--- Berikut adalah blok kode yang anda perlukan:
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-repeat (200)
-    move (2) steps
+langkah (10) langkah
+
+ulangi (10)
 ```
 
-You can use different numbers in the `repeat`{:class="block3control"} and `move`{:class="block3motion"} blocks, as long as the spaceship still gets to Earth! \--- /hint \--- \--- /hints \---
-
-Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
-
-\--- /task \---
-
-\--- task \--- Can you add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
-
-Use this block:
-
-![Spaceship sprite](images/sprite-spaceship.png)
+\--- / petunjuk \--- \--- petunjuk \--- Berikut ialah kod untuk menghidupkan angkasa anda: ![Sprite kapal angkasa](images/sprite-spaceship.png)
 
 ```blocks3
-change [color v] effect by (25)
+apabila bendera diklik
+titik dalam arah (0)
+pergi ke x: (- 150) y: (- 150)
+mengatakan [Mari kita pergi] untuk (2) saat
+titik ke arah (Earth v)
+ulangan (200)
+    langkah (2) langkah
 ```
 
-Test and save your code.
+Anda boleh menggunakan nombor yang berbeza dalam `berulang`{: class = "block3control"} dan `langkah`{: class = "block3motion"} blok, selagi kapal angkasa masih sampai ke Bumi! \--- / petunjuk \--- \--- / petunjuk \---
 
-![Testing a colour-changing spaceship](images/space-colour-test.png)
+Uji dan simpan kod anda. Kapal angkasa anda harus bergerak ke arah Bumi sama seperti sebelum ini, tetapi kali ini ia menggunakan blok `berulang`{: class = "block3control"}.
 
-\--- /task \---
+\--- / tugas \---
 
-\--- task \--- Can you make your spaceship get smaller as it moves towards Earth?
+\--- tugas \--- Bolehkah anda menambah kod ke sprite kapal angkasa anda supaya kapal angkasa berubah warna ketika bergerak ke Bumi?
 
-Your spaceship should start at **100% size**, and then **change size** by a small amount each time it moves.
+Gunakan blok ini:
 
-Use these blocks:
-
-![Spaceship sprite](images/sprite-spaceship.png)
+![Sprite kapal angkasa](images/sprite-spaceship.png)
 
 ```blocks3
-change size by (10)
-
-set size to (100) %
+menukar kesan warna [v] oleh (25)
 ```
 
-\--- /task \---
+Uji dan simpan kod anda.
 
-Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
+![Menguji pesawat angkasa berubah warna](images/space-colour-test.png)
 
-![Testing a shrinking spaceship](images/space-size-test.png)
+\--- / tugas \---
+
+\--- task \--- Bolehkah anda membuat kapal angkasa anda semakin kecil ketika bergerak ke Bumi?
+
+Angkasa anda hendaklah bermula pada **100% saiz**, dan kemudian **menukar saiz** dengan jumlah yang kecil setiap kali ia bergerak.
+
+Gunakan blok ini:
+
+![Sprite kapal angkasa](images/sprite-spaceship.png)
+
+```blocks3
+ubah saiz oleh (10)
+
+set saiz ke (100)%
+```
+
+\--- / tugas \---
+
+Uji dan simpan kod anda. Angkasa anda kini semakin kecil apabila ia bergerak. Uji kapal angkasa anda **kali kedua**. Adakah saiz yang betul apabila ia bermula?
+
+![Menguji angkasa yang mengecut](images/space-size-test.png)
