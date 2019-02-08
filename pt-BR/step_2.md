@@ -1,4 +1,4 @@
-## Animating a spaceship
+## Animando uma nave espacial
 
 Your first step will be to create a spaceship that flies towards the Earth!
 
@@ -57,6 +57,6 @@ Change the numbers in the code blocks you've added so that the code is exactly t
 
 \--- /task \---
 
-If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
+Se você clicar na bandeira verde, você deve ver a nave espacial falar "Vamos lá!", virar e deslizar em direção ao centro do palco.
 
 ![Testing a spaceship animation](images/space-animate-stage.png)
