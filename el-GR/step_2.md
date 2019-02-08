@@ -1,8 +1,8 @@
-## Animating a spaceship
+## Δίνοντας κίνηση σε ένα διαστημόπλοιο
 
 Your first step will be to create a spaceship that flies towards the Earth!
 
-\--- task \---
+\--- task --
 
 Open a new Scratch project.
 
@@ -16,7 +16,7 @@ If you need to download and install the Scratch offline editor, you can find it 
 
 \--- task \--- Add 'rocketship' and 'Earth' sprites to your Stage.
 
-![Spaceship and Earth sprites](images/space-sprites.png)
+![Αντικείμενα Διαστημόπλοιο και Γη](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -24,19 +24,19 @@ If you need to download and install the Scratch offline editor, you can find it 
 
 \--- task \--- Add the 'Stars' backdrop to your Stage.
 
-![A space backdrop](images/space-backdrop.png)
+![Ένα υπόβαθρο διαστήματος](images/space-backdrop.png)
 
 \--- /task \---
 
 \--- task \--- Click on your spaceship sprite, and click on the **Costumes** tab.
 
-![Sprite costume](images/space-costume.png)
+![Ενδυμασία αντικειμένου](images/space-costume.png)
 
 \--- /task \---
 
 \--- task \--- Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
 
-![Rotating a costume](images/space-rotate.png)
+![Περιστροφή μιας ενδυμασίας](images/space-rotate.png)
 
 \--- /task \---
 
@@ -57,6 +57,6 @@ Change the numbers in the code blocks you've added so that the code is exactly t
 
 \--- /task \---
 
-If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
+Αν κάνεις κλικ στην πράσινη σημαία, θα πρέπει να δεις το διαστημόπλοιο να μιλά, να γυρίζει και να γλιστρά προς το κέντρο του σκηνικού.
 
-![Testing a spaceship animation](images/space-animate-stage.png)
+![Δοκιμάζοντας ένα κινούμενο σχέδιο διαστημόπλοιου](images/space-animate-stage.png)
