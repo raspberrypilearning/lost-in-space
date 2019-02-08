@@ -1,4 +1,4 @@
-## Shining star
+## Zářící hvězda
 
 Now you will combine loops to make a shining star.
 
