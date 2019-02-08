@@ -1,11 +1,7 @@
-\--- challenge \---
-
 ## تحدي: اصنع رسمتك المتحركة
 
-أوقف مشروع الرسم المتحرك للفضاء واحفظه، ثم ابدأ مشروعًا جديدًا على برنامج Scratch.
+Stop your space animation, save it, and start a new Scratch project.
 
-استخدم ما تعلمتَه في هذا المشروع لابتكار رسم متحرك. ويمكنك أن تبتكر أي رسم متحرك تريده، لكن حاول اختيار خلفية مناسبة لهذا الرسم. إليك بعض الأمثلة:
+Use what you've learned in this project to make your own animation. It can be anything you like, but try to make your animation match the background you choose. Here are some examples:
 
-![لقطة الشاشة](images/space-egs.png)
-
-\--- /challenge \---
+![screenshot](images/space-egs.png)
