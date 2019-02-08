@@ -1,11 +1,11 @@
-## Challenge: improve your animation
+## Animacija svemirskog broda
 
 Can you change the numbers in your animation code so that:
 
-+ The spaceship moves until it touches the Earth?
-+ The spaceship moves more slowly towards the Earth?
++ Svemirski brod kreće dok ne dodirne Zemlju?
++ Svemirski brod sporije kreće ka Zemlji?
 
-You'll need to change the numbers in this block:
+Moraćeš da promijeniš brojeve u ovom bloku:
 
 ![Rocketship sprite](images/sprite-spaceship.png)
 
