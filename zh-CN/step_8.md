@@ -1,11 +1,7 @@
-\--- challenge \---
-
 ## 挑战：创建你自己的动画
 
-停止动画，保存工程，然后新建一个空白的Scratch工程。
+Stop your space animation, save it, and start a new Scratch project.
 
-用你在本节课学到的知识创建你自己的动画。你可以设计任何你喜欢的动画，但要试着让动画和设置相匹配。下面是一些例子：
+Use what you've learned in this project to make your own animation. It can be anything you like, but try to make your animation match the background you choose. Here are some examples:
 
-![截屏](images/space-egs.png)
-
-\--- /challenge \---
+![screenshot](images/space-egs.png)
