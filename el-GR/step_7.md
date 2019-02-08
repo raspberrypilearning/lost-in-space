@@ -1,18 +1,18 @@
-## Shining star
+## Λαμπρό αστέρι
 
 Now you will combine loops to make a shining star.
 
 \--- task \--- Add a 'star' sprite to your stage.
 
-![Adding a star sprite](images/space-star-sprite.png)
+![Προσθέτοντας ένα αντικείμενο αστέρι](images/space-star-sprite.png)
 
 \--- /task \---
 
 \--- task \--- Can you add code to your star sprite to make the star repeatedly grow and shrink?
 
-![Testing a shining star](images/sprite-star.png)
+![Δοκιμάζοντας ένα φωτεινό αστέρι](images/sprite-star.png)
 
-\--- hints \--- \--- hint \--- When the green **flag is clicked**, your star sprite should **change size** to get bigger a few times, and then **change size** to get smaller a few times. It should do this so that it gets bigger and then smaller **forever** and looks like it's shining light. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
+\--- hints \--- \--- hint \--- Όταν η πράσινη **σημαία πατηθεί**, το αντικείμενο αστέρι θα πρέπει **να αλλάζει το μέγεθος** για να γίνει μεγαλύτερο μερικές φορές και στη συνέχεια **να αλλάζει μέγεθος** για να γίνει μικρότερο μερικές φορές. It should do this so that it gets bigger and then smaller **forever** and looks like it's shining light. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
 
 ```blocks3
 repeat (10)
