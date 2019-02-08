@@ -1,13 +1,49 @@
 ## Astéroïde rebondissant
 
-Ajoutons quelques météores flottant à votre animation.
+Now you will add a floating space rock to your animation.
 
-+ Ajoutez un lutin «rock» à votre animation.
-    
-    ![Ajout d’un lutin de roche](images/space-rock-sprite.png)
+\--- task \--- Add a 'rock' sprite to your animation.
 
-+ Pouvez-vous coder votre lutin pour rebondir autour de la scène?
-    
-    ![Tester un rocher rebondissant](images/space-bounce-test.png)
+![Adding a rock sprite](images/space-rock-sprite.png)
 
-\--- indices \--- \--- indice \--- Lorsque le drapeau vert ** est cliqué ** , votre lutin rocher devrait ** bouger ** et ** rebondir ** autour de la scène ** pour toujours ** . \--- /hint \--- \--- hint \--- Voici les blocs de code dont vous avez besoin: <0 /> Vous pouvez également définir une direction de départ plus intéressante pour le rocher avec l'un de ces blocs. : <1 /> \--- /hint \--- \--- hint \--- Voici le code pour faire rebondir votre pierre autour de la scène: <2 /> \--- /hint \--- \--- /hints \---
+\--- /task \---
+
+\--- task \--- Can you add code for your rock sprite so that the rock bounces around the stage?
+
+![Testing a bouncing rock](images/space-bounce-test.png)
+
+\--- hints \--- \--- hint \--- When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
+
+```blocks3
+move (10) steps
+
+if on edge bounce
+
+when flag clicked
+
+forever
+```
+
+You can also set a more interesting starting direction for the rock sprite with one of these blocks:
+
+```blocks3
+turn cw (15) degrees
+
+point towards (Earth v)
+```
+
+\--- /hint \--- \--- hint \---
+
+Here's the code for making your rock bounce around the stage:
+
+![Rock sprite](images/sprite-rock.png)
+
+```blocks3
+when flag clicked
+point towards (Earth v)
+forever
+    move (2) steps
+    if on edge, bounce
+```
+
+\--- /hint \--- \--- /hints \--- \--- /task \---
