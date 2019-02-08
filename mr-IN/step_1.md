@@ -1,63 +1,63 @@
-\--- no-print \---
+\--- नो-प्रिंट \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
+हे प्रोजेक्टचे **स्क्रॅच 3** आवृत्ती आहे. प्रोजेक्ट</a>ची स्क्रॅच 2 आवृत्ती देखील आहे.</p> 
 
-\--- /no-print \---
+\--- / नाही-प्रिंट \---
 
 ## परिचय
 
-You are going to learn how to program your own animation!
+आपण आपल्या स्वत: च्या अॅनिमेशन प्रोग्राम कसा करावा हे शिकणार आहात!
 
 ### आपण काय करीन
 
-\--- no-print \--- Click on the green flag to see the animation.
+\--- no-print \--- अॅनिमेशन पाहण्यासाठी हिरव्या ध्वज वर क्लिक करा.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
   <img src="images/space-final.png">
 </div>
 
-\--- /no-print \---
+\--- / नाही-प्रिंट \---
 
-\--- print-only \---
+\--- केवळ प्रिंट \---
 
-![Complete project](images/showcase_static.png)
+![पूर्ण प्रकल्प](images/showcase_static.png)
 
-\--- /print-only \---
+\--- / केवळ प्रिंट \---
 
-## \--- collapse \---
+## \--- पडणे \---
 
-## title: What you will need
+## शीर्षकः आपल्याला काय हवे आहे
 
-### Hardware
+### हार्डवेअर
 
-+ A computer capable of running Scratch 3
++ स्क्रॅच 3 चालवण्यास सक्षम असलेले संगणक
 
-### Software
+### सॉफ्टवेअर
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ स्क्रॅच 3 (एकतर [ऑनलाइन](http://rpf.io/scratchon){: लक्ष्य = "_ रिक्त"} किंवा [ऑफलाइन](http://rpf.io/scratchoff){: लक्ष्य = "_ blank"})
 
-### Downloads
+### डाउनलोड्स
 
-+ None
++ काहीही नाही
 
-\--- /collapse \---
+\--- / संकुचित \---
 
-## \--- collapse \---
+## \--- पडणे \---
 
-## title: What you will learn
+## शीर्षकः आपण काय शिकलात
 
-+ Animate a sprite using a loop
-+ Change the appearance of a sprite
++ लूप वापरुन स्प्राइटचे अॅनिमेट करा
++ एक स्प्राइट च्या देखावा बदला
 
-\--- /collapse \---
+\--- / संकुचित \---
 
-## \--- collapse \---
+## \--- पडणे \---
 
-## title: Additional information for educators
+## शीर्षक: शिक्षकांसाठी अतिरिक्त माहिती
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
+आपल्याला हे प्रोजेक्ट मुद्रित करण्याची आवश्यकता असल्यास, कृपया [प्रिंटर-फ्रेंडली आवृत्ती](https://projects.raspberrypi.org/en/projects/lost-in-space/print){: लक्ष्य = "_ blank"} वापरा.
 
-[Here is a link to the solution for this project](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+[येथे या प्रकल्पासाठी उपाय एक दुवा आहे](http://rpf.io/p/en/lost-in-space-get){: target = "_ blank"}.
 
-\--- /collapse \---
+\--- / संकुचित \---
