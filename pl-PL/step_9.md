@@ -1,3 +1,3 @@
-## What next?
+## Co następne?
 
-Try the [Ghostbusters](https://projects.raspberrypi.org/en/projects/ghostbusters) project! In that project, you will learn how to create a game with ghosts that appear all over the place and that you need to catch. You will also learn how to add a timer and a score to the game, so that you can see how many ghosts you are able to catch.
+Wypróbuj projekt [Ghostbusters](https://projects.raspberrypi.org/en/projects/ghostbusters)! W tym projekcie nauczysz się tworzyć grę z duchami, które pojawiają się w każdym miejscu i które musisz złapać. Dowiesz się również, jak dodać zegar i partyturę do gry, aby zobaczyć, ile duchów możesz złapać.
