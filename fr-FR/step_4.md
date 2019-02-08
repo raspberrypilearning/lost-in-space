@@ -1,89 +1,89 @@
-## Animation using loops
+## Animez à l'aide de boucles
 
-Another way to animate the spaceship is to tell it to move a small amount many times
+Une autre façon d’animer le vaisseau spatial est de lui demander de se déplacer plusieurs fois
 
-\--- task \--- Delete the `glide`{:class="block3motion"} block from your code. To do this, drag the block off the Code area and drop it back where the other single code blocks are.
+\--- task \--- Supprimez le bloc `glide`{: class = "block3motion"} de votre code. Pour ce faire, faites glisser le bloc de la zone de code et déposez-le là où se trouvent les autres blocs de code.
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Sprite de vaisseau spatial](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
+lorsque le drapeau est cliqué
+point en direction (0)
+aller à x: (- 150) y: (- 150)
+dire [Allons-y] pendant (2) secondes
+points vers (Terre v)
 
-- glide (1) secs to x:(0) y:(0)
+- glissement (1) à x: (0) y: (0)
 ```
 
 \--- /task \---
 
-\--- task \--- Can you use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
+\--- tâche \--- Pouvez-vous utiliser un bloc `répétition`{: class = "block3control"} pour déplacer votre vaisseau spatial vers la Terre?
 
-![Testing a spaceship animation](images/space-animate-stage.png)
+![Test d'une animation de vaisseau spatial](images/space-animate-stage.png)
 
-\--- hints \--- \--- hint \---
+\--- hint \--- \--- /hints \---
 
-Instead of **gliding**, your spaceship should **repeatedly** **move** a few steps at a time.
+Au lieu de **vol plané**, votre vaisseau spatial devrait **plusieurs reprises** **déplacer** quelques pas à la fois.
 
-\--- /hint \--- \--- hint \--- Here are the code blocks you need:
-
-```blocks3
-move (10) steps
-
-repeat (10)
-```
-
-\--- /hint \--- \--- hint \--- Here is the code to animate your spaceship: ![Spaceship sprite](images/sprite-spaceship.png)
+\--- / astuce \--- \--- astuce \--- Voici les blocs de code dont vous avez besoin:
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-repeat (200)
-    move (2) steps
+déplacer (10) étapes
+
+répétition (10)
 ```
 
-You can use different numbers in the `repeat`{:class="block3control"} and `move`{:class="block3motion"} blocks, as long as the spaceship still gets to Earth! \--- /hint \--- \--- /hints \---
+\--- / hint \--- \--- hint \--- Voici le code pour animer votre vaisseau spatial: ![Sprite de vaisseau spatial](images/sprite-spaceship.png)
 
-Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
+```blocks3
+lorsque le drapeau est cliqué
+point en direction (0)
+aller à x: (- 150) y: (- 150)
+dire [Allons-y] pendant (2) secondes
+points en direction de (Terre v)
+répéter (200)
+    coups (2) étapes
+```
+
+Vous pouvez utiliser des numéros différents dans le `répétition`{: class = « block3control »} et `déplacer`{: class = « block3motion »} blocs, aussi longtemps que le vaisseau spatial obtient toujours à la Terre! \--- /hint \--- \--- /hints \---
+
+Testez et enregistrez votre code. Votre vaisseau spatial devrait se déplacer exactement comme avant vers la Terre, mais cette fois-ci il utilise un bloc `répétition`{: class = "block3control"}
 
 \--- /task \---
 
-\--- task \--- Can you add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
+\--- task \--- Pouvez-vous ajouter du code à votre sprite de vaisseau spatial afin que le vaisseau spatial change de couleur lorsqu'il se déplace vers la Terre?
 
-Use this block:
+Utilisez ce bloc:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Sprite de vaisseau spatial](images/sprite-spaceship.png)
 
 ```blocks3
-change [color v] effect by (25)
+modifier l'effet [couleur v] de (25)
 ```
 
-Test and save your code.
+Testez et enregistrez votre code.
 
-![Testing a colour-changing spaceship](images/space-colour-test.png)
+![Test d'un vaisseau spatial changeant de couleur](images/space-colour-test.png)
 
 \--- /task \---
 
-\--- task \--- Can you make your spaceship get smaller as it moves towards Earth?
+\--- tâche \--- Pouvez-vous réduire votre vaisseau spatial à mesure qu’il se déplace vers la Terre?
 
-Your spaceship should start at **100% size**, and then **change size** by a small amount each time it moves.
+Votre vaisseau spatial devrait commencer à **100% taille**, puis **changer légèrement la taille** à chaque déplacement.
 
-Use these blocks:
+Utilisez ces blocs:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Sprite de vaisseau spatial](images/sprite-spaceship.png)
 
 ```blocks3
-change size by (10)
+modifier la taille de (10)
 
-set size to (100) %
+définir la taille sur (100)%
 ```
 
 \--- /task \---
 
-Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
+Testez et enregistrez votre code. Votre vaisseau spatial devrait maintenant devenir plus petit à mesure qu'il se déplace. Testez votre vaisseau spatial à **seconde**. Est-ce la bonne taille quand ça commence?
 
-![Testing a shrinking spaceship](images/space-size-test.png)
+![Tester un vaisseau spatial rétrécissant](images/space-size-test.png)
