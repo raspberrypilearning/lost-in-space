@@ -1,56 +1,16 @@
-## Animating a spaceship
+## Challenge: improve your animation
 
-चला पृथ्वीला उडणाऱ्या आकाशगंगा बनवा!
+Can you change the numbers in your animation code so that:
 
-+ एक नवीन रिक्त स्क्रॅच प्रोजेक्ट उघडा.
++ The spaceship moves until it touches the Earth?
++ The spaceship moves more slowly towards the Earth?
 
-[[[generic-scratch-new-project]]]
+You'll need to change the numbers in this block:
 
-+ आपल्या स्टेजला 'स्पाइसशीप' आणि 'एर्थ' स्प्रीट्स जोडा
-    
-    ![अंतरिक्ष आणि पृथ्वीवरील sprites](images/space-sprites.png)
+![Rocketship sprite](images/sprite-spaceship.png)
 
-[[[generic-scratch-sprite-from-library]]]
+```blocks3
+glide (1) secs to x:(0) y:(0)
+```
 
-+ आपल्या टप्प्यावर 'तारे' पार्श्वभूमी जोडा.
-    
-    ![एक जागा पार्श्वभूमी](images/space-backdrop.png)
-
-[[[generic-scratch-backdrop-from-library]]]
-
-+ आपल्या स्पाईसॅश प्रेथ वर क्लिक करा, आणि **पोषाख** टॅब क्लिक करा.
-    
-    ![प्रेरणा पोशाख](images/space-costume.png)
-
-+ प्रतिमा निवडण्यासाठी **बाण** साधनाचा वापर करा. नंतर परिपत्रक **फिरवा** हँडल वर क्लिक करा आणि इमेज रिंगला त्यापर्यत फिरवा.
-    
-    ![एक पोशाख फिरवत आहे](images/space-rotate.png)
-
-+ आपल्या स्पा स्पेशशीटवर हा कोड जोडा:
-    
-    ![स्पेसशिप कोड](images/space-animate.png)
-    
-    कोड ब्लॉकमधील संख्या बदला जेणेकरून कोड वरील प्रतिमेप्रमाणेच असेल.
-    
-    जर आपण हिरव्या ध्वजवर क्लिक केले तर आपण स्टेजला मध्यभागी जाणे, वळणे आणि सरळ स्पेशशीट बोलणे दिसेल.
-    
-    ![स्पेसशीप अॅनिमेशन तपासत आहे](images/space-animate-stage.png)
-
-[[[generic-scratch-saving]]]
-
-\--- आव्हान \---
-
-## आव्हान: आपले अॅनिमेशन सुधारणे
-
-आपण आपल्या एनीमेशन कोडमधील संख्या बदलू शकता, म्हणजे:
-
-+ पृथ्वीला स्पर्श होईपर्यंत वायुमंडळ हलवेल?
-+ पृथ्वीबद्दल हळू हळू आकाशगंगा हलते?
-
-आपल्याला या ब्लॉकमधील संख्या बदलण्याची आवश्यकता असेल:
-
-![ग्लिग ब्लॉक](images/space-glide.png)
-
-[[[generic-scratch-coordinates]]]
-
-\--- / आव्हान \---
+[[[generic-scratch3-coordinates]]]
