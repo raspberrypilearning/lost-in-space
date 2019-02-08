@@ -1,60 +1,60 @@
-## Floating monkey
+## Плутајући мајмун
 
-Now you will add a monkey who's lost in space to your animation!
+Сада ћете додати мајмуна који је изгубљен у простору за вашу анимацију!
 
-\--- task \--- Start by adding the 'monkey' sprite from the library.
+\--- задатак \--- Почните са додавањем 'мајмунског' спритеа из библиотеке.
 
-![Adding a monkey sprite](images/space-monkey-sprite.png)
+![Додавање мајмуна](images/space-monkey-sprite.png)
 
-\--- /task \---
+\--- /задатак \---
 
-Click on your new monkey sprite and then click on **Costumes** so that you can edit how the monkey looks.
+Кликните на свој нови мајмунски сприте и кликните на **Цостумес** тако да можете уредити како мајмун изгледа.
 
-\--- task \--- Set the fill to be transparent by selecting the red line. For the outline, set a white colour by moving the Saturation slider to `0`.
+\--- таск \--- Подесите попуњеност да буде транспарентан тако што ћете изабрати црвену линију. За обрис поставите белу боју померањем клизача Сатуратион на `0`.
 
-![Make white colour](images/make-white.png) \--- /task \---
+![Направите белу боју](images/make-white.png) \--- /задатак \---
 
-\--- task \--- Click on the **circle** tool and then use it to draw a white space helmet around the monkey's head.
+\--- задатак \--- Кликните на алатку **круга** а затим га употријебите за цртање бијеле кациге око главе мајмуна.
 
-![Monkey space helmet](images/space-monkey-edit.png)
+![Мајмунска кацига](images/space-monkey-edit.png)
 
-\--- /task \---
+\--- /задатак \---
 
-\--- task \--- Can you add code to your monkey sprite so that it spins slowly in a circle forever?
+\--- задатак \--- Можете ли додати код свом мајмунском духу тако да се заувијек полако врти у кругу?
 
-\--- hints \--- \--- hint \---
+\--- хинтс \--- \--- хинт \---
 
-When the green **flag is clicked**, your monkey sprite should **turn** in a circle **forever**.
+Када је зелено **је застава кликне**, твој мајмун дух треба **ред** у кругу **заувек**.
 
-\--- /hint \--- \--- hint \---
+\--- / хинт \--- \--- хинт \---
 
-Here are the code blocks you need:
-
-```blocks3
-forever
-end
-
-turn cw (15) degrees
-
-when flag clicked
-```
-
-\--- /hint \--- \--- hint \---
-
-Here's the code to make your monkey spin:
-
-![Monkey sprite](images/sprite-monkey.png)
+Ево блокова кода који су вам потребни:
 
 ```blocks3
-when flag clicked
-forever
-    turn cw (1) degrees
+заувек
+крај
+
+окрени цв (15) степени
+
+када се кликне
 ```
 
-\--- /hint \--- \--- /hints \---
+\--- / хинт \--- \--- хинт \---
 
-\--- /task \---
+Ево шифре за израду вашег мајмуна:
 
-Test and save your project. You'll have to click on the red **stop** button to end this animation, as it runs forever!
+![Монкеи сприте](images/sprite-monkey.png)
 
-![Test the spinning monkey](images/space-spin-test.png)
+```blocks3
+када је заставица кликнула
+заувек
+    скретање цв (1) степени
+```
+
+\--- / хинт \--- \--- / хинтс \---
+
+\--- /задатак \---
+
+Тестирајте и сачувајте свој пројекат. Морат ћете кликнути на црвени гумб **стоп** да бисте завршили ову анимацију, јер она траје заувијек!
+
+![Тестирајте мајмуна](images/space-spin-test.png)
