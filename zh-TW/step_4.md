@@ -1,31 +1,89 @@
-## Animating using loops
+## Animation using loops
 
-另一種能讓太空船活躍的方法是讓它運行短距離多次。
+Another way to animate the spaceship is to tell it to move a small amount many times
 
-+ 刪除 `滑行` 塊，請點擊右鍵然後再點擊 **刪除**。 您也可以通過將其代碼從腳本區拖回到代碼塊區來刪除代碼。
-    
-    ![刪除滑塊](images/space-delete-glide.png)
+\--- task \--- Delete the `glide`{:class="block3motion"} block from your code. To do this, drag the block off the Code area and drop it back where the other single code blocks are.
 
-+ 您能否使用 `重複` 塊將你的太空船運行到地球？
-    
-    測試並保存：這次使用 `重複` 模塊，您的太空船應該像之前一樣朝著地球運行。
-    
-    ![測試太空船動畫](images/space-animate-stage.png)
+![Spaceship sprite](images/sprite-spaceship.png)
 
-\--- hints \--- \--- hint \--- 以其 **滑行**，您的太空船因該每一次都 **重複** **運行** 幾步。 \--- /hint \--- \--- hint \--- 以下是您需要的代碼塊： ![Blocks for an animated spaceship](images/space-repeat-blocks.png) \--- /hint \--- \--- hint \--- 以下是讓您的太空船動畫的代碼： ![Code for an animated spaceship](images/space-repeat-code.png) (您可以在 `重複` 和 `移動` 塊中使用不同的數字，只要太空船仍然可以到達地球！) \--- /hint \--- \--- /hints \---
+```blocks3
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
 
-+ 您能編碼你的太空船在向地球運行時改變顏色嗎？
-    
-    測試與保存。
-    
-    ![測試變色太空船](images/space-colour-test.png)
+- glide (1) secs to x:(0) y:(0)
+```
 
-\--- hints \--- \--- hint \--- 您的太空船在運行時應該**改變顏色**。 \--- /hint \--- \--- hint \--- 以下是您需要的額外代碼塊： ![Block for changing colour](images/space-colour-blocks.png) \--- /hint \--- \--- hint \--- 以下是來改變您的太空船顏色的代碼： ![Code for an animated spaceship](images/space-colour-code.png) \--- /hint \--- \--- /hints \---
+\--- /task \---
 
-+ 您能讓太空船向地球運行的時候變得越來越小嗎？
-    
-    測試與保存。您的太空船應運行時變得越小。再測試你的太空船 **第二次**。它的尺寸比啟動時是否不同？
-    
-    ![測試一艘正在縮小的太空船](images/space-size-test.png)
+\--- task \--- Can you use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
 
-\--- hints \--- \--- hint \--- 您的太空船應該從 **100％尺寸**開始，然後運行時有稍微的 **尺寸更改**。 \--- /hint \--- \--- hint \--- 以下是您需要的代碼塊： ![Blocks for changing size](images/space-size-blocks.png) \--- /hint \--- \--- hint \--- 以下是來改變您的運行中太空船大小的代碼： ![Code for changing size](images/space-size-code.png) \--- /hint \--- \--- /hints \---
+![Testing a spaceship animation](images/space-animate-stage.png)
+
+\--- hints \--- \--- hint \---
+
+Instead of **gliding**, your spaceship should **repeatedly** **move** a few steps at a time.
+
+\--- /hint \--- \--- hint \--- Here are the code blocks you need:
+
+```blocks3
+move (10) steps
+
+repeat (10)
+```
+
+\--- /hint \--- \--- hint \--- Here is the code to animate your spaceship: ![Spaceship sprite](images/sprite-spaceship.png)
+
+```blocks3
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
+```
+
+You can use different numbers in the `repeat`{:class="block3control"} and `move`{:class="block3motion"} blocks, as long as the spaceship still gets to Earth! \--- /hint \--- \--- /hints \---
+
+Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
+
+\--- /task \---
+
+\--- task \--- Can you add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
+
+Use this block:
+
+![Spaceship sprite](images/sprite-spaceship.png)
+
+```blocks3
+change [color v] effect by (25)
+```
+
+Test and save your code.
+
+![Testing a colour-changing spaceship](images/space-colour-test.png)
+
+\--- /task \---
+
+\--- task \--- Can you make your spaceship get smaller as it moves towards Earth?
+
+Your spaceship should start at **100% size**, and then **change size** by a small amount each time it moves.
+
+Use these blocks:
+
+![Spaceship sprite](images/sprite-spaceship.png)
+
+```blocks3
+change size by (10)
+
+set size to (100) %
+```
+
+\--- /task \---
+
+Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
+
+![Testing a shrinking spaceship](images/space-size-test.png)
