@@ -1,31 +1,90 @@
-## Animating using loops
+## Döngüleri kullanarak animasyon
 
-Uzay gemisini canlandırmanın başka bir yolu da, onu çok az miktarda taşımak zorunda olduğunu söylemektir.
+Uzay gemisini canlandırmanın bir başka yolu, küçük bir miktarını birçok kez hareket ettirmesini söylemektir.
 
-+ Sil `süzülme` üzerine sağ tıklayarak kodundan blok ve tıklayarak **silme**. Kodu Script alanına sürükleyerek ve Kod blokları alanına geri döndürebilirsiniz.
-    
-    ![Kayma bloğunu silme](images/space-delete-glide.png)
+\--- görev \--- `kayma`{: class = "block3motion"} bloğunu kodunuzdan silin. Bunu yapmak için, bloğu Kod alanından sürükleyin ve diğer tek kod bloklarının olduğu yere geri bırakın.
 
-+ Uzay geminizi Dünya'ya taşımak için `tekrar` blok kullanabilir misiniz?
-    
-    Test etme ve kaydetme: Uzay geminiz Dünya'ya tam olarak, daha önce olduğu gibi, bu sefer `tekrar` blok kullanarak, tam olarak doğru hareket etmelidir.
-    
-    ![Bir uzay gemisi animasyonunu test etme](images/space-animate-stage.png)
+![Uzay gemisi sprite](images/sprite-spaceship.png)
 
-\--- püf noktaları \--- \--- ipucu \--- **kayma**yerine, uzay geminiz **tekrar tekrar** **hareket** bir seferde birkaç adım olmalıdır. \--- / hint \--- \--- hint \--- İşte ihtiyacınız olacak kod blokları: ![Blocks for an animated spaceship](images/space-repeat-blocks.png) \--- / ipucu \--- \--- ipucu \--- İşte uzay geminizi canlandıracak kod: ![Code for an animated spaceship](images/space-repeat-code.png) (Eğer uzay gemisi hala Dünya'ya ulaştığı sürece `tekrar` ve `hamle` blokta farklı sayıları kullanabilirsiniz!) \--- / ipucu \--- \--- / ipuçları \---
+```blocks3
+bayrak (0) yönünde
+noktasını tıklattığında
+, x: (- 150) y: (- 150)
+, [ 
+ ] saniye boyunca [gidelim] deyin, (2) saniye boyunca
+noktaya (Dünya v)
 
-+ Dünyaya doğru hareket ederken renginizi değiştirmek için uzay geminizi kodlayabilir misiniz?
-    
-    Test et ve kaydet.
-    
-    ![Renk değiştiren bir uzay gemisini test etme](images/space-colour-test.png)
+- kayma (1) sn. ila x: (0) y: (0)
+```
 
-\--- ipuçları \--- \--- ipucu \--- Sizin uzay gerektiği **renk değiştiren** hareket ettikçe. \--- / ipucu \--- \--- ipucu \--- İşte ihtiyacınız olacak ekstra kod bloğu: ![Block for changing colour](images/space-colour-blocks.png) \--- / ipucu \--- \--- ipucu \--- İşte uzay geminizin rengini değiştirmek için kod : ![Code for an animated spaceship](images/space-colour-code.png) \--- / ipucu \--- \--- / ipuçları \---
+\--- /task \---
 
-+ Uzay geminizi Dünya'ya geldikçe küçültebilir misiniz?
-    
-    Test et ve kaydet. Uzay geminiz hareket ettikçe küçülmelidir. Uzay geminizi **saniye sonra test edin**. Başladığında doğru boyut mu?
-    
-    ![Büzüşen bir uzay gemisi testi](images/space-size-test.png)
+\--- görev \--- Uzay geminizi Dünya'ya taşımak için `tekrar`{: class = "block3control"} bloğu kullanabilir misiniz?
 
-\--- püf noktaları \--- \--- ipucu \--- Sizin uzay geminiz, hareket ettikçe küçük bir miktar ile **% 100 boyut**, ve sonra **değiştirme boyutu** başlamalıdır. \--- / ipucu \--- \--- ipucu \--- İşte ihtiyacınız olan kod blokları: ![Blocks for changing size](images/space-size-blocks.png) \--- / ipucu \--- \--- ipucu \--- İşte uzay geminizin boyutunu değiştirmek için kod hareket eder: ![Code for changing size](images/space-size-code.png) \--- / ipucu \--- \--- / ipuçları \---
+![Bir uzay gemisi animasyonunu test etme](images/space-animate-stage.png)
+
+\--- ipuçları \--- \--- ipucu \---
+
+Yerine **kayma**, sizin uzay gemisi gerektiği **arka arkaya** **hareket** Bir seferde birkaç adım.
+
+\--- / hint \--- \--- hint \--- İhtiyacınız olan kod blokları:
+
+```blocks3
+hareket (10) adım
+
+tekrarla (10)
+```
+
+\--- / hint \--- \--- hint \--- İşte uzay geminizi canlandırmanın kodu: ![Uzay gemisi sprite](images/sprite-spaceship.png)
+
+```blocks3
+Bayrak tıklandığında
+yönde noktası (0)
+x gidin: (- 150), y (- 150),
+(2) saniye [Gidelim] demek
+(toprak v) doğru alanına
+tekrar (200)
+    hareket (2) adım
+```
+
+Uzay gemisi hala Dünya'ya geldiği sürece `tekrar`{: class = "block3control"} ve `move`{: class = "block3motion"} bloklarında farklı sayılar kullanabilirsiniz \--- / ipucu \--- \--- / ipuçları \---
+
+Kodunuzu test edin ve kaydedin. Uzay geminiz Dünya'ya tam olarak önceki gibi hareket etmelidir, ancak bu sefer `tekrarı`{: class = "block3control"} bloğu kullanır.
+
+\--- /task \---
+
+\--- görev \--- Uzay gemisi sprite kodunu ekleyerek uzay gemisinin Dünya'ya doğru hareket ederken rengini değiştirmesini sağlayabilir misiniz?
+
+Bu bloğu kullan:
+
+![Uzay gemisi sprite](images/sprite-spaceship.png)
+
+```blocks3
+[color v] etkisini değiştirerek (25)
+```
+
+Kodunuzu test edin ve kaydedin.
+
+![Renk değiştiren bir uzay gemisinin test edilmesi](images/space-colour-test.png)
+
+\--- /task \---
+
+\--- görev \--- Uzay geminizi Dünya'ya doğru hareket ettikçe küçültebilir misiniz?
+
+İşletme uzay başlamalıdır **100% büyüklüğü**ve **boyut değiştirme** küçük bir miktar her zaman daha hareket eder.
+
+Bu blokları kullanın:
+
+![Uzay gemisi sprite](images/sprite-spaceship.png)
+
+```blocks3
+beden büyüklüğü (10)
+
+set büyüklüğü (100)%
+```
+
+\--- /task \---
+
+Kodunuzu test edin ve kaydedin. Uzay geminiz şimdi ilerledikçe küçülmelidir. Uzay geminizi **saniye test edin**. Başladığı zaman doğru boyutta mı?
+
+![Daralan bir uzay gemisinin test edilmesi](images/space-size-test.png)
