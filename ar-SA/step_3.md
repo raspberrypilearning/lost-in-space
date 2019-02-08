@@ -1,11 +1,11 @@
-## Challenge: improve your animation
+## تحريك سفينة فضاء
 
 Can you change the numbers in your animation code so that:
 
-+ The spaceship moves until it touches the Earth?
-+ The spaceship moves more slowly towards the Earth?
++ تتحرك سفينة الفضاء حتى تُلامس كوكب الأرض؟
++ تتحرك سفينة الفضاء بشكل أبطأ نحو كوكب الأرض؟
 
-You'll need to change the numbers in this block:
+ستحتاج إلى تغيير الأرقام في هذا القالب:
 
 ![Rocketship sprite](images/sprite-spaceship.png)
 
