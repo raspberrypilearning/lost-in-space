@@ -6,7 +6,7 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 ## Introdução
 
-You are going to learn how to program your own animation!
+Você vai aprender a programar sua própria animação!
 
 ### O que você vai fazer
 
@@ -27,15 +27,15 @@ You are going to learn how to program your own animation!
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: O que você vai precisar
 
 ### Hardware
 
-+ A computer capable of running Scratch 3
++ Um computador capaz de executar o Scratch 3
 
 ### Software
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 ([online](http://rpf.io/scratchon){:target="_blank"} ou [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 ### Downloads
 
@@ -45,7 +45,7 @@ You are going to learn how to program your own animation!
 
 ## \--- collapse \---
 
-## title: What you will learn
+## title: O que você vai aprender
 
 + Animate a sprite using a loop
 + Change the appearance of a sprite
@@ -56,7 +56,7 @@ You are going to learn how to program your own animation!
 
 ## title: Additional information for educators
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
+Se você precisar imprimir este projeto, por favor use a [versão para impressão](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
 [Here is a link to the solution for this project](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
