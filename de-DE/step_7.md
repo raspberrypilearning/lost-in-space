@@ -1,18 +1,18 @@
-## Shining star
+## Glänzender Stern
 
 Now you will combine loops to make a shining star.
 
 \--- task \--- Add a 'star' sprite to your stage.
 
-![Adding a star sprite](images/space-star-sprite.png)
+![Hinzufügen einer Stern-Figur](images/space-star-sprite.png)
 
 \--- /task \---
 
 \--- task \--- Can you add code to your star sprite to make the star repeatedly grow and shrink?
 
-![Testing a shining star](images/sprite-star.png)
+![Test eines glänzenden Sterns](images/sprite-star.png)
 
-\--- hints \--- \--- hint \--- When the green **flag is clicked**, your star sprite should **change size** to get bigger a few times, and then **change size** to get smaller a few times. It should do this so that it gets bigger and then smaller **forever** and looks like it's shining light. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
+\--- hints \--- \--- hint \--- Wenn die grüne **Flagge angeklickt ** wird, sollte dein Stern ein paar mal die **Größe ändern** und dabei wachsen, und dann wieder ein paar mal **die Größe ändern** und dabei kleiner werden. It should do this so that it gets bigger and then smaller **forever** and looks like it's shining light. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
 
 ```blocks3
 repeat (10)
