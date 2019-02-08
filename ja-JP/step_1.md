@@ -6,7 +6,7 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 ## はじめに
 
-You are going to learn how to program your own animation!
+アニメーションをプログラムする方法を学びましょう！
 
 ### 作るもの
 
@@ -27,15 +27,15 @@ You are going to learn how to program your own animation!
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: 必要なもの
 
-### Hardware
+### ハードウェア
 
-+ A computer capable of running Scratch 3
++ Scratch 3を実行できるコンピュータ
 
-### Software
+### ソフトウェア
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 ([オンライン](http://rpf.io/scratchon){:target="_blank"}または[オフライン](http://rpf.io/scratchoff){:target="_blank"})
 
 ### Downloads
 
@@ -45,7 +45,7 @@ You are going to learn how to program your own animation!
 
 ## \--- collapse \---
 
-## title: What you will learn
+## title: 学習すること
 
 + Animate a sprite using a loop
 + Change the appearance of a sprite
@@ -56,7 +56,7 @@ You are going to learn how to program your own animation!
 
 ## title: Additional information for educators
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
+このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_ blank"}を使用してください。
 
 [Here is a link to the solution for this project](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
