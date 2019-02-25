@@ -71,7 +71,7 @@ if (!("scramble" in Array.prototype)) {
                                     "D"
                                 ],
             "correct"       :   "C",
-            "explanation"   :   "The total number of steps moved should by 450.",
+            "explanation"   :   "The total number of steps moved should be 100.",
         },
         {
             "question"      :   "Which of the following scripts would make a sprite move slowly left to right forever?",
