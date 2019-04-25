@@ -1,16 +1,16 @@
 ---
 title: Zagubiona w kosmosie
-hero_image: images / lost-in-space.png
+hero_image: images/lost-in-space.png
 description: Naucz się, jak zaprogramować swoją własną animację!
 original_url: https://www.codeclubprojects.org/en-GB/scratch/lost-in-space
 listed: true
 copyedit: true
-technologies: zadraśnięcie
+technologies: scratch
 version: 4
-last_tested: 2017-11-01
+last_tested: 2018-09-26
 steps:
   - 
-    title: Zagubiona w kosmosie
+    title: Wprowadzenie
   - 
     title: Animowanie statku kosmicznego
   - 
