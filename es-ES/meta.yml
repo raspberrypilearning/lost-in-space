@@ -7,12 +7,12 @@ listed: true
 copyedit: true
 technologies: scratch
 version: 4
-last_tested: 2017-11-01
+last_tested: 2018-09-26
 steps:
   - 
     title: Introducción
   - 
-    title: Lo que necesitarás
+    title: Animación de una nave espacial
   - 
     title: 'Animación de una nave espacial'
     challenge: true
