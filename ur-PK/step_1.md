@@ -1,53 +1,53 @@
-\--- no-print \---
+\---نو-پرنٹ \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
+یہ **سکریچ 3** ورژن کا منصوبہ ہے ۔ یہاں ایک [ سکریچ 2 ورژن کا منصوبہ ](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2) بھی ہے ۔
 
-\--- /no-print \---
+\---نو-پرنٹ \---
 
 ## تعارف
 
-You are going to learn how to program your own animation!
+آپ سیکھنے کے لئے جا رہے ہیں کہ آپ اینیمیشن کیسے پروگرام کریں گے.
 
 ### آپ کیا کریں گے
 
-\--- no-print \--- Click on the green flag to see the animation.
+\---نو-پرنٹ \--- اینیمیشن کو دیکھنے کے لئے سبز پرچم پر کلک کریں ۔
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
   <img src="images/space-final.png">
 </div>
 
-\--- /no-print \---
+\---نو-پرنٹ \---
 
-\--- print-only \---
+\--- صرف پرنٹ \---
 
-![Complete project](images/showcase_static.png)
+![مکمل منصوبہ](images/showcase_static.png)
 
-\--- /print-only \---
+\--- /صرف پرنٹ \---
 
-## \--- collapse \---
+## \---تفصیل غائب کریں--
 
-## title: What you will need
+## عنوان: آپ کو کس چیز کی ضرورت ہو گی
 
-### Hardware
+### ہارڈ ویئر
 
-+ A computer capable of running Scratch 3
++ ایک کمپیوٹر سکریچ 3 چلانے کے قابل
 
-### Software
+### سافٹ ویئر
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ سکریچ 3 (یا تو [ آن لائن ](http://rpf.io/scratchon) یا [ آف لائن ](http://rpf.io/scratchoff) )
 
-### Downloads
+### ڈاؤن لوڈ
 
-+ None
++ کوئی بھی نہیں
 
-\--- /collapse \---
+\---تفصیل غائب کریں--
 
-## \--- collapse \---
+## \---تفصیل غائب کریں--
 
-## title: What you will learn
+## عنوان: آپ کیا سیکھیں گے
 
-+ Animate a sprite using a loop
++ لوپ Loop کا استعمال کرتے ہوئے ایک پریت Sprite کو متحرک کریں
 + Change the appearance of a sprite
 
 \--- /collapse \---
