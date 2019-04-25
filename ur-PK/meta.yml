@@ -12,12 +12,12 @@ steps:
   - 
     title: تعارف
   - 
-    title: Animating a spaceship
+    title: ایک خلائی جہاز انامٹانگ
   - 
-    title: 'Challenge: improve your animation'
+    title: 'چیلنج:  اینیمیشن کو بہتر بنائیں'
     challenge: true
   - 
-    title: Animation using loops
+    title: loops کا استعمال کرتے ہوئے  اینیمیشن 
   - 
     title: فلوٹنگ بندر
   - 
@@ -28,4 +28,4 @@ steps:
     title: 'چیلنج: اپنا اپنا حرکت پذیری بنائیں'
     challenge: true
   - 
-    title: What next?
+    title: آگے کیا؟
