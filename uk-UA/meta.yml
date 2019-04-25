@@ -7,7 +7,7 @@ listed: true
 copyedit: true
 technologies: scratch
 version: 4
-last_tested: 2017-11-01
+last_tested: 2018-09-26
 steps:
   - 
     title: Введення
@@ -28,4 +28,4 @@ steps:
     title: 'Завдання: створіть власну анімацію'
     challenge: true
   - 
-    title: What next?
+    title: Що далі?
