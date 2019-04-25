@@ -2,6 +2,6 @@
 
 Stop je ruimte-animatie, sla hem op en start een nieuw Scratch-project.
 
-Use what you've learned in this project to make your own animation. It can be anything you like, but try to make your animation match the background you choose. Here are some examples:
+Gebruik wat je in dit project hebt geleerd om je eigen animatie te maken. Het kan alles zijn wat je wilt, maar probeer ervoor te zorgen dat de animatie past bij de achtergrond die je kiest. Hier zijn enkele voorbeelden:
 
 ![screenshot](images/space-egs.png)
