@@ -6,7 +6,7 @@ Teraz dodacie pływającą spację do swojej animacji.
 
 ![Dodanie sprita skalnego](images/space-rock-sprite.png)
 
-\--- / task \---
+\--- /task \---
 
 \--- task \--- Czy umiesz dodać kod do swojego sprite'a, żeby skała odbijała się od sceny?
 
@@ -32,7 +32,7 @@ obróć cw (15) stopni
 punkt w kierunku (Ziemia v)
 ```
 
-\--- / wskazówka \--- \--- wskazówka \---
+-- /hint \--- \--- hint \---
 
 Oto kod, dzięki któremu Twój rock odbija się od sceny:
 
@@ -46,4 +46,4 @@ zawsze
     jeśli na krawędzi, odbicie
 ```
 
-\--- / wskazówka \--- \--- / wskazówki \--- \--- / zadanie \---
+\--- /hint \--- \--- /hints \--- \--- /task \---
