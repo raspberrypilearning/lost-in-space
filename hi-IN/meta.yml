@@ -12,7 +12,7 @@ steps:
   - 
     title: परिचय
   - 
-    title: आपको किसकी ज़रूरत होगी
+    title: स्पेसशिप एनिमेट करना
   - 
     title: 'स्पेसशिप एनिमेट करना'
     challenge: true
@@ -28,4 +28,4 @@ steps:
     title: 'चैलेंज: अपना खुद का एनीमेशन बनाना'
     challenge: true
   - 
-    title: What next?
+    title: 'चुनौती: अपने ड्रम की पोशाक बदलें'
