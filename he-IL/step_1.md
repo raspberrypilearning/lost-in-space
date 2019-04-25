@@ -1,16 +1,16 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
+זוהי גרסה ** Scratch 3 **של הפרויקט. יש גם גרסה [ Scratch 2 של הפרויקט ](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
 
 \--- /no-print \---
 
-## Introduction
+## הקדמה
 
-You are going to learn how to program your own animation!
+אתם תלמדו איך לתכנת אנימציה משלכם!
 
-### What you will make
+### מה תעשה
 
-\--- no-print \--- Click on the green flag to see the animation.
+\--- no-print \--- לחץ על דגל ירוק כדי להפעיל את האנימציה.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -19,45 +19,45 @@ You are going to learn how to program your own animation!
 
 \--- /no-print \---
 
-\--- print-only \---
+\--- / print-only \---
 
-![Complete project](images/showcase_static.png)
+![פרוייקט שלם](images/showcase_static.png)
 
-\--- /print-only \---
+\--- / print-only \---
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: למה תזדקק
 
-### Hardware
+### חומרה
 
-+ A computer capable of running Scratch 3
++ מחשב המסוגל להריץ סקראטץ 3
 
-### Software
+### תוכנה
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (או [ מקוון ](http://rpf.io/scratchon) {:target="_blank"} או [ במצב לא מקוון ](http://rpf.io/scratchoff) {:target="_blank"})
 
-### Downloads
+### הורדות
 
-+ None
++ לא צריך
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: What you will learn
+## title: מה תלמד
 
-+ Animate a sprite using a loop
-+ Change the appearance of a sprite
++ הנפשת דמות באמצעות לולאה
++ לשנות את המראה של דמות
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: מידע נוסף למורי המועדון
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
+אם אתה צריך להדפיס את הפרויקט הזה, אנא השתמש ב [ גרסה ידידותית למדפסת ](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
-[Here is a link to the solution for this project](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+[הנה קישור אל הפתרון עבור פרויקט זה](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
 \--- /collapse \---
