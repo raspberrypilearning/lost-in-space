@@ -1,0 +1,31 @@
+---
+title: Rumfart
+hero_image: images/lost-in-space.png
+description: Nu skal du lære hvordan du programmerer din egen animation!
+original_url: https://www.codeclubprojects.org/en-GB/scratch/lost-in-space
+listed: true
+copyedit: true
+technologies: scratch
+version: 4
+last_tested: 2017-11-01
+steps:
+  - 
+    title: Rumfart
+  - 
+    title: Animating a spaceship
+  - 
+    title: 'Challenge: improve your animation'
+    challenge: true
+  - 
+    title: Animation using loops
+  - 
+    title: Floating monkey
+  - 
+    title: Bouncing asteroid
+  - 
+    title: Shining star
+  - 
+    title: 'Challenge: make your own animation'
+    challenge: true
+  - 
+    title: What next?
