@@ -2,17 +2,17 @@
 
 Pierwszym krokiem będzie stworzenie statku kosmicznego lecącego w kierunku Ziemi!
 
-\--- zadanie \---
+\--- task \---
 
 Otwórz nowy projekt Scratch.
 
-**Online:** Otwórz nowy projekt Scratch online na [rpf.io/scratchon](http://rpf.io/scratchon){: target = "_ blank"}.
+**Online:** otwórz nowy projekt Scratcha na stronie [rpf.io/scratchon](http://rpf.io/scratchon){:target="_blank"}.
 
-**Offline:** Otwórz nowy projekt w edytorze offline.
+**Offline:** otwórz nowy projekt w edytorze offline.
 
-Jeśli chcesz pobrać i zainstalować edytor offline Scratch, możesz go znaleźć pod adresem [rpf.io/scratchoff](http://rpf.io/scratchoff){: target = "_ blank"}.
+Jeśli musisz pobrać i zainstalować edytor Scratcha, znajdziesz go na stronie [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-\--- / task \---
+\--- /task \---
 
 \--- task \--- Dodaj duchy "rocketship" i "Earth" do swojego stołu montażowego.
 
@@ -20,25 +20,25 @@ Jeśli chcesz pobrać i zainstalować edytor offline Scratch, możesz go znaleź
 
 [[[generic-scratch3-sprite-from-library]]]
 
-\--- / task \---
+\--- /task \---
 
 \--- task \--- Dodaj tło "Stars" do stołu montażowego.
 
 ![Tło przestrzeni](images/space-backdrop.png)
 
-\--- / task \---
+\--- /task \---
 
 \--- task \--- Kliknij na ikonkę statku kosmicznego i kliknij na zakładkę **Costumes**.
 
 ![Kostium Sprite](images/space-costume.png)
 
-\--- / task \---
+\--- /task \---
 
 \--- task \--- Użyj narzędzia **arrow** , aby kliknąć i przeciągnąć okno wokół całego obrazu statku kosmicznego. Następnie kliknij okrągły uchwyt **obróć** i obróć obraz, aż znajdzie się na boku.
 
 ![Obracanie kostiumu](images/space-rotate.png)
 
-\--- / task \---
+\--- /task \---
 
 \--- task \--- Dodaj ten kod do swojego sprita statku kosmicznego:
 
@@ -55,7 +55,7 @@ przesuniecie (1) seksu do x: (0) y: (0)
 
 Zmień liczby w dodanych blokach kodu, aby kod był dokładnie taki sam jak powyżej.
 
-\--- / task \---
+\--- /task \---
 
 Jeśli klikniesz zieloną flagę, powinieneś zobaczyć, jak statek kosmiczny mówi, skręca i ślizga się w kierunku środka sceny.
 
