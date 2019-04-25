@@ -7,17 +7,17 @@ listed: true
 copyedit: true
 technologies: scratch
 version: 4
-last_tested: 2017-11-01
+last_tested: 2018/09/26
 steps:
   - 
     title: Inleiding
   - 
-    title: Wat je nodig hebt
+    title: Een ruimteschip animeren
   - 
-    title: 'Een ruimteschip animeren'
+    title: 'Uitdaging: je animatie verbeteren'
     challenge: true
   - 
-    title: Animeren met behulp van lussen
+    title: Animatie met lussen
   - 
     title: Zwevende aap
   - 
