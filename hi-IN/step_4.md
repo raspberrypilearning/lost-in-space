@@ -26,7 +26,7 @@ point towards (Earth v)
 
 Instead of **gliding**, your spaceship should **repeatedly** **move** a few steps at a time.
 
-\--- /hint \--- \--- hint \--- Here are the code blocks you need:
+\--- /hint \--- \--- hint \--- ये वे कोड ब्लॉक हैं जिनकी आपको आवश्यकता है:
 
 ```blocks3
 move (10) steps
