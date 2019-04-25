@@ -1,20 +1,20 @@
 ## Een ruimteschip animeren
 
-Your first step will be to create a spaceship that flies towards the Earth!
+Laten we beginnen met een ruimteschip te maken dat naar de aarde vliegt!
 
 \--- task \----
 
-Open a new Scratch project.
+Open een nieuw Scratch project.
 
-**Online:** open a new online Scratch project at [rpf.io/scratchon](http://rpf.io/scratchon){:target="_blank"}.
+**Online:** open een nieuw online Scratch project op [rpf.io/scratchon](http://rpf.io/scratchon){:target="_blank"}.
 
-**Offline:** open a new project in the offline editor.
+**Offline:** open een nieuw project in de offline editor.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Als je de Scratch offline editor wilt downloaden en installeren dan kan je die vinden op [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
-\--- task \--- Add 'rocketship' and 'Earth' sprites to your Stage.
+\--- task \--- Voeg de 'Rocketship' en 'Earth' sprites toe aan je speelveld.
 
 ![Spaceship and Earth sprites](images/space-sprites.png)
 
@@ -22,38 +22,38 @@ If you need to download and install the Scratch offline editor, you can find it 
 
 \--- /task \---
 
-\--- task \--- Add the 'Stars' backdrop to your Stage.
+\--- task \--- Voeg de achtergrond 'Stars' toe aan je speelveld.
 
 ![A space backdrop](images/space-backdrop.png)
 
 \--- /task \---
 
-\--- task \--- Click on your spaceship sprite, and click on the **Costumes** tab.
+\--- task\--- Klik eerst op de sprite van je ruimteschip, en klik dan op de tab **Uiterlijken**.
 
 ![Sprite costume](images/space-costume.png)
 
 \--- /task \---
 
-\--- task \--- Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+Gebruik het **pijl**-gereedschap om het hele ruimteschip te selecteren. Doe dit door te klikken en een rechthoek te slepen rond het ruimteschip. Klik daarna op het ronde **draai**-handvat, en draai de afbeelding tot die op zijn kant ligt.
 
 ![Rotating a costume](images/space-rotate.png)
 
 \--- /task \---
 
-\--- task \--- Add this code to your spaceship sprite:
+\--- task \--- Voeg deze code toe aan de sprite van je ruimteschip:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Ruimteschip sprite](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-glide (1) secs to x:(0) y:(0)
+wanneer groene vlag wordt aangeklikt
+richt naar (0) graden
+ga naar x: (-150) y: (-150)
+zeg [We gaan!] (2) sec.
+richt naar (Earth v)
+schuif in (1) sec. naar x: (0) y: (0)
 ```
 
-Change the numbers in the code blocks you've added so that the code is exactly the same as above.
+Wijzig de getallen in de codeblokken die je toevoegt zodat de code precies hetzelfde is als hierboven.
 
 \--- /task \---
 
