@@ -1,8 +1,8 @@
-## Bouncing asteroid
+## אסטרואיד קופצני
 
-Now you will add a floating space rock to your animation.
+עכשיו תוסיף להנפשה סלע שנע בחלל.
 
-\--- task \--- Add a 'rock' sprite to your animation.
+\--- task \--- הוסף דמות "סלע" לאנימציה שלך.
 
 ![Adding a rock sprite](images/space-rock-sprite.png)
 
