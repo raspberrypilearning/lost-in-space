@@ -1,6 +1,6 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
+Dit is de **Scratch 3** versie van het project. Er is ook een [Scratch 2 versie van het project](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
 
 \--- /no-print \---
 
@@ -10,7 +10,7 @@ Je gaat leren hoe je je eigen animatie kunt programmeren!
 
 ### Wat je gaat maken
 
-\--- no-print \--- Click on the green flag to see the animation.
+\--- no-print \--- Klik op de groene vlag om de animatie te zien.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -21,7 +21,7 @@ Je gaat leren hoe je je eigen animatie kunt programmeren!
 
 \--- print-only \---
 
-![Complete project](images/showcase_static.png)
+![Voltooid project](images/showcase_static.png)
 
 \--- /print-only \---
 
@@ -35,11 +35,11 @@ Je gaat leren hoe je je eigen animatie kunt programmeren!
 
 ### Software
 
-+ Scratch 3 (of [online](http://rpf.io/scratchon){:target="_blank"} of [offline](http://rpf.io/scratchoff){:Target="_blank"})
++ Scratch 3 ([online](http://rpf.io/scratchon){:target="_blank"} of [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 ### Downloads
 
-+ None
++ Geen
 
 \--- /collapse \---
 
@@ -47,17 +47,17 @@ Je gaat leren hoe je je eigen animatie kunt programmeren!
 
 ## title: Wat ga je leren
 
-+ Animate a sprite using a loop
-+ Change the appearance of a sprite
++ Een sprite animeren met een lus
++ Het uiterlijk van een sprite veranderen
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: Aanvullende informatie voor docenten
 
 Als je dit project wilt afdrukken, gebruik dan de [ printvriendelijke versie ](https://projects.raspberrypi.org/en/projects/lost-in-space/print) {:target="_ blank"}.
 
-[Here is a link to the solution for this project](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+[Hier is een link naar de oplossing voor dit project](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
 \--- /collapse \---
