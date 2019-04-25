@@ -1,49 +1,51 @@
 ## Stuiterende asteroïde
 
-Now you will add a floating space rock to your animation.
+Nu zal je een zwevende ruimtesteen toevoegen aan je animatie.
 
-\--- task \--- Add a 'rock' sprite to your animation.
+\--- task \--- Voeg de 'Rocks' sprite toe aan je animatie.
 
 ![Adding a rock sprite](images/space-rock-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Can you add code for your rock sprite so that the rock bounces around the stage?
+\--- task \--- Kan je code aan je steen-sprite toevoegen zodat die het speelveld rond stuitert?
 
 ![Testing a bouncing rock](images/space-bounce-test.png)
 
-\--- hints \--- \--- hint \--- Als de **groene vlag is aangeklikt** zou de rots-sprite **stappen moeten nemen** en **herhaal**delijk moeten **omkeren aan de rand** van het speelveld. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
+\--- hints \--- \--- hint \--- Als de **groene vlag is aangeklikt** zou de rots-sprite **stappen moeten nemen** en **herhaal**delijk moeten **omkeren aan de rand** van het speelveld. \--- /hint \--- \--- hint \--- Dit zijn de codeblokken die je nodig hebt:
 
 ```blocks3
-move (10) steps
+neem (10) stappen
 
-if on edge bounce
+keer om aan de rand
 
-when flag clicked
+wanneer groene vlag wordt aangeklikt
 
-forever
+herhaal
+end
 ```
 
-You can also set a more interesting starting direction for the rock sprite with one of these blocks:
+Je kan ook een interessantere startrichting instellen voor de steen-sprite met één van deze blokken:
 
 ```blocks3
-turn cw (15) degrees
+draai (15) graden naar rechts
 
-point towards (Earth v)
+richt naar (Earth v)
 ```
 
 \--- /hint \--- \--- hint \---
 
-Here's the code for making your rock bounce around the stage:
+Met deze code kan je je steen het speelveld rond laten stuiteren:
 
-![Rock sprite](images/sprite-rock.png)
+![Steen-sprite](images/sprite-rock.png)
 
 ```blocks3
-when flag clicked
-point towards (Earth v)
-forever
-    move (2) steps
-    if on edge, bounce
+wanneer groene vlag wordt aangeklikt
+richt naar (Earth v)
+herhaal 
+  neem (2) stappen
+  keer om aan de rand
+end
 ```
 
 \--- /hint \--- \--- /hints \--- \--- /task \---
