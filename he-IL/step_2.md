@@ -1,62 +1,57 @@
-## Animating a spaceship
+## הנפשת חללית
 
-Your first step will be to create a spaceship that flies towards the Earth!
+הצעד הראשון שלך יהיה ליצור חללית שנעה לעבר כדור הארץ!
 
 \--- task \---
 
-Open a new Scratch project.
+פתח פרוייקט חדש של Scratch.
 
-**Online:** open a new online Scratch project at [rpf.io/scratchon](http://rpf.io/scratchon){:target="_blank"}.
+** מקוון: ** לפתוח פרוייקט חדש באינטרנט Scratch ב [ rpf.io / scratchon ](http://rpf.io/scratchon) {:target="_blank"}.
 
-**Offline:** open a new project in the offline editor.
+** לא מקוון: ** פתח פרוייקט חדש בעורך הלא מקוון.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+אם עליך להוריד ולהתקין את העורך הלא מקוון של Scratch, תוכל למצוא אותו בכתובת [ rpf.io/scratchoff ](http://rpf.io/scratchoff) {:target="_blank"}.
 
 \--- /task \---
 
-\--- task \--- Add 'rocketship' and 'Earth' sprites to your Stage.
+\--- task \--- הוסף דמויות "חללית" ו "כדור הארץ" לבמה שלך.
 
-![Spaceship and Earth sprites](images/space-sprites.png)
+![דמויות חללית וכדור הארץ](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
 \--- /task \---
 
-\--- task \--- Add the 'Stars' backdrop to your Stage.
+\--- task \--- הוסף רקע 'כוכבים' לבמה שלך.
 
-![A space backdrop](images/space-backdrop.png)
-
-\--- /task \---
-
-\--- task \--- Click on your spaceship sprite, and click on the **Costumes** tab.
-
-![Sprite costume](images/space-costume.png)
+![רקע חלל](images/space-backdrop.png)
 
 \--- /task \---
 
-\--- task \--- Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+\--- task \--- לחץ על החללית שלך, ולחץ על לשונית ** תלבושות **.
 
-![Rotating a costume](images/space-rotate.png)
+![תלבושת לדמות](images/space-costume.png)
 
 \--- /task \---
 
-\--- task \--- Add this code to your spaceship sprite:
+\--- task \--- השתמש ** בחץ ** כלי ללחוץ וגרור תיבה סביב תמונת החללית כולה. לאחר מכן לחץ על סמן ** הסיבוב **, לסובב את תמונת החללית עד שהיא על צדה.
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![סיבוב תלבושת](images/space-rotate.png)
+
+\--- /task \---
+
+\--- task \--- הוסף את הקוד הבא לדממות החללית שלך:
+
+![דמות חללית](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-glide (1) secs to x:(0) y:(0)
+when flag clicked point in direction (0) go to x:(-150) y:(-150) say [Let's go] for (2) seconds point towards (Earth v) glide (1) secs to x:(0) y:(0)
 ```
 
-Change the numbers in the code blocks you've added so that the code is exactly the same as above.
+שנה את המספרים בקטעי הקוד שהוספת, כך שהקוד הוא בדיוק אותו הדבר.
 
 \--- /task \---
 
-If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
+כאשר תלחץ על הדגל הירוק, אתה אמור לראות את החללית מכריזה, מסתובבת, ונעה לכיוון מרכז הבמה.
 
-![Testing a spaceship animation](images/space-animate-stage.png)
+![בדיקת אנימצית חללית](images/space-animate-stage.png)
