@@ -1,89 +1,73 @@
-## Animation using loops
+## הנפשה באמצעות לולאות
 
-Another way to animate the spaceship is to tell it to move a small amount many times
+דרך נוספת להנפשת החללית היא לגרום לה לזוז קצת פעמים רבות
 
-\--- task \--- Delete the `glide`{:class="block3motion"} block from your code. To do this, drag the block off the Code area and drop it back where the other single code blocks are.
+\--- task \--- מחק את בלוק ה` גלישה ` {: class = "block3motion"} מהקוד שלך. כדי לעשות זאת, גרור את הבלוק אל מחוץ לאזור קוד ושחרר אותו בחזרה למקום שבו נמצאים בלוקים אחרים של קוד.
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![דמות חללית](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-
-- glide (1) secs to x:(0) y:(0)
+when flag clicked point in direction (0) go to x:(-150) y:(-150) say [Let's go] for (2) seconds point towards (Earth v) - glide (1) secs to x:(0) y:(0)
 ```
 
 \--- /task \---
 
-\--- task \--- Can you use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
+\--- task \--- האם תוכל להשתמש בבלוק של` חזור שוב ` {: class = "block3control"} כדי להעביר את החללית שלך לעבר כדור הארץ?
 
-![Testing a spaceship animation](images/space-animate-stage.png)
+![בדיקת אנימצית חללית](images/space-animate-stage.png)
 
 \--- hints \--- \--- hint \---
 
-Instead of **gliding**, your spaceship should **repeatedly** **move** a few steps at a time.
+במקום ** גלוש **, החללית שלך צריכה ** לחזור מספר פעמים ** על ** זוז ** כמה צעדים בכל פעם.
 
-\--- /hint \--- \--- hint \--- Here are the code blocks you need:
-
-```blocks3
-move (10) steps
-
-repeat (10)
-```
-
-\--- /hint \--- \--- hint \--- Here is the code to animate your spaceship: ![Spaceship sprite](images/sprite-spaceship.png)
+\--- /hint \--- \--- hint \--- הנה הבלוקים שתצטרך:
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-repeat (200)
-    move (2) steps
+move (10) steps repeat (10)
 ```
 
-You can use different numbers in the `repeat`{:class="block3control"} and `move`{:class="block3motion"} blocks, as long as the spaceship still gets to Earth! \--- /hint \--- \--- /hints \---
+\--- /hint \--- \--- hint \--- הנה קוד הנפשת החללית שלך: ![דמות חללית](images/sprite-spaceship.png)
 
-Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
+```blocks3
+when flag clicked point in direction (0) go to x:(-150) y:(-150) say [Let's go] for (2) seconds point towards (Earth v) repeat (200)     move (2) steps
+```
+
+באפשרותך להשתמש במספרים שונים בבלוקים של `חזור` {: class = "block3control"} `. ולעבור` {:class="block3motion"} כל עוד החללית עדיין נעה לכדור הארץ! \--- / hint \--- \--- / hints \---
+
+בדוק את הקוד שלך ושמור אותו. החללית שלך צריכה לנוע לעבר כדור הארץ בדיוק כמו קודם, אבל הפעם השתמש ב` חזור ` {: class = "block3control"}.
 
 \--- /task \---
 
-\--- task \--- Can you add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
+\--- task \--- האם תוכל להוסיף קוד לדמות החללית שלך, כך שהחללית תשנה צבע בזמן שהיא נעה לעבר כדור הארץ?
 
-Use this block:
+השתמש בבלוק זה:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![דמות חללית](images/sprite-spaceship.png)
 
 ```blocks3
 change [color v] effect by (25)
 ```
 
-Test and save your code.
+בדוק את הקוד שלך ושמור אותו.
 
-![Testing a colour-changing spaceship](images/space-colour-test.png)
+![בדיקת חללית בצבע משתנה](images/space-colour-test.png)
 
 \--- /task \---
 
-\--- task \--- Can you make your spaceship get smaller as it moves towards Earth?
+\--- task \--- האם תוכל לגרום לחללית שלך לקטון ככל שהיא מתקרבת לכדור הארץ?
 
-Your spaceship should start at **100% size**, and then **change size** by a small amount each time it moves.
+החללית שלך צריכה להתחיל ב ** גודל 100% **, ולאחר מכן ** שינוי גודל ** במידה קטנה בכל פעם שהיא זזה.
 
-Use these blocks:
+השתמש בבלוק זה:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![דמות חללית](images/sprite-spaceship.png)
 
 ```blocks3
-change size by (10)
-
-set size to (100) %
+change size by (10) set size to (100) %
 ```
 
 \--- /task \---
 
-Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
+בדוק את הקוד שלך ושמור אותו. החללית שלך צריכה לקטון ככל שהיא מתקרבת לכדור הארץ. בדוק את החללית שלך ** בפעם השנייה **. האם היא בגודל הנכון כאשר מתחילים שוב?
 
-![Testing a shrinking spaceship](images/space-size-test.png)
+![בדיקת חללית בגודל משתנה](images/space-size-test.png)
