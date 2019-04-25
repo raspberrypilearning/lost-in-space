@@ -16,13 +16,13 @@ punkty w kierunku (Ziemia v)
 - poślizg (1) sek. do x: (0) y: (0)
 ```
 
-\--- / task \---
+\--- /task \---
 
 \--- task \--- Czy możesz użyć bloku `repeat`{: class = "block3control"}, aby przenieść swój statek kosmiczny w kierunku Ziemi?
 
 ![Testowanie animacji statku kosmicznego](images/space-animate-stage.png)
 
-\--- wskazówki \--- \--- wskazówka \---
+\--- hints \--- \--- hint \---
 
 Zamiast **przesuwania**, twój statek kosmiczny powinien **razy** **przesuwać** kilka kroków na raz.
 
@@ -46,11 +46,11 @@ powtórzenia (200)
     ruchu (2) kroki
 ```
 
-Możesz używać różnych liczb w blokach `repeat`{: class = "block3control"} i `move`{: class = "block3motion"}, o ile statek kosmiczny nadal dociera do Ziemi! \--- / wskazówka \--- \--- / wskazówki \---
+Możesz używać różnych liczb w blokach `repeat`{: class = "block3control"} i `move`{: class = "block3motion"}, o ile statek kosmiczny nadal dociera do Ziemi! \--- /hint \--- \--- /hints \---
 
 Przetestuj i zapisz swój kod. Twój statek kosmiczny powinien ruszyć w kierunku Ziemi dokładnie tak, jak poprzednio, ale tym razem użyje bloku `powtórzyć`{: class = "block3control"}.
 
-\--- / task \---
+\--- /task \---
 
 \--- task \--- Czy możesz dodać kod do swojego duszka statku kosmicznego, aby statek kosmiczny zmieniał kolor w miarę zbliżania się do Ziemi?
 
@@ -66,7 +66,7 @@ Przetestuj i zapisz swój kod.
 
 ![Testowanie statku kosmicznego zmieniającego kolor](images/space-colour-test.png)
 
-\--- / task \---
+\--- /task \---
 
 \--- task \--- Czy możesz zmusić swój statek kosmiczny do zmniejszania się, gdy porusza się w kierunku Ziemi?
 
@@ -82,7 +82,7 @@ zmień rozmiar o (10)
 ustaw rozmiar na (100)%
 ```
 
-\--- / task \---
+\--- /task \---
 
 Przetestuj i zapisz swój kod. Twój statek kosmiczny powinien się teraz zmniejszać, gdy się porusza. Przetestuj swój statek kosmiczny do **raz drugi**. Czy to właściwy rozmiar, kiedy się zaczyna?
 
