@@ -1,46 +1,48 @@
 ## Fonkelende ster
 
-Now you will combine loops to make a shining star.
+Nu zal je verschillende lussen combineren om een fonkelende ster te maken.
 
-\--- task \--- Add a 'star' sprite to your stage.
+\--- task \--- Voeg de 'Star' sprite toe aan je speelveld.
 
 ![Adding a star sprite](images/space-star-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Can you add code to your star sprite to make the star repeatedly grow and shrink?
+\--- task \--- Kan je code aan je ster-sprite toevoegen om die herhaaldelijk groter en kleiner te laten worden?
 
 ![Testing a shining star](images/sprite-star.png)
 
-\--- hints \--- \--- hint \--- Als de **groene vlag wordt aangeklikt** kun je een paar keer met **verander grootte met** de ster groter maken en met **verander grootte met** die ook weer kleiner maken. It should do this so that it gets bigger and then smaller **forever** and looks like it's shining light. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
+\--- hints \--- \--- hint \--- Als de **groene vlag wordt aangeklikt** kun je een paar keer met **verander grootte met** de ster groter maken en met **verander grootte met** die ook weer kleiner maken. De ster zou **herhaal**delijk groter en dan kleiner moeten worden, zodat het eruit ziet als een fonkelende ster. \--- /hint \--- \--- hint \--- Dit zijn de codeblokken die je nodig hebt:
 
 ```blocks3
-repeat (10)
+herhaal (10) keer
 end
 
-when flag clicked
+wanneer groene vlag wordt aangeklikt
 
-repeat (10)
+herhaal (10) keer
 end
 
-change size by (10)
+verander grootte met (10)
 
-change size by (10)
+verander grootte met (10)
 
-forever
+herhaal
+end
 ```
 
-\--- /hint \--- \--- hint \--- Here's the code to make your star grow and shrink: ![Star sprite](images/sprite-star.png)
+\--- /hint \--- \--- hint \--- Dit is de code die je nodig hebt om je ster groter en kleiner te maken: ![Ster-sprite](images/sprite-star.png)
 
 ```blocks3
-when flag clicked
-forever
-    repeat (20)
-        change size by (2)
-    end
-    repeat (20)
-        change size by (-2)
-    end
+wanneer groene vlag wordt aangeklikt
+herhaal 
+  herhaal (20) keer 
+    verander grootte met (2)
+  end
+  herhaal (20) keer 
+    verander grootte met (-2)
+  end
+end
 
 ```
 
