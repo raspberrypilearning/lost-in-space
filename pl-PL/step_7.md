@@ -6,7 +6,7 @@ Teraz połączysz pętle, by stworzyć świecącą gwiazdę.
 
 ![Dodanie sprite gwiazdy](images/space-star-sprite.png)
 
-\--- / task \---
+\--- /task \---
 
 \--- task \--- Czy umiesz dodać kod do swojego gwiazdkowego sprite'a, aby gwiazda kilkakrotnie rosła i kurczyła?
 
@@ -44,4 +44,4 @@ zawsze
 
 ```
 
-\--- / wskazówka \--- \--- / wskazówki \--- \--- / zadanie \---
+\--- /hint \--- \--- /hints \--- \--- /task \---
