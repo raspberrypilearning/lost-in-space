@@ -7,12 +7,12 @@ listed: true
 copyedit: true
 technologies: scratch
 version: 4
-last_tested: 2017-11-01
+last_tested: 2018-09-26
 steps:
   - 
     title: Einleitung
   - 
-    title: Was du brauchen wirst
+    title: Ein Raumschiff animieren
   - 
     title: 'Ein Raumschiff animieren'
     challenge: true
