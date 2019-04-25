@@ -13,6 +13,6 @@ Try the [Ghostbusters](https://projects.raspberrypi.org/en/projects/ghostbusters
 
 \--- print-only \---
 
-![showcase](images/ghostbusters-static.png)
+![exposición](images/ghostbusters-static.png)
 
 \--- /print-only \---
