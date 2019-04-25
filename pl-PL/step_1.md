@@ -1,12 +1,12 @@
-\--- brak wydruku \---
+\--- no-print \---
 
-To jest wersja **Scratch 3** . Istnieje również [Scratch 2 wersja projektu](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
+Ta wersja projektu jest przeznaczona dla języka **Scratch 3**. Projekt dostępny jest również [w wersji dla języka Scratch 2](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
 
-\--- / brak wydruku \---
+\--- /no-print \---
 
-## Wstęp
+## Wprowadzenie
 
-Nauczysz się programować swoją własną animację!
+W tym projekcie nauczysz się jak programować własne animacje!
 
 ### Co będziesz robił
 
@@ -17,47 +17,47 @@ Nauczysz się programować swoją własną animację!
   <img src="images/space-final.png">
 </div>
 
-\--- / brak wydruku \---
+\--- /no-print \---
 
-\--- tylko do wydruku \---
+\--- print-only \---
 
 ![Kompletny projekt](images/showcase_static.png)
 
-\--- / tylko do wydruku \---
+\--- /print-only \---
 
-## \--- zawalić się \---
+## \--- collapse \---
 
 ## title: Czego będziesz potrzebować
 
-### Sprzęt komputerowy
+### Sprzęt
 
-+ Komputer zdolny do uruchomienia gry Scratch 3
++ Komputer, na którym można uruchomić Scratch 3
 
 ### Oprogramowanie
 
-+ Scratch 3 ( [online](http://rpf.io/scratchon){: target = "_ blank"} lub [offline](http://rpf.io/scratchoff){: target = "_ blank"})
++ Scratch 3 ([online](http://rpf.io/scratchon){:target="_blank"} lub [offline](http://rpf.io/scratchoff){:target="_blank"})
 
-### Pliki do pobrania
+### Pobrane
 
 + Żaden
 
-\--- /zawalić się \---
+\--- /collapse \---
 
-## \--- zawalić się \---
+## \--- collapse \---
 
-## title: Czego się dowiesz
+## title: Czego się nauczysz
 
 + Animuj duszka za pomocą pętli
 + Zmień wygląd duszka
 
-\--- /zawalić się \---
+\--- /collapse \---
 
-## \--- zawalić się \---
+## \--- collapse \---
 
-## tytuł: dodatkowe informacje dla nauczycieli
+## title: Dodatkowe informacje dla nauczycieli
 
-Jeśli chcesz wydrukować ten projekt, użyj wersji</a>{: target = "_ blank" do wydruku}}.</p> 
+Jeśli chcesz wydrukować ten projekt, użyj [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
 [Tutaj znajduje się link do rozwiązania tego projektu](http://rpf.io/p/en/lost-in-space-get){: target = "_ blank"}.
 
-\--- /zawalić się \---
+\--- /collapse \---
