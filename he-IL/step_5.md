@@ -1,60 +1,53 @@
-## Floating monkey
+## קוף מרחף
 
-Now you will add a monkey who's lost in space to your animation!
+עכשיו תוסיף לאנימציה שלך קוף שאבד בחלל!
 
-\--- task \--- Start by adding the 'monkey' sprite from the library.
+\--- task \--- התחל על ידי הוספת דמות של "קוף" מהספריה.
 
-![Adding a monkey sprite](images/space-monkey-sprite.png)
-
-\--- /task \---
-
-Click on your new monkey sprite and then click on **Costumes** so that you can edit how the monkey looks.
-
-\--- task \--- Set the fill to be transparent by selecting the red line. For the outline, set a white colour by moving the Saturation slider to `0`.
-
-![Make white colour](images/make-white.png) \--- /task \---
-
-\--- task \--- Click on the **circle** tool and then use it to draw a white space helmet around the monkey's head.
-
-![Monkey space helmet](images/space-monkey-edit.png)
+![הוספת דמות קוף](images/space-monkey-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Can you add code to your monkey sprite so that it spins slowly in a circle forever?
+לחץ על דמות הקוף החדש שלך ולאחר מכן לחץ על ** תלבושות ** כך שתוכל לערוך את איך הקוף נראה.
+
+\--- task \--- הגדר את המילוי לשקוף על ידי בחירת הקו האדום. עבור קווי המתאר, הגדר צבע לבן על-ידי הזזת מחוון הרוויה ל- ` 0 `.
+
+![הפוך את הצבע ללבן](images/make-white.png) \--- /task \---
+
+\--- task \--- לחץ על **המעגל ** ולאחר מכן השתמש בו כדי לצייר קסדת חלל לבנה סביב הראש של הקוף.
+
+![קסדת חלל לקוף](images/space-monkey-edit.png)
+
+\--- /task \---
+
+\--- task \--- האם תוכל להוסיף קוד לדמות הקוף שלך כך שהוא יסתובב לאט במעגל לנצח?
 
 \--- hints \--- \--- hint \---
 
-When the green **flag is clicked**, your monkey sprite should **turn** in a circle **forever**.
+כאשר נלחץ על** הדגל הירוק **, דמות הקוף שלך צריכה ** להסתובב ** במעגל ** לנצח **.
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+הנה קטעי הקוד להם תזדקק:
 
 ```blocks3
-forever
-end
-
-turn cw (15) degrees
-
-when flag clicked
+forever end turn cw (15) degrees when flag clicked
 ```
 
 \--- /hint \--- \--- hint \---
 
-Here's the code to make your monkey spin:
+הנה הקוד שיגרום לקוף שלך להסתובב:
 
-![Monkey sprite](images/sprite-monkey.png)
+![דמות קוף](images/sprite-monkey.png)
 
 ```blocks3
-when flag clicked
-forever
-    turn cw (1) degrees
+when flag clicked forever     turn cw (1) degrees
 ```
 
 \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
-Test and save your project. You'll have to click on the red **stop** button to end this animation, as it runs forever!
+בדוק ושמור את הפרוייקט. יהיה עליך ללחוץ על הכפתור האדום ** לעצור ** כדי לסיים את האנימציה, בגלל שהוא פועל לנצח!
 
-![Test the spinning monkey](images/space-spin-test.png)
+![בדוק את הקוף המסתובב](images/space-spin-test.png)
