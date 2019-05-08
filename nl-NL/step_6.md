@@ -2,7 +2,7 @@
 
 Nu zal je een zwevende ruimtesteen toevoegen aan je animatie.
 
-\--- task \--- Voeg de 'Rocks' sprite toe aan je animatie.
+\--- task \--- Voeg de 'Rock' sprite toe aan je animatie.
 
 ![Adding a rock sprite](images/space-rock-sprite.png)
 
@@ -22,10 +22,9 @@ keer om aan de rand
 wanneer groene vlag wordt aangeklikt
 
 herhaal
-end
 ```
 
-Je kan ook een interessantere startrichting instellen voor de steen-sprite met één van deze blokken:
+Je kunt ook een interessantere startrichting instellen voor de steen-sprite met één van deze blokken:
 
 ```blocks3
 draai (15) graden naar rechts
@@ -43,9 +42,8 @@ Met deze code kan je je steen het speelveld rond laten stuiteren:
 wanneer groene vlag wordt aangeklikt
 richt naar (Earth v)
 herhaal 
-  neem (2) stappen
-  keer om aan de rand
-end
+neem (2) stappen
+keer om aan de rand
 ```
 
 \--- /hint \--- \--- /hints \--- \--- /task \---
