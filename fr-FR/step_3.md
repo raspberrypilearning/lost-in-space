@@ -1,16 +1,16 @@
-## Animez vos lutins
+## Challenge: améliorer ton animation
 
-Pouvez-vous changer les nombres dans votre code d'animation pour que:
+Peux-tu changer les chiffres dans votre code d'animation, de sorte que:
 
 + Le vaisseau spatial se déplace jusqu'à ce qu'il touche la Terre?
 + Le vaisseau spatial se déplace plus lentement vers la Terre?
 
-Vous devrez changer les nombres dans ce bloc:
+Tu dois changer les nombres dans ce bloc:
 
-![Rocketship sprite](images/sprite-spaceship.png)
+![Lutin de Fusée](images/sprite-spaceship.png)
 
 ```blocks3
-glisse (1) secondes à x: (0) y: (0)
+glisser en (1) secondes à x: (0) y: (0)
 ```
 
 [[[generic-scratch3-coordinates]]]
