@@ -1,62 +1,62 @@
 ## Animer un vaisseau spatial
 
-Votre première étape sera de créer un vaisseau spatial qui vole vers la Terre!
+Ton premier pas sera de créer un vaisseau spatial qui vole vers la Terre!
 
 \--- task \---
 
-Ouvrez un nouveau projet Scratch.
+Ouvre un nouveau projet Scratch.
 
 **En ligne:** ouvre un nouveau projet Scratch en ligne à [rpf.io/scratchon](http://rpf.io/scratchon){: target = "_ blank"}.
 
 **Hors ligne:** ouvre un nouveau projet dans l'éditeur hors ligne.
 
-Si vous devez télécharger et installer l'éditeur hors ligne Scratch, vous pouvez le trouver à l'adresse [rpf.io/scratchoff](http://rpf.io/scratchoff){: target = "_ blank"}.
+Si tu dois télécharger et installer l'éditeur hors ligne Scratch, tu peux le trouver à [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
-\--- task \--- Ajoutez les sprites 'rocketship' et 'Earth' à votre scène.
+\--- Ajoute des lutins «vaisseau spatial» et «Terre» à la scène.
 
-![Les lutins Spaceship et Terre](images/space-sprites.png)
+![Les lutins Vaisseau Spatial et Terre](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
 \--- /task \---
 
-\--- task \--- Ajoutez le fond 'Stars' à votre scène.
+\--- Ajoute l'arrière plan "Étoiles" à la scène.
 
-![Un arrière plan](images/space-backdrop.png)
+![Un arrière plan spatial](images/space-backdrop.png)
 
 \--- /task \---
 
-\--- task \--- Cliquez sur votre sprite de vaisseau spatial, puis sur l'onglet **Costumes**.
+\--- task \--- Clique sur ton lutin de vaisseau spatial, puis sur l'onglet **Costumes**.
 
 ![Costume de lutin](images/space-costume.png)
 
 \--- /task \---
 
-\--- task \--- Utilisez l'outil **flèche** pour cliquer et faire glisser une zone autour de l'image du vaisseau spatial. Cliquez ensuite sur la poignée circulaire **rotation** et faites pivoter l'image jusqu'à ce qu'elle soit sur le côté.
+\--- task \--- Utilise l'outil **flèche** pour cliquer et faire glisser une boîte autour de l'image du vaisseau spatial. Puis clique sur la circulaire **faire pivoter** manipuler et faire pivoter l’image jusqu’à ce qu’elle soit sur le côté.
 
 ![Faire pivoter un costume](images/space-rotate.png)
 
 \--- /task \---
 
-\--- task \--- Ajoutez ce code à votre sprite de vaisseau spatial:
+\--- task \--- Ajoute ce code à ton lutin de vaisseau spatial:
 
-![Sprite de vaisseau spatial](images/sprite-spaceship.png)
+![Lutin de vaisseau spatial](images/sprite-spaceship.png)
 
 ```blocks3
-lorsque le drapeau est cliqué
-point en direction (0)
-aller à x: (- 150) y: (- 150)
-dire [Allons-y] pendant (2) secondes
-points en direction de (Terre v)
-glisse (1) seconde à x: (0) y: (0)
+quand le drapeau vert pressé
+s'orienter en direction de (0)
+aller à x: (-150) y: (-150)
+dire [Let's go] pendant (2) secondes
+s'orienter vers (Earth v)
+glisser en (1) secondes à x: (0) y: (0)
 ```
 
-Modifiez les numéros dans les blocs de code que vous avez ajoutés pour que le code soit exactement le même que ci-dessus.
+Change les nombres dans les blocs de code pour que le code soit exactement le même que dans l'image ci-dessus.
 
 \--- /task \---
 
-Si vous cliquez sur le drapeau vert, vous devriez voir le vaisseau parler, tourner et glisser vers le centre de la scène.
+Si tu cliques sur le drapeau vert, tu dois voir le vaisseau parler, tourner et glisser vers le centre de la scène.
 
 ![Test d'une animation de vaisseau spatial](images/space-animate-stage.png)
