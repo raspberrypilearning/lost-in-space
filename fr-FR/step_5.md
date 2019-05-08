@@ -1,60 +1,58 @@
-## Plus de boucles
+## Singe flottant
 
-Maintenant, vous allez ajouter un singe perdu dans votre espace!
+Maintenant tu vas ajouter un singe perdu dans l'espace à ton animation!
 
-\--- task \--- Commencez par ajouter le sprite 'monkey' de la bibliothèque.
+\--- task \--- Commence en ajoutant le lutin 'singe' de la bibliothèque.
 
 ![Ajouter un lutin de singe](images/space-monkey-sprite.png)
 
 \--- /task \---
 
-Cliquez sur votre nouveau sprite singe, puis sur **Costumes** pour pouvoir modifier l'apparence du singe.
+Clique sur votre nouveau lutin singe, puis sur **Costumes** pour pouvoir changer l'apparence du singe.
 
-\--- tâche \--- Définissez le remplissage comme transparent en sélectionnant la ligne rouge. Pour le contour, définissez une couleur blanche en déplaçant le curseur Saturation sur `0`.
+\--- task \--- Définis la transparence en sélectionnant la ligne rouge. Pour le contour, définis une couleur blanche en déplaçant le curseur de saturation à `0`.
 
 ![Faire la couleur blanche](images/make-white.png) \--- /task \---
 
-\--- tâche \--- Cliquez sur l'outil **cercle** , puis utilisez-le pour dessiner un casque blanc autour de la tête du singe.
+\--- task \--- Clique sur l'outil **cercle** , puis utilise-le pour dessiner un casque blanc autour de la tête du singe.
 
 ![Casque de cosmonaute de singe](images/space-monkey-edit.png)
 
 \--- /task \---
 
-\--- task \--- Pouvez-vous ajouter du code à votre sprite singe afin qu'il tourne lentement dans un cercle pour toujours?
+\--- Peux-tu ajouter du code à ton singe afin qu'il tourne lentement indéfiniment?
 
 \--- hints \--- \--- hint \---
 
-Lorsque le vert **drapeau est cliquée**, l' image - objet singe doit **tour** dans un cercle **pour toujours**.
+Lorsque le drapeau vert **est cliqué** , ton lutin singe devrait **tourner** dans un cercle **indéfiniment** .
 
-\--- / indice \--- \--- indice \---
+\--- /hint \--- \--- hint \---
 
-Voici les blocs de code dont vous avez besoin:
+Voici les blocs dont tu as besoin:
 
 ```blocks3
-toujours
-fin
+répéter indéfiniment
 
-tour cw (15) degrés
+tourner droite de (15) degrés
 
-lorsque le drapeau est cliqué
+quand le drapeau vert pressé
 ```
 
-\--- / indice \--- \--- indice \---
+\--- /hint \--- \--- hint \---
 
-Voici le code pour faire tourner votre singe:
+Voici le code pour faire tourner ton singe:
 
-![Singe sprite](images/sprite-monkey.png)
+![Lutin Singe](images/sprite-monkey.png)
 
 ```blocks3
-lorsque le drapeau est cliqué
-pour toujours
-    tour cw (1) degrés
+quand le drapeau vert pressé
+répéter (1) indéfiniment
 ```
 
 \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
-Testez et enregistrez votre projet. Vous devrez cliquer sur le bouton rouge **stop** pour terminer cette animation, car elle tourne pour toujours!
+Teste et enregistre ton projet. Tu devras cliquer sur le bouton rouge **arrêt** pour terminer cette animation, car elle tourne pour toujours!
 
-![Testez le singe qui tourne](images/space-spin-test.png)
+![Teste le singe qui tourne](images/space-spin-test.png)
