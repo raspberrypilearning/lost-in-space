@@ -1,47 +1,47 @@
 ## Étoile brillante
 
-Maintenant, vous allez combiner les boucles pour faire une étoile brillante.
+Maintenant, tu vas combiner les boucles pour faire une étoile brillante.
 
-\--- task \--- Ajoutez un sprite 'star' à votre scène.
+\--- task \--- Ajoute un lutin 'étoile' à la scène.
 
 ![Ajout d’un lutin étoile](images/space-star-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Pouvez-vous ajouter du code à votre sprite d'étoile pour faire croître et rétrécir l'étoile de façon répétée?
+\--- task \--- Peux-tu ajouter du code à ton lutin d'étoile pour faire croître et rétrécir l'étoile indéfiniment?
 
 ![Tester une étoile brillante](images/sprite-star.png)
 
-\--- hints \--- \--- hint \--- Lorsque le drapeau vert ** est cliqué ** , votre lutin étoile devrait ** changer de taille ** pour grossir plusieurs fois, puis ** changer de taille ** devenir plus petit plusieurs fois. Il devrait le faire afin qu'il soit plus grand et plus petit **pour toujours** et ressemble à ça brille la lumière. \--- / astuce \--- \--- astuce \--- Voici les blocs de code dont vous avez besoin:
+\--- hints \--- \--- hint \--- Lorsque le drapeau vert ** est cliqué ** , votre lutin étoile devrait ** ajouter à la taille ** pour grossir plusieurs fois, puis ** changer de taille ** devenir plus petit plusieurs fois. Il devrait le faire afin qu'il soit plus grand et plus petit **indéfiniment** et ressemble à sa lumière qui brille. \--- /hint \--- \--- hint \--- Voici les blocs de code dont tu auras besoin:
 
 ```blocks3
-répéter (10)
-fin
+répéter (10) fois
+end
 
-lorsque le drapeau est cliqué
+quand le drapeau vert pressé
 
-répéter (10)
-fin
+répéter (10) fois
+end
 
-changer la taille de (10)
+ajouter (10) à la taille
 
-changer la taille de (10)
+ajouter (10) à la taille
 
-pour toujours
+répéter indéfiniment
 ```
 
-\--- / indice \--- \--- indice \--- Voici le code pour faire grossir et réduire votre étoile: ![Star Sprite](images/sprite-star.png)
+\--- /hint \--- \--- hint \--- Voici le code pour faire grossir et réduire votre étoile: ![Lutin d'Étoile](images/sprite-star.png)
 
 ```blocks3
-Lorsque le drapeau est cliqué
-pour toujours
-    répéter (20)
-        changer la taille de (2)
-    fin
-    répéter (20)
-        changer de taille de (-2)
-    fin
+quand le drapeau vert pressé
+indéfiniment
+répéter (20)
+ajouter (2) à la taille 
+end
+répéter (20)
+ajouter (-2) à la taille
+end
 
 ```
 
-\--- / astuce \--- \--- / astuces \--- \--- / tâche \---
+\--- /hint \--- \--- /hints \--- \--- /task \---
