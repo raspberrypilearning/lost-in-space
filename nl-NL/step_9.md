@@ -1,6 +1,6 @@
 ## Wat nu?
 
-Probeer het [Spokenjagers](https://projects.raspberrypi.org/en/projects/ghostbusters?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) project! In dat project leer je hoe je een spel maakt met spoken die overal verschijnen en die je moet vangen. Je leert ook hoe je een timer en een score toevoegt aan het spel, zodat je kan zien hoeveel spoken je kan vangen.
+Probeer het [Spokenjagers](https://projects.raspberrypi.org/en/projects/ghostbusters?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) project! In dat project leer je hoe je een spel maakt met spoken die overal verschijnen en die je moet vangen. Je leert ook hoe je een tijdklok en een score toevoegt aan het spel, zodat je kan zien hoeveel spoken je kan vangen.
 
 \--- no-print \---
 
