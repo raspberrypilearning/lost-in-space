@@ -34,7 +34,7 @@ Als je de Scratch offline editor wilt downloaden en installeren dan kan je die v
 
 \--- /task \---
 
-Gebruik het **pijl**-gereedschap om het hele ruimteschip te selecteren. Doe dit door te klikken en een rechthoek te slepen rond het ruimteschip. Klik daarna op het ronde **draai**-handvat, en draai de afbeelding tot die op zijn kant ligt.
+\--- task \--- Gebruik het **pijl**-gereedschap om het hele ruimteschip te selecteren. Doe dit door te klikken en een rechthoek te slepen rond het ruimteschip. Klik daarna op het ronde **draai**-handvat, en draai de afbeelding tot die op zijn kant ligt.
 
 ![Rotating a costume](images/space-rotate.png)
 
@@ -53,7 +53,7 @@ richt naar (Earth v)
 schuif in (1) sec. naar x: (0) y: (0)
 ```
 
-Wijzig de getallen in de codeblokken die je toevoegt zodat de code precies hetzelfde is als hierboven.
+Wijzig de getallen in de codeblokken die je hebt toevoegd zodat de code precies hetzelfde is als hierboven.
 
 \--- /task \---
 
