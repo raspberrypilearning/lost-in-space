@@ -1,16 +1,16 @@
 \--- no-print \---
 
-Ceci est la version **Scratch 3** du projet. Il y a aussi une [la version Scratch 2 du projet](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
+Ceci est la version **Scratch 3** du projet. Il y a aussi une version [Scratch 2 du projet](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
 
 \--- /no-print \---
 
 ## Introduction
 
-Vous allez apprendre à programmer votre propre animation!
+Tu vas apprendre à programmer ta propre animation!
 
-### Ce que tu feras
+### Ce que tu vas faire
 
-\--- no-print \--- Cliquez sur le drapeau vert pour voir l'animation.
+\--- no-print \--- Clique sur le drapeau vert pour voir l'animation.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -33,9 +33,9 @@ Vous allez apprendre à programmer votre propre animation!
 
 + Un ordinateur capable d'exécuter Scratch 3
 
-### Logiciels
+### Logiciel
 
-+ Scratch 3 ( [en ligne](http://rpf.io/scratchon) ou [hors ligne](http://rpf.io/scratchoff)")
++ Scratch 3 ([en ligne](http://rpf.io/scratchon){:target="_blank"} ou [hors ligne](http://rpf.io/scratchoff){:target="_blank"})
 
 ### Téléchargements
 
@@ -47,14 +47,14 @@ Vous allez apprendre à programmer votre propre animation!
 
 ## title: Ce que tu vas apprendre
 
-+ Animer un sprite à l'aide d'une boucle
-+ Changer l'apparence d'un sprite
++ Animer un lutin à l'aide d'une boucle
++ Changer l'apparence d'un lutin
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## titre: informations supplémentaires pour les éducateurs
+## title: Informations supplémentaires pour les éducateurs
 
 Si tu as besoin d'imprimer ce projet, merci d'utiliser la [Version imprimable](https://projects.raspberrypi.org/en/projects/lost-in-space/print) {: target = "_ blank"}.
 
