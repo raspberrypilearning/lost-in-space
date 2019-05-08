@@ -1,49 +1,49 @@
-## Défi : Créez votre propre animation
+## Astéroïde rebondissant
 
-Vous allez maintenant ajouter un espace rock flottant à votre animation.
+Maintenant tu vas ajouter une météore flottante à ton animation.
 
-\--- task \--- Ajoutez un sprite 'rock' à votre animation.
+\--- task \--- Ajoute un lutin 'météore' à ton animation.
 
-![Ajout d’un lutin de roche](images/space-rock-sprite.png)
+![Ajout d'un lutin de météore](images/space-rock-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Pouvez-vous ajouter du code pour votre sprite rock afin que le rock rebondisse sur la scène?
+\--- task \--- Peux-tu ajouter du code pour ton lutin météore afin qu'elle rebondisse sur la scène?
 
-![Tester un rocher rebondissant](images/space-bounce-test.png)
+![Tester une météore rebondissante](images/space-bounce-test.png)
 
-\--- indices \--- \--- indice \--- Lorsque le drapeau vert ** est cliqué ** , votre lutin rocher devrait ** bouger ** et ** rebondir ** autour de la scène ** pour toujours ** . \--- / astuce \--- \--- astuce \--- Voici les blocs de code dont vous avez besoin:
-
-```blocks3
-déplacer (10) étapes
-
-si rebond
-
-lorsque le drapeau est cliqué
-
-pour toujours
-```
-
-Vous pouvez également définir une direction de départ plus intéressante pour le sprite rock avec l'un de ces blocs:
+\--- hints \--- \--- hint \--- quand le **drapeau vert pressé**, ton lutin météore doit **déplacer** et **rebondir** autour de la scène **indéfiniment**. \--- /hint \--- \--- hint \--- Voici les blocs de code dont tu auras besoin:
 
 ```blocks3
-tourner cw (15) degrés
+avancer de (10) pas
 
-point vers (Terre v)
+rebondir si le bord est atteint
+
+quand le drapeau vert pressé
+
+répéter indéfiniment
 ```
 
-\--- / indice \--- \--- indice \---
-
-Voici le code pour faire rebondir votre rock sur la scène:
-
-![Sprite de roche](images/sprite-rock.png)
+Tu peux également définir une direction de départ plus intéressante pour le lutin météore avec l'un de ces blocs:
 
 ```blocks3
-lorsque le drapeau est cliqué sur
-point vers (Terre v)
-pour toujours
-    déplacer (2) étapes
-    si sur rebord
+tourner droite de (15) degrés
+
+s'orienter vers (Terre v)
 ```
 
-\--- / astuce \--- \--- / astuces \--- \--- / tâche \---
+\--- /hint \--- \--- hint \---
+
+Voici le code pour faire rebondir ta météore sur la scène:
+
+![Lutin de Météore](images/sprite-rock.png)
+
+```blocks3
+quand le drapeau vert pressé
+s'orienter vers (Terre v)
+répéter indéfiniment
+avancer de (2) pas
+rebondir si le bord est atteint
+```
+
+\--- /hint \--- \--- /hints \--- \--- /task \---
