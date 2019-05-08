@@ -1,6 +1,6 @@
 ## Animeren met behulp van lussen
 
-Een andere manier om het ruimteschip te laten bewegen is het te vertellen dat het vele kleine stapjes moet zetten.
+Een andere manier om het ruimteschip te laten bewegen is het te vertellen dat het vele kleine stapjes moet zetten
 
 \--- task \--- Verwijder het `schuif`{:class="block3motion"} blok uit je code. Dit kan je doen door het blok uit het codegebied te slepen, en het terug neer te zetten in het gebied met de losse codeblokken.
 
@@ -8,23 +8,23 @@ Een andere manier om het ruimteschip te laten bewegen is het te vertellen dat he
 
 ```blocks3
 wanneer groene vlag wordt aangeklikt
-richt naar (0) graden :: motion
-ga naar x: (-150) y: (-150) :: motion
-zeg [We gaan!] (2) sec. :: looks
-richt naar (Earth v) :: motion
+richt naar (0) graden
+ga naar x: (-150) y: (-150)
+zeg [We gaan!] (2) sec.
+richt naar (Earth v)
 
-- schuif in (1) sec. naar x: (0) y: (0) :: motion
+- schuif in (1) sec. naar x: (0) y: (0)
 ```
 
 \--- /task \---
 
-\--- task \--- Kan je een `herhaal`{:class="block3control"} blok gebruiken om je ruimteschip naar de aarde te bewegen?
+\--- task \--- Kun je een `herhaal`{:class="block3control"} blok gebruiken om je ruimteschip naar de aarde te bewegen?
 
 ![Testing a spaceship animation](images/space-animate-stage.png)
 
 \--- hints \--- \--- hint \---
 
-In plaats van met **schuif** kun je het ruimteschip met **herhaal**- en **neem .. stappen**-blokken steeds een paar stapjes laten bewegen.
+In plaats van te **schuiven** kun je het ruimteschip met **herhaal**- en **neem .. stappen**-blokken steeds een paar stapjes laten bewegen.
 
 \--- /hint \--- \--- hint \--- Dit zijn de codeblokken die je nodig hebt:
 
@@ -42,17 +42,17 @@ richt naar (0) graden
 ga naar x: (-150) y: (-150)
 zeg [We gaan!] (2) sec.
 richt naar (Earth v)
-herhaal (200) keer 
-  neem (2) stappen
+herhaal (200)
+neem (2) stappen
 ```
 
-Je mag verschillende getallen gebruiken in de `herhaal`{:class="block3control"} en `neem .. stappen`{:class="block3motion"} blokken, zolang het ruimteschip maar naar de aarde gaat! \--- /hint \--- \--- /hints \---
+Je mag verschillende getallen gebruiken in de `herhaal`{:class="block3control"}- en `neem .. stappen`{:class="block3motion"}-blokken, zolang het ruimteschip maar naar de aarde gaat! \--- /hint \--- \--- /hints \---
 
-Test en bewaar je code. Je ruimteschip zou nog steeds naar de aarde moeten bewegen, maar nu met een `herhaal`{:class="block3control"} blok.
+Test en bewaar je code. Je ruimteschip zou nog steeds naar de aarde moeten bewegen, maar nu met een `herhaal`{:class="block3control"}-blok.
 
 \--- /task \---
 
-\--- task \--- Kan je code aan je ruimteschip-sprite toevoegen, zodat het ruimteschip van kleur verandert terwijl het naar de aarde beweegt?
+\--- task \--- Kun je code aan je ruimteschip-sprite toevoegen, zodat het ruimteschip van kleur verandert terwijl het naar de aarde beweegt?
 
 Gebruik dit blok:
 
