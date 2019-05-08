@@ -1,6 +1,6 @@
 ## Fonkelende ster
 
-Nu zal je verschillende lussen combineren om een fonkelende ster te maken.
+Nu ga je verschillende lussen combineren om een fonkelende ster te maken.
 
 \--- task \--- Voeg de 'Star' sprite toe aan je speelveld.
 
@@ -8,7 +8,7 @@ Nu zal je verschillende lussen combineren om een fonkelende ster te maken.
 
 \--- /task \---
 
-\--- task \--- Kan je code aan je ster-sprite toevoegen om die herhaaldelijk groter en kleiner te laten worden?
+\--- task \--- Kun je code aan je ster-sprite toevoegen om die herhaaldelijk groter en kleiner te laten worden?
 
 ![Testing a shining star](images/sprite-star.png)
 
@@ -28,7 +28,6 @@ verander grootte met (10)
 verander grootte met (10)
 
 herhaal
-end
 ```
 
 \--- /hint \--- \--- hint \--- Dit is de code die je nodig hebt om je ster groter en kleiner te maken: ![Ster-sprite](images/sprite-star.png)
@@ -36,12 +35,11 @@ end
 ```blocks3
 wanneer groene vlag wordt aangeklikt
 herhaal 
-  herhaal (20) keer 
-    verander grootte met (2)
-  end
-  herhaal (20) keer 
-    verander grootte met (-2)
-  end
+herhaal (20) keer 
+verander grootte met (2)
+end
+herhaal (20) keer 
+verander grootte met (-2)
 end
 
 ```
