@@ -10,7 +10,7 @@ Nu zal je aan je animatie een aap toevoegen die verdwaald is in de ruimte!
 
 Klik op de nieuwe aap-sprite en daarna op **Uiterlijken** om het uiterlijk van de aap aan te passen.
 
-Stel een doorzichtige vulling in door de rode lijn te selecteren. Stel een witte omtrek in door de Verzadiging naar `0` te schuiven.
+\--- task \--- Stel een doorzichtige vulling in door de rode lijn te selecteren. Stel een witte omtrek in door de Verzadiging naar `0` te schuiven.
 
 ![Witte kleur instellen](images/make-white.png) \--- /task \---
 
@@ -20,7 +20,7 @@ Stel een doorzichtige vulling in door de rode lijn te selecteren. Stel een witte
 
 \--- /task \---
 
-\--- task \--- Kan je code toevoegen aan de aap-sprite zodat die de hele tijd ronddraait?
+\--- task \--- Kan je code toevoegen aan de aap-sprite zodat die de hele tijd langzaam ronddraait?
 
 \--- hints \--- \--- hint \---
 
@@ -48,14 +48,13 @@ Dit is de code om je aap te laten ronddraaien:
 ```blocks3
 wanneer groene vlag wordt aangeklikt
 herhaal 
-  draai (1) graden naar rechts
-end
+draai (1) graden naar rechts
 ```
 
 \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
-Test en bewaar je project. Je moet op de rode **stopknop** drukken om de animatie te beëindigen, want die blijft maar doorgaan!
+Test en bewaar je project. Je moet op de rode **stop**-knop drukken om de animatie te beëindigen, want die blijft maar doorgaan!
 
 ![Test de ronddraaiende aap](images/space-spin-test.png)
