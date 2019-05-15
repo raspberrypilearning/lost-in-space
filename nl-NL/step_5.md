@@ -32,13 +32,10 @@ Klik op het **Cirkel** gereedschap en teken er een witte ruimtehelm mee rond het
 
 Kan je code toevoegen aan de aap-sprite zodat die de hele tijd langzaam ronddraait?
 
---- hints ---
---- hint ---
-
-Wanneer de **groene vlag wordt aangeklikt** zou je aap-sprite **herhaal** delijk in een rondje moeten blijven **draai** en.
-
---- /hint --- 
---- hint ---
+--- collapse ---
+---
+title: Wanneer de **groene vlag wordt aangeklikt** zou je aap-sprite **herhaal** delijk in een rondje moeten blijven **draai** en.
+---
 
 Dit zijn de codeblokken die je nodig hebt:
 
@@ -51,9 +48,6 @@ draai (15) graden naar rechts
 wanneer groene vlag wordt aangeklikt
 ```
 
---- /hint --- 
---- hint ---
-
 Dit is de code om je aap te laten ronddraaien:
 
 ![Aap-sprite](images/sprite-monkey.png)
@@ -64,8 +58,7 @@ herhaal
 draai (1) graden naar rechts
 ```
 
---- /hint ---
---- /hints ---
+--- /collapse ---
 
 --- /task ---
 

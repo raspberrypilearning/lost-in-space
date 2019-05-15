@@ -16,11 +16,10 @@ Kun je code aan je ster-sprite toevoegen om die herhaaldelijk groter en kleiner 
 
 ![Testing a shining star](images/sprite-star.png)
 
---- hints ---
---- hint --- 
-Als de **groene vlag wordt aangeklikt** kun je een paar keer met **verander grootte met** de ster groter maken en met **verander grootte met** die ook weer kleiner maken. De ster zou **herhaal** delijk groter en dan kleiner moeten worden, zodat het eruit ziet als een fonkelende ster.
---- /hint ---
---- hint --- 
+--- collapse ---
+--- 
+title: Als de **groene vlag wordt aangeklikt** kun je een paar keer met **verander grootte met** de ster groter maken en met **verander grootte met** die ook weer kleiner maken. De ster zou **herhaal** delijk groter en dan kleiner moeten worden, zodat het eruit ziet als een fonkelende ster.
+---
 
 Dit zijn de codeblokken die je nodig hebt:
 
@@ -40,8 +39,6 @@ verander grootte met (10)
 herhaal
 ```
 
---- /hint --- 
---- hint --- 
 
 Dit is de code die je nodig hebt om je ster groter en kleiner te maken: ![Ster-sprite](images/sprite-star.png)
 
@@ -57,6 +54,5 @@ end
 
 ```
 
---- /hint ---
---- /hints --- 
+--- /collapse --- 
 --- /task ---

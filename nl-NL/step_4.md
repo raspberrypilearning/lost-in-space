@@ -26,13 +26,10 @@ Kun je een `herhaal`{:class="block3control"} blok gebruiken om je ruimteschip na
 
 ![Testing a spaceship animation](images/space-animate-stage.png)
 
---- hints ---
---- hint ---
-
-In plaats van te **schuiven** kun je het ruimteschip met **herhaal**- en **neem .. stappen**-blokken steeds een paar stapjes laten bewegen.
-
---- /hint --- 
---- hint --- 
+--- collapse ---
+---
+title: In plaats van te **schuiven** kun je het ruimteschip met **herhaal**- en **neem .. stappen**-blokken steeds een paar stapjes laten bewegen.
+--- 
 
 Dit zijn de codeblokken die je nodig hebt:
 
@@ -41,9 +38,6 @@ neem (10) stappen
 
 herhaal (10) keer
 ```
-
---- /hint --- 
---- hint --- 
 
 Hier is de code om je ruimteschip te animeren: ![Ruimteschip sprite](images/sprite-spaceship.png)
 
@@ -58,8 +52,8 @@ neem (2) stappen
 ```
 
 Je mag verschillende getallen gebruiken in de `herhaal`{:class="block3control"}- en `neem .. stappen`{:class="block3motion"}-blokken, zolang het ruimteschip maar naar de aarde gaat!
---- /hint ---
---- /hints ---
+
+--- /collapse ---
 
 Test en bewaar je code. Je ruimteschip zou nog steeds naar de aarde moeten bewegen, maar nu met een `herhaal`{:class="block3control"}-blok.
 

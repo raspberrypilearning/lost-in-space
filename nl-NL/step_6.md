@@ -16,11 +16,10 @@ Kan je code aan je steen-sprite toevoegen zodat die het speelveld rond stuitert?
 
 ![Testing a bouncing rock](images/space-bounce-test.png)
 
---- hints ---
---- hint ---
-Als de **groene vlag is aangeklikt** zou de rots-sprite **stappen moeten nemen** en **herhaal** delijk moeten **omkeren aan de rand** van het speelveld.
---- /hint ---
---- hint --- 
+--- collapse ---
+---
+title: Als de **groene vlag is aangeklikt** zou de rots-sprite **stappen moeten nemen** en **herhaal** delijk moeten **omkeren aan de rand** van het speelveld.
+---  
 
 Dit zijn de codeblokken die je nodig hebt:
 
@@ -42,8 +41,6 @@ draai (15) graden naar rechts
 richt naar (Earth v)
 ```
 
---- /hint --- 
---- hint ---
 
 Met deze code kan je je steen het speelveld rond laten stuiteren:
 
@@ -57,6 +54,5 @@ neem (2) stappen
 keer om aan de rand
 ```
 
---- /hint ---
---- /hints --- 
+--- /collapse --- 
 --- /task ---
