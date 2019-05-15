@@ -1,13 +1,62 @@
-## Stap 5: Fonkelende ster
+## Fonkelende ster
 
-Laten we lussen bij elkaar brengen om een ​fonkelende ster te maken.
+Nu ga je verschillende lussen combineren om een fonkelende ster te maken.
 
-+ Voeg een 'star'-sprite toe aan je animatie.
-    
-    ![Adding a star sprite](images/space-star-sprite.png)
+--- task --- 
 
-+ Kun je de ster zo programmeren dat die de hele tijd groter en kleiner wordt?
-    
-    ![Testing a shining star](images/space-star-test.png)
+Voeg de 'Star' sprite toe aan je speelveld.
 
---- hints --- --- hint --- Als de **groene vlag wordt aangeklikt** kun je een paar keer met **verander grootte met** de ster groter maken en met **verander grootte met** die ook weer kleiner maken. De ster zou met **herhaal** voor altijd moeten groeien en krimpen. --- /hint --- --- hint --- Dit zijn de blokken die je nodig hebt: ![Blocks for a shining star](images/space-star-blocks.png) --- /hint --- --- hint --- Dit is het programma waarmee je de ster kunt laten fonkelen: ![Code for a shining star](images/space-star-code.png) --- /hint --- --- /hints ---
+![Adding a star sprite](images/space-star-sprite.png)
+
+--- /task ---
+
+--- task ---
+
+Kun je code aan je ster-sprite toevoegen om die herhaaldelijk groter en kleiner te laten worden?
+
+![Testing a shining star](images/sprite-star.png)
+
+--- hints ---
+--- hint --- 
+Als de **groene vlag wordt aangeklikt** kun je een paar keer met **verander grootte met** de ster groter maken en met **verander grootte met** die ook weer kleiner maken. De ster zou **herhaal** delijk groter en dan kleiner moeten worden, zodat het eruit ziet als een fonkelende ster.
+--- /hint ---
+--- hint --- 
+
+Dit zijn de codeblokken die je nodig hebt:
+
+```blocks3
+herhaal (10) keer
+end
+
+wanneer groene vlag wordt aangeklikt
+
+herhaal (10) keer
+end
+
+verander grootte met (10)
+
+verander grootte met (10)
+
+herhaal
+```
+
+--- /hint --- 
+--- hint --- 
+
+Dit is de code die je nodig hebt om je ster groter en kleiner te maken: ![Ster-sprite](images/sprite-star.png)
+
+```blocks3
+wanneer groene vlag wordt aangeklikt
+herhaal 
+herhaal (20) keer 
+verander grootte met (2)
+end
+herhaal (20) keer 
+verander grootte met (-2)
+end
+
+```
+
+--- /hint ---
+--- /hints --- 
+--- /task ---
