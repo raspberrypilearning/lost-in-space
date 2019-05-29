@@ -49,8 +49,9 @@ title: What you will need
 title: What you will learn
 ---
 
-+ Animate a sprite using a loop
-+ Change the appearance of a sprite
+- Use a repeat loop to animate a sprite in Scratch
+- Use a forever loop to repeat an animation indefinately
+- Understand that loops can be nested within each other
 
 --- /collapse ---
 --- collapse ---

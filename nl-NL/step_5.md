@@ -1,19 +1,61 @@
-## Stap 3: Zwevende aap
+## Zwevende aap
 
-Laten we een aap toevoegen die in de ruimte is verdwaald!
+Nu zal je aan je animatie een aap toevoegen die verdwaald is in de ruimte!
 
-+ Begin met het toevoegen van de 'monkey'-sprite uit de bibliotheek.
-    
-    ![Adding a monkey sprite](images/space-monkey-sprite.png)
+--- task --- Begin met het toevoegen van de 'Monkey'-sprite uit de bibliotheek.
 
-+ Als je op de nieuwe monkey-sprite klikt en daarna op **Uiterlijken** kun je het uiterlijk van de aap aanpassen. Klik op het ** ellips **-gereedschap en teken een witte ruimtehelm om het hoofd van de aap.
-    
-    ![Monkey space helmet](images/space-monkey-edit.png)
+![Adding a monkey sprite](images/space-monkey-sprite.png)
 
-+ Kun je code aan je monkey-sprite toevoegen, zodat die de hele tijd langzaam in een cirkel ronddraait?
-    
-    Test het en sla je project op. Je moet op de rode **stopknop** drukken om de animatie te beëindigen, want die gaat alsmaar door!
-    
-    ![Blocks for a spinning monkey](images/space-spin-test.png)
+--- /task ---
 
---- hints --- --- hint --- Als de **groene vlag wordt aangeklikt** zou je aap-sprite **herhaal** delijk in een rondje moeten blijven **draai** en. --- /hint --- --- hint --- Dit zij de codeblokken die je nodig hebt: ![Blocks for a spinning monkey](images/space-spin-blocks.png) --- /hint --- --- hint --- Dit is de code om je aapje te laten draaien: ![Code for a spinning monkey](images/space-spin-code.png) --- /hint --- --- /hints ---
+Klik op de nieuwe aap-sprite en daarna op **Uiterlijken** om het uiterlijk van de aap aan te passen.
+
+--- task --- Stel een doorzichtige vulling in door de rode lijn te selecteren. Stel een witte omtrek in door de Verzadiging naar `0` te schuiven.
+
+![Witte kleur instellen](images/make-white.png) --- /task ---
+
+--- task --- Klik op het **Cirkel** gereedschap en teken er een witte ruimtehelm mee rond het hoofd van de aap.
+
+![Monkey space helmet](images/space-monkey-edit.png)
+
+--- /task ---
+
+--- task --- Kan je code toevoegen aan de aap-sprite zodat die de hele tijd langzaam ronddraait?
+
+--- hints ---
+ --- hint ---
+
+Wanneer de **groene vlag wordt aangeklikt** zou je aap-sprite **herhaal**delijk in een rondje moeten blijven **draai** en.
+
+--- /hint --- --- hint ---
+
+Dit zijn de codeblokken die je nodig hebt:
+
+```blocks3
+herhaal
+end
+
+draai (15) graden naar rechts
+
+wanneer groene vlag wordt aangeklikt
+```
+
+--- /hint --- --- hint ---
+
+Dit is de code om je aap te laten ronddraaien:
+
+![Aap-sprite](images/sprite-monkey.png)
+
+```blocks3
+wanneer groene vlag wordt aangeklikt
+herhaal 
+draai (1) graden naar rechts
+```
+
+--- /hint --- --- /hints ---
+
+--- /task ---
+
+Test en bewaar je project. Je moet op de rode **stop**-knop drukken om de animatie te beëindigen, want die blijft maar doorgaan!
+
+![Test de ronddraaiende aap](images/space-spin-test.png)

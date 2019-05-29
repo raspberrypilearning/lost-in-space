@@ -1,13 +1,52 @@
-## Stap 4: Stuiterende asteroïde
+## Stuiterende asteroïde
 
-Laten we wat zwevend ruimtesteen toevoegen aan je animatie.
+Nu zal je een zwevende ruimtesteen toevoegen aan je animatie.
 
-+ Voeg een 'rock'-sprite toe aan je animatie.
-    
-    ![Adding a rock sprite](images/space-rock-sprite.png)
+--- task --- Voeg de 'Rock' sprite toe aan je animatie.
 
-+ Kun je je rots-sprite zo programmeren dat die door het speelveld stuitert?
-    
-    ![Testing a bouncing rock](images/space-bounce-test.png)
+![Adding a rock sprite](images/space-rock-sprite.png)
 
---- hints --- --- hint --- Als de **groene vlag is aangeklikt** zou de rots-sprite **stappen moeten nemen** en **herhaal** delijk moeten **omkeren aan de rand** van het speelveld. --- /hint --- --- hint --- Dit is de code die je nodig hebt: ![Blocks for a bouncing rock](images/space-bounce-blocks.png) Je kunt een interessantere manier gebruiken om de richting van de rots te bepalen met deze blokken:![Setting the rock's initial position](images/space-initial-position.png) --- /hint --- --- hint --- Dit is de code om de rots in het speelveld rond te laten stuiteren: ![Code for a bouncing rock](images/space-bounce-code.png) --- /hint --- --- /hints ---
+--- /task ---
+
+--- task --- Kan je code aan je steen-sprite toevoegen zodat die het speelveld rond stuitert?
+
+![Testing a bouncing rock](images/space-bounce-test.png)
+
+--- hints ---
+ --- hint --- Als de **groene vlag is aangeklikt** zou de rots-sprite **stappen moeten nemen** en **herhaal**delijk moeten **omkeren aan de rand** van het speelveld.
+--- /hint ---
+ --- hint --- Dit zijn de codeblokken die je nodig hebt:
+
+```blocks3
+neem (10) stappen
+
+keer om aan de rand
+
+wanneer groene vlag wordt aangeklikt
+
+herhaal
+```
+
+Je kunt ook een interessantere startrichting instellen voor de steen-sprite met één van deze blokken:
+
+```blocks3
+draai (15) graden naar rechts
+
+richt naar (Earth v)
+```
+
+--- /hint --- --- hint ---
+
+Met deze code kan je je steen het speelveld rond laten stuiteren:
+
+![Steen-sprite](images/sprite-rock.png)
+
+```blocks3
+wanneer groene vlag wordt aangeklikt
+richt naar (Earth v)
+herhaal 
+neem (2) stappen
+keer om aan de rand
+```
+
+--- /hint --- --- /hints --- --- /task ---
