@@ -14,9 +14,7 @@ Als je de Scratch offline editor wilt downloaden en installeren dan kan je die v
 
 --- /task ---
 
---- task --- 
-
-Voeg de 'Rocketship' en 'Earth' sprites toe aan je speelveld.
+--- task --- Voeg de 'Rocketship' en 'Earth' sprites toe aan je speelveld.
 
 ![Spaceship and Earth sprites](images/space-sprites.png)
 
@@ -24,33 +22,25 @@ Voeg de 'Rocketship' en 'Earth' sprites toe aan je speelveld.
 
 --- /task ---
 
---- task --- 
-
-Voeg de achtergrond 'Stars' toe aan je speelveld.
+--- task --- Voeg de achtergrond 'Stars' toe aan je speelveld.
 
 ![A space backdrop](images/space-backdrop.png)
 
 --- /task ---
 
---- task--- 
-
-Klik eerst op de sprite van je ruimteschip, en klik dan op de tab **Uiterlijken**.
+--- task--- Klik eerst op de sprite van je ruimteschip, en klik dan op de tab **Uiterlijken**.
 
 ![Sprite costume](images/space-costume.png)
 
 --- /task ---
 
---- task --- 
-
-Gebruik het **pijl**-gereedschap om het hele ruimteschip te selecteren. Doe dit door te klikken en een rechthoek te slepen rond het ruimteschip. Klik daarna op het ronde **draai**-handvat, en draai de afbeelding tot die op zijn kant ligt.
+--- task --- Gebruik het **pijl**-gereedschap om het hele ruimteschip te selecteren. Doe dit door te klikken en een rechthoek te slepen rond het ruimteschip. Klik daarna op het ronde **draai**-handvat, en draai de afbeelding tot die op zijn kant ligt.
 
 ![Rotating a costume](images/space-rotate.png)
 
 --- /task ---
 
---- task ---
-
-Voeg deze code toe aan de sprite van je ruimteschip:
+--- task --- Voeg deze code toe aan de sprite van je ruimteschip:
 
 ![Ruimteschip sprite](images/sprite-spaceship.png)
 

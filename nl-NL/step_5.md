@@ -2,9 +2,7 @@
 
 Nu zal je aan je animatie een aap toevoegen die verdwaald is in de ruimte!
 
---- task --- 
-
-Begin met het toevoegen van de 'Monkey'-sprite uit de bibliotheek.
+--- task --- Begin met het toevoegen van de 'Monkey'-sprite uit de bibliotheek.
 
 ![Adding a monkey sprite](images/space-monkey-sprite.png)
 
@@ -12,30 +10,24 @@ Begin met het toevoegen van de 'Monkey'-sprite uit de bibliotheek.
 
 Klik op de nieuwe aap-sprite en daarna op **Uiterlijken** om het uiterlijk van de aap aan te passen.
 
---- task --- 
+--- task --- Stel een doorzichtige vulling in door de rode lijn te selecteren. Stel een witte omtrek in door de Verzadiging naar `0` te schuiven.
 
-Stel een doorzichtige vulling in door de rode lijn te selecteren. Stel een witte omtrek in door de Verzadiging naar `0` te schuiven.
+![Witte kleur instellen](images/make-white.png) --- /task ---
 
-![Witte kleur instellen](images/make-white.png) 
-
---- /task ---
-
---- task --- 
-
-Klik op het **Cirkel** gereedschap en teken er een witte ruimtehelm mee rond het hoofd van de aap.
+--- task --- Klik op het **Cirkel** gereedschap en teken er een witte ruimtehelm mee rond het hoofd van de aap.
 
 ![Monkey space helmet](images/space-monkey-edit.png)
 
 --- /task ---
 
---- task --- 
+--- task --- Kan je code toevoegen aan de aap-sprite zodat die de hele tijd langzaam ronddraait?
 
-Kan je code toevoegen aan de aap-sprite zodat die de hele tijd langzaam ronddraait?
+--- hints ---
+ --- hint ---
 
---- collapse ---
----
-title: Wanneer de **groene vlag wordt aangeklikt** zou je aap-sprite **herhaal** delijk in een rondje moeten blijven **draai** en.
----
+Wanneer de **groene vlag wordt aangeklikt** zou je aap-sprite **herhaal**delijk in een rondje moeten blijven **draai** en.
+
+--- /hint --- --- hint ---
 
 Dit zijn de codeblokken die je nodig hebt:
 
@@ -48,6 +40,8 @@ draai (15) graden naar rechts
 wanneer groene vlag wordt aangeklikt
 ```
 
+--- /hint --- --- hint ---
+
 Dit is de code om je aap te laten ronddraaien:
 
 ![Aap-sprite](images/sprite-monkey.png)
@@ -58,7 +52,7 @@ herhaal
 draai (1) graden naar rechts
 ```
 
---- /collapse ---
+--- /hint --- --- /hints ---
 
 --- /task ---
 

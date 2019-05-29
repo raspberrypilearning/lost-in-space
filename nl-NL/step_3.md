@@ -1,4 +1,4 @@
-## Uitdaging: je animatie verbeteren
+## Een ruimteschip animeren
 
 Kan je de getallen in je animatiecode wijzigen, zodat:
 

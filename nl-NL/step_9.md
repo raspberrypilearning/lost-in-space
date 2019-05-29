@@ -16,3 +16,9 @@ Probeer het [Spokenjagers](https://projects.raspberrypi.org/nl-NL/projects/ghost
 ![showcase](images/ghostbusters-static.png)
 
 --- /print-only ---
+
+Door de community geleverde vertaling
+
+Dit project werd vertaald door David de Reu en gecontroleerd door Robert-Jan Kempenaar.
+
+Onze geweldige vertalers helpen ons om kinderen over de hele wereld de kans te geven te leren coderen. Jij kunt ons helpen nog meer kinderen te bereiken door onze projecten te vertalen - lees meer op [rpf.io/translators](https://rpf.io/translators).

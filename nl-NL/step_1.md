@@ -10,8 +10,7 @@ Je gaat leren hoe je je eigen animatie kunt programmeren!
 
 ### Wat je gaat maken
 
---- no-print --- 
-Klik op de groene vlag om de animatie te zien.
+--- no-print --- Klik op de groene vlag om de animatie te zien.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -60,7 +59,7 @@ title: Wat ga je leren
 title: Aanvullende informatie voor docenten
 ---
 
-Als je dit project wilt afdrukken, gebruik dan de [printvriendelijke versie](https://projects.raspberrypi.org/nl-NL/projects/lost-in-space/print){:target="_ blank"}.
+Als je dit project wilt afdrukken, gebruik dan de [printvriendelijke versie](https://projects.raspberrypi.org/nl-NL/projects/lost-in-space/print){:target="_blank"}.
 
 [Hier is een link naar de oplossing voor dit project](http://rpf.io/p/nl-NL/lost-in-space-get){:target="_blank"}.
 
