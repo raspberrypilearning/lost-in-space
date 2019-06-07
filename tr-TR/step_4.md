@@ -19,72 +19,101 @@ noktaya (Dünya v)
 
 \--- /task \---
 
-\--- görev \--- Uzay geminizi Dünya'ya taşımak için `tekrar`{: class = "block3control"} bloğu kullanabilir misiniz?
+\--- task \--- Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
 
 ![Bir uzay gemisi animasyonunu test etme](images/space-animate-stage.png)
 
-\--- ipuçları \--- \--- ipucu \---
-
-Yerine **kayma**, sizin uzay gemisi gerektiği **arka arkaya** **hareket** Bir seferde birkaç adım.
-
-\--- / hint \--- \--- hint \--- İhtiyacınız olan kod blokları:
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-hareket (10) adım
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
 
-tekrarla (10)
++ repeat (200)
+    move (2) steps
 ```
 
-\--- / hint \--- \--- hint \--- İşte uzay geminizi canlandırmanın kodu: ![Uzay gemisi sprite](images/sprite-spaceship.png)
-
-```blocks3
-Bayrak tıklandığında
-yönde noktası (0)
-x gidin: (- 150), y (- 150),
-(2) saniye [Gidelim] demek
-(toprak v) doğru alanına
-tekrar (200)
-    hareket (2) adım
-```
-
-Uzay gemisi hala Dünya'ya geldiği sürece `tekrar`{: class = "block3control"} ve `move`{: class = "block3motion"} bloklarında farklı sayılar kullanabilirsiniz \--- / ipucu \--- \--- / ipuçları \---
-
-Kodunuzu test edin ve kaydedin. Uzay geminiz Dünya'ya tam olarak önceki gibi hareket etmelidir, ancak bu sefer `tekrarı`{: class = "block3control"} bloğu kullanır.
+Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
 
 \--- /task \---
 
-\--- görev \--- Uzay gemisi sprite kodunu ekleyerek uzay gemisinin Dünya'ya doğru hareket ederken rengini değiştirmesini sağlayabilir misiniz?
+\--- task \--- Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
 
-Bu bloğu kullan:
+Use this block:
+
+![Spaceship sprite](images/sprite-spaceship.png)
+
+```blocks3
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
+
++    change [color v] effect by (25)
+```
+
+Test and save your code.
+
+![Testing a colour-changing spaceship](images/space-colour-test.png)
+
+\--- /task \---
+
+\--- task \--- Can you make your spaceship get smaller as it moves towards Earth?
+
+\--- hints \---
+
+\--- hint \---
+
+Your spaceship should start at `100% size`{:class="blocklooks"}, and then `change size`{:class="blocklooks"} by a small amount each time it moves.
+
+\--- /hint \---
+
+\--- hint \---
+
+You will need to add these blocks to your code:
 
 ![Uzay gemisi sprite](images/sprite-spaceship.png)
 
 ```blocks3
-[color v] etkisini değiştirerek (25)
+change size by (10)
+
+set size to (100) %
 ```
 
-Kodunuzu test edin ve kaydedin.
+\--- /hint \---
 
-![Renk değiştiren bir uzay gemisinin test edilmesi](images/space-colour-test.png)
+\--- hint \---
 
-\--- /task \---
+Your code should look like this:
 
-\--- görev \--- Uzay geminizi Dünya'ya doğru hareket ettikçe küçültebilir misiniz?
-
-İşletme uzay başlamalıdır **100% büyüklüğü**ve **boyut değiştirme** küçük bir miktar her zaman daha hareket eder.
-
-Bu blokları kullanın:
-
-![Uzay gemisi sprite](images/sprite-spaceship.png)
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-beden büyüklüğü (10)
+when flag clicked
+set size to (100) %
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
+    change [color v] effect by (25)
 
-set büyüklüğü (100)%
++   change size by (-3)
 ```
+
+\--- /hint \---
+
+\--- /hints \---
 
 \--- /task \---
 
-Kodunuzu test edin ve kaydedin. Uzay geminiz şimdi ilerledikçe küçülmelidir. Uzay geminizi **saniye test edin**. Başladığı zaman doğru boyutta mı?
+Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
 
-![Daralan bir uzay gemisinin test edilmesi](images/space-size-test.png)
+![Testing a shrinking spaceship](images/space-size-test.png)
