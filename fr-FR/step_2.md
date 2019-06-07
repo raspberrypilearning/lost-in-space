@@ -6,7 +6,7 @@ Ton premier pas sera de créer un vaisseau spatial qui vole vers la Terre!
 
 Ouvre un nouveau projet Scratch.
 
-**En ligne:** ouvre un nouveau projet Scratch en ligne à [rpf.io/scratchon](http://rpf.io/scratchon){: target = "_ blank"}.
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
 
 **Hors ligne:** ouvre un nouveau projet dans l'éditeur hors ligne.
 
