@@ -18,72 +18,101 @@ richt naar (Earth v)
 
 \--- /task \---
 
-\--- task \--- Kun je een `herhaal`{:class="block3control"} blok gebruiken om je ruimteschip naar de aarde te bewegen?
+\--- task \--- Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
 
 ![Testing a spaceship animation](images/space-animate-stage.png)
 
-\--- hints \--- \--- hint \---
-
-In plaats van te **schuiven** kun je het ruimteschip met **herhaal**- en **neem .. stappen**-blokken steeds een paar stapjes laten bewegen.
-
-\--- /hint \--- \--- hint \--- Dit zijn de codeblokken die je nodig hebt:
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-neem (10) stappen
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
 
-herhaal (10) keer
++ repeat (200)
+    move (2) steps
 ```
 
-\--- /hint \--- \--- hint \--- Hier is de code om je ruimteschip te animeren: ![Ruimteschip sprite](images/sprite-spaceship.png)
-
-```blocks3
-wanneer groene vlag wordt aangeklikt
-richt naar (0) graden
-ga naar x: (-150) y: (-150)
-zeg [We gaan!] (2) sec.
-richt naar (Earth v)
-herhaal (200)
-neem (2) stappen
-```
-
-Je mag verschillende getallen gebruiken in de `herhaal`{:class="block3control"}- en `neem .. stappen`{:class="block3motion"}-blokken, zolang het ruimteschip maar naar de aarde gaat! \--- /hint \--- \--- /hints \---
-
-Test en bewaar je code. Je ruimteschip zou nog steeds naar de aarde moeten bewegen, maar nu met een `herhaal`{:class="block3control"}-blok.
+Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
 
 \--- /task \---
 
-\--- task \--- Kun je code aan je ruimteschip-sprite toevoegen, zodat het ruimteschip van kleur verandert terwijl het naar de aarde beweegt?
+\--- task \--- Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
 
-Gebruik dit blok:
+Use this block:
 
-![Ruimteschip sprite](images/sprite-spaceship.png)
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-verander [kleur v] -effect met (25)
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
+
++    change [color v] effect by (25)
 ```
 
-Test en sla je code op.
+Test and save your code.
 
 ![Testing a colour-changing spaceship](images/space-colour-test.png)
 
 \--- /task \---
 
-\--- task \--- Kan je je ruimteschip kleiner maken naarmate het dichter naar de aarde toe beweegt?
+\--- task \--- Can you make your spaceship get smaller as it moves towards Earth?
 
-Je ruimteschip zou op **100% grootte** moeten beginnen en dan met **verander grootte** kleine beetjes moeten verkleinen terwijl het beweegt.
+\--- hints \---
 
-Gebruik deze blokken:
+\--- hint \---
+
+Your spaceship should start at `100% size`{:class="blocklooks"}, and then `change size`{:class="blocklooks"} by a small amount each time it moves.
+
+\--- /hint \---
+
+\--- hint \---
+
+You will need to add these blocks to your code:
 
 ![Ruimteschip sprite](images/sprite-spaceship.png)
 
 ```blocks3
-verander grootte met (10)
+change size by (10)
 
-maak grootte (100) %
+set size to (100) %
 ```
+
+\--- /hint \---
+
+\--- hint \---
+
+Your code should look like this:
+
+![Spaceship sprite](images/sprite-spaceship.png)
+
+```blocks3
+when flag clicked
+set size to (100) %
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
+    change [color v] effect by (25)
+
++   change size by (-3)
+```
+
+\--- /hint \---
+
+\--- /hints \---
 
 \--- /task \---
 
-Test en bewaar je code. Je ruimteschip zou nu kleiner moeten worden als het beweegt. Test je ruimteschip een **tweede keer**. Heeft het de juiste grootte bij het begin?
+Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
 
 ![Testing a shrinking spaceship](images/space-size-test.png)
