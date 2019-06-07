@@ -31,15 +31,15 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 ### Hardware
 
-+ Una computadora capaz de hacer correr Scratch 3
+- Una computadora capaz de hacer correr Scratch 3
 
 ### Software
 
-+ Scratch 3 (ya sea [online](http://rpf.io/scratchon){:target="_blank"} u [offline](http://rpf.io/scratchoff) {:target="_blank"})
+- Scratch 3 (ya sea [online](http://rpf.io/scratchon){:target="_blank"} u [offline](http://rpf.io/scratchoff) {:target="_blank"})
 
 ### Descargas
 
-+ None
+- None
 
 \--- /collapse \---
 
@@ -47,8 +47,9 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 ## title: Lo que aprenderás
 
-+ Animate a sprite using a loop
-+ Change the appearance of a sprite
+- Use a repeat loop to animate a sprite in Scratch
+- Use a forever loop to repeat an animation indefinately
+- Understand that loops can be nested within each other
 
 \--- /collapse \---
 
