@@ -31,15 +31,15 @@ Anda akan belajar cara memprogram animasi Anda sendiri!
 
 ### Perangkat Keras
 
-+ Komputer yang mampu menjalankan Scratch 3
+- Komputer yang mampu menjalankan Scratch 3
 
 ### Perangkat Lunak
 
-+ Scratch 3 (baik [online](http://rpf.io/scratchon){:target="_blank"} atau [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (baik [online](http://rpf.io/scratchon){:target="_blank"} atau [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 ### Unduhan
 
-+ Tidak ada
+- Tidak ada
 
 \--- /menggulung \---
 
@@ -47,8 +47,9 @@ Anda akan belajar cara memprogram animasi Anda sendiri!
 
 ## title: Apa yang akan kamu pelajari
 
-+ Buat animasi sprite menggunakan loop
-+ Ubah penampilan sprite
+- Use a repeat loop to animate a sprite in Scratch
+- Use a forever loop to repeat an animation indefinately
+- Understand that loops can be nested within each other
 
 \--- /menggulung \---
 
