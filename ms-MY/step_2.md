@@ -6,7 +6,7 @@ Langkah pertama anda adalah untuk membuat kapal angkasa yang terbang ke Bumi!
 
 Buka projek Scratch baru.
 
-**Online:** buka projek Scratch talian baru di [rpf.io/scratchon](http://rpf.io/scratchon){: target = "_ blank"}.
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
 
 **Luar talian:** buka projek baru dalam editor luar talian.
 
