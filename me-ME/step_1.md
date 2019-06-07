@@ -31,15 +31,15 @@ Naučićeš kako da programiraš sopstvenu animaciju!
 
 ### Hardver
 
-+ Računar koji može da pokrene Scratch 3
+- Računar koji može da pokrene Scratch 3
 
 ### Softver
 
-+ Scratch 3 ([online](http://rpf.io/scratchon){:target="_blank"} ili [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 ([online](http://rpf.io/scratchon){:target="_blank"} ili [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 ### Downloads
 
-+ None
+- None
 
 \--- /collapse \---
 
@@ -47,8 +47,9 @@ Naučićeš kako da programiraš sopstvenu animaciju!
 
 ## title: Šta ćeš naučiti
 
-+ Animate a sprite using a loop
-+ Change the appearance of a sprite
+- Use a repeat loop to animate a sprite in Scratch
+- Use a forever loop to repeat an animation indefinately
+- Understand that loops can be nested within each other
 
 \--- /collapse \---
 
