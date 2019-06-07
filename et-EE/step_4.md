@@ -18,72 +18,101 @@ punkti (Maa v) suunas
 
 \--- / ülesanne \---
 
-\--- ülesanne - Kas sa kasutad `kordset`{: class = "block3control"} plokki oma kosmoselaeva liikumiseks Maa poole?
+\--- task \--- Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
 
 ![Kosmoselaeva animatsiooni katsetamine](images/space-animate-stage.png)
 
-\--- hints \--- \--- vihje \---
-
-**libisemise**asemel peaks kosmoselaev **korduvalt** **liikuma** paar sammu korraga.
-
-\--- / vihje \--- \--- vihje \--- Siin on vajalikud koodiplokid:
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-liiguta (10) samme
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
 
-korrata (10)
++ repeat (200)
+    move (2) steps
 ```
 
-\--- / vihje \--- \--- vihje \--- Siin on kood kosmoselaeva animeerimiseks: ![Kosmoselaeva spriit](images/sprite-spaceship.png)
+Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
+
+\--- /task \---
+
+\--- task \--- Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
+
+Use this block:
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-kui lipp klõpsas
-punkti suunas (0)
-minge x: (- 150) y: (- 150)
-öelge [Lähme] (2) sekundiks
-punkti (Maa v)
-kordus (200)
-    liikumine (2) sammud
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
+
++    change [color v] effect by (25)
 ```
 
-`korduses`{: class = "block3control"} ja `liikuda`{: class = "block3motion"} saab kasutada erinevaid numbreid, kui kosmoselaev ikka saab Maa peale! \--- / vihje \--- \--- / vihjed \---
+Test and save your code.
 
-Testige ja salvestage oma kood. Teie kosmoselaev peaks liikuma Maa poole täpselt nii nagu enne, kuid seekord kasutab see `kordust`{: class = "block3control"} plokki.
+![Testing a colour-changing spaceship](images/space-colour-test.png)
 
-\--- / ülesanne \---
+\--- /task \---
 
-\--- ülesanne - Kas sa saad oma kosmoselaevale lisada koodi, nii et kosmoselaev muudab värvi, kui see liigub Maa poole?
+\--- task \--- Can you make your spaceship get smaller as it moves towards Earth?
 
-Kasutage seda plokki:
+\--- hints \---
+
+\--- hint \---
+
+Your spaceship should start at `100% size`{:class="blocklooks"}, and then `change size`{:class="blocklooks"} by a small amount each time it moves.
+
+\--- /hint \---
+
+\--- hint \---
+
+You will need to add these blocks to your code:
 
 ![Kosmoselaeva spriit](images/sprite-spaceship.png)
 
 ```blocks3
-muuta [värvi v] mõju (25)
+change size by (10)
+
+set size to (100) %
 ```
 
-Testige ja salvestage oma kood.
+\--- /hint \---
 
-![Värvivahetava kosmoselaeva katsetamine](images/space-colour-test.png)
+\--- hint \---
 
-\--- / ülesanne \---
+Your code should look like this:
 
-\--- ülesanne - Kas sa saad muuta oma kosmoselaeva väiksemaks, kui ta liigub Maa poole?
-
-Teie kosmoselaev peaks algama **100% suurus**, ja siis **muutus suurus** väike summa iga kord, kui see liigub.
-
-Kasutage neid plokke:
-
-![Kosmoselaeva spriit](images/sprite-spaceship.png)
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-muutke suurust (10)
+when flag clicked
+set size to (100) %
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
+    change [color v] effect by (25)
 
-määratud suuruseks (100)%
++   change size by (-3)
 ```
 
-\--- / ülesanne \---
+\--- /hint \---
 
-Testige ja salvestage oma kood. Teie kosmoselaev peaks nüüd liigutades väiksemaks muutuma. Testi oma kosmoselaeva **sekundit**. Kas see on õige suurusega, kui see algab?
+\--- /hints \---
 
-![Väheneva kosmoselaeva katsetamine](images/space-size-test.png)
+\--- /task \---
+
+Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
+
+![Testing a shrinking spaceship](images/space-size-test.png)
