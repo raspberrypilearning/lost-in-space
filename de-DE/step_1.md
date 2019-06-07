@@ -31,15 +31,15 @@ Du wirst lernen, deine eigene Animation zu programmieren!
 
 ### Hardware
 
-+ Ein Computer, auf dem Scratch 3 ausgeführt werden kann
+- Ein Computer, auf dem Scratch 3 ausgeführt werden kann
 
 ### Software
 
-+ Scratch 3 (entweder [online](http://rpf.io/scratchon){:target="_blank"} oder [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (entweder [online](http://rpf.io/scratchon){:target="_blank"} oder [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 ### Downloads
 
-+ None
+- None
 
 \--- /collapse \---
 
@@ -47,8 +47,9 @@ Du wirst lernen, deine eigene Animation zu programmieren!
 
 ## title: Was du lernen wirst
 
-+ Animate a sprite using a loop
-+ Change the appearance of a sprite
+- Use a repeat loop to animate a sprite in Scratch
+- Use a forever loop to repeat an animation indefinately
+- Understand that loops can be nested within each other
 
 \--- /collapse \---
 
