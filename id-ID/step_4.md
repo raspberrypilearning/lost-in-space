@@ -18,72 +18,101 @@ titik menuju (Earth v)
 
 \--- /task \---
 
-\--- task \--- Bisakah Anda menggunakan blok `repeat`{: class = "block3control"} untuk memindahkan pesawat ruang angkasa Anda menuju Bumi?
+\--- task \--- Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
 
 ![Menguji animasi pesawat luar angkasa](images/space-animate-stage.png)
 
-\--- petunjuk \--- \--- petunjuk \---
-
-Alih-alih **meluncur**, pesawat ruang angkasa Anda harus **berulang kali** **bergerak** beberapa langkah sekaligus.
-
-\--- / hint \--- \--- hint \--- Ini adalah blok kode yang Anda butuhkan:
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-bergerak (10) langkah
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
 
-ulangi (10)
++ repeat (200)
+    move (2) steps
 ```
 
-\--- / hint \--- \--- hint \--- Ini adalah kode untuk menghidupkan pesawat ruang angkasa Anda: ![Sprite pesawat ruang angkasa](images/sprite-spaceship.png)
+Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
+
+\--- /task \---
+
+\--- task \--- Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
+
+Use this block:
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-ketika bendera diklik
-titik ke arah (0)
-pergi ke x: (- 150) y: (- 150)
-katakan [Ayo pergi] selama (2) detik
-titik menuju (Bumi v)
-ulangi (200)
-    bergerak (2) langkah-langkah
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
+
++    change [color v] effect by (25)
 ```
 
-Anda dapat menggunakan angka berbeda dalam `repeat`{: class = "block3control"} dan `move`{: class = "block3motion"} blok, selama pesawat ruang angkasa masih sampai ke Bumi! \--- /hint \--- \--- /hints \---
+Test and save your code.
 
-Uji dan simpan kode Anda. Pesawat luar angkasa Anda harus bergerak ke bumi persis seperti sebelumnya, tetapi kali ini menggunakan blok `repeat`{: class = "block3control"}.
+![Testing a colour-changing spaceship](images/space-colour-test.png)
 
-\--- /tugas \---
+\--- /task \---
 
-\--- task \--- Bisakah Anda menambahkan kode ke sprite spaceship Anda sehingga spaceship berubah warna saat bergerak menuju Bumi?
+\--- task \--- Can you make your spaceship get smaller as it moves towards Earth?
 
-Gunakan blok ini:
+\--- hints \---
+
+\--- hint \---
+
+Your spaceship should start at `100% size`{:class="blocklooks"}, and then `change size`{:class="blocklooks"} by a small amount each time it moves.
+
+\--- /hint \---
+
+\--- hint \---
+
+You will need to add these blocks to your code:
 
 ![Sprite pesawat ruang angkasa](images/sprite-spaceship.png)
 
 ```blocks3
-ubah efek [warna v] oleh (25)
+change size by (10)
+
+set size to (100) %
 ```
 
-Uji dan simpan kode Anda.
+\--- /hint \---
 
-![Menguji pesawat ruang angkasa yang berubah warna](images/space-colour-test.png)
+\--- hint \---
 
-\--- /task \---
+Your code should look like this:
 
-\--- task \--- Bisakah Anda membuat pesawat ruang angkasa Anda menjadi lebih kecil saat bergerak menuju Bumi?
-
-Pesawat luar angkasa Anda harus mulai dari **100% ukuran**, dan kemudian **ubah ukuran** dengan jumlah kecil setiap kali bergerak.
-
-Gunakan blok ini:
-
-![Sprite pesawat ruang angkasa](images/sprite-spaceship.png)
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-ubah ukuran sebelum (10)
+when flag clicked
+set size to (100) %
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
+    change [color v] effect by (25)
 
-atur ukuran ke (100)%
++   change size by (-3)
 ```
+
+\--- /hint \---
+
+\--- /hints \---
 
 \--- /task \---
 
-Uji dan simpan kode Anda. Pesawat luar angkasa Anda sekarang seharusnya menjadi lebih kecil saat bergerak. Uji pesawat ruang angkasa Anda **waktu kedua**. Apakah ukurannya tepat ketika dimulai?
+Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
 
-![Menguji pesawat ruang angkasa yang menyusut](images/space-size-test.png)
+![Testing a shrinking spaceship](images/space-size-test.png)
