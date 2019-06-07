@@ -55,7 +55,7 @@ Você vai aprender a programar sua própria animação!
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## informações adicionais para educadores
 
 Se você precisar imprimir este projeto, por favor use a [versão para impressão](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
