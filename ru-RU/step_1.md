@@ -31,15 +31,15 @@
 
 ### аппаратные средства
 
-+ Компьютер с поддержкой Scratch 3
+- Компьютер с поддержкой Scratch 3
 
 ### Программного обеспечения
 
-+ Царапина 3 (либо [онлайн](http://rpf.io/scratchon){: target = "_ blank"} или [offline](http://rpf.io/scratchoff){: target = "_ blank"})
+- Царапина 3 (либо [онлайн](http://rpf.io/scratchon){: target = "_ blank"} или [offline](http://rpf.io/scratchoff){: target = "_ blank"})
 
 ### Загрузки
 
-+ Никто
+- Никто
 
 \--- / свернуть \---
 
@@ -47,8 +47,9 @@
 
 ## title: Что вы выучите
 
-+ Анимировать спрайт с помощью цикла
-+ Изменить внешний вид спрайта
+- Use a repeat loop to animate a sprite in Scratch
+- Use a forever loop to repeat an animation indefinately
+- Understand that loops can be nested within each other
 
 \--- / свернуть \---
 
