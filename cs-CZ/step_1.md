@@ -31,15 +31,15 @@ Nyní se naučíš programovat vlastní animace!
 
 ### Hardware
 
-+ Počítač schopný spustit aplikaci Scratch 3
+- Počítač schopný spustit aplikaci Scratch 3
 
 ### Software
 
-+ Scratch 3 (buď [online](http://rpf.io/scratchon){:target="_blank"} nebo [offline](http://rpf.io/scratchoff){:target="_blank"} verzi"})
+- Scratch 3 (buď [online](http://rpf.io/scratchon){:target="_blank"} nebo [offline](http://rpf.io/scratchoff){:target="_blank"} verzi"})
 
 ### Downloads
 
-+ None
+- None
 
 \--- /collapse \---
 
@@ -47,8 +47,9 @@ Nyní se naučíš programovat vlastní animace!
 
 ## title: Co se naučíte
 
-+ Animate a sprite using a loop
-+ Change the appearance of a sprite
+- Use a repeat loop to animate a sprite in Scratch
+- Use a forever loop to repeat an animation indefinately
+- Understand that loops can be nested within each other
 
 \--- /collapse \---
 
