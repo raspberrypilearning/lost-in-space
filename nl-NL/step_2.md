@@ -6,7 +6,7 @@ Laten we beginnen met een ruimteschip te maken dat naar de aarde vliegt!
 
 Open een nieuw Scratch project.
 
-**Online:** open een nieuw online Scratch project op [rpf.io/scratchon](http://rpf.io/scratchon){:target="_blank"}.
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
 
 **Offline:** open een nieuw project in de offline editor.
 
