@@ -6,7 +6,7 @@ Langkah pertama Anda adalah membuat pesawat ruang angkasa yang terbang menuju Bu
 
 Buka proyek Scratch baru.
 
-** Online: ** buka proyek Scratch online baru di [ rpf.io/scratchon ](http://rpf.io/scratchon) {: target = "_ blank"}.
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
 
 ** Offline: ** buka proyek baru di editor offline.
 
