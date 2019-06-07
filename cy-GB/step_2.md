@@ -6,7 +6,7 @@ Y cam cyntaf fydd creu llong ofod sy'n hedfan tuag at y Ddaear!
 
 Agor prosiect Scratch newydd.
 
-**Arlein:** agora brosiect Scratch newydd yma [rpf.io/scratchon](http://rpf.io/scratchon){:target="_blank"}.
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
 
 **All-lein** agora brosiect newydd yn y golygydd all-lein.
 
