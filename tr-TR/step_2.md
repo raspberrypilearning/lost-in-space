@@ -6,7 +6,7 @@
 
 Yeni bir Scratch projesi açın.
 
-**Çevrimiçi:** Çevrimiçi yeni bir Scratch projesi açmak için [rpf.io/scratchon](http://rpf.io/scratchon){:target="_blank"} adresine gidin.
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
 
 **Çevrimdışı:** Çevrimdışı Düzenleyicide yeni bir proje açın.
 
