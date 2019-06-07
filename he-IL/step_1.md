@@ -31,15 +31,15 @@
 
 ### חומרה
 
-+ מחשב המסוגל להריץ סקראטץ 3
+- מחשב המסוגל להריץ סקראטץ 3
 
 ### תוכנה
 
-+ Scratch 3 (או [ מקוון ](http://rpf.io/scratchon) {:target="_blank"} או [ במצב לא מקוון ](http://rpf.io/scratchoff) {:target="_blank"})
+- Scratch 3 (או [ מקוון ](http://rpf.io/scratchon) {:target="_blank"} או [ במצב לא מקוון ](http://rpf.io/scratchoff) {:target="_blank"})
 
 ### הורדות
 
-+ לא צריך
+- לא צריך
 
 \--- /collapse \---
 
@@ -47,8 +47,9 @@
 
 ## title: מה תלמד
 
-+ הנפשת דמות באמצעות לולאה
-+ לשנות את המראה של דמות
+- Use a repeat loop to animate a sprite in Scratch
+- Use a forever loop to repeat an animation indefinately
+- Understand that loops can be nested within each other
 
 \--- /collapse \---
 
