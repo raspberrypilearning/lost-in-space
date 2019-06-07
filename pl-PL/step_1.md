@@ -31,15 +31,15 @@ W tym projekcie nauczysz się jak programować własne animacje!
 
 ### Sprzęt
 
-+ Komputer, na którym można uruchomić Scratch 3
+- Komputer, na którym można uruchomić Scratch 3
 
 ### Oprogramowanie
 
-+ Scratch 3 ([online](http://rpf.io/scratchon){:target="_blank"} lub [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 ([online](http://rpf.io/scratchon){:target="_blank"} lub [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 ### Pobrane
 
-+ Żaden
+- Żaden
 
 \--- /collapse \---
 
@@ -47,8 +47,9 @@ W tym projekcie nauczysz się jak programować własne animacje!
 
 ## title: Czego się nauczysz
 
-+ Animuj duszka za pomocą pętli
-+ Zmień wygląd duszka
+- Use a repeat loop to animate a sprite in Scratch
+- Use a forever loop to repeat an animation indefinately
+- Understand that loops can be nested within each other
 
 \--- /collapse \---
 
