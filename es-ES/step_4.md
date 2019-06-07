@@ -59,7 +59,7 @@ repeat (200)
 
 Test and save your code.
 
-![Testing a colour-changing spaceship](images/space-colour-test.png)
+![Probando una nave espacial que cambia de color](images/space-colour-test.png)
 
 \--- /task \---
 
@@ -89,7 +89,7 @@ set size to (100) %
 
 \--- hint \---
 
-Your code should look like this:
+Su código debe parecerse a esto:
 
 ![Spaceship sprite](images/sprite-spaceship.png)
 
@@ -115,4 +115,4 @@ repeat (200)
 
 Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
 
-![Testing a shrinking spaceship](images/space-size-test.png)
+![Probando una nave espacial que cambia de tamaño](images/space-size-test.png)
