@@ -31,15 +31,15 @@ Tu vas apprendre à programmer ta propre animation!
 
 ### Matériel informatique
 
-+ Un ordinateur capable d'exécuter Scratch 3
+- Un ordinateur capable d'exécuter Scratch 3
 
 ### Logiciel
 
-+ Scratch 3 ([en ligne](http://rpf.io/scratchon){:target="_blank"} ou [hors ligne](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 ([en ligne](http://rpf.io/scratchon){:target="_blank"} ou [hors ligne](http://rpf.io/scratchoff){:target="_blank"})
 
 ### Téléchargements
 
-+ Aucun
+- Aucun
 
 \--- /collapse \---
 
@@ -47,8 +47,9 @@ Tu vas apprendre à programmer ta propre animation!
 
 ## title: Ce que tu vas apprendre
 
-+ Animer un lutin à l'aide d'une boucle
-+ Changer l'apparence d'un lutin
+- Use a repeat loop to animate a sprite in Scratch
+- Use a forever loop to repeat an animation indefinately
+- Understand that loops can be nested within each other
 
 \--- /collapse \---
 
