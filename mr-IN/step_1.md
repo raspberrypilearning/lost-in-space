@@ -31,15 +31,15 @@
 
 ### हार्डवेअर
 
-+ स्क्रॅच 3 चालवण्यास सक्षम असलेले संगणक
+- स्क्रॅच 3 चालवण्यास सक्षम असलेले संगणक
 
 ### सॉफ्टवेअर
 
-+ स्क्रॅच 3 (एकतर [ऑनलाइन](http://rpf.io/scratchon){: लक्ष्य = "_ रिक्त"} किंवा [ऑफलाइन](http://rpf.io/scratchoff){: लक्ष्य = "_ blank"})
+- स्क्रॅच 3 (एकतर [ऑनलाइन](http://rpf.io/scratchon){: लक्ष्य = "_ रिक्त"} किंवा [ऑफलाइन](http://rpf.io/scratchoff){: लक्ष्य = "_ blank"})
 
 ### डाउनलोड्स
 
-+ काहीही नाही
+- काहीही नाही
 
 \--- / संकुचित \---
 
@@ -47,8 +47,9 @@
 
 ## शीर्षकः आपण काय शिकलात
 
-+ लूप वापरुन स्प्राइटचे अॅनिमेट करा
-+ एक स्प्राइट च्या देखावा बदला
+- Use a repeat loop to animate a sprite in Scratch
+- Use a forever loop to repeat an animation indefinately
+- Understand that loops can be nested within each other
 
 \--- / संकुचित \---
 
