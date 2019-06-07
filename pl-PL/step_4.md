@@ -18,72 +18,101 @@ punkty w kierunku (Ziemia v)
 
 \--- /task \---
 
-\--- task \--- Czy możesz użyć bloku `repeat`{: class = "block3control"}, aby przenieść swój statek kosmiczny w kierunku Ziemi?
+\--- task \--- Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
 
 ![Testowanie animacji statku kosmicznego](images/space-animate-stage.png)
 
-\--- hints \--- \--- hint \---
-
-Zamiast **przesuwania**, twój statek kosmiczny powinien **razy** **przesuwać** kilka kroków na raz.
-
-\--- / wskazówka \--- \--- podpowiedź \--- Oto potrzebne bloki kodu:
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-move (10) steps
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
 
-repeat (10)
++ repeat (200)
+    move (2) steps
 ```
 
-\--- / podpowiedź \--- \--- podpowiedź \--- Oto kod do animowania twojego statku kosmicznego: ![Spitehip sprite](images/sprite-spaceship.png)
-
-```blocks3
-kiedy flaga kliknęła
-punktów w kierunku (0)
-przejdź do x: (- 150) y: (- 150)
-powiedz [Chodźmy] na (2) sekundy
-punkty w kierunku (Ziemia v)
-powtórzenia (200)
-    ruchu (2) kroki
-```
-
-Możesz używać różnych liczb w blokach `repeat`{: class = "block3control"} i `move`{: class = "block3motion"}, o ile statek kosmiczny nadal dociera do Ziemi! \--- /hint \--- \--- /hints \---
-
-Przetestuj i zapisz swój kod. Twój statek kosmiczny powinien ruszyć w kierunku Ziemi dokładnie tak, jak poprzednio, ale tym razem użyje bloku `powtórzyć`{: class = "block3control"}.
+Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
 
 \--- /task \---
 
-\--- task \--- Czy możesz dodać kod do swojego duszka statku kosmicznego, aby statek kosmiczny zmieniał kolor w miarę zbliżania się do Ziemi?
+\--- task \--- Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
 
-Użyj tego bloku:
+Use this block:
+
+![Spaceship sprite](images/sprite-spaceship.png)
+
+```blocks3
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
+
++    change [color v] effect by (25)
+```
+
+Test and save your code.
+
+![Testing a colour-changing spaceship](images/space-colour-test.png)
+
+\--- /task \---
+
+\--- task \--- Can you make your spaceship get smaller as it moves towards Earth?
+
+\--- hints \---
+
+\--- hint \---
+
+Your spaceship should start at `100% size`{:class="blocklooks"}, and then `change size`{:class="blocklooks"} by a small amount each time it moves.
+
+\--- /hint \---
+
+\--- hint \---
+
+You will need to add these blocks to your code:
 
 ![Spitehip sprite](images/sprite-spaceship.png)
 
 ```blocks3
-zmienić efekt [kolor v] według (25)
+change size by (10)
+
+set size to (100) %
 ```
 
-Przetestuj i zapisz swój kod.
+\--- /hint \---
 
-![Testowanie statku kosmicznego zmieniającego kolor](images/space-colour-test.png)
+\--- hint \---
 
-\--- /task \---
+Your code should look like this:
 
-\--- task \--- Czy możesz zmusić swój statek kosmiczny do zmniejszania się, gdy porusza się w kierunku Ziemi?
-
-Twój statek kosmiczny powinien rozpoczynać się od **100% wielkości**, a następnie **zmieniać rozmiar** o niewielką kwotę za każdym razem, gdy się porusza.
-
-Użyj tych bloków:
-
-![Spitehip sprite](images/sprite-spaceship.png)
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-zmień rozmiar o (10)
+when flag clicked
+set size to (100) %
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
+    change [color v] effect by (25)
 
-ustaw rozmiar na (100)%
++   change size by (-3)
 ```
+
+\--- /hint \---
+
+\--- /hints \---
 
 \--- /task \---
 
-Przetestuj i zapisz swój kod. Twój statek kosmiczny powinien się teraz zmniejszać, gdy się porusza. Przetestuj swój statek kosmiczny do **raz drugi**. Czy to właściwy rozmiar, kiedy się zaczyna?
+Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
 
-![Testowanie kurczącego się statku kosmicznego](images/space-size-test.png)
+![Testing a shrinking spaceship](images/space-size-test.png)
