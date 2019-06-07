@@ -31,15 +31,15 @@ Bạn sẽ học cách lập trình hoạt hình của riêng bạn!
 
 ### Phần cứng
 
-+ Một máy tính có khả năng chạy Scratch 3
+- Một máy tính có khả năng chạy Scratch 3
 
 ### Phần mềm
 
-+ Cào 3 ( [trực tuyến](http://rpf.io/scratchon){: target = "_ blank"} hoặc [ngoại tuyến](http://rpf.io/scratchoff){: target = "_ blank"})
+- Cào 3 ( [trực tuyến](http://rpf.io/scratchon){: target = "_ blank"} hoặc [ngoại tuyến](http://rpf.io/scratchoff){: target = "_ blank"})
 
 ### Tải xuống
 
-+ không ai
+- không ai
 
 \--- /sự sụp đổ \---
 
@@ -47,8 +47,9 @@ Bạn sẽ học cách lập trình hoạt hình của riêng bạn!
 
 ## tiêu đề: bạn sẽ học được gì
 
-+ Làm sinh động một sprite bằng cách sử dụng một vòng lặp
-+ Thay đổi diện mạo của một sprite
+- Use a repeat loop to animate a sprite in Scratch
+- Use a forever loop to repeat an animation indefinately
+- Understand that loops can be nested within each other
 
 \--- /sự sụp đổ \---
 
