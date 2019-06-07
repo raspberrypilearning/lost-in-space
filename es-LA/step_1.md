@@ -31,15 +31,15 @@ Esta es la versión **Scratch 3** del proyecto. También existe una version [Scr
 
 ### Equipo
 
-+ Una computadora capáz de hacer funcionar el Scratch 3
+- Una computadora capáz de hacer funcionar el Scratch 3
 
 ### Programas
 
-+ Scratch 3 (ya sea [online](http://rpf.io/scratchon){:target="_blank"} u [offline](http://rpf.io/scratchoff) {:target="_blank"})
+- Scratch 3 (ya sea [online](http://rpf.io/scratchon){:target="_blank"} u [offline](http://rpf.io/scratchoff) {:target="_blank"})
 
 ### Descargas
 
-+ Ninguna
+- Ninguna
 
 \--- /collapse \---
 
@@ -47,8 +47,9 @@ Esta es la versión **Scratch 3** del proyecto. También existe una version [Scr
 
 ## title: Lo que aprenderás
 
-+ Animar un sprite utilizando un bucle
-+ Cambiar la apariencia de un sprite
+- Use a repeat loop to animate a sprite in Scratch
+- Use a forever loop to repeat an animation indefinately
+- Understand that loops can be nested within each other
 
 \--- /collapse \---
 
