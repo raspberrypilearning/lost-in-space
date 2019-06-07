@@ -18,72 +18,101 @@
 
 \--- /задатак \---
 
-\--- задатак \--- Можете ли користити блок `понављања`{: цласс = "блоцк3цонтрол"} за премјештање свемирског брода према Земљи?
+\--- task \--- Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
 
 ![Тестирање анимације свемирског брода](images/space-animate-stage.png)
 
-\--- хинтс \--- \--- хинт \---
-
-Уместо **клизећи**, ваш брод би **наврата** **покрету** неколико корака у исто време.
-
-\--- / хинт \--- \--- хинт \--- Овде су кодни блокови који су вам потребни:
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-помакни (10) кораци
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
 
-понови (10)
++ repeat (200)
+    move (2) steps
 ```
 
-\--- / хинт \--- \--- хинт \--- Ево кода за анимацију вашег свемирског брода: ![Спацесхип сприте](images/sprite-spaceship.png)
+Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
+
+\--- /task \---
+
+\--- task \--- Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
+
+Use this block:
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-када застава кликне
-тачку у смеру (0)
-иди на к: (- 150) и: (- 150)
-рећи [Идемо] за (2) секунде
-тачке ка (Еартх В)
-понављања (200)
-    покрет (2) кораци
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
+
++    change [color v] effect by (25)
 ```
 
-Можете користити различите бројеве у `понављања`{: цласс = "блоцк3цонтрол"} и `премјестити`{: цласс = "блоцк3мотион"} блокове, све док свемирски брод још увијек долази на Земљу! \--- / хинт \--- \--- / хинтс \---
+Test and save your code.
 
-Тестирајте и сачувајте свој код. Ваш свемирски брод би требало да се креће ка Земљи точно онако како је раније био, али овај пут користи блок `понављања`:
+![Testing a colour-changing spaceship](images/space-colour-test.png)
 
-\--- /задатак \---
+\--- /task \---
 
-\--- задатак \--- Можете ли додати код вашем свемирском броду да би свемирски брод промијенио боју док се креће према Земљи?
+\--- task \--- Can you make your spaceship get smaller as it moves towards Earth?
 
-Користи овај блок:
+\--- hints \---
+
+\--- hint \---
+
+Your spaceship should start at `100% size`{:class="blocklooks"}, and then `change size`{:class="blocklooks"} by a small amount each time it moves.
+
+\--- /hint \---
+
+\--- hint \---
+
+You will need to add these blocks to your code:
 
 ![Спацесхип сприте](images/sprite-spaceship.png)
 
 ```blocks3
-промени [цолор в] ефекат помоћу (25)
+change size by (10)
+
+set size to (100) %
 ```
 
-Тестирајте и сачувајте свој код.
+\--- /hint \---
 
-![Тестирање свемирског брода који мења боју](images/space-colour-test.png)
+\--- hint \---
 
-\--- /задатак \---
+Your code should look like this:
 
-\--- задатак \--- Можете ли учинити ваш свемирски брод мањим како се креће према Земљи?
-
-Ваш свемирски брод треба да почне од **100% величине**, а затим **промени величину** за малу количину сваки пут када се помери.
-
-Користите ове блокове:
-
-![Спацесхип сприте](images/sprite-spaceship.png)
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-промени величину према (10)
+when flag clicked
+set size to (100) %
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
+    change [color v] effect by (25)
 
-сет сизе то (100)%
++   change size by (-3)
 ```
 
-\--- /задатак \---
+\--- /hint \---
 
-Тестирајте и сачувајте свој код. Ваш свемирски брод би сада требало да се смањи док се креће. Тестирајте свој свемирски брод **секунди**. Да ли је права величина када почне?
+\--- /hints \---
 
-![Тестирање свемирског брода који се смањује](images/space-size-test.png)
+\--- /task \---
+
+Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
+
+![Testing a shrinking spaceship](images/space-size-test.png)
