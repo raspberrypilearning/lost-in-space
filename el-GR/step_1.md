@@ -31,15 +31,15 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 ### Υλικό
 
-+ Ένας υπολογιστής ικανός να τρέχει το Scratch 3
+- Ένας υπολογιστής ικανός να τρέχει το Scratch 3
 
 ### Λογισμικό
 
-+ Scratch 3 (είτε [online](http://rpf.io/scratchon){:target="_blank"} είτε [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (είτε [online](http://rpf.io/scratchon){:target="_blank"} είτε [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 ### Downloads
 
-+ None
+- None
 
 \--- /collapse \---
 
@@ -47,8 +47,9 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 ## title: Τι θα μάθεις
 
-+ Animate a sprite using a loop
-+ Change the appearance of a sprite
+- Use a repeat loop to animate a sprite in Scratch
+- Use a forever loop to repeat an animation indefinately
+- Understand that loops can be nested within each other
 
 \--- /collapse \---
 
