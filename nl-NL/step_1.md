@@ -31,15 +31,15 @@ Je gaat leren hoe je je eigen animatie kunt programmeren!
 
 ### Hardware
 
-+ Een computer die Scratch 3 kan uitvoeren
+- Een computer die Scratch 3 kan uitvoeren
 
 ### Software
 
-+ Scratch 3 ([online](http://rpf.io/scratchon){:target="_blank"} of [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 ([online](http://rpf.io/scratchon){:target="_blank"} of [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 ### Downloads
 
-+ Geen
+- Geen
 
 \--- /collapse \---
 
@@ -47,8 +47,9 @@ Je gaat leren hoe je je eigen animatie kunt programmeren!
 
 ## title: Wat ga je leren
 
-+ Een sprite animeren met een lus
-+ Het uiterlijk van een sprite veranderen
+- Use a repeat loop to animate a sprite in Scratch
+- Use a forever loop to repeat an animation indefinately
+- Understand that loops can be nested within each other
 
 \--- /collapse \---
 
