@@ -31,15 +31,15 @@
 
 ### Хардвер
 
-+ Рачунар способан за покретање Сцратцх 3
+- Рачунар способан за покретање Сцратцх 3
 
 ### Софтвер
 
-+ Сцратцх 3 (или [онлине](http://rpf.io/scratchon){: таргет = "_ бланк"} или [оффлине](http://rpf.io/scratchoff){: таргет = "_ бланк"})
+- Сцратцх 3 (или [онлине](http://rpf.io/scratchon){: таргет = "_ бланк"} или [оффлине](http://rpf.io/scratchoff){: таргет = "_ бланк"})
 
 ### Преузимања
 
-+ Ниједан
+- Ниједан
 
 \--- /колапс \---
 
@@ -47,8 +47,9 @@
 
 ## титле: Шта ћете научити
 
-+ Анимирајте сприте користећи петљу
-+ Промените изглед спритеа
+- Use a repeat loop to animate a sprite in Scratch
+- Use a forever loop to repeat an animation indefinately
+- Understand that loops can be nested within each other
 
 \--- /колапс \---
 
