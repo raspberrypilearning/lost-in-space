@@ -6,7 +6,7 @@
 
 नवीन स्क्रॅच प्रकल्प उघडा.
 
-**ऑनलाईन:** एक नवीन ऑनलाइन ओरखडा प्रकल्प उघडण्यात [rpf.io/scratchon](http://rpf.io/scratchon){: target = "_ blank"}.
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
 
 **ऑफलाइन:** ऑफलाइन संपादकात नवीन प्रोजेक्ट उघडा.
 
