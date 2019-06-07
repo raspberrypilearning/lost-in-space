@@ -31,15 +31,15 @@ Kendi animasyonunuzu nasıl programlayacağınızı öğreneceksiniz!
 
 ### Donanım
 
-+ Scratch 3 çalıştırabilen bir bilgisayar
+- Scratch 3 çalıştırabilen bir bilgisayar
 
 ### Yazılım
 
-+ Scratch 3 ([çevrimiçi](http://rpf.io/scratchon){:target="_blank"} veya [çevrimdışı](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 ([çevrimiçi](http://rpf.io/scratchon){:target="_blank"} veya [çevrimdışı](http://rpf.io/scratchoff){:target="_blank"})
 
 ### İndirilenler
 
-+ Yok
+- Yok
 
 \--- /collapse \---
 
@@ -47,8 +47,9 @@ Kendi animasyonunuzu nasıl programlayacağınızı öğreneceksiniz!
 
 ## title: Ne öğreneceksiniz
 
-+ Bir döngü kullanarak bir sprite canlandırın
-+ Sprite görünümünü değiştirme
+- Use a repeat loop to animate a sprite in Scratch
+- Use a forever loop to repeat an animation indefinately
+- Understand that loops can be nested within each other
 
 \--- /collapse \---
 
