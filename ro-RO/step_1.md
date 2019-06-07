@@ -31,15 +31,15 @@ Vei învăța să programezi propria animație!
 
 ### Hardware
 
-+ Un computer capabil de a rula Scratch 3
+- Un computer capabil de a rula Scratch 3
 
 ### Programe
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 ### Descărcări
 
-+ Nici unul
+- Nici unul
 
 \--- /collapse \---
 
@@ -47,8 +47,9 @@ Vei învăța să programezi propria animație!
 
 ## titlu: Ce veți învăța
 
-+ Animați un sprite folosind o buclă
-+ Modificați aspectul unui sprite
+- Use a repeat loop to animate a sprite in Scratch
+- Use a forever loop to repeat an animation indefinately
+- Understand that loops can be nested within each other
 
 \--- /restrange \---
 
