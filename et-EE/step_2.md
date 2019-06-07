@@ -6,7 +6,7 @@ Sinu esimene samm on luua kosmoselaev, mis sõidab Maa poole!
 
 Avage uus Scratch projekt.
 
-**Online:** avab uue online Scratch'i projekti aadressil [rpf.io/scratchon](http://rpf.io/scratchon){: target = "_ blank"}.
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
 
 **Offline:** avab võrguühenduseta redaktoris uue projekti.
 
