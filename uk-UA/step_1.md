@@ -27,7 +27,7 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: Що вам знадобиться
 
 ### Обладнання
 
@@ -37,7 +37,7 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 - Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
-### Downloads
+### Завантаження
 
 - None
 
@@ -45,7 +45,7 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 ## \--- collapse \---
 
-## title: What you will learn
+## title: Що ви вивчите
 
 - Use a repeat loop to animate a sprite in Scratch
 - Use a forever loop to repeat an animation indefinately
