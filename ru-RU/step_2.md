@@ -6,7 +6,7 @@
 
 Откройте новый проект Scratch.
 
-**Онлайн:** откройте новый онлайн проект Scratch по адресу [rpf.io/scratchon](http://rpf.io/scratchon){: target = "_ blank"}.
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
 
 **Offline:** открыть новый проект в автономном редакторе.
 
