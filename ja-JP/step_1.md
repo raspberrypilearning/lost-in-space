@@ -31,15 +31,15 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 ### ハードウェア
 
-+ Scratch 3を実行できるコンピュータ
+- Scratch 3を実行できるコンピュータ
 
 ### ソフトウェア
 
-+ Scratch 3 ([オンライン](http://rpf.io/scratchon){:target="_blank"}または[オフライン](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 ([オンライン](http://rpf.io/scratchon){:target="_blank"}または[オフライン](http://rpf.io/scratchoff){:target="_blank"})
 
 ### Downloads
 
-+ None
+- None
 
 \--- /collapse \---
 
@@ -47,8 +47,9 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 ## title: 学習すること
 
-+ Animate a sprite using a loop
-+ Change the appearance of a sprite
+- Use a repeat loop to animate a sprite in Scratch
+- Use a forever loop to repeat an animation indefinately
+- Understand that loops can be nested within each other
 
 \--- /collapse \---
 
