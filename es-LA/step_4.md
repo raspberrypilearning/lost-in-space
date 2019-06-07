@@ -18,23 +18,32 @@ point towards (Earth v)
 
 \--- /task \---
 
-\--- task \---- ¿Puedes usar una ` repetición` {: class = "block3control"} bloque para mover tu nave espacial hacia la Tierra?
+\--- task \--- Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
 
 ![Probando una animación de la nave espacial](images/space-animate-stage.png)
 
-\--- hints \--- \--- hint \---
-
-En lugar de ** deslizamiento **, tu nave espacial debería ** repetidamente ** ** mover ** unos pasos a la vez.
-
-\--- /hint \--- \--- hint \--- Los bloques de código que necesitará se encuentran a continuación:
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-move (10) steps
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
 
-repeat (10)
++ repeat (200)
+    move (2) steps
 ```
 
-\--- / hint \--- \--- hint \--- Aquí está el código para animar tu nave espacial: ![Figura de nave espacial](images/sprite-spaceship.png)
+Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
+
+\--- /task \---
+
+\--- task \--- Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
+
+Use this block:
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -44,35 +53,29 @@ say [Let's go] for (2) seconds
 point towards (Earth v)
 repeat (200)
     move (2) steps
+
++    change [color v] effect by (25)
 ```
 
-Puedes usar diferentes números en los bloques `repetir`{:class="block3control"} y `mover`{:class="block3motion"} mientras la nave espacial siga llegando a la Tierra! \--- /hint \--- \--- /hints \---
+Test and save your code.
 
-Prueba y guarda: Tu nave espacial debería moverse hacia la Tierra exactamente como antes, esta vez usando un bloque de `repetición`.
+![Testing a colour-changing spaceship](images/space-colour-test.png)
 
 \--- /task \---
 
-\--- tarea \--- ¿Puedes agregar código a la figura de tu nave espacial para que la nave espacial cambie de color a medida que avanza hacia la Tierra?
+\--- task \--- Can you make your spaceship get smaller as it moves towards Earth?
 
-Usa este bloque:
+\--- hints \---
 
-![Figura de nave espacial](images/sprite-spaceship.png)
+\--- hint \---
 
-```blocks3
-change [color v] effect by (25)
-```
+Your spaceship should start at `100% size`{:class="blocklooks"}, and then `change size`{:class="blocklooks"} by a small amount each time it moves.
 
-Prueba y guarda tu proyecto.
+\--- /hint \---
 
-![Probando una nave espacial que cambia de color](images/space-colour-test.png)
+\--- hint \---
 
-\--- /task \---
-
-\--- task \--- ¿Puedes hacer que tu nave espacial se haga más pequeña a medida que llega a la Tierra?
-
-Tu nave espacial debe comenzar en ** 100% del tamaño **, y luego ** cambia de tamaño ** por una pequeña cantidad cada vez que se mueve.
-
-Usa estos bloques:
+You will need to add these blocks to your code:
 
 ![Figura de nave espacial](images/sprite-spaceship.png)
 
@@ -82,8 +85,34 @@ change size by (10)
 set size to (100) %
 ```
 
+\--- /hint \---
+
+\--- hint \---
+
+Your code should look like this:
+
+![Spaceship sprite](images/sprite-spaceship.png)
+
+```blocks3
+when flag clicked
+set size to (100) %
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
+    change [color v] effect by (25)
+
++   change size by (-3)
+```
+
+\--- /hint \---
+
+\--- /hints \---
+
 \--- /task \---
 
-Prueba y guarda tu código. Tu nave espacial ahora debería hacerse más pequeña a medida que se mueve. Prueba tu nave espacial una ** segunda vez **. ¿Es el tamaño correcto cuando comienza?
+Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
 
-![Probando una nave espacial que cambia de tamaño](images/space-size-test.png)
+![Testing a shrinking spaceship](images/space-size-test.png)
