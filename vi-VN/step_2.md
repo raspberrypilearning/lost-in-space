@@ -6,7 +6,7 @@ Bước đầu tiên của bạn sẽ là tạo ra một con tàu vũ trụ bay 
 
 Mở một dự án Scratch mới.
 
-**Trực tuyến:** mở dự án Scratch trực tuyến mới tại [rpf.io/scratchon](http://rpf.io/scratchon){: target = "_ blank"}.
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
 
 **Ngoại tuyến:** mở một dự án mới trong trình chỉnh sửa ngoại tuyến.
 
