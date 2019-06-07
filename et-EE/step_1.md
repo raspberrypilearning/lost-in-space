@@ -31,15 +31,15 @@ Te saate teada, kuidas oma animatsiooni programmeerida!
 
 ### Riistvara
 
-+ Arvuti, mis suudab käivitada Scratch 3
+- Arvuti, mis suudab käivitada Scratch 3
 
 ### Tarkvara
 
-+ Scratch 3 (kas [online](http://rpf.io/scratchon){: target = "_ blank"} või [offline](http://rpf.io/scratchoff){: target = "_ blank"})
+- Scratch 3 (kas [online](http://rpf.io/scratchon){: target = "_ blank"} või [offline](http://rpf.io/scratchoff){: target = "_ blank"})
 
 ### Allalaadimised
 
-+ Puudub
+- Puudub
 
 \--- / kollaps \---
 
@@ -47,8 +47,9 @@ Te saate teada, kuidas oma animatsiooni programmeerida!
 
 ## pealkiri: Mida sa õpid
 
-+ Animeerida spritsi kasutades silmus
-+ Muutke sprite välimust
+- Use a repeat loop to animate a sprite in Scratch
+- Use a forever loop to repeat an animation indefinately
+- Understand that loops can be nested within each other
 
 \--- / kollaps \---
 
