@@ -31,15 +31,15 @@ Rwyt ti mynd i ddysgu sut i raglenni dy animeiddiad dy hunan!
 
 ### Caledwedd
 
-+ Cyfrifiadur sy'n gallu rhedeg Scratch 3
+- Cyfrifiadur sy'n gallu rhedeg Scratch 3
 
 ### Meddalwedd
 
-+ Scratch 3 (unai [arlein](http://rpf.io/scratchon){:target="_blank"} neu [all-lein](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (unai [arlein](http://rpf.io/scratchon){:target="_blank"} neu [all-lein](http://rpf.io/scratchoff){:target="_blank"})
 
 ### Lawrlwythiadau
 
-+ Dim
+- Dim
 
 \--- /collapse \---
 
@@ -47,8 +47,9 @@ Rwyt ti mynd i ddysgu sut i raglenni dy animeiddiad dy hunan!
 
 ## title: Yr hyn byddi di'n ei ddysgu
 
-+ Animeiddio corlun gan ddefnyddio dolen
-+ Newid edrychiad corlun
+- Use a repeat loop to animate a sprite in Scratch
+- Use a forever loop to repeat an animation indefinately
+- Understand that loops can be nested within each other
 
 \--- /collapse \---
 
