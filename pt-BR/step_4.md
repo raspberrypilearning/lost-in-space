@@ -65,7 +65,7 @@ Test and save your code.
 
 \--- task \--- Can you make your spaceship get smaller as it moves towards Earth?
 
-\--- hints \---
+\--- dica \---
 
 \--- hint \---
 
@@ -89,7 +89,7 @@ set size to (100) %
 
 \--- hint \---
 
-Your code should look like this:
+Seu código deve ficar assim:
 
 ![Spaceship sprite](images/sprite-spaceship.png)
 
