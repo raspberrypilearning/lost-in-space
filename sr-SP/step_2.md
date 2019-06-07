@@ -6,7 +6,7 @@
 
 Отворите нови Сцратцх пројекат.
 
-**Онлине:** отвори нови онлине Сцратцх пројекат на [рпф.ио/сцратцхон](http://rpf.io/scratchon){: таргет = "_ бланк"}.
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
 
 **Оффлине:** отворите нови пројекат у оффлине уређивачу.
 
