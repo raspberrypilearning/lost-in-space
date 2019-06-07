@@ -31,15 +31,15 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 ### 하드웨어
 
-+ 스크래치 3을 실행할 수 있는 컴퓨터
+- 스크래치 3을 실행할 수 있는 컴퓨터
 
 ### 소프트웨어
 
-+ 스크래치 3 ( [온라인](http://rpf.io/scratchon){:target="_ blank"} 또는 [offline](http://rpf.io/scratchoff){:target="_ blank"})
+- 스크래치 3 ( [온라인](http://rpf.io/scratchon){:target="_ blank"} 또는 [offline](http://rpf.io/scratchoff){:target="_ blank"})
 
 ### Downloads
 
-+ None
+- None
 
 \--- / collapse \---
 
@@ -47,8 +47,9 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 ## title: 배우게 될 것
 
-+ Animate a sprite using a loop
-+ Change the appearance of a sprite
+- Use a repeat loop to animate a sprite in Scratch
+- Use a forever loop to repeat an animation indefinately
+- Understand that loops can be nested within each other
 
 \--- /collapse \---
 
