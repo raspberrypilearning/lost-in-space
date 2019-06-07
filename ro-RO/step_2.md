@@ -6,7 +6,7 @@ Primul pas va fi să creați o navă spațială care zboară spre Pământ!
 
 Deschideți un nou proiect Scratch.
 
-**Online:** deschideți un nou proiect Scratch online la [rpf.io/scratchon](http://rpf.io/scratchon){: target = "_ blank"}.
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
 
 **Offline:** deschideți un nou proiect în editorul offline.
 
