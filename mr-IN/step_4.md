@@ -18,72 +18,101 @@ x वर जा: (- 150) y: (- 150)
 
 \--- / कार्य \---
 
-\--- कार्य \--- आपण आपले स्पेसशिप पृथ्वीकडे हलविण्यासाठी `पुनरावृत्ती`{: वर्ग = "ब्लॉक 3control"} ब्लॉक वापरू शकता?
+\--- task \--- Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
 
 ![स्पेसशिप अॅनिमेशन तपासत आहे](images/space-animate-stage.png)
 
-\--- संकेत \--- \--- इशारा \---
-
-त्याऐवजी **ग्लायडिंग**, आपल्या नर्तिका खूपच आवडलेली दिसतेय पाहिजे **वारंवार** **हलवा** एका वेळी काही पावले.
-
-\--- / संकेत \--- \--- इशारा \--- येथे आपल्याला आवश्यक असलेले कोड अवरोध आहेत:
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-हलवा (10) चरण
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
 
-पुनरावृत्ती (10)
++ repeat (200)
+    move (2) steps
 ```
 
-\--- / संकेत \--- \--- इशारा \--- आपल्या स्पेसशिपचे एनीमेट करण्यासाठी कोड येथे आहे: ![स्पेसशिप स्प्राइट](images/sprite-spaceship.png)
+Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
+
+\--- /task \---
+
+\--- task \--- Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
+
+Use this block:
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-जेव्हा ध्वज
-बिंदू दिशेने क्लिक केले (0)
-x वर जा: (- 150) y: (- 150)
-म्हणूया [चला जाऊ] साठी (2) सेकंद
-पॉइंट दिशेने (पृथ्वी विरुद्ध)
-पुनरावृत्ती (200)
-    हालचाली (2) चरण
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
+
++    change [color v] effect by (25)
 ```
 
-स्पेसशिप अद्यापही पृथ्वीवर पोहोचते तोपर्यंत आपण `पुनरावृत्ती`{: वर्ग = "ब्लॉक 3control"} आणि `हल`{: वर्ग = "ब्लॉक 3motion"} अवरोधांमध्ये भिन्न संख्या वापरू शकता! \--- / संकेत \--- \--- / संकेत \---
+Test and save your code.
 
-आपला कोड तपासा आणि जतन करा. आपले स्पेसशिप पृथ्वीच्या दिशेने सरकले पाहिजे, परंतु यावेळी ते `पुनरावृत्ती`{: class = "block3control"} ब्लॉक वापरते.
+![Testing a colour-changing spaceship](images/space-colour-test.png)
 
-\--- / कार्य \---
+\--- /task \---
 
-\--- कार्य \--- आपण आपल्या स्पेसशिप स्प्राइटमध्ये कोड जोडू शकता जेणेकरुन पृथ्वीकडे स्थानांतरित होताना स्पेसशिप रंग बदलते?
+\--- task \--- Can you make your spaceship get smaller as it moves towards Earth?
 
-हा ब्लॉक वापरा
+\--- hints \---
+
+\--- hint \---
+
+Your spaceship should start at `100% size`{:class="blocklooks"}, and then `change size`{:class="blocklooks"} by a small amount each time it moves.
+
+\--- /hint \---
+
+\--- hint \---
+
+You will need to add these blocks to your code:
 
 ![स्पेसशिप स्प्राइट](images/sprite-spaceship.png)
 
 ```blocks3
-बदल [रंग व्ही] प्रभाव (25)
+change size by (10)
+
+set size to (100) %
 ```
 
-आपला कोड तपासा आणि जतन करा.
+\--- /hint \---
 
-![रंग बदलणारी स्पेसशिप तपासत आहे](images/space-colour-test.png)
+\--- hint \---
 
-\--- / कार्य \---
+Your code should look like this:
 
-\--- कार्य \--- आपण पृथ्वीवरील दिशेने फिरत असताना आपली स्पेसशिप लहान होऊ शकते?
-
-आपले स्पेसशिप **100% आकार**सुरू होणे आवश्यक आहे आणि नंतर प्रत्येक वेळी ते हलविल्यावर लहान आकाराने **आकार** बदलू शकता.
-
-हे ब्लॉक वापरा
-
-![स्पेसशिप स्प्राइट](images/sprite-spaceship.png)
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-आकार बदलणे (10)
+when flag clicked
+set size to (100) %
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
+    change [color v] effect by (25)
 
-सेट आकार ते (100)%
++   change size by (-3)
 ```
 
-\--- / कार्य \---
+\--- /hint \---
 
-आपला कोड तपासा आणि जतन करा. आपले स्थान बदलते तेव्हा आता आपला स्पेसशिप लहान होणे आवश्यक आहे. आपल्या नर्तिका खूपच आवडलेली दिसतेय एक चाचणी **दुसऱ्या वेळी**. ते सुरू होते तेव्हा ते योग्य आकार आहे का?
+\--- /hints \---
 
-![एक shrinking spaceship चाचणी](images/space-size-test.png)
+\--- /task \---
+
+Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
+
+![Testing a shrinking spaceship](images/space-size-test.png)
