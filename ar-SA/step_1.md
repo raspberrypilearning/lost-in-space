@@ -31,15 +31,15 @@
 
 ### الأجهزة
 
-+ جهاز كمبيوتر يدعم تشغيل برنامج Scratch 3
+- جهاز كمبيوتر يدعم تشغيل برنامج Scratch 3
 
 ### البرامج
 
-+ برنامج Scratch 3 (سواء أكان [عبر الإنترنت](http://rpf.io/scratchon){:target="_blank"} أو [دون اتصال بالإنترنت](http://rpf.io/scratchoff){:target="_blank"})
+- برنامج Scratch 3 (سواء أكان [عبر الإنترنت](http://rpf.io/scratchon){:target="_blank"} أو [دون اتصال بالإنترنت](http://rpf.io/scratchoff){:target="_blank"})
 
 ### Downloads
 
-+ None
+- None
 
 \--- /collapse \---
 
@@ -47,8 +47,9 @@
 
 ## title: ما الذي ستتعلمه
 
-+ Animate a sprite using a loop
-+ Change the appearance of a sprite
+- Use a repeat loop to animate a sprite in Scratch
+- Use a forever loop to repeat an animation indefinately
+- Understand that loops can be nested within each other
 
 \--- /collapse \---
 
