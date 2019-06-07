@@ -31,15 +31,15 @@ Naučili se boste ustvariti svojo animacijo!
 
 ### Strojna oprema
 
-+ Računalnik, ki lahko poganja Scratch 3
+- Računalnik, ki lahko poganja Scratch 3
 
 ### Programska oprema
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 ### Downloads
 
-+ None
+- None
 
 \--- /collapse \---
 
@@ -47,8 +47,9 @@ Naučili se boste ustvariti svojo animacijo!
 
 ## title: Kaj se boste naučili?
 
-+ Animate a sprite using a loop
-+ Change the appearance of a sprite
+- Use a repeat loop to animate a sprite in Scratch
+- Use a forever loop to repeat an animation indefinately
+- Understand that loops can be nested within each other
 
 \--- /collapse \---
 
