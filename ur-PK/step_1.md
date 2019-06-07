@@ -31,15 +31,15 @@
 
 ### ہارڈ ویئر
 
-+ ایک کمپیوٹر سکریچ 3 چلانے کے قابل
+- ایک کمپیوٹر سکریچ 3 چلانے کے قابل
 
 ### سافٹ ویئر
 
-+ سکریچ 3 (یا تو [ آن لائن ](http://rpf.io/scratchon) یا [ آف لائن ](http://rpf.io/scratchoff) )
+- سکریچ 3 (یا تو [ آن لائن ](http://rpf.io/scratchon) یا [ آف لائن ](http://rpf.io/scratchoff) )
 
 ### ڈاؤن لوڈ
 
-+ کوئی بھی نہیں
+- کوئی بھی نہیں
 
 \---تفصیل غائب کریں--
 
@@ -47,8 +47,9 @@
 
 ## عنوان: آپ کیا سیکھیں گے
 
-+ لوپ Loop کا استعمال کرتے ہوئے ایک پریت Sprite کو متحرک کریں
-+ Change the appearance of a sprite
+- Use a repeat loop to animate a sprite in Scratch
+- Use a forever loop to repeat an animation indefinately
+- Understand that loops can be nested within each other
 
 \--- /collapse \---
 
