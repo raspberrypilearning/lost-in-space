@@ -1,0 +1,33 @@
+---
+title: แพ้ในอวกาศ
+hero_image: images / หายไปใน space.png
+description: เรียนรู้วิธีตั้งโปรแกรมภาพเคลื่อนไหวของคุณเอง!
+original_url: https://www.codeclubprojects.org/en-GB/scratch/lost-in-space
+listed: true
+copyedit: true
+technologies: เกา
+version: 4.1.3
+last_tested: 2018/09/26
+steps:
+  - 
+    title: บทนำ
+  - 
+    title: แอนิเมชั่นยานอวกาศ
+  - 
+    title: 'ถาม: ปรับปรุงภาพเคลื่อนไหวของคุณ'
+    challenge: true
+  - 
+    title: ภาพเคลื่อนไหวโดยใช้ลูป
+  - 
+    title: ลิงลอยน้ำ
+  - 
+    title: ดาวเคราะห์น้อยใหญ่
+  - 
+    title: ดาวส่องแสง
+  - 
+    title: 'ถาม: สร้างแอนิเมชันของคุณเอง'
+    challenge: true
+  - 
+    title: ทดสอบด้วยตัวเอง
+  - 
+    title: อะไรต่อไป
