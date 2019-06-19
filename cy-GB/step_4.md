@@ -7,13 +7,13 @@ Ffordd arall o animeiddio’r llong ofod yw dweud wrtho i symud ychydig bach, ni
 ![Corlun llong ofod](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
+pan fo'r flag werdd yn cael ei glicio
+pwyntio i gyfeiriad (0)
+mynd i x: (-150) y: (-150)
+dweud [Let's go] am (2) eiliad
+pwyntio tuag at (Earth v)
 
-- glide (1) secs to x:(0) y:(0)
+llithro (1) eiliad i x: (0) y: (0)
 ```
 
 \--- /task \---
@@ -25,14 +25,15 @@ point towards (Earth v)
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
+pan fo'r flag werdd yn cael ei glicio
+pwyntio i gyfeiriad (0)
+mynd i x: (-150) y: (-150)
+dweud [Let's go] am (2) eiliad
+pwyntio tuag at (Earth v)
 
-+ repeat (200)
-    move (2) steps
++ ailadrodd (200) 
+  symud (2) cam
+end
 ```
 
 Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
@@ -46,15 +47,16 @@ Use this block:
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-repeat (200)
-    move (2) steps
+pan fo'r flag werdd yn cael ei glicio
+pwyntio i gyfeiriad (0)
+mynd i x: (-150) y: (-150)
+dweud [Let's go] am (2) eiliad
+pwyntio tuag at (Earth v)
+ailadrodd (200) 
+  symud (2) cam
+end
 
-+    change [color v] effect by (25)
++    newid effaith [color v] gan (25)
 ```
 
 Test and save your code.
@@ -80,9 +82,9 @@ You will need to add these blocks to your code:
 ![Corlun llong ofod](images/sprite-spaceship.png)
 
 ```blocks3
-change size by (10)
+newid maint gan (10)
 
-set size to (100) %
+gosod maint i (100) %
 ```
 
 \--- /hint \---
@@ -94,17 +96,18 @@ Your code should look like this:
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-set size to (100) %
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-repeat (200)
-    move (2) steps
-    change [color v] effect by (25)
+pan fo'r flag werdd yn cael ei glicio
+gosod maint i (100) %
+pwyntio i gyfeiriad (0)
+mynd i x: (-150) y: (-150)
+dweud [Let's go] am (2) eiliad
+pwyntio tuag at (Earth v)
+ailadrodd (200) 
+  symud (2) cam
+  newid effaith [color v] gan (25)
+end
 
-+   change size by (-3)
++   newid maint gan (-3)
 ```
 
 \--- /hint \---
