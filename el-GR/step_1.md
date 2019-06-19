@@ -1,6 +1,6 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
+Αυτή είναι η έκδοση **Scratch 3** του έργου. Υπάρχει επίσης και μία έκδοση [Scratch 2](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2) του έργου.
 
 \--- /no-print \---
 
@@ -10,7 +10,7 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 ### Τι θα κάνεις
 
-\--- no-print \--- Click on the green flag to see the animation.
+\--- no-print \--- Κάνε κλικ στην πράσινη σημαία για να δεις την κινούμενη εικόνα.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -21,13 +21,13 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 \--- print-only \---
 
-![Complete project](images/showcase_static.png)
+![Ολοκληρωμένο έργο](images/showcase_static.png)
 
 \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: Τι θα χρειαστείτε
+## title: Τι θα χρειαστείς
 
 ### Υλικό
 
@@ -37,7 +37,7 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 - Scratch 3 (είτε [online](http://rpf.io/scratchon){:target="_blank"} είτε [offline](http://rpf.io/scratchoff){:target="_blank"})
 
-### Downloads
+### Λήψεις
 
 - None
 
@@ -47,18 +47,18 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 ## title: Τι θα μάθεις
 
-- Use a repeat loop to animate a sprite in Scratch
-- Use a forever loop to repeat an animation indefinately
-- Understand that loops can be nested within each other
+- Να χρησιμοποιείς έναν βρόχο επανάληψης για να δώσεις κίνηση σε ένα σχέδιο στην Scratch
+- Να χρησιμοποιείς ένα βρόχο "για πάντα", ώστε να επαναλαμβάνεις την κίνηση επ' άπειρον.
+- Να αντιλαμβάνεσαι ότι οι βρόχοι μπορούν να ενθυλακώνονται.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## Πρόσθετες πληροφορίες για εκπαιδευτικούς
+## title: Πρόσθετες πληροφορίες για εκπαιδευτικούς
 
 Αν χρειαστεί να εκτυπώσεις αυτό το έργο, χρησιμοποίησε την [εκτυπώσιμη έκδοση](https://projects.raspberrypi.org/en/projects/lost-in-space/print)"}.
 
-[Here is a link to the solution for this project](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+Μπορείς να βρεις [το ολοκληρωμένο έργο εδώ](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
 \--- /collapse \---
