@@ -15,32 +15,34 @@ Rwyt ti am gyfunio dolenu i greu seren ddisglair.
 \--- hints \--- \--- hint \--- Pan fo'r faner werdd **wedi ei glicio**, fe ddylai dy gorlun seren **newid maint** i fynd yn fwy ychydig o weithiau yna **newid maint** i leihau ychydig o weithiau. Fe ddylai wneud hyn fel ei fod yn mynd yn fwy yna yn llai **am byth** ac yn edrych fel golau sy'n disgleirio. \--- /hint \--- \--- hint \--- Dyma'r blociau côd rwyt ti eu hangen:
 
 ```blocks3
-repeat (10)
+ailadrodd (10)
 end
 
-when flag clicked
+pan fo'r flag werdd yn cael ei glicio
 
-repeat (10)
+ailadrodd (10)
 end
 
-change size by (10)
+newid maint gan (10)
 
-change size by (10)
+newid maint gan (10)
 
-forever
+am byth
+end
 ```
 
 -- /hint \--- \--- hint \--- Dyma'r côd i wneud dy seren i dyfu a lleihau: ![Corlun seren](images/sprite-star.png)
 
 ```blocks3
-when flag clicked
-forever
-    repeat (20)
-        change size by (2)
-    end
-    repeat (20)
-        change size by (-2)
-    end
+pan fo'r flag werdd yn cael ei glicio
+am byth 
+  ailadrodd (20) 
+    newid maint gan (2)
+  end
+  ailadrodd (20) 
+    newid maint gan (-2)
+  end
+end
 
 ```
 
