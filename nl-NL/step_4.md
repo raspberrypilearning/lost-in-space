@@ -22,7 +22,7 @@ richt naar (Earth v)
 
 ![Testing a spaceship animation](images/space-animate-stage.png)
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Ruimteschip sprite](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -35,15 +35,15 @@ point towards (Earth v)
     move (2) steps
 ```
 
-Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
+Test en bewaar je code. Je ruimteschip zou nog steeds naar de aarde moeten bewegen, maar nu met een `herhaal`{:class="block3control"}-blok.
 
 \--- /task \---
 
 \--- task \--- Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
 
-Use this block:
+Gebruik dit blok:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Ruimteschip sprite](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -57,13 +57,13 @@ repeat (200)
 +    change [color v] effect by (25)
 ```
 
-Test and save your code.
+Test en sla je code op.
 
 ![Testing a colour-changing spaceship](images/space-colour-test.png)
 
 \--- /task \---
 
-\--- task \--- Can you make your spaceship get smaller as it moves towards Earth?
+\--- task \--- Kan je je ruimteschip kleiner maken naarmate het dichter naar de aarde toe beweegt?
 
 \--- hints \---
 
@@ -80,18 +80,18 @@ You will need to add these blocks to your code:
 ![Ruimteschip sprite](images/sprite-spaceship.png)
 
 ```blocks3
-change size by (10)
+verander grootte met (10)
 
-set size to (100) %
+maak grootte (100) %
 ```
 
 \--- /hint \---
 
 \--- hint \---
 
-Your code should look like this:
+Je code zou er als volgt uit moeten zien:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Ruimteschip sprite](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -113,6 +113,6 @@ repeat (200)
 
 \--- /task \---
 
-Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
+Test en bewaar je code. Je ruimteschip zou nu kleiner moeten worden als het beweegt. Test je ruimteschip een **tweede keer**. Heeft het de juiste grootte bij het begin?
 
 ![Testing a shrinking spaceship](images/space-size-test.png)
