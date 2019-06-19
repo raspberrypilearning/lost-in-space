@@ -1,6 +1,6 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
+Questa è la versione **Scratch 3** del progetto. C'è anche una [versione Scratch 2 del progetto](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
 
 \--- /no-print \---
 
@@ -10,7 +10,7 @@ Imparerai a programmare la tua animazione!
 
 ### Cosa creerai
 
-\--- no-print \--- Click on the green flag to see the animation.
+\--- no-print \--- Fare clic sulla bandiera verde per vedere l'animazione.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -21,13 +21,13 @@ Imparerai a programmare la tua animazione!
 
 \--- print-only \---
 
-![Complete project](images/showcase_static.png)
+![Progetto completo](images/showcase_static.png)
 
 \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: Di cosa avrete bisogno?
+## title: Di cosa avrai bisogno
 
 ### Hardware
 
@@ -37,9 +37,9 @@ Imparerai a programmare la tua animazione!
 
 - Scratch 3 ([online](http://rpf.io/scratchon){:target="_blank"} o [offline](http://rpf.io/scratchoff){:target="_blank"}"})
 
-### Downloads
+### Download
 
-- None
+- Nessuno
 
 \--- /collapse \---
 
@@ -47,18 +47,18 @@ Imparerai a programmare la tua animazione!
 
 ## title: Cosa imparerai
 
-- Use a repeat loop to animate a sprite in Scratch
-- Use a forever loop to repeat an animation indefinately
-- Understand that loops can be nested within each other
+- Come usare un ciclo ripetuto per animare uno sprite in Scratch
+- Come usare un ciclo infinito per ripetere un'animazione indefinitamente
+- Capire che i cicli possono essere nidificati tra loro
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: Informazioni aggiuntive per gli educatori
 
 Se intendete stampare questo progetto, cliccate su [Versione stampabile](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target = "_ blank"}.
 
-[Here is a link to the solution for this project](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+[Ecco un link alla soluzione per questo progetto](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
 \--- /collapse \---
