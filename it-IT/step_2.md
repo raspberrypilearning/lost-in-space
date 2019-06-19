@@ -1,62 +1,62 @@
 ## Animare un'astronave
 
-Your first step will be to create a spaceship that flies towards the Earth!
+Il tuo primo passo sarà quello di creare una astronave che si dirige verso la Terra!
 
 \--- task \---
 
-Open a new Scratch project.
+Inizia un nuovo progetto Scratch.
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
+**Online:** apri un nuovo progetto Scratch online su [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
 
-**Offline:** open a new project in the offline editor.
+**Offline:** apri un nuovo progetto nell'editor offline.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Se hai bisogno di scaricare ed installare l'editor Scratch offline, puoi trovarlo su [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
-\--- task \--- Add 'rocketship' and 'Earth' sprites to your Stage.
+\--- task \--- Aggiungi gli sprite 'rocketship' e 'Earth' al tuo Stage.
 
-![Sprite 'Astronave' e 'Terra'](images/space-sprites.png)
+![Sprite 'Spaceship' e 'Earth'](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
 \--- /task \---
 
-\--- task \--- Add the 'Stars' backdrop to your Stage.
+\--- task \--- Aggiungi lo sfondo 'Stars' al tuo Stage.
 
 ![Sfondo spaziale](images/space-backdrop.png)
 
 \--- /task \---
 
-\--- task \--- Click on your spaceship sprite, and click on the **Costumes** tab.
+\--- task \--- Fai clic sullo sprite dell'astronave e poi sulla scheda ** Costumi **.
 
 ![Costume dello sprite](images/space-costume.png)
 
 \--- /task \---
 
-\--- task \--- Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+\--- task \--- Utilizzare lo strumento **freccia**, mediante click e trascina, per realizzare un rettangolo di selezione attorno all'intera immagine dell'astronave. Quindi clicca sulla maniglia circolare per la **rotazione** e ruota l'immagine fino a quando non è dalla sua parte.
 
 ![Ruotare un costume](images/space-rotate.png)
 
 \--- /task \---
 
-\--- task \--- Add this code to your spaceship sprite:
+\--- task \--- Aggiungi questo codice al tuo sprite spaceship:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Sprite 'Spaceship'](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-glide (1) secs to x:(0) y:(0)
+quando si clicca sulla bandiera verde
+punta in direzione (0)
+vai a x: (-150) y: (-150)
+dire [Let's go] per (2) secondi
+punta verso (Earth v)
+scivola in (1) secondi a x: (0) y: (0)
 ```
 
-Change the numbers in the code blocks you've added so that the code is exactly the same as above.
+Cambia i numeri nei blocchi di codice, che hai aggiunto, in modo che il codice sia esattamente lo stesso di cui sopra.
 
 \--- /task \---
 
-Facendo click sulla bandierina verde, dovresti vedere l'astronave parlare, girare e planare verso il centro dello schermo.
+Facendo click sulla bandierina verde, dovresti vedere l'astronave parlare, girare e planare verso il centro dello stage.
 
-![Testare l'animazione di un'astronave](images/space-animate-stage.png)
+![Testare l'animazione dell'astronave](images/space-animate-stage.png)
