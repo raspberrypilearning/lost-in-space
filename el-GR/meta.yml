@@ -6,20 +6,20 @@ original_url: https://www.codeclubprojects.org/en-GB/scratch/lost-in-space
 listed: true
 copyedit: true
 technologies: scratch
-version: 4
-last_tested: 2017-11-01
+version: 4.1.3
+last_tested: 2018-09-26
 steps:
   - 
     title: Εισαγωγή
   - 
-    title: Τι θα χρειαστείς
+    title: Δίνοντας κίνηση σε ένα διαστημόπλοιο
   - 
-    title: 'Δίνοντας κίνηση σε ένα διαστημόπλοιο'
+    title: 'Πρόκληση: βελτίωση του κινούμενου σχεδίου σου'
     challenge: true
   - 
-    title: Δίνοντας κίνησης χρησιμοποιώντας βρόχους
+    title: Δίνοντας κίνηση με τη χρήση βρόχων
   - 
-    title: Πλωτή μαϊμού
+    title: Αιωρούμενη μαϊμού
   - 
     title: Αναπήδηση αστεροειδούς
   - 
@@ -28,6 +28,6 @@ steps:
     title: 'Πρόκληση: δημιούργησε το δικό σου κινούμενο σχέδιο'
     challenge: true
   - 
-    title: Test yourself
+    title: Δοκίμασε μόνος σου
   - 
-    title: What next?
+    title: Και τώρα;
