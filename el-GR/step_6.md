@@ -1,18 +1,18 @@
 ## Αναπήδηση αστεροειδούς
 
-Now you will add a floating space rock to your animation.
+Τώρα θα προσθέσεις έναν διαστημικό βράχο στο κινούμενο σχέδιο.
 
-\--- task \--- Add a 'rock' sprite to your animation.
+\--- task \--- Πρόσθεσε ένα αντικείμενο "rock" στο κινούμενο σχέδιο.
 
 ![Προσθέτοντας ένα αντικείμενο βράχου](images/space-rock-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Can you add code for your rock sprite so that the rock bounces around the stage?
+\--- task \--- Μπορείς να προσθέσεις κώδικα ώστε ο βράχος αναπηδά όταν συναντά την άκρη του σκηνικού;
 
 ![Δοκιμάζοντας ένα βράχο που αναπηδά](images/space-bounce-test.png)
 
-\--- συμβουλές \--- \--- υπαινιγμός \--- Όταν πατήσετε το πράσινο ** σημαία **, ο σκίτης σας πρέπει να κινηθεί ** ** και ** αναπήδηση ** γύρω από τη σκηνή ** για πάντα **. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
+\--- hints \--- \--- hint \--- Όταν **πατηθεί η πράσινη σημαία**, ο βράχος σου θα **κινείται** και θα **αναπηδά** στο σκηνικό **για πάντα**. \--- /hint \--- \--- hint \--- Εδώ είναι τα μπλοκ που θα χρειαστείς:
 
 ```blocks3
 move (10) steps
@@ -24,7 +24,7 @@ when flag clicked
 forever
 ```
 
-You can also set a more interesting starting direction for the rock sprite with one of these blocks:
+Μπορείς επίσης να επιλέξεις μια πιο ενδιαφέρουσα αρχική κατεύθυνση για τον βράχο με ένα από τα παρακάτω μπλοκ:
 
 ```blocks3
 turn cw (15) degrees
@@ -34,9 +34,9 @@ point towards (Earth v)
 
 \--- /hint \--- \--- hint \---
 
-Here's the code for making your rock bounce around the stage:
+Εδώ είναι ο κώδικας για να κάνεις τον βράχο να αναπηδά στο σκηνικό:
 
-![Rock sprite](images/sprite-rock.png)
+![Αντικείμενο βράχου](images/sprite-rock.png)
 
 ```blocks3
 when flag clicked
