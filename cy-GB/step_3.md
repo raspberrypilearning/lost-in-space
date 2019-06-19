@@ -10,7 +10,7 @@ Bydd angen i ti newid y rhifau yn y bloc yma:
 ![Ciplun llong ofod](images/sprite-spaceship.png)
 
 ```blocks3
-glide (1) secs to x:(0) y:(0)
+llithro (1) eiliad i x: (0) y: (0)
 ```
 
 [[[generic-scratch3-coordinates]]]
