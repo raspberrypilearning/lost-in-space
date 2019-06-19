@@ -14,10 +14,10 @@ steps:
   - 
     title: Animare un'astronave
   - 
-    title: 'Animare usando i loop'
+    title: 'Sfida: migliora la tua animazione'
     challenge: true
   - 
-    title: Scimmie Fluttuanti
+    title: Animazioni usando i cicli
   - 
     title: Scimmietta fluttuante
   - 
@@ -25,9 +25,9 @@ steps:
   - 
     title: Stella splendente
   - 
-    title: 'Sfida: Crea la tua animazione'
+    title: 'Sfida: crea la tua animazione'
     challenge: true
   - 
-    title: Test yourself
+    title: Mettiti alla prova
   - 
-    title: What next?
+    title: E adesso?
