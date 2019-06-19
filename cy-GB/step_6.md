@@ -15,21 +15,22 @@ Rwyt ti nawr am ychwanegu craig sydd yn arnofio i dy animeiddiad.
 \--- hints \--- \--- hint \--- Pan for faner werdd **wedi ei glicio**, fe ddylai'r corlun craig **symud** a **bownsio** o gwmpas y llwyfan **am byth**. \--- /hint \--- \--- hint \--- Dyma'r blociau côd rwyt ti eu hangen:
 
 ```blocks3
-move (10) steps
+symud (10) cam
 
-if on edge bounce
+os ar ymyl, bowndio
 
-when flag clicked
+pan fo'r flag werdd yn cael ei glicio
 
-forever
+am byth
+end
 ```
 
 Mae modd i ti hefyd osod cyfeiriad cychwyn mwy diddorol i'r corlun craig gydag un o'r blociau yma:
 
 ```blocks3
-turn cw (15) degrees
+troi (15) gradd i'r dde
 
-point towards (Earth v)
+pwyntio tuag at (Earth v)
 ```
 
 \--- /hint \--- \--- hint \---
@@ -39,11 +40,12 @@ Dyma'r côd ar gyfer gwneud dy graig i fownsio o gwmpas y llwyfan:
 ![Corlun craig](images/sprite-rock.png)
 
 ```blocks3
-when flag clicked
-point towards (Earth v)
-forever
-    move (2) steps
-    if on edge, bounce
+pan fo'r flag werdd yn cael ei glicio
+pwyntio tuag at (Earth v)
+am byth 
+  symud (2) cam
+  os ar ymyl, bowndio
+end
 ```
 
 \--- /hint \--- \--- /hints \--- \--- /task \---
