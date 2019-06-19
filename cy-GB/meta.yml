@@ -1,33 +1,33 @@
 ---
-title: Ar Goll yn y Gofod
+title: Ar goll yn y gofod
 hero_image: images/lost-in-space.png
-description: Dysgwch sut i raglennu eich animeiddiad eich hunan!
-original_url: https://projects.raspberrypi.org/en/projects/lost-in-space
+description: Dysga sut i raglenni dy animeiddiad dy hunan!
+original_url: https://www.codeclubprojects.org/en-GB/scratch/lost-in-space
 listed: true
 copyedit: true
 technologies: scratch
-version: 4
-last_tested: 2017-11-01
+version: 4.1.3
+last_tested: 2018-09-26
 steps:
   - 
     title: Cyflwyniad
   - 
     title: Animeiddio llong ofod
   - 
-    title: 'Animeiddio gan ddefnyddio dolennu'
+    title: 'Her: Perffeithio dy animeiddiad'
     challenge: true
   - 
-    title: Mwcni yn Arnofio
+    title: Animeiddio yn defnyddio dolennu
+  - 
+    title: Mwnci yn arnofio
   - 
     title: Asteroid Sbonciog
   - 
-    title: Sêr Disglair
-  - 
-    title: 'Her: Gwna amineddiad dy hunan'
+    title: Sêr disglair
   - 
     title: 'Her: gwneud dy animeiddiad dy hunan'
     challenge: true
   - 
     title: Test yourself
   - 
-    title: What next?
+    title: Beth nesaf?
