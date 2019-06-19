@@ -7,13 +7,13 @@ Another way to animate the spaceship is to tell it to move a small amount many t
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
+quando si clicca sulla bandiera verde
+punta in direzione (0)
+vai a x: (-150) y: (-150)
+dire [Let's go] per (2) secondi
+punta verso (Earth v)
 
-- glide (1) secs to x:(0) y:(0)
+- scivola in (1) secondi a x: (0) y: (0)
 ```
 
 \--- /task \---
@@ -46,15 +46,15 @@ Use this block:
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-repeat (200)
-    move (2) steps
-
-+    change [color v] effect by (25)
+quando si clicca sulla bandiera verde
+punta in direzione (0)
+vai a x: (-150) y: (-150)
+dire [Let's go] per (2) secondi
+punta verso (Earth v)
+ripeti (200) volte 
+  fai (2) passi
+  + cambia effetto [color v] di (25)
+end
 ```
 
 Test and save your code.
@@ -94,17 +94,17 @@ Your code should look like this:
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-set size to (100) %
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-repeat (200)
-    move (2) steps
-    change [color v] effect by (25)
-
-+   change size by (-3)
+quando si clicca sulla bandiera verde
+porta dimensione a (100) %
+punta in direzione (0)
+vai a x: (-150) y: (-150)
+dire [Let's go] per (2) secondi
+punta verso (Earth v)
+ripeti (200) volte 
+  fai (2) passi
+  cambia effetto [color v] di (25)
+  + cambia dimensione di (-3)
+end
 ```
 
 \--- /hint \---
