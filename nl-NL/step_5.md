@@ -34,9 +34,9 @@ Dit zijn de codeblokken die je nodig hebt:
 herhaal
 end
 
-draai (15) graden naar rechts
+draai naar rechts (15) graden 
 
-wanneer groene vlag wordt aangeklikt
+wanneer op groene vlag wordt geklikt
 ```
 
 \--- /hint \--- \--- hint \---
