@@ -1,4 +1,4 @@
-## Test yourself
+## Δοκίμασε μόνος σου
 
 <head>
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -8,7 +8,7 @@
   <meta name="viewport" content="initial-scale=1.0" />
   
   <title>
-    Quiz
+    Κουίζ
   </title>
   
   <!-- jquery for maximum compatibility -->
