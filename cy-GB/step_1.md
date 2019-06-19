@@ -25,7 +25,7 @@ Rwyt ti mynd i ddysgu sut i raglenni dy animeiddiad dy hunan!
 
 \--- /print-only \---
 
-## \---collapse\---
+## \--- collapse \---
 
 ## title: Beth fydd ei angen arno ti
 
