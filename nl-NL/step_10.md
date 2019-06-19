@@ -1,6 +1,6 @@
-## What next?
+## Wat nu?
 
-Try the [Ghostbusters](https://projects.raspberrypi.org/en/projects/ghostbusters?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) project! In that project, you will learn how to create a game with ghosts that appear all over the place and that you need to catch. You will also learn how to add a timer and a score to the game, so that you can see how many ghosts you are able to catch.
+Probeer het [Spokenjagers](https://projects.raspberrypi.org/en/projects/ghostbusters?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) project! In dat project leer je hoe je een spel maakt met spoken die overal verschijnen en die je moet vangen. Je leert ook hoe je een tijdklok en een score toevoegt aan het spel, zodat je kan zien hoeveel spoken je kan vangen.
 
 \--- no-print \---
 
