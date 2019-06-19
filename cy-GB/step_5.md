@@ -31,12 +31,12 @@ Pan fo'r faner werdd **wedi ei glicio**, fe ddylai corlun dy fwnci **droi** mewn
 Dyma'r blociau côd rwyt ti eu hangen:
 
 ```blocks3
-forever
+am byth
 end
 
-turn cw (15) degrees
+troi (15) gradd i'r dde
 
-when flag clicked
+pan fo'r flag werdd yn cael ei glicio
 ```
 
 \--- /hint \--- \--- hint \---
@@ -46,9 +46,10 @@ Dyma'r côd i wneud i dy fwnci droi:
 ![Corlun mwnci](images/sprite-monkey.png)
 
 ```blocks3
-when flag clicked
-forever
-    turn cw (1) degrees
+pan fo'r flag werdd yn cael ei glicio
+am byth 
+  troi (1) gradd i'r dde
+end
 ```
 
 \--- /hint \--- \--- /hints \---
