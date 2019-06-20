@@ -59,6 +59,6 @@
 
 ይህንን ፕሮጀክት ማተም የሚያስፈልግዎ ከሆነ, [ለህት-ምቹ የሆነውን ስሪት](https://projects.raspberrypi.org/en/projects/lost-in-space/print){: target = "_ blank"} ይጠቀሙ.
 
-[ለዚህ ፕሮጀክት መፍትሄ](http://rpf.io/p/en/lost-in-space-get){: target = "_ blank"}.
+You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
 \--- /collapse \---
