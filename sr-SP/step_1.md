@@ -59,6 +59,6 @@
 
 Ако желите да одштампате овај пројекат, молимо користите [верзију за штампач](https://projects.raspberrypi.org/en/projects/lost-in-space/print){: таргет = "_ бланк"}.
 
-[Овде је линк на решење за овај пројекат](http://rpf.io/p/en/lost-in-space-get){: таргет = "_ бланк"}.
+You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
 \--- /колапс \---
