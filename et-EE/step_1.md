@@ -59,6 +59,6 @@ Te saate teada, kuidas oma animatsiooni programmeerida!
 
 Kui teil on vaja seda projekti printida, kasutage [printeri sõbralikku versiooni](https://projects.raspberrypi.org/en/projects/lost-in-space/print){: target = "_ blank"}.
 
-[Siin on link selle projekti lahendusele](http://rpf.io/p/en/lost-in-space-get){: target = "_ blank"}.
+You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
 \--- / kollaps \---
