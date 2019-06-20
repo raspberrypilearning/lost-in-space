@@ -59,6 +59,6 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_ blank"}を使用してください。
 
-[Here is a link to the solution for this project](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
 \--- /collapse \---
