@@ -59,6 +59,6 @@
 
 หากคุณต้องการพิมพ์โครงการนี้โปรดใช้ [รุ่นที่เหมาะกับเครื่องพิมพ์](https://projects.raspberrypi.org/en/projects/lost-in-space/print){: target = "_ blank"}
 
-[นี่คือลิงค์ไปยังโซลูชันสำหรับโครงการนี้](http://rpf.io/p/en/lost-in-space-get){: target = "_ blank"}
+You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
 \--- / ยุบ \---
