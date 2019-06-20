@@ -59,6 +59,6 @@ Bạn sẽ học cách lập trình hoạt hình của riêng bạn!
 
 Nếu bạn cần in dự án này, vui lòng sử dụng [phiên bản thân thiện với máy in](https://projects.raspberrypi.org/en/projects/lost-in-space/print){: target = "_ blank"}.
 
-[Đây là liên kết đến giải pháp cho dự án này](http://rpf.io/p/en/lost-in-space-get){: target = "_ blank"}.
+You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
 \--- /sự sụp đổ \---
