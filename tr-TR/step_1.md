@@ -59,6 +59,6 @@ Kendi animasyonunuzu nasıl programlayacağınızı öğreneceksiniz!
 
 Bu projeyi yazdırmanız gerekiyorsa lütfen [yazıcı-dostu sürümü](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"} kullanın.
 
-[İşte bu proje için çözüme bir bağlantı](http://rpf.io/p/en/lost-in-space-get){: target = "_ blank"}.
+You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
 \--- /collapse \---
