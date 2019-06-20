@@ -59,6 +59,6 @@ You are going to learn how to program your own animation!
 
 Ako trebate ispisati ovaj projekt, koristite [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:Target="_ blank"}.
 
-[Here is a link to the solution for this project](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
 \--- /collapse \---
