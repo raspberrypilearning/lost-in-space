@@ -59,6 +59,6 @@ Rwyt ti mynd i ddysgu sut i raglenni dy animeiddiad dy hunan!
 
 Os oes angen i chi argraffu y prosiect, defnyddiwch [fersiwn i'w argraffu](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
-[Dyma ddolen i'r prosiect gorffenedig](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
 \--- /collapse \---
