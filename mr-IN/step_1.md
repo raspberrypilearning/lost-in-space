@@ -59,6 +59,6 @@
 
 आपल्याला हे प्रोजेक्ट मुद्रित करण्याची आवश्यकता असल्यास, कृपया [प्रिंटर-फ्रेंडली आवृत्ती](https://projects.raspberrypi.org/en/projects/lost-in-space/print){: लक्ष्य = "_ blank"} वापरा.
 
-[येथे या प्रकल्पासाठी उपाय एक दुवा आहे](http://rpf.io/p/en/lost-in-space-get){: target = "_ blank"}.
+You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
 \--- / संकुचित \---
