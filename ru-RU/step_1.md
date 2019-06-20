@@ -59,6 +59,6 @@
 
 Если вам нужно распечатать этот проект, пожалуйста , используйте [Версия для печати](https://projects.raspberrypi.org/en/projects/lost-in-space/print){: TARGET = «_blank»}.
 
-[Вот ссылка на решение для этого проекта](http://rpf.io/p/en/lost-in-space-get){: target = "_ blank"}.
+You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
 \--- / свернуть \---
