@@ -7,13 +7,13 @@ Un altro modo per animare l'astronave è di dirle di muoversi di una piccola qua
 ![Sprite 'Spaceship'](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Andiamo] for (2) seconds
-point towards (Earth v)
+quando si clicca sulla bandiera verde
+punta in direzione (0)
+vai a x: (-150) y: (-150)
+dire [Let's go] per (2) secondi
+punta verso (Earth v)
 
-- glide (1) secs to x:(0) y:(0)
+- scivola in (1) secondi a x: (0) y: (0)
 ```
 
 \--- /task \---
@@ -25,14 +25,15 @@ point towards (Earth v)
 ![Sprite 'Spaceship'](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Andiamo] for (2) seconds
-point towards (Earth v)
+quando si clicca sulla bandiera verde
+punta in direzione (0)
+vai a x: (-150) y: (-150)
+dire [Let's go] per (2) secondi
+punta verso (Earth v)
 
-+ repeat (200)
-    move (2) steps
++ ripeti (200) volte 
+fai (2) passi
+end
 ```
 
 Prova e salva il tuo codice. La tua astronave dovrebbe andare verso la Terra esattamente come prima, ma questa volta utilizza un blocco `ripeti`{:class="block3control"}.
