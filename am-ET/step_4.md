@@ -18,11 +18,11 @@ x ሂድ: (- 150) y: (- 150)
 
 \--- / task \---
 
-\--- task \--- Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
+\--- task \--- አሁን ` ድገም/ሚ ` {: class = "block3control"} ብሎክ በመጥቀም የጠፍር መጓጓዣ አውሮፕላኑን ወደ መሬት አንቀሳቅስ/ሺ?
 
 ![የ spacecraft እንቅስቃሴን መሞከር](images/space-animate-stage.png)
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![የጠፍር መጓጓዣ አውሮፕላን ስፕራይት](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
