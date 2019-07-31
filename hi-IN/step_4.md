@@ -1,10 +1,10 @@
 ## लूप्स का इस्तेमाल करके एनिमेट करना
 
-Another way to animate the spaceship is to tell it to move a small amount many times
+स्पेसशिप को एनिमेट करने का अन्य तरीका है कि इसे कई बार छोटी मात्रा में स्थानांतरित किया जाए।
 
-\--- task \--- Delete the `glide`{:class="block3motion"} block from your code. To do this, drag the block off the Code area and drop it back where the other single code blocks are.
+\---task\--- अपने कोड में से पर `फिसलें`{:class="block3motion"} ब्लॉक को delete (हटाएँ) कर दीजिये। इस कोड को हटाने के लिए, इस ब्लॉक को कोड क्षेत्र से खींचे और दुसरे कोड ब्लॉक के पास लजाईये।
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![स्पेसशिप स्प्राइट](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -18,11 +18,11 @@ point towards (Earth v)
 
 \--- /task \---
 
-\--- task \--- Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
+\--- task \--- अब `रिपीट`{:class="block3control"} ब्लॉक का उपयोग करके अपने अंतरिक्ष यान को पृथिवी के तरफ लाईये?
 
-![Testing a spaceship animation](images/space-animate-stage.png)
+![एक अंतरिक्ष यान एनीमेशन का परीक्षण](images/space-animate-stage.png)
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![स्पेसशिप स्प्राइट](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -35,15 +35,15 @@ point towards (Earth v)
     move (2) steps
 ```
 
-Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
+अपनी कोड को जाँच कर लीजिये और अपने कोड को बचा लीजिये। पिछली बार की तरह, आपकी अंतरिक्ष यान पृथ्वी की तरफ बढ़ना चाहिए पर इस बार एक `रिपीट`{:class="block3control"} ब्लॉक का उपयोग करके वही कार्य कर रहा है।
 
 \--- /task \---
 
-\--- task \--- Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
+\--- task \--- फिर अपने स्पेसशिप स्प्राइट में कोड जोड़िये ताकि आपकी अंतरिक्ष यान खुदकी रंग बदले जैसे वह पृथ्वी की तरफ बढ़ रहा है?
 
-Use this block:
+इस ब्लॉक का उपयोग करे:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![स्पेसशिप स्प्राइट](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -57,27 +57,27 @@ repeat (200)
 +    change [color v] effect by (25)
 ```
 
-Test and save your code.
+आपकी को कोड को जाँच करे और आगे बढिये।
 
-![Testing a colour-changing spaceship](images/space-colour-test.png)
+![रंग बदलने वाले अंतरिक्ष यान का परीक्षण करना](images/space-colour-test.png)
 
 \--- /task \---
 
-\--- task \--- Can you make your spaceship get smaller as it moves towards Earth?
+\--- task \--- क्या आप अपनी अंतरिक्ष यान को छोटा बना सकते है जैसे वह पृथ्वी की तरफ आये?
 
 \--- hints \---
 
 \--- hint \---
 
-Your spaceship should start at `100% size`{:class="blocklooks"}, and then `change size`{:class="blocklooks"} by a small amount each time it moves.
+आपकी अंतरिक्ष यान `100% size`{:class="blocklooks"} से शुरू होनी चाहिए, उसके बाद `साइज`{:class="blocklooks"} तोड़ी तोड़ी करके बदले जब तक आपकी अंतरिक्ष यान चल रही हैं।
 
 \--- /hint \---
 
 \--- hint \---
 
-You will need to add these blocks to your code:
+आपको अपनी कोड में यह ब्लॉक जोड़ना हैं:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![स्पेसशिप स्प्राइट](images/sprite-spaceship.png)
 
 ```blocks3
 change size by (10)
@@ -89,9 +89,9 @@ set size to (100) %
 
 \--- hint \---
 
-Your code should look like this:
+आपकी कोड कुछ इस तरह दिखनी चाहिए:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![स्पेसशिप स्प्राइट](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -107,12 +107,12 @@ repeat (200)
 +   change size by (-3)
 ```
 
-\--- /hint \---
+-- /hint \---
 
 \--- /hints \---
 
 \--- /task \---
 
-Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
+परीक्षण करें और सहेजें। आपकी स्पेसशिप स्थानांतरित होने पर छोटी दिखाई देनी चाहिए। **दूसरी बार** अपनी स्पेसशिप का परीक्षण करें। क्या आरंभ में इसका आकार उचित है?
 
-![Testing a shrinking spaceship](images/space-size-test.png)
+![एक सिकुड़ते अंतरिक्ष यान का परीक्षण](images/space-size-test.png)
