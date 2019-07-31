@@ -1,29 +1,28 @@
-## Döngüleri kullanarak animasyon
+## Döngüler kullanarak animasyon yapma
 
 Uzay gemisini canlandırmanın bir başka yolu, küçük bir miktarını birçok kez hareket ettirmesini söylemektir.
 
 \--- görev \--- `kayma`{: class = "block3motion"} bloğunu kodunuzdan silin. Bunu yapmak için, bloğu Kod alanından sürükleyin ve diğer tek kod bloklarının olduğu yere geri bırakın.
 
-![Uzay gemisi sprite](images/sprite-spaceship.png)
+![Uzay gemisi kuklası](images/sprite-spaceship.png)
 
 ```blocks3
-bayrak (0) yönünde
-noktasını tıklattığında
-, x: (- 150) y: (- 150)
-, [ 
- ] saniye boyunca [gidelim] deyin, (2) saniye boyunca
-noktaya (Dünya v)
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
 
-- kayma (1) sn. ila x: (0) y: (0)
+- glide (1) secs to x:(0) y:(0)
 ```
 
 \--- /task \---
 
-\--- task \--- Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
+\--- task \--- Şimdi bir `repeat`{:class="block3control"} bloğu kullanarak uzay geminizi Dünya'ya doğru ilerletin.
 
 ![Bir uzay gemisi animasyonunu test etme](images/space-animate-stage.png)
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Uzay gemisi kuklası](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -36,15 +35,15 @@ point towards (Earth v)
     move (2) steps
 ```
 
-Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
+Kodunuzu test edin ve kaydedin. Uzay geminiz, tam olarak eskisi gibi Dünya'ya doğru hareket etmeli, ancak bu sefer bir `repeat`{:class="block3control"} bloğu kullanıyor.
 
 \--- /task \---
 
-\--- task \--- Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
+\--- task \--- Şimdi kodunuzu uzay gemisi kuklasına ekleyin ki uzay gemisi Dünya'ya doğru hareket ederken rengi değişsin.
 
-Use this block:
+Bu bloğu kullanın:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Uzay gemisi kuklası](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -58,27 +57,27 @@ repeat (200)
 +    change [color v] effect by (25)
 ```
 
-Test and save your code.
+Kodunuzu test edin ve kaydedin.
 
-![Testing a colour-changing spaceship](images/space-colour-test.png)
+![Renk değiştiren bir uzay gemisinin test edilmesi](images/space-colour-test.png)
 
 \--- /task \---
 
-\--- task \--- Can you make your spaceship get smaller as it moves towards Earth?
+\--- task \--- Uzay geminizi Dünya'ya doğru hareket ettikçe küçültebilir misiniz?
 
 \--- hints \---
 
-\--- hint \---
+\---hint\---
 
-Your spaceship should start at `100% size`{:class="blocklooks"}, and then `change size`{:class="blocklooks"} by a small amount each time it moves.
+Uzay geminiz `%100 boyutta`{:class="blocklooks"} başlayıp daha sonra her hareket ettiğinde birazcık `boyutunu değiştirmeli`.
 
 \--- /hint \---
 
-\--- hint \---
+\---hint\---
 
-You will need to add these blocks to your code:
+Bu blokları kodunuza eklemeniz gerekiyor:
 
-![Uzay gemisi sprite](images/sprite-spaceship.png)
+![Uzay gemisi kuklası](images/sprite-spaceship.png)
 
 ```blocks3
 change size by (10)
@@ -88,11 +87,11 @@ set size to (100) %
 
 \--- /hint \---
 
-\--- hint \---
+\---hint\---
 
-Your code should look like this:
+Kodunuz şöyle görünmeli:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Uzay gemisi kuklası](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -110,10 +109,10 @@ repeat (200)
 
 \--- /hint \---
 
-\--- /hints \---
+\--- /hint \---
 
 \--- /task \---
 
-Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
+Kodunuzu test edin ve kaydedin. Uzay geminiz şimdi ilerledikçe küçülmelidir. Uzay geminizi **ikinci defa** test edin. Başladığında olması gereken boyutta mı?
 
-![Testing a shrinking spaceship](images/space-size-test.png)
+![Küçülen bir uzay gemisinin test edilmesi](images/space-size-test.png)
