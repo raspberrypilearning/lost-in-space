@@ -1,62 +1,62 @@
-## Animating a spaceship
+## Űrhajó animálása
 
-Your first step will be to create a spaceship that flies towards the Earth!
+Első lépésként hozz létre egy űrhajót, ami a Föld felé repül!
 
 \--- task \---
 
-Open a new Scratch project.
+Nyiss meg egy új Scratch projektet.
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
+**Online:** nyiss megy egy új online Scratch projektet itt:[rpf.io/scratch-new](http://rpf.io/scratchon){:target="_ blank"}.
 
-**Offline:** open a new project in the offline editor.
+**Offline:** nyiss egy új projektet az offline szerkesztőben.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Ha le szeretnéd tölteni és telepíteni a Scratch offline szerkesztőt, akkor azt itt találod: [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
-\--- task \--- Add 'rocketship' and 'Earth' sprites to your Stage.
+\--- task \--- Add hozzá a 'rocketship' és az 'Earth' szereplőt a játéktérhez.
 
-![Spaceship and Earth sprites](images/space-sprites.png)
+![Űrhajó és Föld szereplők](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
 \--- /task \---
 
-\--- task \--- Add the 'Stars' backdrop to your Stage.
+\--- task \--- Add hozzá a 'Stars' hátteret a játéktérhez.
 
-![A space backdrop](images/space-backdrop.png)
-
-\--- /task \---
-
-\--- task \--- Click on your spaceship sprite, and click on the **Costumes** tab.
-
-![Sprite costume](images/space-costume.png)
+![Egy űr háttér](images/space-backdrop.png)
 
 \--- /task \---
 
-\--- task \--- Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+\--- task \--- Kattints az űrhajó szereplőre, majd a **Jelmezek** fülre.
 
-![Rotating a costume](images/space-rotate.png)
+![Szereplő jelmez](images/space-costume.png)
 
 \--- /task \---
 
-\--- task \--- Add this code to your spaceship sprite:
+\--- task \--- Használd a **kijelölés** eszközt és rajzolj egy dobozt az egész űrhajó képe köré. Ezután kattints a **forgatásra** és forgasd el a képet az oldalára.
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Jelmez forgatása](images/space-rotate.png)
+
+\--- /task \---
+
+\--- task \--- Add hozzá ezt a kódot az űrhajó szereplőhöz:
+
+![Űrhajó szereplő](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-glide (1) secs to x:(0) y:(0)
+⚑-ra kattintáskor
+nézz (0) fokos irányba
+menj ide: x: (-150) y: (-150)
+mondd: [Indulás] (2) másodpercig
+nézz (Earth) felé
+csússz (1) mp-ig ide x: (0) y: (0)
 ```
 
-Change the numbers in the code blocks you've added so that the code is exactly the same as above.
+Módosítsd a kódblokkokban szereplő számokat úgy, hogy a kód pontosan megegyezzen a fentiekkel.
 
 \--- /task \---
 
-If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
+Ha rákattintasz a zöld zászlóra, látnod kell az űrhajót beszélni, fordulni és a játéktér középre csúszni.
 
-![Testing a spaceship animation](images/space-animate-stage.png)
+![Űrhajó animáció tesztelése](images/space-animate-stage.png)
