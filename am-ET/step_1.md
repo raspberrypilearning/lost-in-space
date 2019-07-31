@@ -1,16 +1,16 @@
 \--- አትም \---
 
-ይህ የ **ፕሮጀክቱ 3 ክሶርድ** ነው. በተጨማሪም የፕሮጀክቱ [የስኬታ 2 ቅጂ](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
+ይህ የፕሮጀክቱ **ስከራች 3** ስሪት ነው። በተጨማሪ [ የፕሮጀክቱ ስከራች 2 ስሪትም አለ](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2)።.
 
 \--- / no-print \---
 
 ## መግቢያ
 
-የራስዎን እነማ እንዴት እንደሚሰራ ማወቅ ይማራሉ!
+የራስህ/ሽ የሆነ አኒሜሽን እንዴት ፕሮግራም እንደሚደረግ ትማራለኽ/ሽ!
 
-### የምትሰሩት ነገር
+### የምትሰራው/ሪው ነገር
 
-\--- no-print \--- Animation ን ለማየት አረንጓዴ ሰንደቁ ላይ ጠቅ ያድርጉ.
+\--- no-print \--- አኒሜሽኑን ለማየት አረንጓዴ ሰንደቁ ላይ ጠቅ ያድርጉ.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -27,15 +27,15 @@
 
 ## \--- collapse \---
 
-## title: ምን እንደሚያስፈልግ
+## title: ምን እንደሚያስፈልግኽ/ሽ
 
 ### ሃርድ ዌር
 
-- Scratch 3 ማሄድ የሚችል ኮምፒውተር
+- ስክራች 3 ማሄድ የሚችል ኮምፒውተር
 
 ### ሶፍትዌር
 
-- በጥግ 3 (ወይ [መስመር](http://rpf.io/scratchon){: target = "_ blank"} ወይም [ከመስመር](http://rpf.io/scratchoff){: target = "_ blank"})
+- ስክራች 3 (ወይ [ኦንላይን](http://rpf.io/scratchon){: target = "_ blank"} ወይም [ኦፍላይን](http://rpf.io/scratchoff){: target = "_ blank"})
 
 ### የወረዱ
 
@@ -45,20 +45,20 @@
 
 ## \--- collapse \---
 
-## ርእሱ: ምን ይማራሉ
+## title: ምን እንደምትማር/ሪ
 
-- Use a repeat loop to animate a sprite in Scratch
-- Use a forever loop to repeat an animation indefinately
-- Understand that loops can be nested within each other
+- በስከራች ውስጥ ስፔራይትን ለማባዛት የድግግሞሽ ሉፕ ተጠቀም/ሚ
+- Use a forever loop to repeat an animation indefinitely
+- ሉፕዋች እርስ በርስ ውስጥ ሊሆኑ እንደሚችሉ ተረዳ/ጂ
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## ርእስ-ለአስተማሪዎች ተጨማሪ መረጃ
+## title: ለአስተማሪዎች የሚሆን ተጨማሪ መረጃ
 
-ይህንን ፕሮጀክት ማተም የሚያስፈልግዎ ከሆነ, [ለህት-ምቹ የሆነውን ስሪት](https://projects.raspberrypi.org/en/projects/lost-in-space/print){: target = "_ blank"} ይጠቀሙ.
+ይህንን ፕሮጀክት ማተም የሚያስፈልግ/ጊ ከሆነ, [ለህት-ምቹ የሆነውን ስሪት](https://projects.raspberrypi.org/en/projects/lost-in-space/print){: target = "_ blank"} ይጠቀሙ.
 
-You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+[ሙሉ ለሙሉ የተጠናቀውን ፕሮጀችት](http://rpf.io/p/en/lost-in-space-get) እዚ ማግኝት ትችላለህ/ሽ {:target="_black"}.
 
 \--- /collapse \---
