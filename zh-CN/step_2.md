@@ -4,13 +4,13 @@ Your first step will be to create a spaceship that flies towards the Earth!
 
 \--- task \---
 
-Open a new Scratch project.
+打开一个新的Scratch项目
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
+**在线： **在[rpf.io/scrath-new](http://rpf.io/scratchon)打开一个新的Scratch在线项目 { target="_blank"}。
 
-**Offline:** open a new project in the offline editor.
+**离线： **在离线编辑器中打开一个新项目。
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+如果您需要下载并安装Scratch离线编辑器，可以在[ rpf.io/scratchoff ](http://rpf.io/scratchoff)中获取 {：target="_blank"}。
 
 \--- /task \---
 
