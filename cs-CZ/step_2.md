@@ -1,62 +1,62 @@
 ## Animování kosmické lodi
 
-Your first step will be to create a spaceship that flies towards the Earth!
+Vašim prvním krokem bude vytvoření vesmírné lodi, která letí směrem k Zemi!
 
 \--- task \---
 
-Open a new Scratch project.
+Vytvořte nový projekt ve Scratchi.
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
+**Online:** vytvořte nový online Scratch projekt na [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
 
-**Offline:** open a new project in the offline editor.
+**Offline:** vytvořte nový projekt v offline editoru.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Scratch offline editor si můžete stáhnout na [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
-\--- task \--- Add 'rocketship' and 'Earth' sprites to your Stage.
+\--- task \--- Přidejte obrázky 'rocketship' a 'Earth' do Vaší scény.
 
-![Spaceship and Earth sprites](images/space-sprites.png)
+![Obrázky kosmické lodi a Země](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
 \--- /task \---
 
-\--- task \--- Add the 'Stars' backdrop to your Stage.
+\--- task \--- Přidejte pozadí 'Stars' na Vaší scénu.
 
-![A space backdrop](images/space-backdrop.png)
-
-\--- /task \---
-
-\--- task \--- Click on your spaceship sprite, and click on the **Costumes** tab.
-
-![Sprite costume](images/space-costume.png)
+![Vesmírné pozadí](images/space-backdrop.png)
 
 \--- /task \---
 
-\--- task \--- Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+\--- task \--- Klikněte na obrázek vesmírné lodě, a vyberte záložku **Kostýmy**.
 
-![Rotating a costume](images/space-rotate.png)
+![Obrázkový kostým](images/space-costume.png)
 
 \--- /task \---
 
-\--- task \--- Add this code to your spaceship sprite:
+\--- task \--- Použijte **šipku** a přetáhněte rámeček přes celý obrázek vesmírné lodě. Poté klikněte na **otočit** a otáčejte obrázek do té doby, než nebude na boku.
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Otočit kostým](images/space-rotate.png)
+
+\--- /task \---
+
+\--- task \--- Přidejte tento kód do obrázku raketové lodě:
+
+![Obrázek vesmírné lodi](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
 point in direction (0)
 go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
+say [Pojďme] for (2) seconds
 point towards (Earth v)
 glide (1) secs to x:(0) y:(0)
 ```
 
-Change the numbers in the code blocks you've added so that the code is exactly the same as above.
+Pozměňte čísla v blocích které jste přidali tak, aby byl kód stejný jako kód výše.
 
 \--- /task \---
 
-If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
+Pokud kliknete na zelenou vlajku, měli byste vidět raketovou loď mluvit, otočit se, a letět ke středu scény.
 
-![Testing a spaceship animation](images/space-animate-stage.png)
+![Testování animace vesmírné lodi](images/space-animate-stage.png)
