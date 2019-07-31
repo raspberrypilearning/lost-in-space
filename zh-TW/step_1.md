@@ -8,7 +8,7 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 你將學習如何編程你自己的動畫！
 
-### 你會做出
+### 你會做出:
 
 \--- no-print \--- Click on the green flag to see the animation.
 
@@ -48,7 +48,7 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 ## title: What you will learn
 
 - Use a repeat loop to animate a sprite in Scratch
-- Use a forever loop to repeat an animation indefinately
+- Use a forever loop to repeat an animation indefinitely
 - Understand that loops can be nested within each other
 
 - - 自動隱藏選單 - -
