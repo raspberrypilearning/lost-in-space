@@ -59,21 +59,21 @@ repeat (200)
 
 Test and save your code.
 
-![Testing a colour-changing spaceship](images/space-colour-test.png)
+![Isprobavanje svemirskog broda koji mijenja boju](images/space-colour-test.png)
 
 \--- /task \---
 
 \--- task \--- Can you make your spaceship get smaller as it moves towards Earth?
 
-\--- hints \---
+\--- pomoć \---
 
-\--- hint \---
+\--- pomoć \---
 
 Your spaceship should start at `100% size`{:class="blocklooks"}, and then `change size`{:class="blocklooks"} by a small amount each time it moves.
 
 \--- /hint \---
 
-\--- hint \---
+\--- pomoć \---
 
 You will need to add these blocks to your code:
 
@@ -87,9 +87,9 @@ set size to (100) %
 
 \--- /hint \---
 
-\--- hint \---
+\--- pomoć \---
 
-Your code should look like this:
+Tvoj kôd treba da izgleda ovako:
 
 ![Spaceship sprite](images/sprite-spaceship.png)
 
@@ -115,4 +115,4 @@ repeat (200)
 
 Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
 
-![Testing a shrinking spaceship](images/space-size-test.png)
+![Isprobavanje smanjivanja svemirskog broda](images/space-size-test.png)
