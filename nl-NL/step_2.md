@@ -6,17 +6,17 @@ Laten we beginnen met een ruimteschip te maken dat naar de aarde vliegt!
 
 Open een nieuw Scratch project.
 
-**Online:** open een nieuw online Scratch project op [rpf.io/scratchon](http://rpf.io/scratchon){:target="_blank"}.
+**Online:** open een nieuw online Scratch project op [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
 
 **Offline:** open een nieuw project in de offline editor.
 
-Als je de Scratch offline editor wilt downloaden en installeren dan kan je die vinden op [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Als je de Scratch offline editor wilt downloaden en installeren dan kun je die vinden op [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
 --- /task ---
 
 --- task --- Voeg de 'Rocketship' en 'Earth' sprites toe aan je speelveld.
 
-![Spaceship and Earth sprites](images/space-sprites.png)
+![Rocketship en Earth sprites](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -24,19 +24,19 @@ Als je de Scratch offline editor wilt downloaden en installeren dan kan je die v
 
 --- task --- Voeg de achtergrond 'Stars' toe aan je speelveld.
 
-![A space backdrop](images/space-backdrop.png)
+![Een ruimteachtergrond](images/space-backdrop.png)
 
 --- /task ---
 
 --- task--- Klik eerst op de sprite van je ruimteschip, en klik dan op de tab **Uiterlijken**.
 
-![Sprite costume](images/space-costume.png)
+![Sprite uiterlijk](images/space-costume.png)
 
 --- /task ---
 
 --- task --- Gebruik het **pijl**-gereedschap om het hele ruimteschip te selecteren. Doe dit door te klikken en een rechthoek te slepen rond het ruimteschip. Klik daarna op het ronde **draai**-handvat, en draai de afbeelding tot die op zijn kant ligt.
 
-![Rotating a costume](images/space-rotate.png)
+![Een uiterlijk draaien](images/space-rotate.png)
 
 --- /task ---
 
@@ -59,4 +59,4 @@ Wijzig de getallen in de codeblokken die je hebt toevoegd zodat de code precies 
 
 Als je op de groene vlag klikt zie je het ruimteschip praten en zie je het draaien en glijden naar het midden van het speelveld.
 
-![Testing a spaceship animation](images/space-animate-stage.png)
+![Een ruimteschip-animatie testen](images/space-animate-stage.png)
