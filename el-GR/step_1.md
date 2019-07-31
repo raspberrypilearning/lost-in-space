@@ -47,8 +47,8 @@
 
 ## title: Τι θα μάθεις
 
-- Να χρησιμοποιείς έναν βρόχο επανάληψης για να δώσεις κίνηση σε ένα σχέδιο στην Scratch
-- Να χρησιμοποιείς ένα βρόχο "για πάντα", ώστε να επαναλαμβάνεις την κίνηση επ' άπειρον.
+- Να χρησιμοποιείς έναν βρόχο επανάληψης για να δώσεις κίνηση σε ένα σχέδιο στο Scratch
+- Use a forever loop to repeat an animation indefinitely
 - Να αντιλαμβάνεσαι ότι οι βρόχοι μπορούν να ενθυλακώνονται.
 
 \--- /collapse \---
@@ -59,6 +59,6 @@
 
 Αν χρειαστεί να εκτυπώσεις αυτό το έργο, χρησιμοποίησε την [εκτυπώσιμη έκδοση](https://projects.raspberrypi.org/en/projects/lost-in-space/print)"}.
 
-You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+Μπορείς να βρεις [το ολοκληρωμένο έργο εδώ](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
 \--- /collapse \---
