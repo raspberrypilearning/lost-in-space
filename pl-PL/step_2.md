@@ -6,7 +6,7 @@ Pierwszym krokiem będzie stworzenie statku kosmicznego lecącego w kierunku Zie
 
 Otwórz nowy projekt Scratch.
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
+**Online:** otwórz nowy projekt Scratcha na stronie [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
 
 **Offline:** otwórz nowy projekt w edytorze offline.
 
@@ -14,15 +14,15 @@ Jeśli musisz pobrać i zainstalować edytor Scratcha, znajdziesz go na stronie 
 
 \--- /task \---
 
-\--- task \--- Dodaj duchy "rocketship" i "Earth" do swojego stołu montażowego.
+\--- task \--- Dodaj duchy "Rocketship" i "Earth" do swojej Sceny.
 
-![Spaceship i Earth Spites](images/space-sprites.png)
+![Duszki Spaceship i Earth](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
 \--- /task \---
 
-\--- task \--- Dodaj tło "Stars" do stołu montażowego.
+\--- task \--- Dodaj tło "Stars" do swojej Sceny.
 
 ![Tło przestrzeni](images/space-backdrop.png)
 
@@ -30,7 +30,7 @@ Jeśli musisz pobrać i zainstalować edytor Scratcha, znajdziesz go na stronie 
 
 \--- task \--- Kliknij na ikonkę statku kosmicznego i kliknij na zakładkę **Costumes**.
 
-![Kostium Sprite](images/space-costume.png)
+![Kostium duszka](images/space-costume.png)
 
 \--- /task \---
 
@@ -40,23 +40,23 @@ Jeśli musisz pobrać i zainstalować edytor Scratcha, znajdziesz go na stronie 
 
 \--- /task \---
 
-\--- task \--- Dodaj ten kod do swojego sprita statku kosmicznego:
+\--- task \--- Dodaj ten kod do swojego duszka statku kosmicznego:
 
-![Spitehip sprite](images/sprite-spaceship.png)
+![Duszek Spaceship](images/sprite-spaceship.png)
 
 ```blocks3
-kiedy flaga kliknęła
-punktów w kierunku (0)
-przejdź do x: (- 150) y: (- 150)
-powiedz [Chodźmy] na (2) sekundy
-punkty w kierunku (Ziemia v)
-przesuniecie (1) seksu do x: (0) y: (0)
+kiedy flaga kliknięty
+ustaw kierunek na (0)
+idź do x: (- 150) y: (- 150)
+powiedz [Chodźmy] przez (2) sekundy
+ustaw w kierunku duszka (Ziemia v)
+leć przez (1) sekund do x: (0) y: (0)
 ```
 
 Zmień liczby w dodanych blokach kodu, aby kod był dokładnie taki sam jak powyżej.
 
 \--- /task \---
 
-Jeśli klikniesz zieloną flagę, powinieneś zobaczyć, jak statek kosmiczny mówi, skręca i ślizga się w kierunku środka sceny.
+Jeśli klikniesz zieloną flagę, powinieneś zobaczyć, jak statek kosmiczny mówi, skręca i leci w kierunku środka sceny.
 
 ![Testowanie animacji statku kosmicznego](images/space-animate-stage.png)
