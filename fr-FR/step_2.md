@@ -1,12 +1,12 @@
 ## Animer un vaisseau spatial
 
-Ton premier pas sera de créer un vaisseau spatial qui vole vers la Terre!
+Ton premier objectif sera de créer un vaisseau spatial qui vole vers la Terre!
 
 \--- task \---
 
 Ouvre un nouveau projet Scratch.
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
+** En ligne :** ouvre un nouveau projet Scratch en ligne à [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
 
 **Hors ligne:** ouvre un nouveau projet dans l'éditeur hors ligne.
 
@@ -14,9 +14,9 @@ Si tu dois télécharger et installer l'éditeur hors ligne Scratch, tu peux le 
 
 \--- /task \---
 
-\--- Ajoute des lutins «vaisseau spatial» et «Terre» à la scène.
+\--- task \--- Ajoute des sprites 'fusée' et 'Terre' à votre scène.
 
-![Les lutins Vaisseau Spatial et Terre](images/space-sprites.png)
+![Les sprites Vaisseau Spatial et Terre](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -28,9 +28,9 @@ Si tu dois télécharger et installer l'éditeur hors ligne Scratch, tu peux le 
 
 \--- /task \---
 
-\--- task \--- Clique sur ton lutin de vaisseau spatial, puis sur l'onglet **Costumes**.
+\--- task \--- Clique sur ton sprite vaisseau spatial, et clique sur l'onglet **Costumes** .
 
-![Costume de lutin](images/space-costume.png)
+![Costume de Sprite](images/space-costume.png)
 
 \--- /task \---
 
@@ -42,13 +42,13 @@ Si tu dois télécharger et installer l'éditeur hors ligne Scratch, tu peux le 
 
 \--- task \--- Ajoute ce code à ton lutin de vaisseau spatial:
 
-![Lutin de vaisseau spatial](images/sprite-spaceship.png)
+![Sprite de vaisseau spatial](images/sprite-spaceship.png)
 
 ```blocks3
 quand le drapeau vert pressé
 s'orienter en direction de (0)
 aller à x: (-150) y: (-150)
-dire [Let's go] pendant (2) secondes
+dire [c'est parti !] pendant (2) secondes
 s'orienter vers (Earth v)
 glisser en (1) secondes à x: (0) y: (0)
 ```
