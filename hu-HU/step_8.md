@@ -1,7 +1,7 @@
-## Challenge: make your own animation
+## Kihívás: készíts saját animációt
 
-Stop your space animation, save it, and start a new Scratch project.
+Állítsd le az űr animációdat, ments el és kezd el egy új Scratch projektet.
 
-Use what you've learned in this project to make your own animation. It can be anything you like, but try to make your animation match the background you choose. Here are some examples:
+Használd a projektben tanultakat, hogy saját animációt készíts. Bármi lehet, amit szeretnél, de próbáld meg az animációt a választott háttérnek megfelelően elkészíteni. Íme néhány példa:
 
-![screenshot](images/space-egs.png)
+![képernyőkép](images/space-egs.png)
