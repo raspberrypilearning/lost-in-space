@@ -12,101 +12,74 @@ when flag clicked point in direction (0) go to x:(-150) y:(-150) say [Let's go] 
 
 \--- /task \---
 
-\--- task \--- Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
+\--- task \--- האם תוכלו להשתמש בבלוק של` חזור שוב ` {: class = "block3control"} כדי להעביר את החללית שלכם לעבר כדור הארץ?
 
 ![בדיקת אנימצית חללית](images/space-animate-stage.png)
-
-![Spaceship sprite](images/sprite-spaceship.png)
-
-```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-
-+ repeat (200)
-    move (2) steps
-```
-
-Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
-
-\--- /task \---
-
-\--- task \--- Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
-
-Use this block:
-
-![Spaceship sprite](images/sprite-spaceship.png)
-
-```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-repeat (200)
-    move (2) steps
-
-+    change [color v] effect by (25)
-```
-
-Test and save your code.
-
-![Testing a colour-changing spaceship](images/space-colour-test.png)
-
-\--- /task \---
-
-\--- task \--- Can you make your spaceship get smaller as it moves towards Earth?
-
-\--- hints \---
-
-\--- hint \---
-
-Your spaceship should start at `100% size`{:class="blocklooks"}, and then `change size`{:class="blocklooks"} by a small amount each time it moves.
-
-\--- /hint \---
-
-\--- hint \---
-
-You will need to add these blocks to your code:
 
 ![דמות חללית](images/sprite-spaceship.png)
 
 ```blocks3
-change size by (10)
+when flag clicked point in direction (0) go to x:(-150) y:(-150) say [Let's go] for (2) seconds point towards (Earth v) + repeat (200)     move (2) steps
+```
 
-set size to (100) %
+בידקו את הקוד שלכם ושמרו אותו. החללית שלכם צריכה לנוע לעבר כדור הארץ בדיוק כמו קודם, אבל הפעם השתמשו בבלוק ` חזור שוב ` {: class = "block3control"}.
+
+\--- /task \---
+
+\--- task \--- האם תוכלו להוסיף קוד לדמות החללית שלכם, כך שהחללית תשנה צבע בזמן שהיא נעה לעבר כדור הארץ?
+
+השתמשו בבלוק זה:
+
+![דמות חללית](images/sprite-spaceship.png)
+
+```blocks3
+when flag clicked point in direction (0) go to x:(-150) y:(-150) say [Let's go] for (2) seconds point towards (Earth v) repeat (200)     move (2) steps + change [color v] effect by (25)
+```
+
+בדקו את הקוד שלכם ושמרו אותו.
+
+![בדיקת חללית בצבע משתנה](images/space-colour-test.png)
+
+\--- /task \---
+
+\--- task \--- האם תוכלו לגרום לחללית שלכם לקטון ככל שהיא מתקרבת לכדור הארץ?
+
+\--- hints \---
+
+\--- hints \---
+
+החללית שלכם צריכה להתחיל ב ` גודל 100% ` {: class = "blocklooks"}, ולאחר מכן ` שינוי גודל ` {: class = "blocklooks"} בצורה הדרגתית תוך כדי תנועה.
+
+\--- /hint \---
+
+\--- hint \---
+
+יהיה עליכם להוסיף את הבלוקים האלה לקוד שלכם:
+
+![דמות חללית](images/sprite-spaceship.png)
+
+```blocks3
+change size by (10) set size to (100) %
 ```
 
 \--- /hint \---
 
 \--- hint \---
 
-Your code should look like this:
+בשלב הזה, הקוד שלכם צריך להיראות בערך כך:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![דמות חללית](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-set size to (100) %
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-repeat (200)
-    move (2) steps
-    change [color v] effect by (25)
-
-+   change size by (-3)
+when flag clicked set size to (100) % point in direction (0) go to x:(-150) y:(-150) say [Let's go] for (2) seconds point towards (Earth v) repeat (200)     move (2) steps     change [color v] effect by (25) + change size by (-3)
 ```
 
 \--- /hint \---
 
-\--- /hints \---
+\--- / hints \---
 
 \--- /task \---
 
-Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
+בדוק את הקוד שלך ושמור אותו. החללית שלך צריכה לקטון ככל שהיא מתקרבת לכדור הארץ. בדוק את החללית שלך ** בפעם השנייה **. האם היא בגודל הנכון כאשר מתחילים שוב?
 
-![Testing a shrinking spaceship](images/space-size-test.png)
+![בדיקת חללית בגודל משתנה](images/space-size-test.png)
