@@ -48,7 +48,7 @@
 ## शीर्षकः आपण काय शिकलात
 
 - Use a repeat loop to animate a sprite in Scratch
-- Use a forever loop to repeat an animation indefinately
+- Use a forever loop to repeat an animation indefinitely
 - Understand that loops can be nested within each other
 
 \--- / संकुचित \---
