@@ -1,4 +1,4 @@
-## Animeren met behulp van lussen
+## Animatie met lussen
 
 Een andere manier om het ruimteschip te laten bewegen is het te vertellen dat het vele kleine stapjes moet zetten
 
@@ -18,43 +18,42 @@ richt naar (Earth v)
 
 \--- /task \---
 
-\--- task \--- Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
+\--- task \--- Gebruik nu een `herhaal`{:class="block3control"} blok om je ruimteschip naar de aarde te bewegen?
 
-![Testing a spaceship animation](images/space-animate-stage.png)
+![Een ruimteschip-animatie testen](images/space-animate-stage.png)
 
 ![Ruimteschip sprite](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
+wanneer groene vlag wordt aangeklikt
+richt naar (0) graden
+ga naar x: (-150) y: (-150)
+zeg [We gaan!] (2) sec.
+richt naar (Aarde v)
 
-+ repeat (200)
-    move (2) steps
++ herhaal (200) 
+   neem (2) stappen
 ```
 
 Test en bewaar je code. Je ruimteschip zou nog steeds naar de aarde moeten bewegen, maar nu met een `herhaal`{:class="block3control"}-blok.
 
 \--- /task \---
 
-\--- task \--- Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
+\--- task \--- Voeg vervolgens code toe aan je ruimteschip sprite, zodat het ruimteschip van kleur verandert terwijl het naar de aarde beweegt?
 
 Gebruik dit blok:
 
 ![Ruimteschip sprite](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-repeat (200)
-    move (2) steps
-
-+    change [color v] effect by (25)
+wanneer groene vlag wordt aangeklikt
+richt naar (0) graden
+ga naar x: (-150) y: (-150)
+zeg [We gaan!] (2) sec.
+richt naar (Aarde v)
+herhaal (200) 
+  neem (2) stappen
++ verander [kleur v] -effect met (25)
 ```
 
 Test en sla je code op.
@@ -69,13 +68,13 @@ Test en sla je code op.
 
 \--- hint \---
 
-Your spaceship should start at `100% size`{:class="blocklooks"}, and then `change size`{:class="blocklooks"} by a small amount each time it moves.
+Je ruimteschip moet starten op `100% grootte`{:class="block3looks"}, en vervolgens `verander grootte`{:class="block3looks"} met een klein aantal wanneer het beweegt.
 
 \--- /hint \---
 
 \--- hint \---
 
-You will need to add these blocks to your code:
+Je moet deze blokken toevoegen aan je code:
 
 ![Ruimteschip sprite](images/sprite-spaceship.png)
 
@@ -94,17 +93,16 @@ Je code zou er als volgt uit moeten zien:
 ![Ruimteschip sprite](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-set size to (100) %
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-repeat (200)
-    move (2) steps
-    change [color v] effect by (25)
-
-+   change size by (-3)
+wanneer groene vlag wordt aangeklikt
+maak grootte (100) %
+richt naar (0) graden
+ga naar x: (-150) y: (-150)
+zeg [We gaan!] (2) sec.
+richt naar (Aarde v)
+herhaal (200) 
+  neem (2) stappen
+  verander [kleur v] -effect met (25)
++ verander grootte met (-3)
 ```
 
 \--- /hint \---
