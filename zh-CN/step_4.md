@@ -59,13 +59,13 @@ repeat (200)
 
 Test and save your code.
 
-![Testing a colour-changing spaceship](images/space-colour-test.png)
+![测试飞船变色](images/space-colour-test.png)
 
 \--- /task \---
 
 \--- task \--- Can you make your spaceship get smaller as it moves towards Earth?
 
-\--- hints \---
+\--- hint \---
 
 \--- hint \---
 
@@ -89,7 +89,7 @@ set size to (100) %
 
 \--- hint \---
 
-Your code should look like this:
+你的代码应该像这样：
 
 ![Spaceship sprite](images/sprite-spaceship.png)
 
@@ -109,10 +109,10 @@ repeat (200)
 
 \--- /hint \---
 
-\--- /hints \---
+\--- /hint \---
 
 \--- /task \---
 
 Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
 
-![Testing a shrinking spaceship](images/space-size-test.png)
+![测试飞船变小](images/space-size-test.png)
