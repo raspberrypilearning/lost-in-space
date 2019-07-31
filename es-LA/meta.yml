@@ -12,22 +12,20 @@ steps:
   - 
     title: Perdidos en el espacio
   - 
-    title: Animating a spaceship
+    title: Animación de una nave espacial
   - 
-    title: 'Challenge: improve your animation'
+    title: 'Desafío: Mejora tu animación'
     challenge: true
   - 
-    title: Animation using loops
+    title: Animar utilizando bucles
   - 
-    title: Floating monkey
+    title: Mono flotante
   - 
-    title: Bouncing asteroid
+    title: Un asteroide que rebota
   - 
-    title: Shining star
+    title: Una estrella brillante
   - 
-    title: 'Challenge: make your own animation'
+    title: 'Desafío: Haz tu propia animación'
     challenge: true
-  - 
-    title: Test yourself
   - 
     title: What next?
