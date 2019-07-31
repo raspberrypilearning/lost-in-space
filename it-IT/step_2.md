@@ -14,9 +14,9 @@ Se hai bisogno di scaricare ed installare l'editor Scratch offline, puoi trovarl
 
 \--- /task \---
 
-\--- task \--- Aggiungi gli sprite 'rocketship' e 'Earth' al tuo Stage.
+\--- task \--- Aggiungi gli sprite 'Rocketship' e 'Earth' al tuo Stage.
 
-![Sprite 'Spaceship' e 'Earth'](images/space-sprites.png)
+![Sprite 'Rocketship' e 'Earth'](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -48,12 +48,12 @@ Se hai bisogno di scaricare ed installare l'editor Scratch offline, puoi trovarl
 quando si clicca sulla bandiera verde
 punta in direzione (0)
 vai a x: (-150) y: (-150)
-dire [Let's go] per (2) secondi
+dire [Andiamo] per (2) secondi
 punta verso (Earth v)
 scivola in (1) secondi a x: (0) y: (0)
 ```
 
-Cambia i numeri nei blocchi di codice, che hai aggiunto, in modo che il codice sia esattamente lo stesso di cui sopra.
+Cambia i numeri nei blocchi di codice, che hai aggiunto, in modo che sia esattamente lo stesso di cui sopra.
 
 \--- /task \---
 
