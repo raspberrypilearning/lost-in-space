@@ -1,16 +1,16 @@
-## Challenge: improve your animation
+## Kihívás: fejleszd az animációdat
 
-Can you change the numbers in your animation code so that:
+Meg tudod változtatni a számokat az animáció kódjában úgy, hogy:
 
-+ The spaceship moves until it touches the Earth?
-+ The spaceship moves more slowly towards the Earth?
++ az űrhajó addig mozogjon, amíg megérinti a Földet?
++ az űrhajó lassabban mozogjon a Föld felé?
 
-You'll need to change the numbers in this block:
+Meg kell változtatnod a számokat ebben a blokkban:
 
-![Rocketship sprite](images/sprite-spaceship.png)
+![Űrhajó szereplő](images/sprite-spaceship.png)
 
 ```blocks3
-glide (1) secs to x:(0) y:(0)
+csússz (1) mp-ig ide x: (0) y: (0)
 ```
 
 [[[generic-scratch3-coordinates]]]
