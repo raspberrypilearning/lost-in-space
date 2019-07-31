@@ -31,12 +31,12 @@ Cuando se hace clic en la bandera verde ** **, tu figura del mono debería ** gi
 Aquí están los bloques de código que necesitas:
 
 ```blocks3
-forever
-end
+siempre
+fin
 
-turn cw (15) degrees
+gire (15) grado en onda contínua
 
-when flag clicked
+cuando seleccione el indicador
 ```
 
 \--- /hint \--- \--- hint \---
