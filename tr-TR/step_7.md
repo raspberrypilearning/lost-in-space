@@ -1,49 +1,47 @@
 ## Parlayan yıldız
 
-Şimdi parlayan bir yıldız yapmak için döngüler birleştireceksiniz.
+Şimdi parlayan bir yıldız yapmak için döngüleri birleştireceksiniz.
 
-\--- görev \--- Sahnene bir 'yıldız' sprite ekle
+\--- task \--- Sahnene bir 'yıldız' kuklası ekle.
 
-![Bir yıldız grafiği ekleme](images/space-star-sprite.png)
+![Bir yıldız kuklası ekleme](images/space-star-sprite.png)
 
-\--- /görev \---
+\--- /task \---
 
-\--- görev \--- Yıldızı tekrar tekrar büyütmek ve küçültmek için yıldız sprite kodunuzu ekleyebilir misiniz?
+\--- task \--- Yıldızı sürekli olarak büyütüp küçültmek için yıldız kuklanıza bir kod ekleyebilir misiniz?
 
-![Parlayan bir yıldızı test etmek](images/sprite-star.png)
+![Parlayan bir yıldızı test etme](images/sprite-star.png)
 
-\--- ipuçları \--- \--- ipucu \--- yeşil **bayrak tıklandığında**, yıldızını sprite gerekir **değişiklik boyutu** birkaç kat büyük olsun, sonra **değişim boyutu** küçük a almak Birkaç kez. Daha büyük ve daha sonra küçülür, böylece bu yapmalıyım **sonsuza** ve ışığı parlıyor gibi görünüyor. \--- / hint \--- \--- hint \--- İhtiyacınız olan kod blokları:
-
-```blocks3
-bayrak
-
-tıklatıldığında tekrar (10)
-son
-
-
-
- tekrar (10)
-son
-
-değişiklik boyutu (10)
-
-değişiklik boyutu (10)
-
-daima
-```
-
-\--- / ipucu \--- \--- ipucu \--- İşte yıldızınızı büyütmek ve küçültmek için kullanılan kod: ![Yıldız sprite](images/sprite-star.png)
+\--- hints \--- \--- hint \--- Yeşil **bayrak tıklandığında**, yıldız kuklan önce biraz büyümek için **boyut değiştirir**, sonra da biraz küçülmek için **boyut değiştirir**. Bunu yapmalı ki **sonsuza kadar** büyüyüp küçülerek parlayan bir yıldız gibi gözüksün. \--- /hint \--- \--- hint \--- İhtiyacınız olan kod blokları:
 
 ```blocks3
-bayrak
-sonsuza kadar tıklandığında
-    tekrarla (20)
-        değişiklik boyutunu (2)
-    bitiş
-    tekrarla (20)
-        değişiklik boyutunu (-2)
-    bitiş
+repeat (10)
+end
+
+when flag clicked
+
+repeat (10)
+end
+
+change size by (10)
+
+change size by (10)
+
+forever
+```
+
+\--- /hint \--- \--- hint \--- İşte yıldızınızı büyütüp küçültmek için kullanabileceğiniz kod: ![Yıldız kuklası](images/sprite-star.png)
+
+```blocks3
+when flag clicked
+forever
+    repeat (20)
+        change size by (2)
+    end
+    repeat (20)
+        change size by (-2)
+    end
 
 ```
 
-\--- / ipucu \--- \--- / ipuçları \--- \--- / görev \---
+\--- /hint \--- \--- /hints \--- \--- /task \---
