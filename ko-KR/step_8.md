@@ -2,6 +2,6 @@
 
 우주 애니매이션을 멈추고, 저장하고, 새로운 스크래치 프로젝트를 만드세요.
 
-Use what you've learned in this project to make your own animation. It can be anything you like, but try to make your animation match the background you choose. Here are some examples:
+나만의 애니메이션을 만들기 위해 여태 배운 것을 사용해보세요. 무엇이든 좋아하는 것을 사용할 수 있지만, 설정에 맞게 만들도록 해주세요. 여기 몇가지 예가 있습니다:
 
 ![스크린샷](images/space-egs.png)
