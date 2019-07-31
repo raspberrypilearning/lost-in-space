@@ -48,7 +48,7 @@ Esta es la versión **Scratch 3** del proyecto. También existe una version [Scr
 ## title: Lo que aprenderás
 
 - Use a repeat loop to animate a sprite in Scratch
-- Use a forever loop to repeat an animation indefinately
+- Use a forever loop to repeat an animation indefinitely
 - Understand that loops can be nested within each other
 
 \--- /collapse \---
@@ -59,6 +59,6 @@ Esta es la versión **Scratch 3** del proyecto. También existe una version [Scr
 
 Si necesitas imprimir este proyecto, usa la [versión para imprimir](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
-You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+Puedes encontrar el [ proyecto completo aquí ](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
 \--- /collapse \---
