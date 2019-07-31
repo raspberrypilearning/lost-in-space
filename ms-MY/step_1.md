@@ -48,7 +48,7 @@ Anda akan belajar bagaimana untuk memprogram animasi anda sendiri!
 ## tajuk: Apa yang akan anda pelajari
 
 - Use a repeat loop to animate a sprite in Scratch
-- Use a forever loop to repeat an animation indefinately
+- Use a forever loop to repeat an animation indefinitely
 - Understand that loops can be nested within each other
 
 \--- / runtuh \---
