@@ -22,7 +22,7 @@ point towards (Earth v)
 
 ![Probando una animación de la nave espacial](images/space-animate-stage.png)
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Figura de nave espacial](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -35,15 +35,15 @@ point towards (Earth v)
     move (2) steps
 ```
 
-Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
+Prueba y guarda: Tu nave espacial debería moverse hacia la Tierra exactamente como antes, esta vez usando un bloque de `repetición`.
 
-\--- /task \---
+\--- / tarea \---
 
 \--- task \--- Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
 
-Use this block:
+Usa este bloque:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Figura de nave espacial](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -57,13 +57,13 @@ repeat (200)
 +    change [color v] effect by (25)
 ```
 
-Test and save your code.
+Prueba y guarda tu proyecto.
 
-![Testing a colour-changing spaceship](images/space-colour-test.png)
+![Probando una nave espacial que cambia de color](images/space-colour-test.png)
 
-\--- /task \---
+\--- / tarea \---
 
-\--- task \--- Can you make your spaceship get smaller as it moves towards Earth?
+\--- task \--- ¿Puedes hacer que tu nave espacial se haga más pequeña a medida que llega a la Tierra?
 
 \--- hints \---
 
@@ -89,9 +89,9 @@ set size to (100) %
 
 \--- hint \---
 
-Your code should look like this:
+Su código debe parecerse a esto:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Figura de nave espacial](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -109,10 +109,10 @@ repeat (200)
 
 \--- /hint \---
 
-\--- /hints \---
+\--- / consejos \---
 
-\--- /task \---
+\--- / tarea \---
 
-Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
+Prueba y guarda tu código. Tu nave espacial ahora debería hacerse más pequeña a medida que se mueve. Prueba tu nave espacial una ** segunda vez **. ¿Es el tamaño correcto cuando comienza?
 
-![Testing a shrinking spaceship](images/space-size-test.png)
+![Probando una nave espacial que cambia de tamaño](images/space-size-test.png)
