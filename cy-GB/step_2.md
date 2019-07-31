@@ -6,7 +6,7 @@ Y cam cyntaf fydd creu llong ofod sy'n hedfan tuag at y Ddaear!
 
 Agor prosiect Scratch newydd.
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
+**Arlein:** agora brosiect Scratch newydd yma [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
 
 **All-lein** agora brosiect newydd yn y golygydd all-lein.
 
@@ -48,7 +48,7 @@ Os oes angen i ti lawrlwytho a gosod golygydd Scratch all-lein, mae modd dod o h
 pan fo'r flag werdd yn cael ei glicio
 pwyntio i gyfeiriad (0)
 mynd i x: (-150) y: (-150)
-dweud [Let's go] am (2) eiliad
+dweud [Awn ni!] am (2) eiliad
 pwyntio tuag at (Earth v)
 llithro (1) eiliad i x: (0) y: (0)
 ```
