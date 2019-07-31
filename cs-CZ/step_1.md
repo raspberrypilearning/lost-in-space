@@ -1,6 +1,6 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
+Tento projekt je vytvořen v **Scratch 3**. Také existuje verze vytvořená v [Scratch 2](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
 
 \--- /no-print \---
 
@@ -10,7 +10,7 @@ Nyní se naučíš programovat vlastní animace!
 
 ### Co budeš dělat
 
-\--- no-print \--- Click on the green flag to see the animation.
+\--- no-print \--- Klikni na zelenou vlajku pro zobrazení animace.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -37,9 +37,9 @@ Nyní se naučíš programovat vlastní animace!
 
 - Scratch 3 (buď [online](http://rpf.io/scratchon){:target="_blank"} nebo [offline](http://rpf.io/scratchoff){:target="_blank"} verzi"})
 
-### Downloads
+### Ke stažení
 
-- None
+- Nic
 
 \--- /collapse \---
 
@@ -47,18 +47,18 @@ Nyní se naučíš programovat vlastní animace!
 
 ## title: Co se naučíte
 
-- Use a repeat loop to animate a sprite in Scratch
-- Use a forever loop to repeat an animation indefinately
-- Understand that loops can be nested within each other
+- Používat nekonečnou smyčku pro animaci obrázku ve Scratchi
+- Use a forever loop to repeat an animation indefinitely
+- Pochopíte že smyčky se můžou do sebe vnořovat
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: Přídavné informace pro učitele
 
 Potřebujete-li tento projekt vytisknout, použijte verzi [pro tisk](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
-You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+Celý projekt můžete najít [zde](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
 \--- /collapse \---
