@@ -59,7 +59,7 @@ repeat (200)
 
 Test and save your code.
 
-![Testing a colour-changing spaceship](images/space-colour-test.png)
+![測試變色太空船](images/space-colour-test.png)
 
 \--- /task \---
 
@@ -115,4 +115,4 @@ repeat (200)
 
 Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
 
-![Testing a shrinking spaceship](images/space-size-test.png)
+![測試一艘正在縮小的太空船](images/space-size-test.png)
