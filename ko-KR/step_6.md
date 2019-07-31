@@ -1,49 +1,49 @@
 ## 튀어다니는 소행성
 
-Now you will add a floating space rock to your animation.
+우주에서 떠다니는 암석을 추가해봅시다.
 
-\--- task \--- Add a 'rock' sprite to your animation.
+\--- task \--- 애니매이션에 '돌(rock)' 스프라이트를 추가해주세요.
 
 ![돌 스프라이트 추가하기](images/space-rock-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Can you add code for your rock sprite so that the rock bounces around the stage?
+\--- task \--- 돌 스프라이트에 코드를 추가하여 돌이 무대 주위로 튀도록 할 수 있습니까?
 
 ![튀어다니는 돌 테스트](images/space-bounce-test.png)
 
-\--- hints \--- \--- hint \--- 녹색 **깃발을 누르면** 돌 스프라이트는 **영원히** 무대를 **움직이며** **튀어다닙니다**. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
+\--- hints \--- \--- hint \--- 녹색 **깃발을 누르면** 돌 스프라이트는 **영원히** 무대를 **움직이며** **튀어다닙니다**. \--- /hint \--- \--- hint \--- 사용할 수 있는 코드 블럭의 종류가 두 가지 있어요:
 
 ```blocks3
-move (10) steps
+(10) 만큼 움직이기
 
-if on edge bounce
+벽에 닿으면 튕기기
 
-when flag clicked
+flag 클릭했을 때
 
-forever
+무한 반복
 ```
 
-You can also set a more interesting starting direction for the rock sprite with one of these blocks:
+다음 블록 중 하나를 사용하여 돌 스프라이트에 대한 더 흥미로운 시작 방향을 설정할 수도 있습니다.
 
 ```blocks3
-turn cw (15) degrees
+cw 방향으로 (15) 도 회전하기
 
-point towards (Earth v)
+(Earth v) 쪽 보기
 ```
 
 \--- /hint \--- \--- hint \---
 
-Here's the code for making your rock bounce around the stage:
+다음은 무대에서 돌이 튀어 나오게하는 코드입니다.
 
-![Rock sprite](images/sprite-rock.png)
+![돌 스프라이트](images/sprite-rock.png)
 
 ```blocks3
-when flag clicked
-point towards (Earth v)
-forever
-    move (2) steps
-    if on edge, bounce
+flag 클릭했을 때
+(Earth v) 쪽 보기
+무한 반복
+    (2) 만큼 움직이기
+    벽에 닿으면 튕기기
 ```
 
 \--- /hint \--- \--- /hints \--- \--- /task \---
