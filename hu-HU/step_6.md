@@ -1,49 +1,50 @@
-## Bouncing asteroid
+## Pattogó aszteroida
 
-Now you will add a floating space rock to your animation.
+Következő lépésként adj hozzá egy lebegő aszteroidát az animációdhoz.
 
-\--- task \--- Add a 'rock' sprite to your animation.
+\--- task \--- Adj hozzá egy 'rock' szereplőt az animációhoz.
 
-![Adding a rock sprite](images/space-rock-sprite.png)
+![Egy szikla szereplő hozzáadása](images/space-rock-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Can you add code for your rock sprite so that the rock bounces around the stage?
+\--- task \--- Hozzá tudod adni a kódhoz a szikla szereplőt úgy, hogy a szikla a játéktérben pattogjon?
 
-![Testing a bouncing rock](images/space-bounce-test.png)
+![Egy pattogó szikla tesztelése](images/space-bounce-test.png)
 
-\--- hints \--- \--- hint \--- When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
+\--- hints \--- \--- hint \--- Amikor a zöld **zászló kattintasz**, a szikla szereplőnek **mozognia** és **ugrálnia** kellene a játéktér körül **folyamatosan**. \--- /hint \--- \--- hint \--- Íme a szükséges kódblokkok:
 
 ```blocks3
-move (10) steps
+menj (10) lépést
 
-if on edge bounce
+ha szélén vagy, pattanj vissza
 
-when flag clicked
+⚑ -ra kattintáskor
 
-forever
+mindig
 ```
 
-You can also set a more interesting starting direction for the rock sprite with one of these blocks:
+Az ilyen blokkok egyikével érdekesebb kiindulási irányt is állíthatsz a szikla szereplő számára:
 
 ```blocks3
-turn cw (15) degrees
+fordulj ↻ (15) fokot
 
-point towards (Earth v)
+nézz (Earth v) felé
 ```
 
 \--- /hint \--- \--- hint \---
 
-Here's the code for making your rock bounce around the stage:
+Itt van a kód, amellyel a szikla a játéktérben ugrál:
 
 ![Rock sprite](images/sprite-rock.png)
 
 ```blocks3
-when flag clicked
-point towards (Earth v)
-forever
-    move (2) steps
-    if on edge, bounce
+⚑ -ra kattintáskor
+nézz (Earth v) felé
+mindig 
+  menj (2) lépést
+  ha szélen vagy, pattanj vissza
+end
 ```
 
 \--- /hint \--- \--- /hints \--- \--- /task \---
