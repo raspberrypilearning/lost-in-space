@@ -35,7 +35,7 @@ Je gaat leren hoe je je eigen animatie kunt programmeren!
 
 ### Software
 
-- Scratch 3 ([online](http://rpf.io/scratchon){:target="_blank"} of [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (of [online](http://rpf.io/scratchon){:target="_blank"} of [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 ### Downloads
 
@@ -47,9 +47,9 @@ Je gaat leren hoe je je eigen animatie kunt programmeren!
 
 ## title: Wat ga je leren
 
-- Use a repeat loop to animate a sprite in Scratch
-- Use a forever loop to repeat an animation indefinately
-- Understand that loops can be nested within each other
+- Gebruik een herhaal-lus om een sprite in Scratch te animeren
+- Use a forever loop to repeat an animation indefinitely
+- Begrijp dat lussen in elkaar kunnen worden genest
 
 \--- /collapse \---
 
@@ -57,8 +57,8 @@ Je gaat leren hoe je je eigen animatie kunt programmeren!
 
 ## title: Aanvullende informatie voor docenten
 
-Als je dit project wilt afdrukken, gebruik dan de [ printvriendelijke versie ](https://projects.raspberrypi.org/en/projects/lost-in-space/print) {:target="_ blank"}.
+Als je dit project wilt afdrukken, gebruik dan de [printervriendelijke versie](https://projects.raspberrypi.org/en/projects/lost-in-space/print) {:target="_ blank"}.
 
-You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+Je kunt het [voltooide project hier](http://rpf.io/p/en/lost-in-space-get)"{:target="_blank"} vinden.
 
 \--- /collapse \---
