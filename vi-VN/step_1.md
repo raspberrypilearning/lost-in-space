@@ -47,9 +47,9 @@ Bạn sẽ học cách lập trình hoạt hình của riêng bạn!
 
 ## tiêu đề: bạn sẽ học được gì
 
-- Use a repeat loop to animate a sprite in Scratch
-- Use a forever loop to repeat an animation indefinately
-- Understand that loops can be nested within each other
+- Sử dụng vòng lặp lặp để tạo hiệu ứng sprite trong Scratch
+- Use a forever loop to repeat an animation indefinitely
+- Hiểu rằng các vòng lặp có thể được lồng vào nhau
 
 \--- /sự sụp đổ \---
 
@@ -59,6 +59,6 @@ Bạn sẽ học cách lập trình hoạt hình của riêng bạn!
 
 Nếu bạn cần in dự án này, vui lòng sử dụng [phiên bản thân thiện với máy in](https://projects.raspberrypi.org/en/projects/lost-in-space/print){: target = "_ blank"}.
 
-You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+Bạn có thể tìm thấy [dự án đã hoàn thành ở đây](http://rpf.io/p/en/lost-in-space-get){: target = "_ blank"}.
 
 \--- /sự sụp đổ \---
