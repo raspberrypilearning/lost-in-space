@@ -10,7 +10,7 @@ Un altro modo per animare l'astronave è di dirle di muoversi di una piccola qua
 quando si clicca sulla bandiera verde
 punta in direzione (0)
 vai a x: (-150) y: (-150)
-dire [Let's go] per (2) secondi
+dire [Andiamo] per (2) secondi
 punta verso (Earth v)
 
 - scivola in (1) secondi a x: (0) y: (0)
@@ -28,11 +28,11 @@ punta verso (Earth v)
 quando si clicca sulla bandiera verde
 punta in direzione (0)
 vai a x: (-150) y: (-150)
-dire [Let's go] per (2) secondi
+dire [Andiamo] per (2) secondi
 punta verso (Earth v)
 
 + ripeti (200) volte 
-fai (2) passi
+  fai (2) passi
 end
 ```
 
@@ -47,15 +47,15 @@ Usa questo blocco:
 ![Sprite 'Spaceship'](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-repeat (200)
-    move (2) steps
-
-+    change [color v] effect by (25)
+quando si clicca sulla bandiera verde
+punta in direzione (0)
+vai a x: (-150) y: (-150)
+dire [Andiamo] per (2) secondi
+punta verso (Earth v)
+ripeti (200) volte 
+  fai (2) passi
+  + cambia effetto [color v] di (25)
+end
 ```
 
 Prova e salva il tuo codice.
@@ -95,17 +95,17 @@ Il tuo codice dovrebbe assomigliare a questo:
 ![Sprite 'Spaceship'](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-set size to (100) %
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-repeat (200)
-    move (2) steps
-    change [color v] effect by (25)
-
-+   change size by (-3)
+quando si clicca sulla bandiera verde
+porta dimensione a (100) %
+punta in direzione (0)
+vai a x: (-150) y: (-150)
+dire [Andiamo] per (2) secondi
+punta verso (Earth v)
+ripeti (200) volte 
+  fai (2) passi
+  cambia effetto [color v] di (25)
+  + cambia dimensione di (-3)
+end
 ```
 
 \--- /hint \---
