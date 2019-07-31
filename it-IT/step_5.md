@@ -31,12 +31,12 @@ Quando si clicca **la bandiera verde**, il tuo sprite scimmia dovrebbe **girare*
 Ecco i blocchi di codice che ti serviranno:
 
 ```blocks3
-forever
+per sempre
 end
 
-turn cw (15) degrees
+ruota in senso orario di (15) gradi
 
-when flag clicked
+quando si clicca sulla bandiera verde
 ```
 
 \--- /hint \--- \--- hint \---
@@ -46,9 +46,10 @@ Ecco il codice per far girare la tua scimmia:
 ![Sprite scimmia](images/sprite-monkey.png)
 
 ```blocks3
-when flag clicked
-forever
-    turn cw (1) degrees
+quando si clicca sulla bandiera verde
+per sempre 
+  ruota in senso orario di (1) gradi
+end
 ```
 
 \--- /hint \--- \--- /hints \---
