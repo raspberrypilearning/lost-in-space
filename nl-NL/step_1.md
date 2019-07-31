@@ -32,15 +32,15 @@ title: Wat heb je nodig
 
 ### Hardware
 
-+ Een computer die Scratch 3 kan uitvoeren
+- Een computer die Scratch 3 kan uitvoeren
 
 ### Software
 
-+ Scratch 3 ([online](http://rpf.io/scratchon){:target="_blank"} of [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (of [online](http://rpf.io/scratchon){:target="_blank"} of [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 ### Downloads
 
-+ Geen
+- Geen
 
 --- /collapse ---
 
@@ -49,8 +49,9 @@ title: Wat heb je nodig
 title: Wat ga je leren
 ---
 
-+ Een sprite animeren met een lus
-+ Het uiterlijk van een sprite veranderen
+- Gebruik een herhaal-lus om een sprite in Scratch te animeren
+- Gebruik een herhaal-lus om een animatie oneindig te herhalen
+- Begrijp dat lussen in elkaar kunnen worden genest
 
 --- /collapse ---
 
@@ -59,8 +60,8 @@ title: Wat ga je leren
 title: Aanvullende informatie voor docenten
 ---
 
-Als je dit project wilt afdrukken, gebruik dan de [printvriendelijke versie](https://projects.raspberrypi.org/nl-NL/projects/lost-in-space/print){:target="_blank"}.
+Als je dit project wilt afdrukken, gebruik dan de [printervriendelijke versie](https://projects.raspberrypi.org/nl-NL/projects/lost-in-space/print){:target="_blank"}.
 
-[Hier is een link naar de oplossing voor dit project](http://rpf.io/p/nl-NL/lost-in-space-get){:target="_blank"}.
+Je kunt het [voltooide project hier](http://rpf.io/p/nl-NL/lost-in-space-get){:target="_blank"} vinden.
 
 --- /collapse ---

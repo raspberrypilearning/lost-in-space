@@ -1,4 +1,4 @@
-## Animeren met behulp van lussen
+## Animatie met lussen
 
 Een andere manier om het ruimteschip te laten bewegen is het te vertellen dat het vele kleine stapjes moet zetten
 
@@ -18,51 +18,42 @@ richt naar (Earth v)
 
 --- /task ---
 
---- task --- Kun je een `herhaal`{:class="block3control"} blok gebruiken om je ruimteschip naar de aarde te bewegen?
+--- task --- Gebruik nu een `herhaal`{:class="block3control"} blok om je ruimteschip naar de aarde te bewegen?
 
-![Testing a spaceship animation](images/space-animate-stage.png)
+![Een ruimteschip-animatie testen](images/space-animate-stage.png)
 
---- hints ---
- --- hint ---
-
-In plaats van te **schuiven** kun je het ruimteschip met **herhaal**- en **neem .. stappen**-blokken steeds een paar stapjes laten bewegen.
-
---- /hint --- --- hint --- Dit zijn de codeblokken die je nodig hebt:
-
-```blocks3
-neem (10) stappen
-
-herhaal (10) keer
-```
-
---- /hint --- --- hint --- Hier is de code om je ruimteschip te animeren: ![Ruimteschip sprite](images/sprite-spaceship.png)
+![Ruimteschip sprite](images/sprite-spaceship.png)
 
 ```blocks3
 wanneer groene vlag wordt aangeklikt
 richt naar (0) graden
 ga naar x: (-150) y: (-150)
 zeg [We gaan!] (2) sec.
-richt naar (Earth v)
-herhaal (200)
-neem (2) stappen
-```
+richt naar (Aarde v)
 
-Je mag verschillende getallen gebruiken in de `herhaal`{:class="block3control"}- en `neem .. stappen`{:class="block3motion"}-blokken, zolang het ruimteschip maar naar de aarde gaat!
---- /hint ---
---- /hints ---
++ herhaal (200) 
+   neem (2) stappen
+```
 
 Test en bewaar je code. Je ruimteschip zou nog steeds naar de aarde moeten bewegen, maar nu met een `herhaal`{:class="block3control"}-blok.
 
 --- /task ---
 
---- task --- Kun je code aan je ruimteschip-sprite toevoegen, zodat het ruimteschip van kleur verandert terwijl het naar de aarde beweegt?
+--- task --- Voeg vervolgens code toe aan je ruimteschip sprite, zodat het ruimteschip van kleur verandert terwijl het naar de aarde beweegt?
 
 Gebruik dit blok:
 
 ![Ruimteschip sprite](images/sprite-spaceship.png)
 
 ```blocks3
-verander [kleur v] -effect met (25)
+wanneer groene vlag wordt aangeklikt
+richt naar (0) graden
+ga naar x: (-150) y: (-150)
+zeg [We gaan!] (2) sec.
+richt naar (Aarde v)
+herhaal (200) 
+  neem (2) stappen
++ verander [kleur v] -effect met (25)
 ```
 
 Test en sla je code op.
@@ -73,9 +64,18 @@ Test en sla je code op.
 
 --- task --- Kan je je ruimteschip kleiner maken naarmate het dichter naar de aarde toe beweegt?
 
-Je ruimteschip zou op **100% grootte** moeten beginnen en dan met **verander grootte** kleine beetjes moeten verkleinen terwijl het beweegt.
+--- hints ---
 
-Gebruik deze blokken:
+
+--- hint ---
+
+Je ruimteschip moet starten op `100% grootte`{:class="block3looks"}, en vervolgens `verander grootte`{:class="block3looks"} met een klein aantal wanneer het beweegt.
+
+--- /hint ---
+
+--- hint ---
+
+Je moet deze blokken toevoegen aan je code:
 
 ![Ruimteschip sprite](images/sprite-spaceship.png)
 
@@ -84,6 +84,31 @@ verander grootte met (10)
 
 maak grootte (100) %
 ```
+
+--- /hint ---
+
+--- hint ---
+
+Je code zou er als volgt uit moeten zien:
+
+![Ruimteschip sprite](images/sprite-spaceship.png)
+
+```blocks3
+wanneer groene vlag wordt aangeklikt
+maak grootte (100) %
+richt naar (0) graden
+ga naar x: (-150) y: (-150)
+zeg [We gaan!] (2) sec.
+richt naar (Aarde v)
+herhaal (200) 
+  neem (2) stappen
+  verander [kleur v] -effect met (25)
++ verander grootte met (-3)
+```
+
+--- /hint ---
+
+--- /hints ---
 
 --- /task ---
 

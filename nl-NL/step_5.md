@@ -4,7 +4,7 @@ Nu zal je aan je animatie een aap toevoegen die verdwaald is in de ruimte!
 
 --- task --- Begin met het toevoegen van de 'Monkey'-sprite uit de bibliotheek.
 
-![Adding a monkey sprite](images/space-monkey-sprite.png)
+![Een aap-sprite tovoegen](images/space-monkey-sprite.png)
 
 --- /task ---
 
@@ -16,7 +16,7 @@ Klik op de nieuwe aap-sprite en daarna op **Uiterlijken** om het uiterlijk van d
 
 --- task --- Klik op het **Cirkel** gereedschap en teken er een witte ruimtehelm mee rond het hoofd van de aap.
 
-![Monkey space helmet](images/space-monkey-edit.png)
+![Apen-ruimtehelm](images/space-monkey-edit.png)
 
 --- /task ---
 
@@ -25,7 +25,7 @@ Klik op de nieuwe aap-sprite en daarna op **Uiterlijken** om het uiterlijk van d
 --- hints ---
  --- hint ---
 
-Wanneer de **groene vlag wordt aangeklikt** zou je aap-sprite **herhaal**delijk in een rondje moeten blijven **draai** en.
+Wanneer de **groene vlag wordt aangeklikt** zou je aap-sprite **herhaal**delijk in een rondje moeten blijven **draai**en.
 
 --- /hint --- --- hint ---
 
@@ -35,9 +35,9 @@ Dit zijn de codeblokken die je nodig hebt:
 herhaal
 end
 
-draai (15) graden naar rechts
+draai naar rechts (15) graden 
 
-wanneer groene vlag wordt aangeklikt
+wanneer op groene vlag wordt geklikt
 ```
 
 --- /hint --- --- hint ---
