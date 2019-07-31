@@ -48,7 +48,7 @@ Rwyt ti mynd i ddysgu sut i raglenni dy animeiddiad dy hunan!
 ## title: Yr hyn byddi di'n ei ddysgu
 
 - Use a repeat loop to animate a sprite in Scratch
-- Use a forever loop to repeat an animation indefinately
+- Use a forever loop to repeat an animation indefinitely
 - Understand that loops can be nested within each other
 
 \--- /collapse \---
@@ -59,6 +59,6 @@ Rwyt ti mynd i ddysgu sut i raglenni dy animeiddiad dy hunan!
 
 Os oes angen i chi argraffu y prosiect, defnyddiwch [fersiwn i'w argraffu](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
-You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+Gallwch chi ddod o hyd i'r [ateb ar gyfer y prosiect hwn yma](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
 \--- /collapse \---
