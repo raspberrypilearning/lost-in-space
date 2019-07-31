@@ -48,7 +48,7 @@ Imparerai a programmare la tua animazione!
 ## title: Cosa imparerai
 
 - Come usare un ciclo ripetuto per animare uno sprite in Scratch
-- Use a forever loop to repeat an animation indefinitely
+- Usa un ciclo per sempre per ripetere un'animazione all'infinito
 - Capire che i cicli possono essere nidificati tra loro
 
 \--- /collapse \---
