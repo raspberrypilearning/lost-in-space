@@ -1,6 +1,6 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
+यह प्रोजेक्ट का **स्क्रैच 3** संस्करण है। इस प्रोजेक्ट का [स्क्रैच 2](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2) संस्करण भी है।
 
 \--- /no-print \---
 
@@ -10,7 +10,7 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 ### आप क्या बनाएँगे
 
-\--- no-print \--- Click on the green flag to see the animation.
+\---no-print-- एनीमेशन को देखने के लिए हरे झंडे पर क्लिक करें।
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -21,7 +21,7 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 \--- print-only \---
 
-![Complete project](images/showcase_static.png)
+![पूर्ण परियोजनाएं](images/showcase_static.png)
 
 \--- /print-only \---
 
@@ -39,7 +39,7 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 ### डाउनलोड
 
-- None
+- कोई नहीं
 
 \--- /collapse \---
 
@@ -47,18 +47,18 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 ## title: आप क्या सीखेंगे
 
-- Use a repeat loop to animate a sprite in Scratch
-- Use a forever loop to repeat an animation indefinately
-- Understand that loops can be nested within each other
+- स्क्रैच में स्प्राइट को एनिमेट करने के लिए रिपीट लूप का प्रयोग
+- Use a forever loop to repeat an animation indefinitely
+- यह समझे की लूप एक दुसरे के अंदर लिखा जा सकता है
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: शिक्षकों के लिए अतिरिक्त जानकारी
 
 अगर आपको इस प्रोजेक्ट को प्रिंट करने की आवश्यकता है, तो कृप्या [प्रिंटर-अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/lost-in-space/print){: target = "_ blank"} का उपयोग करें।
 
-You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+आप इस प्रोजेक्ट का [अंतिम रूप यहाँ](http://rpf.io/p/en/lost-in-space-get){:target="_blank"} देख सकते है।
 
 \--- /collapse \---
