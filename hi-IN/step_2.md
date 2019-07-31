@@ -1,48 +1,48 @@
 ## अंतरिक्ष-यान एनिमेट करना
 
-Your first step will be to create a spaceship that flies towards the Earth!
+आप पहले एक अंतरिक्ष यान बनाएंगे जो पृथ्वी के तरफ उड़ के आएगा!
 
 \--- task \---
 
-Open a new Scratch project.
+एक नया स्क्रैच प्रोजेक्ट खोलिये।
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
+**ऑनलाइन**: [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"} पर एक नया Scratch प्रोजेक्ट खोलें।
 
-**Offline:** open a new project in the offline editor.
+**ऑफ़लाइन**: ऑफ़लाइन संपादक में एक नया प्रोजेक्ट खोलें।
 
 यदि आपको स्क्रैच ऑफ़लाइन संपादक को डाउनलोड और इंस्टॉल करने की आवश्यकता है, तो आप इसे [rpf.io/scratchoff](http://rpf.io/scratchoff) {:target="_blank"} पर पा सकते हैं।
 
 \--- /task \---
 
-\--- task \--- Add 'rocketship' and 'Earth' sprites to your Stage.
+अपनी स्टेज में 'अनतरिक्ष यान' और 'पृथ्वी' स्प्राइट जोड़ें।
 
-![Spaceship and Earth sprites](images/space-sprites.png)
+![स्पेसशिप और अर्थ स्प्राइट्स](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
 \--- /task \---
 
-\--- task \--- Add the 'Stars' backdrop to your Stage.
+अपनी स्टेज में 'सितारे' पृष्ठभूमि जोड़ें।
 
-![A space backdrop](images/space-backdrop.png)
-
-\--- /task \---
-
-\--- task \--- Click on your spaceship sprite, and click on the **Costumes** tab.
-
-![Sprite costume](images/space-costume.png)
+![एक अंतरिक्ष पृष्ठभूमि](images/space-backdrop.png)
 
 \--- /task \---
 
-\--- task \--- Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+अपने अनतरिक्ष-यान स्प्राइट पर क्लिक करें, और **पोशाक** टैब पर क्लिक करें।
 
-![Rotating a costume](images/space-rotate.png)
+![स्प्रिट पोशाक](images/space-costume.png)
 
 \--- /task \---
 
-\--- task \--- Add this code to your spaceship sprite:
+\--- task\--- संपूर्ण स्पेसशिप के चित्र पर बॉक्स बनाने के लिए **एरो** टूल को क्लिक करे और चारो ओर खींचे। फिर चक्राकार **घुमाएँ** हैंडल पर क्लिक करें, और छवि को तब तक घुमाएँ जब तक यह इसकी बगल में न आ जाए
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![एक पोशाक को घुमाते हुए](images/space-rotate.png)
+
+\--- /task \---
+
+अपने स्पेसशिप स्प्राइट में यह कोड जोड़ें:
+
+![स्पेसशिप स्प्राइट](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -53,10 +53,10 @@ point towards (Earth v)
 glide (1) secs to x:(0) y:(0)
 ```
 
-Change the numbers in the code blocks you've added so that the code is exactly the same as above.
+कोड ब्लॉक्स में संख्याओं को बदलें ताकि कोड सटीक रूप से उपर्युक्त छवि जैसा दिखाई दे।
 
 \--- /task \---
 
-If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
+यदि आप हरे फ्लैग पर क्लिक करते हैं, तो आप देखेंगे कि स्पेसशिप बोलता है, मुड़ता है, और स्टेज के केंद्र की ओर बढ़ता है।
 
-![Testing a spaceship animation](images/space-animate-stage.png)
+![एक अंतरिक्ष यान एनीमेशन का परीक्षण](images/space-animate-stage.png)
