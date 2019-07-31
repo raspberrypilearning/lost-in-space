@@ -48,7 +48,7 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 ## title: Що ви вивчите
 
 - Use a repeat loop to animate a sprite in Scratch
-- Use a forever loop to repeat an animation indefinately
+- Use a forever loop to repeat an animation indefinitely
 - Understand that loops can be nested within each other
 
 \---collapse\---
