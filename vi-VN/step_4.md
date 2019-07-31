@@ -18,101 +18,101 @@ nói [Hãy đi] trong (2) giây
 
 \--- /bài tập \---
 
-\--- task \--- Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
+\--- task \--- Bây giờ sử dụng khối `lặp lại`{: class = "block3control"} để di chuyển tàu vũ trụ của bạn về Trái đất?
 
 ![Thử nghiệm hoạt hình tàu vũ trụ](images/space-animate-stage.png)
-
-![Spaceship sprite](images/sprite-spaceship.png)
-
-```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-
-+ repeat (200)
-    move (2) steps
-```
-
-Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
-
-\--- /task \---
-
-\--- task \--- Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
-
-Use this block:
-
-![Spaceship sprite](images/sprite-spaceship.png)
-
-```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-repeat (200)
-    move (2) steps
-
-+    change [color v] effect by (25)
-```
-
-Test and save your code.
-
-![Testing a colour-changing spaceship](images/space-colour-test.png)
-
-\--- /task \---
-
-\--- task \--- Can you make your spaceship get smaller as it moves towards Earth?
-
-\--- hints \---
-
-\--- hint \---
-
-Your spaceship should start at `100% size`{:class="blocklooks"}, and then `change size`{:class="blocklooks"} by a small amount each time it moves.
-
-\--- /hint \---
-
-\--- hint \---
-
-You will need to add these blocks to your code:
 
 ![Tàu vũ trụ](images/sprite-spaceship.png)
 
 ```blocks3
-change size by (10)
+khi cờ nhấp
+điểm theo hướng (0)
+đi đến x: (- 150) y: (- 150)
+nói [Hãy đi] trong (2) giây
+điểm về phía (Trái đất v)
 
-set size to (100) %
++ lặp lại (200)
+    di chuyển (2) bước
+```
+
+Kiểm tra và lưu mã của bạn. Tàu vũ trụ của bạn sẽ di chuyển về Trái đất chính xác như trước đây, nhưng lần này nó sử dụng khối `lặp lại`{: class = "block3control"}.
+
+\--- /task \---
+
+\--- task \--- Tiếp theo thêm mã vào sprite tàu vũ trụ của bạn để tàu vũ trụ thay đổi màu sắc khi nó di chuyển về phía Trái đất?
+
+Sử dụng khối này:
+
+![Tàu vũ trụ](images/sprite-spaceship.png)
+
+```blocks3
+khi cờ nhấp
+điểm theo hướng (0)
+hãy chuyển đến x: (- 150) y: (- 150)
+nói [Hãy đi] trong (2) giây
+điểm về phía (Trái đất v)
+lặp lại (200)
+    di chuyển (2) bước
+
++ thay đổi hiệu ứng [màu v] bằng (25)
+```
+
+Kiểm tra và lưu mã của bạn.
+
+![Kiểm tra tàu vũ trụ đổi màu](images/space-colour-test.png)
+
+\--- /task \---
+
+\--- nhiệm vụ \--- Bạn có thể làm cho tàu vũ trụ của mình nhỏ hơn khi nó di chuyển về Trái đất không?
+
+\--- gợi ý \---
+
+\--- hint \---
+
+Tàu vũ trụ của bạn sẽ bắt đầu ở `100% kích thước`{: class = "blocklooks"}, và sau đó `thay đổi kích thước`{: class = "blocklooks"} một lượng nhỏ mỗi lần nó di chuyển.
+
+\--- /hint \---
+
+\--- hint \---
+
+Bạn sẽ cần thêm các khối này vào mã của mình:
+
+![Tàu vũ trụ](images/sprite-spaceship.png)
+
+```blocks3
+thay đổi kích thước theo (10)
+
+đặt kích thước thành (100)%
 ```
 
 \--- /hint \---
 
 \--- hint \---
 
-Your code should look like this:
+Mã của bạn sẽ trông như thế này:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Tàu vũ trụ](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-set size to (100) %
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-repeat (200)
-    move (2) steps
-    change [color v] effect by (25)
+khi cờ nhấp
+đặt kích thước thành (100)%
+điểm theo hướng (0)
+hãy chuyển đến x: (- 150) y: (- 150)
+nói [Hãy đi] trong (2) giây
+điểm về phía (Trái đất v )
+lặp lại (200)
+    di chuyển (2) bước
+    thay đổi hiệu ứng [màu v] bằng (25)
 
-+   change size by (-3)
++ thay đổi kích thước theo (-3)
 ```
 
 \--- /hint \---
 
-\--- /hints \---
+\--- / gợi ý \---
 
 \--- /task \---
 
-Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
+Kiểm tra và lưu mã của bạn. Tàu vũ trụ của bạn bây giờ sẽ nhỏ hơn khi nó di chuyển. Kiểm tra tàu vũ trụ của bạn **giây lần**. Có phải là kích thước phù hợp khi nó bắt đầu?
 
-![Testing a shrinking spaceship](images/space-size-test.png)
+![Kiểm tra một tàu vũ trụ thu nhỏ](images/space-size-test.png)
