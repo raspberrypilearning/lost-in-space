@@ -1,20 +1,20 @@
-## ካርታዎችን መንዳት
+## መንኮራኩረን አኒሜት ማድረግ
 
-የመጀመሪያው እርምጃዎ ወደ መሬት የሚዘዋወርበት የጠፈር መንኮራኮትን ለመፍጠር ነው.
+የመጀመሪያው ስራ የሚሆነው ወደ መሬት የሚበር የጠፈር መንኮራኮትን መስራት ይሆናል!
 
-\--- ተግባር \---
+\--- task \---
 
-አዲስ Scratch ፕሮጀክት ይክፈቱ.
+አዲስ Scratch ፕሮጀክት ይክፈት/ቺ።
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
+**ኦንላይን:** አዲስ የኦንላይን ስክራች ፕሮጀክት ከ [rpf.io/scratch-new](http://rpf.io/scratchon){: target = "_ blank"} ለይ ክፈት/ች።
 
-**ከመስመር ውጭ:** ከመስመር ውጪ አርታዒ ላይ አንድ አዲስ ፕሮጀክት ይክፈቱ.
+**ኦፍላይን:** የኦፍላይን አዲተር በመተቀም አዲስ ፕሮጀክት ክፈት/ቺ።
 
-Scratch ከመስመር ውጪ አርታዒን ማውረድ እና መጫን ካስፈለገዎት በ [rpf.io/scratchoff](http://rpf.io/scratchoff){: target = "_ blank"} ላይ ሊያገኙት ይችላሉ.
+የስክራችን ኦፍላይን አዲተር ማውረድ እና መጫን ከፈለክ/ሽ ከ [rpf.io/scratchoff](http://rpf.io/scratchoff){: target = "_ blank"} ላይ ማግኜት ይቻላል።
 
 \--- / task \---
 
-\--- task \--- 'ሮኬትቴሌት' እና 'Earth' የሚባሉትን ወደ ደረጃዎችዎ ይጨምሩ.
+\--- task \--- 'መንኮራኩር' እና 'መሬት' ስፕሪይቶችን ወደ ደረጃህ/ሽ ጨምር/ሪ.
 
 ![የመርከብ ቦታዎች እና የመሬት ፍርዶች](images/space-sprites.png)
 
@@ -22,7 +22,7 @@ Scratch ከመስመር ውጪ አርታዒን ማውረድ እና መጫን ካ
 
 \--- / task \---
 
-\--- ተግባር \--- የ "ኮከቦች" የጀርባ ምስል ወደ እርስዎ ደረጃ ላይ ያክሉ.
+\--- task \--- የ "ኮከቦች" ባችክድሮፕ ወደ ደልጃህ/ሽ ጨምር/ሪ.
 
 ![ባዶ backdrop](images/space-backdrop.png)
 
