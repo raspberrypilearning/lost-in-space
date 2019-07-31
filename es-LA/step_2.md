@@ -6,7 +6,7 @@
 
 Abrir un nuevo proyecto de Scratch vacío.
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
+** Online **: abra un nuevo proyecto Scratch en línea en [ rpf.io/scratch-new ](http://rpf.io/scratchon)"}.
 
 ** fuera de línea: ** Abre un nuevo proyecto en el editor offline.
 
