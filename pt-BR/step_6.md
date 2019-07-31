@@ -12,7 +12,7 @@ Now you will add a floating space rock to your animation.
 
 ![Testing a bouncing rock](images/space-bounce-test.png)
 
-\--- hints \--- \--- hint \--- Quando a **bandeira verde é clicada**, o asteroide deve se **mover** e **viajar** em seu palco **para sempre**. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
+\--- hints \--- \--- hint \--- Quando a **bandeira verde é clicada**, o asteroide deve se **mover** e **viajar** em seu palco **para sempre**. \--- /hint \--- \--- hint \--- Aqui estão os blocos que você vai precisar:
 
 ```blocks3
 move (10) steps
