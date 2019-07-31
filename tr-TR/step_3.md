@@ -1,16 +1,16 @@
-## Zorluk: animasyonunuzu geliştirin
+## Meydan Okuma: animasyonunuzu geliştirin
 
-Animasyon kodunuzdaki sayıları değiştirebilir misiniz?
+Animasyon kodunuzdaki sayıları öyle bir değiştirin ki
 
-+ Uzay gemisi Dünya'ya değene kadar hareket eder mi?
-+ Uzay gemisi Dünya'ya doğru daha yavaş mı hareket ediyor?
++ Uzay gemisi Dünya'ya değene kadar hareket etsin
++ Uzay gemisi Dünya'ya doğru daha yavaş hareket etsin
 
 Bu bloktaki sayıları değiştirmeniz gerekecektir:
 
-![Rocketship sprite](images/sprite-spaceship.png)
+![Roket gemisi kuklası](images/sprite-spaceship.png)
 
 ```blocks3
-kayma (1) sn: x: (0) y: (0)
+glide (1) secs to x:(0) y:(0)
 ```
 
 [[[generic-scratch3-coordinates]]]
