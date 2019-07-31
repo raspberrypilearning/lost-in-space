@@ -1,7 +1,7 @@
 ---
 title: נאבד בחלל
 hero_image: images/lost-in-space.png
-description: בפרויקט זה תלמד איך לבנות אנימציה משלך!
+description: בפרויקט זה נלמד איך לבנות אנימציה משלנו!
 original_url: https://www.codeclubprojects.org/en-GB/scratch/lost-in-space
 listed: true
 copyedit: true
@@ -14,7 +14,7 @@ steps:
   - 
     title: הנפשת חללית
   - 
-    title: 'האתגר: לשפר את האנימציה שלך'
+    title: 'האתגר: לשפר את האנימציה שלנו'
     challenge: true
   - 
     title: הנפשה באמצעות לולאות
@@ -27,7 +27,5 @@ steps:
   - 
     title: 'האתגר: ליצור אנימציה משלך'
     challenge: true
-  - 
-    title: Test yourself
   - 
     title: What next?
