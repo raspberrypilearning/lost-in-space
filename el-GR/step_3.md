@@ -7,10 +7,10 @@
 
 Θα χρειαστεί να αλλάξεις τους αριθμούς σε αυτό το μπλοκ:
 
-![Αντικείμενο διαστημοπλοίου](images/sprite-spaceship.png)
+![Αντικείμενο διαστημόπλοιου](images/sprite-spaceship.png)
 
 ```blocks3
-glide (1) secs to x:(0) y:(0)
+ολίσθησε για (1) δευτ. στη θέση x: (0) y: (0)
 ```
 
 [[[generic-scratch3-coordinates]]]
