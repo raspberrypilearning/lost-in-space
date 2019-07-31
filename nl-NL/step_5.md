@@ -4,7 +4,7 @@ Nu zal je aan je animatie een aap toevoegen die verdwaald is in de ruimte!
 
 \--- task \--- Begin met het toevoegen van de 'Monkey'-sprite uit de bibliotheek.
 
-![Adding a monkey sprite](images/space-monkey-sprite.png)
+![Een aap-sprite tovoegen](images/space-monkey-sprite.png)
 
 \--- /task \---
 
@@ -16,7 +16,7 @@ Klik op de nieuwe aap-sprite en daarna op **Uiterlijken** om het uiterlijk van d
 
 \--- task \--- Klik op het **Cirkel** gereedschap en teken er een witte ruimtehelm mee rond het hoofd van de aap.
 
-![Monkey space helmet](images/space-monkey-edit.png)
+![Apen-ruimtehelm](images/space-monkey-edit.png)
 
 \--- /task \---
 
