@@ -65,15 +65,15 @@ Test and save your code.
 
 \--- task \--- Can you make your spaceship get smaller as it moves towards Earth?
 
-\--- hints \---
+\--- sugestii \---
 
-\--- hint \---
+\--- indiciu \---
 
 Your spaceship should start at `100% size`{:class="blocklooks"}, and then `change size`{:class="blocklooks"} by a small amount each time it moves.
 
-\--- /hint \---
+\--- / indiciu \---
 
-\--- hint \---
+\--- indiciu \---
 
 You will need to add these blocks to your code:
 
@@ -85,9 +85,9 @@ change size by (10)
 set size to (100) %
 ```
 
-\--- /hint \---
+\--- / indiciu \---
 
-\--- hint \---
+\--- indiciu \---
 
 Your code should look like this:
 
@@ -107,9 +107,9 @@ repeat (200)
 +   change size by (-3)
 ```
 
-\--- /hint \---
+\--- / indiciu \---
 
-\--- /hints \---
+\--- / sugestii \---
 
 \--- /task \---
 
