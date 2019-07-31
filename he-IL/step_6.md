@@ -4,13 +4,13 @@
 
 \--- task \--- הוסף דמות "סלע" לאנימציה שלך.
 
-![Adding a rock sprite](images/space-rock-sprite.png)
+![הוספת דמות סלע אסטרואיד](images/space-rock-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Can you add code for your rock sprite so that the rock bounces around the stage?
+\--- task \--- האם תוכלו להוסיף לקוד שלכם דמות של סלע כך שהסלע יקפץ בתוך הבמה?
 
-![Testing a bouncing rock](images/space-bounce-test.png)
+![בדיקת סלע מקפץ](images/space-bounce-test.png)
 
 \--- hints \--- \--- hint \--- When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
 
