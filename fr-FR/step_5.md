@@ -4,11 +4,11 @@ Maintenant tu vas ajouter un singe perdu dans l'espace à ton animation!
 
 \--- task \--- Commence en ajoutant le lutin 'singe' de la bibliothèque.
 
-![Ajouter un lutin de singe](images/space-monkey-sprite.png)
+![Ajout d'un sprite singe](images/space-monkey-sprite.png)
 
 \--- /task \---
 
-Clique sur votre nouveau lutin singe, puis sur **Costumes** pour pouvoir changer l'apparence du singe.
+Clique sur ton nouveau sprite singe, puis sur **Costumes** pour pouvoir changer l'apparence du singe.
 
 \--- task \--- Définis la transparence en sélectionnant la ligne rouge. Pour le contour, définis une couleur blanche en déplaçant le curseur de saturation à `0`.
 
@@ -24,7 +24,7 @@ Clique sur votre nouveau lutin singe, puis sur **Costumes** pour pouvoir changer
 
 \--- hints \--- \--- hint \---
 
-Lorsque le drapeau vert **est cliqué** , ton lutin singe devrait **tourner** dans un cercle **indéfiniment** .
+Lorsque le drapeau vert **est cliqué** , ton sprite singe devrait **tourner** dans un cercle **indéfiniment** .
 
 \--- /hint \--- \--- hint \---
 
@@ -42,7 +42,7 @@ quand le drapeau vert pressé
 
 Voici le code pour faire tourner ton singe:
 
-![Lutin Singe](images/sprite-monkey.png)
+![Sprite singe](images/sprite-monkey.png)
 
 ```blocks3
 quand le drapeau vert pressé
