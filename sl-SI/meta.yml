@@ -12,7 +12,7 @@ steps:
   - 
     title: Uvod
   - 
-    title: Animating a spaceship
+    title: Animacija vesoljske ladje
   - 
     title: 'Challenge: improve your animation'
     challenge: true
@@ -27,7 +27,5 @@ steps:
   - 
     title: 'Izziv: Izdelajte svojo animacijo'
     challenge: true
-  - 
-    title: Test yourself
   - 
     title: What next?
