@@ -47,9 +47,9 @@
 
 ## title: מה תלמד
 
-- Use a repeat loop to animate a sprite in Scratch
-- Use a forever loop to repeat an animation indefinately
-- Understand that loops can be nested within each other
+- השתמש בלולאה חוזרת להנפשת דמות ב- Scratch
+- Use a forever loop to repeat an animation indefinitely
+- להבין שלולאות יכולות להיות מקוננות זו בזו
 
 \--- /collapse \---
 
@@ -59,6 +59,6 @@
 
 אם אתה צריך להדפיס את הפרויקט הזה, אנא השתמש ב [ גרסה ידידותית למדפסת ](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
-You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+אתה יכול למצוא את [הפרויקט השלם כאן ](http://rpf.io/p/en/lost-in-space-get) {:target="_blank"}.
 
 \--- /collapse \---
