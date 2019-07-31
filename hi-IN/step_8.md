@@ -1,7 +1,7 @@
 ## चैलेंज: अपना खुद का एनीमेशन बनाना
 
-Stop your space animation, save it, and start a new Scratch project.
+अपने अंतरिक्ष एनीमेशन को रोकें, इसे सहेजें और एक नया स्क्रैच प्रोजेक्ट शुरू करें।
 
-Use what you've learned in this project to make your own animation. It can be anything you like, but try to make your animation match the background you choose. Here are some examples:
+आपने जो भी इस प्रोजेक्ट से सीखा, उसका इस्तेमाल करके अपनी खुद की एनीमेशन बनाइये। आपकी जो मर्ज़ी वह बनाइये, पर कोशिश करे की आपकी एनीमेशन आपकी पृष्ठभूमि से मिलता हैं। यहाँ कई उद्धरण दिए गए हैं:
 
 ![स्क्रीनशॉट](images/space-egs.png)
