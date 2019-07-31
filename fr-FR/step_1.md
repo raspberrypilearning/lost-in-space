@@ -27,7 +27,7 @@ Tu vas apprendre à programmer ta propre animation!
 
 ## \--- collapse \---
 
-## title: Ce qu'il faut avoir
+## title: Ce qu'il te faut
 
 ### Matériel informatique
 
@@ -47,9 +47,9 @@ Tu vas apprendre à programmer ta propre animation!
 
 ## title: Ce que tu vas apprendre
 
-- Use a repeat loop to animate a sprite in Scratch
-- Use a forever loop to repeat an animation indefinately
-- Understand that loops can be nested within each other
+- Utiliser une boucle de répétition pour animer un sprite dans Scratch
+- Use a forever loop to repeat an animation indefinitely
+- Comprendre que les boucles peuvent être imbriquées les unes dans les autres
 
 \--- /collapse \---
 
@@ -57,8 +57,8 @@ Tu vas apprendre à programmer ta propre animation!
 
 ## title: Informations supplémentaires pour les éducateurs
 
-Si tu as besoin d'imprimer ce projet, merci d'utiliser la [Version imprimable](https://projects.raspberrypi.org/en/projects/lost-in-space/print) {: target = "_ blank"}.
+Si vous avez besoin d'imprimer ce projet, merci d'utiliser la [Version imprimable](https://projects.raspberrypi.org/en/projects/lost-in-space/print) {: target = "_ blank"}.
 
-You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+Vous pouvez trouver le [projet terminé ici](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
 \--- /collapse \---
