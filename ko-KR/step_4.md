@@ -1,110 +1,109 @@
 ## 반복하기를 사용한 움직임
 
-Another way to animate the spaceship is to tell it to move a small amount many times
+우주선을 움직이게하는 또 다른 방법은 조금씩 여러번 움직이는 것입니다
 
-\--- task \--- Delete the `glide`{:class="block3motion"} block from your code. To do this, drag the block off the Code area and drop it back where the other single code blocks are.
+\--- task \--- `glide`{:class="block3motion"} 블록을 여러분의 코드에서 삭제하세요. 삭제하기 위해서는, glide 블록을 코드에서 뗀 후 다른 블록이 있는 공간으로 놓으면 됩니다.
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![우주선 스프라이트](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
+flag 클릭했을 때
+(0)도 방향 보기
+x:(-150) y:(-150)로 이동하기
+[Let's go]을(를) (2) 초 동안 말하기
+(Earth v) 쪽 보기
 
-- glide (1) secs to x:(0) y:(0)
+- (1)초 동안 x:(0) y:(0)로 이동하기
 ```
 
 \--- /task \---
 
-\--- task \--- Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
+\--- task \--- 이제 ` 반복 ` {: class = "block3control"} 을 사용하여 우주선을 지구쪽으로 이동시키세요.
 
 ![우주선 움직임 테스트](images/space-animate-stage.png)
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![우주선 스프라이트](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
+flag 클릭했을 때
+(0)도 방향 보기
+x:(-150) y:(-150)로 이동하기
+[Let's go]을(를) (2) 초 동안 말하기
+(Earth v) 쪽 보기
 
-+ repeat (200)
-    move (2) steps
++ (200) 번 반복하기
+    (2) 만큼 움직이기
 ```
 
-Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
+테스트하고 저장하세요: 우주선은 이전과 똑같이 지구로 이동해야하며 이번에는 ` 반복하기` 블록을 사용합니다.
 
 \--- /task \---
 
-\--- task \--- Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
+\--- task \--- 다음으로 우주선 스프라이트에 코드를 추가하여 우주선이 지구쪽으로 움직일 때 색깔이 변하도록 만들어 보세요.
 
-Use this block:
+아래 블록을 사용하세요:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![우주선 스프라이트](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-repeat (200)
-    move (2) steps
+flag 클릭했을 때
+(0)도 방향 보기
+x:(-150) y:(-150)로 이동하기
+[Let's go]을(를) (2) 초 동안 말하기
+(Earth v) 쪽 보기
+(200) 번 반복하기
+    (2) 만큼 움직이기)
 
-+    change [color v] effect by (25)
++ [color v] 효과를 (25) 만큼 바꾸기
 ```
 
-Test and save your code.
+프로젝트를 테스트해 보고 저장하세요.
 
-![Testing a colour-changing spaceship](images/space-colour-test.png)
+![우주석 색바꾸기 테스트](images/space-colour-test.png)
 
 \--- /task \---
 
-\--- task \--- Can you make your spaceship get smaller as it moves towards Earth?
+\--- task \--- 우주선이 지구로 가는동안 점점 더 작아지게 만들수 있나요?
 
 \--- hints \---
 
 \--- hint \---
 
-Your spaceship should start at `100% size`{:class="blocklooks"}, and then `change size`{:class="blocklooks"} by a small amount each time it moves.
+우주선은 ` 100 % 크기 ` {: class = "blocklooks"} 로 시작해야합니다. ` 크기 변경 ` {: class = "blocklooks"}은 (는) 은 할 때마다 우주선이 작게 표시되게 됩니다.
 
 \--- /hint \---
 
 \--- hint \---
 
-You will need to add these blocks to your code:
+코드에 다음 블록을 추가해야합니다.
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![우주선 스프라이트](images/sprite-spaceship.png)
 
 ```blocks3
-change size by (10)
+크기를 (10) 만큼 바꾸기
 
-set size to (100) %
+크기를 (100) %로 정하기
 ```
 
 \--- /hint \---
 
 \--- hint \---
 
-Your code should look like this:
+다음과 같은 코드가 될 것입니다.:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![우주선 스프라이트](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-set size to (100) %
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-repeat (200)
-    move (2) steps
-    change [color v] effect by (25)
+flag 클릭했을 때
+(0)도 방향 보기
+x:(-150) y:(-150)로 이동하기
+[Let's go]을(를) (2) 초 동안 말하기
+(Earth v) 쪽 보기
+(200) 번 반복하기
+    (2) 만큼 움직이기)
+    [color v] 효과를 (25) 만큼 바꾸기
 
-+   change size by (-3)
++   크기를 (-3) 만큼 바꾸기
 ```
 
 \--- /hint \---
@@ -113,6 +112,6 @@ repeat (200)
 
 \--- /task \---
 
-Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
+테스트하고 저장하세요. 우주선은 움직이는 동안 작아집니다. 우주선 움직임을 **두 번** 테스트해보세요. 시작할 때 적당한 크기인가요?
 
-![Testing a shrinking spaceship](images/space-size-test.png)
+![우주선 작아지기 테스트](images/space-size-test.png)
