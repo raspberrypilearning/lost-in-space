@@ -1,6 +1,6 @@
 \--- no-print \---
 
-Bu, projenin **Scratch 3** sürümüdür. Projenin aynı zamanda [Scratch 2 sürümü](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2) de vardır.
+Bu, projenin **Scratch 3** versiyonudur. Projenin aynı zamanda [Scratch 2 sürümü](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2) de bulunmaktadır.
 
 \--- /no-print \---
 
@@ -8,7 +8,7 @@ Bu, projenin **Scratch 3** sürümüdür. Projenin aynı zamanda [Scratch 2 sür
 
 Kendi animasyonunuzu nasıl programlayacağınızı öğreneceksiniz!
 
-### Ne yapacaksınız
+### Neler yapacaksınız
 
 \--- no-print \--- Animasyonu görmek için yeşil bayrağa tıklayın.
 
@@ -25,7 +25,7 @@ Kendi animasyonunuzu nasıl programlayacağınızı öğreneceksiniz!
 
 \--- /print-only \---
 
-## \--- küçült \---
+## \--- collapse \---
 
 ## title: Nelere ihtiyacınız var
 
@@ -37,7 +37,7 @@ Kendi animasyonunuzu nasıl programlayacağınızı öğreneceksiniz!
 
 - Scratch 3 ([çevrimiçi](http://rpf.io/scratchon){:target="_blank"} veya [çevrimdışı](http://rpf.io/scratchoff){:target="_blank"})
 
-### İndirilenler
+### İndirilecekler
 
 - Yok
 
@@ -45,11 +45,11 @@ Kendi animasyonunuzu nasıl programlayacağınızı öğreneceksiniz!
 
 ## \--- collapse \---
 
-## title: Ne öğreneceksiniz
+## title: Neler öğreneceksiniz
 
-- Use a repeat loop to animate a sprite in Scratch
-- Use a forever loop to repeat an animation indefinately
-- Understand that loops can be nested within each other
+- Bir kuklayı canlandırmak için tekrar eden döngü kullanma
+- Use a forever loop to repeat an animation indefinitely
+- Döngülerin iç içe geçebileceğini anlama
 
 \--- /collapse \---
 
@@ -57,8 +57,8 @@ Kendi animasyonunuzu nasıl programlayacağınızı öğreneceksiniz!
 
 ## title: Eğitimciler için ek bilgiler
 
-Bu projeyi yazdırmanız gerekiyorsa lütfen [yazıcı-dostu sürümü](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"} kullanın.
+Bu projeyi yazdırmanız gerekiyorsa, lütfen [yazıcı dostu sürüm](https://projects.raspberrypi.org/en/projects/lost-in-space/print)ü kullanın{:target="_blank"}.
 
-You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+[Tamamlanmış projeye buradan](http://rpf.io/p/en/lost-in-space-get) ulaşabilirsiniz {:target="_blank"}.
 
 \--- /collapse \---
