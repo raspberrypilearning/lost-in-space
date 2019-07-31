@@ -1,45 +1,45 @@
-## Shining star
+## Ragyogó csillag
 
-Now you will combine loops to make a shining star.
+Most ismétlődéseket fogsz kombinálni, hogy egy ragyogó csillagot készíts.
 
-\--- task \--- Add a 'star' sprite to your stage.
+\--- task \--- Adj hozzá egy 'star' szereplőt a játéktérhez.
 
-![Adding a star sprite](images/space-star-sprite.png)
+![Csillag szereplő hozzáadása](images/space-star-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Can you add code to your star sprite to make the star repeatedly grow and shrink?
+\--- task \--- Hozzá tudod adni a kódhoz a csillag szereplőt úgy, hogy a csillag folyamatosan növekedjen és zsugorodjon?
 
-![Testing a shining star](images/sprite-star.png)
+![Ragyogó csillag tesztelése](images/sprite-star.png)
 
-\--- hints \--- \--- hint \--- When the green **flag is clicked**, your star sprite should **change size** to get bigger a few times, and then **change size** to get smaller a few times. It should do this so that it gets bigger and then smaller **forever** and looks like it's shining light. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
+\--- hints \--- \--- hint \--- Amikor a zöld **zászlóra kattintasz**, a csillag szereplő **méretének változnia kell**, hogy megnövekedjen párszor, majd a **méretének változnia kell**, hogy zsugorodjon párszor. Így **mindig** nagyobb, majd kisebb lesz és ezért úgy néz ki, mintha egy ragyogó fény lenne. \--- /hint \--- \--- hint \--- Íme a szükséges kódblokkok:
 
 ```blocks3
-repeat (10)
+ismételd (10)
 end
 
-when flag clicked
+⚑ -ra kattintáskor
 
-repeat (10)
+ismételd (10)
 end
 
-change size by (10)
+méret változzon (10)
 
-change size by (10)
+méret változzon (10)
 
-forever
+mindig
 ```
 
-\--- /hint \--- \--- hint \--- Here's the code to make your star grow and shrink: ![Star sprite](images/sprite-star.png)
+\--- /hint \--- \--- hint \--- Itt van a kód, ami megnöveli és zsugorítja a csillagod: ![Csillag szereplő](images/sprite-star.png)
 
 ```blocks3
-when flag clicked
-forever
-    repeat (20)
-        change size by (2)
+⚑ -ra kattintáskor
+mindig
+    ismételd (20)
+        méret változzon (2)
     end
-    repeat (20)
-        change size by (-2)
+    ismételd (20)
+        méret változoon (-2)
     end
 
 ```
