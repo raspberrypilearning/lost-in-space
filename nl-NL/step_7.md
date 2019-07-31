@@ -4,13 +4,13 @@ Nu ga je verschillende lussen combineren om een fonkelende ster te maken.
 
 \--- task \--- Voeg de 'Star' sprite toe aan je speelveld.
 
-![Adding a star sprite](images/space-star-sprite.png)
+![Een ster-sprite toevoegen](images/space-star-sprite.png)
 
 \--- /task \---
 
 \--- task \--- Kun je code aan je ster-sprite toevoegen om die herhaaldelijk groter en kleiner te laten worden?
 
-![Testing a shining star](images/sprite-star.png)
+![Een fonkelende ster testen](images/sprite-star.png)
 
 \--- hints \--- \--- hint \--- Als de **groene vlag wordt aangeklikt** kun je een paar keer met **verander grootte met** de ster groter maken en met **verander grootte met** die ook weer kleiner maken. De ster zou **herhaal**delijk groter en dan kleiner moeten worden, zodat het eruit ziet als een fonkelende ster. \--- /hint \--- \--- hint \--- Dit zijn de codeblokken die je nodig hebt:
 
