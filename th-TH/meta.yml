@@ -28,6 +28,4 @@ steps:
     title: 'ถาม: สร้างแอนิเมชันของคุณเอง'
     challenge: true
   - 
-    title: ทดสอบด้วยตัวเอง
-  - 
-    title: อะไรต่อไป
+    title: What next?
