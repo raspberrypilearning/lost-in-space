@@ -7,10 +7,10 @@ Czy możesz zmienić liczby w kodzie animacji, aby:
 
 Będziesz musiał zmienić liczby w tym bloku:
 
-![Rockowy sprite](images/sprite-spaceship.png)
+![Duszek Rocketship](images/sprite-spaceship.png)
 
 ```blocks3
-poślizg (1) s do x: (0) y: (0)
+leć przez (1) sekund do x:(0) y:(0)
 ```
 
 [[[generic-scratch3-coordinates]]]
