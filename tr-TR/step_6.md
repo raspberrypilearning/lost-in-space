@@ -1,49 +1,49 @@
 ## Sıçrayan asteroit
 
-Şimdi animasyonunuza kayan bir boşluk taşı ekleyeceksiniz.
+Şimdi animasyonunuza kayan bir uzay taşı ekleyeceksiniz.
 
-\--- görev \--- Animasyonunuza bir 'rock' sprite ekleyin.
+\--- task \--- Animasyonunuza bir 'taş' kuklası ekleyin.
 
-![Kaya sprite ekleme](images/space-rock-sprite.png)
+![Taş kuklası ekleme](images/space-rock-sprite.png)
 
 \--- /task \---
 
-\--- görev \--- Kaya sahnenin etrafında zıplayabilmek için rock sprite kodunuzu ekleyebilir misiniz?
+\--- task \--- Taşın sahnenin etrafında zıplayabilmesi için taş kuklanıza bir kod ekleyebilir misiniz?
 
-![Sıçrayan bir kayanın test edilmesi](images/space-bounce-test.png)
+![Sıçrayan bir taşın test edilmesi](images/space-bounce-test.png)
 
-\--- ipuçları \--- \--- ipucu \--- yeşil **bayrak tıklandığında**, kaya sprite gerektiği **hamle** ve **sıçrama** sahne etrafında **sonsuza**. \--- / hint \--- \--- hint \--- İhtiyacınız olan kod blokları:
-
-```blocks3
-adım (10) hareket ettirmek
-
-kenar sıçrama olursa
-
-bayrak tıklandığında
-
-sonsuza
-```
-
-Bu bloklardan biriyle kaya sprite için daha ilginç bir başlangıç yönü belirleyebilirsiniz:
+\---hints\--- \---hint\--- Yeşil **bayrak tıklandığında**, taş kuklanız sahne etrafında **hareket etmeli** ve **sonsuza dek sıçramalı**. \--- / hint \--- \--- hint \--- İhtiyacınız olan kod blokları:
 
 ```blocks3
-cw (15) derece
+move (10) steps
 
-noktaya (Dünya v) döndürün
+if on edge bounce
+
+when flag clicked
+
+forever
 ```
 
-\--- / ipucu \--- \--- ipucu \---
-
-İşte rock'ınızı sahnede zıplatmanın kodu:
-
-![Kaya sprite](images/sprite-rock.png)
+Bu kod bloklardan biriyle taş kuklanız için daha ilginç bir başlangıç yönü belirleyebilirsiniz:
 
 ```blocks3
-bayrak
-işaretini tıklattığında (Earth v)
-sonsuza dek
-    hareket ettirin (2)
-    adımda kenarda, sekme
+turn cw (15) degrees
+
+point towards (Earth v)
 ```
 
-\--- / ipucu \--- \--- / ipuçları \--- \--- / görev \---
+\--- /hint \--- \--- hint \---
+
+İşte taşınızı sahnenin etrafında zıplatmak için gerekli kod:
+
+![Taş kuklası](images/sprite-rock.png)
+
+```blocks3
+when flag clicked
+point towards (Earth v)
+forever
+    move (2) steps
+    if on edge, bounce
+```
+
+\--- /hint \--- \--- /hints \--- \--- /task \---
