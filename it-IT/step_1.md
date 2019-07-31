@@ -48,7 +48,7 @@ Imparerai a programmare la tua animazione!
 ## title: Cosa imparerai
 
 - Come usare un ciclo ripetuto per animare uno sprite in Scratch
-- Come usare un ciclo infinito per ripetere un'animazione indefinitamente
+- Use a forever loop to repeat an animation indefinitely
 - Capire che i cicli possono essere nidificati tra loro
 
 \--- /collapse \---
@@ -59,6 +59,6 @@ Imparerai a programmare la tua animazione!
 
 Se intendete stampare questo progetto, cliccate su [Versione stampabile](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target = "_ blank"}.
 
-You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+Puoi trovare il [progetto completo qui](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
 \--- /collapse \---
