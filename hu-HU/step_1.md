@@ -8,7 +8,7 @@ Ez, a projekt **Scratch 3**-as verziója. Van [Scratch 2-es változata is](https
 
 Megtanulod, hogyan készítsd el a saját animációdat!
 
-### Mit fogsz el készíteni
+### Mit fogsz elkészíteni
 
 \--- no-print \--- Kattints a zöld zászlóra az animáció megtekintéséhez.
 
