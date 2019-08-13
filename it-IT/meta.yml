@@ -2,7 +2,7 @@
 title: Perduto nello Spazio
 hero_image: images/lost-in-space.png
 description: Impara a programmare la tua animazione!
-original_url: https://www.codeclubprojects.org/en-GB/scratch/lost-in-space
+original_url: https://projects.raspberrypi.org/en/projects/lost-in-space
 listed: true
 copyedit: true
 technologies: scratch
@@ -14,16 +14,16 @@ steps:
   - 
     title: Animare un'astronave
   - 
-    title: 'Sfida: migliora la tua animazione'
+    title: 'Animare usando i loop'
     challenge: true
   - 
-    title: Animazioni usando i cicli
+    title: Scimmie Fluttuanti
   - 
-    title: Scimmietta fluttuante
+    title: Asteroidi Rimbalzanti
   - 
-    title: Asteroide che rimbalza
+    title: Stelle Splendenti
   - 
-    title: Stella splendente
+    title: 'Sfida: Crea la tua animazione'
   - 
     title: 'Sfida: crea la tua animazione'
     challenge: true
