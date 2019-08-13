@@ -48,7 +48,7 @@ Tu vas apprendre à programmer ta propre animation!
 ## title: Ce que tu vas apprendre
 
 - Utiliser une boucle de répétition pour animer un sprite dans Scratch
-- Use a forever loop to repeat an animation indefinitely
+- Utiliser une boucle infinie pour répéter une animation indéfiniment
 - Comprendre que les boucles peuvent être imbriquées les unes dans les autres
 
 \--- /collapse \---
