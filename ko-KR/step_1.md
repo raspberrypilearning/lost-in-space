@@ -48,7 +48,7 @@
 ## title: 배우게 될 것
 
 - 반복 루프를 사용하여 스크래치에서 스프라이트 움직이기
-- Use a forever loop to repeat an animation indefinitely
+- 무한 반복을 사용하여 애니메이션을 영원히 반복하기
 - 루프가 서로 중첩될 수 있음에 대해 이해하기
 
 \--- /collapse \---
