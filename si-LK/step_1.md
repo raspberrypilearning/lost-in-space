@@ -55,7 +55,7 @@
 
 ## \--- collapse \---
 
-## title: අධ්‍යාපකයින්(educators) සඳහා අමතර තොරතුරු
+## title: අධ්‍යාපකයන්(educators) සඳහා අමතර තොරතුරු
 
 ඔබට මෙම ව්‍යාපෘතිය මුද්‍රණය කිරීමට අවශ්‍ය නම්, කරුණාකර [මුද්‍රණ-හිතකාමී අනුවාදය(printer-friendly version)](https://projects.raspberrypi.org/en/projects/lost-in-space/print)භාවිතා කරන්න {:target = "_blank"}.
 
