@@ -57,7 +57,7 @@
 
 ## title: අධ්‍යාපකයින්(educators) සඳහා අමතර තොරතුරු
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
+ඔබට මෙම ව්‍යාපෘතිය මුද්‍රණය කිරීමට අවශ්‍ය නම්, කරුණාකර [මුද්‍රණ-හිතකාමී අනුවාදය(printer-friendly version)](https://projects.raspberrypi.org/en/projects/lost-in-space/print)භාවිතා කරන්න {:target = "_blank"}.
 
 You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
