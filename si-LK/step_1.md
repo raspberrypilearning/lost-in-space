@@ -1,14 +1,14 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
+මෙය **Scratch 3** අනුවාදයේ(version එකේ) ව්‍යාපෘතියකි. මෙම ව්යාපෘතියේ [Scratch 2 අනුවාදයක්(version එකක්)](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2) ද ඇත.
 
 \--- /no-print \---
 
 ## හැදින්වීම
 
-You are going to learn how to program your own animation!
+ඉගෙන ගැනීමට යන්නේ, ඔබේම සජීවිකරණ වැඩසටහනක් කරන්නේ කෙසේද කියායි!
 
-### What you will make
+### ඔබ සාදන්නට යන දේ
 
 \--- no-print \--- Click on the green flag to see the animation.
 
