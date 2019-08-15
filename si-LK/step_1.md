@@ -10,7 +10,7 @@
 
 ### ඔබ සාදන්නට යන දේ
 
-\--- no-print \--- Click on the green flag to see the animation.
+\--- no-print \--- සජීවිකරණය බැලීමට හරිත ධජය(green flag එක) මත ක්ලික් කරන්න.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -27,15 +27,15 @@
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: ඔබට අවශ්‍ය දේ
 
-### Hardware
+### දෘඩාංග(Hardware)
 
-- A computer capable of running Scratch 3
+- Scratch 3 ධාවනය(run) කළ හැකි පරිගණකයක්
 
 ### Software
 
-- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 ([අන්තර්ජාල ගතව(online)](http://rpf.io/scratchon) {:target="_blank"} හෝ [අන්තර්ජාලයට නොබැඳිව(offline)](http://rpf.io/scratchoff) {:target="_blank"})
 
 ### Downloads
 
@@ -45,10 +45,10 @@
 
 ## \--- collapse \---
 
-## title: What you will learn
+## title: ඔබ ඉගෙන ගන්නා දේ
 
-- Use a repeat loop to animate a sprite in Scratch
-- Use a forever loop to repeat an animation indefinitely
+- Scratch වල sprite එකක් සජීවිකරණය කිරීමට, පුනරාවර්තන(repeat) ලූපයක්(loop එකක්) භාවිතා කරන්න
+- සජීවිකරණයක් නොකඩවා(indefinately) පුනරාවර්තනය(repeat) කිරීමට සදාකාලික ලූපයක්(forever loop එකක්) භාවිතා කරන්න
 - Understand that loops can be nested within each other
 
 \--- /collapse \---
