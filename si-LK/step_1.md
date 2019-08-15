@@ -49,13 +49,13 @@
 
 - Scratch වල sprite එකක් සජීවිකරණය කිරීමට, පුනරාවර්තන(repeat) ලූපයක්(loop එකක්) භාවිතා කරන්න
 - සජීවිකරණයක් නොකඩවා(indefinately) පුනරාවර්තනය(repeat) කිරීමට සදාකාලික ලූපයක්(forever loop එකක්) භාවිතා කරන්න
-- Understand that loops can be nested within each other
+- ලූප(loops) එකිනෙකා තුළ කූඩු(nested within each other) කළ හැකි බව තේරුම් ගන්න
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: අධ්‍යාපකයින්(educators) සඳහා අමතර තොරතුරු
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
