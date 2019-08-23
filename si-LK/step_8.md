@@ -1,7 +1,7 @@
-## Challenge: make your own animation
+## අභියෝගය: ඔබේම සජීවීකරණයක්(animation එකක්) සාදන්න
 
-Stop your space animation, save it, and start a new Scratch project.
+ඔබගේ අභ්‍යවකාශ(space) සජීවිකරණය(animation එක) නවත්වා(stop කර), එය සුරකින්න(save කරන්න), දැන් නව Scratch ව්‍යාපෘතියක්(project එකක්) ආරම්භ කරන්න.
 
-Use what you've learned in this project to make your own animation. It can be anything you like, but try to make your animation match the background you choose. Here are some examples:
+ඔබේම සජීවිකරණයක්(animation එකක්) කිරීමට මෙම ව්‍යාපෘතියේ(project එකේ) ඔබ ඉගෙන ගත් දේ භාවිතා කරන්න. එය ඔබ කැමති ඕනෑම දෙයක් විය හැකිය, නමුත් ඔබේ සජීවිකරණය(animation එක) ඔබ තෝරාගත් පසුබිමට(background එකට) ගැලපෙන ලෙස සකස් කිරීමට උත්සාහ කරන්න. උදාහරණ කිහිපයක් මෙහි දැක්වේ:
 
 ![පින්තුරය](images/space-egs.png)
