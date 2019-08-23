@@ -1,21 +1,122 @@
-## Mwcni yn Arnofio
+## Animeiddio yn defnyddio dolennu
 
-Ewn ni ati i ychwanegu mwnci i dy amineiddiad, sydd ar goll yn y gofod!
+Ffordd arall o animeiddio’r llong ofod yw dweud wrtho i symud ychydig bach, nifer o weithiau.
 
-+ Dechreua gan ychwanegu ciplun mwnci o'r llyfrgell.
+--- task --- Dileua'r bloc `llithro`{:class="block3motion"} o dy gôd. I wneud hyn, llusga'r bloc o'r ardal Côd a'i ollwng yn ôl lle mae'r blociau côd arall.
 
-	![screenshot](images/space-monkey.png)
+![Corlun llong ofod](images/sprite-spaceship.png)
 
-+ Os wyt ti'n gwasgu ar fy fwnci newydd yna gwasgu 'Gwisgoedd', mae modd i ti chwarae gyda'r ffordd mae'r mwnci yn edrych.  Gwasga ar y teclyn 'Elips', a thynna llun helmet gofod gwyn o gwmpas pen y mwnci.
+```blocks3
+pan fo'r flag werdd yn cael ei glicio
+pwyntio i gyfeiriad (0)
+mynd i x: (-150) y: (-150)
+dweud [Awn ni!] am (2) eiliad
+pwyntio tuag at (Earth v)
 
-	![screenshot](images/space-monkey-edit.png)
+llithro (1) eiliad i x: (0) y: (0)
+```
 
-+ Nawr gwasga 'Sgriptiau' ac ychwanega y côd yma i'r mwnci, fel ei fod yn troi yn araf mewn cylch am byth:
+--- /task ---
 
-	![screenshot](images/space-turn-3.png)
+Nawr, defnyddiwch bloc `ailadrodd`{:class="block3control"} i symud dy long ofod tuag at y Ddaear.
 
-	Mae'r bloc `Am Byth`{:class="blockcontrol"} yn ddolen arall, ond y tro yma un sydd byth yn gorffan.
+![Profi animeiddiad llong ofod](images/space-animate-stage.png)
 
-+ Gwasga'r faner i brofi dy fwnci.  Bydd angen i ti wasgu y botwm 'Stop' (drws nesaf i'r faner) i orffen yr amineiddiad yma.
+![Corlun llong ofod](images/sprite-spaceship.png)
 
-	![screenshot](images/space-monkey-loop.png)
+```blocks3
+pan fo'r flag werdd yn cael ei glicio
+pwyntio i gyfeiriad (0)
+mynd i x: (-150) y: (-150)
+dweud [Awn ni!] am (2) eiliad
+pwyntio tuag at (Earth v)
+
++ ailadrodd (200) 
+  symud (2) cam
+end
+```
+
+Profa ac arbed dy gôd. Fe ddylai dy long ofod symud tuag at y Ddaear yn union fel y tro o'r blaen, dim ond ei fod yn defnyddio y bloc `ailadrodd`{:class="block3control"} y tro hwn.
+
+--- /task ---
+
+Nesaf, ychwanegwch gôd at eich corlun llong ofod fel bod y llong ofod yn newid lliw wrth iddi symud tuag at y Ddaear.
+
+Defnyddia'r bloc yma:
+
+![Corlun llong ofod](images/sprite-spaceship.png)
+
+```blocks3
+pan fo'r flag werdd yn cael ei glicio
+pwyntio i gyfeiriad (0)
+mynd i x: (-150) y: (-150)
+dweud [Awn ni!] am (2) eiliad
+pwyntio tuag at (Earth v)
+ailadrodd (200) 
+  symud (2) cam
+end
+
++    newid effaith [lliw v] gan (25)
+```
+
+Profa ac arbed dy gôd.
+
+![Profi llong ofod sy'n newid lliw](images/space-colour-test.png)
+
+--- /task ---
+
+--- task --- Alli di wneud dy long ofod yn llai wrth iddo symud tuag at y Ddaear?
+
+--- hints ---
+
+
+--- hint ---
+
+Dylai eich llong ofod ddechrau ar maint `100%`{:class="blocklooks"}, ac yna `newid maint`{:class="blocklooks"} ychydig bach ar y tro, bob tro mae’n symud.
+
+--- /hint ---
+
+--- hint ---
+
+Mae angen ychwanegu'r blociau yma i dy gôd:
+
+![Corlun llong ofod](images/sprite-spaceship.png)
+
+```blocks3
+newid maint gan (10)
+
+gosod maint i (100) %
+```
+
+--- /hint ---
+
+--- hint ---
+
+Fe ddylai dy gôd edrych fel hyn:
+
+![Corlun llong ofod](images/sprite-spaceship.png)
+
+```blocks3
+pan fo'r flag werdd yn cael ei glicio
+gosod maint i (100) %
+pwyntio i gyfeiriad (0)
+mynd i x: (-150) y: (-150)
+dweud [Awn ni!] am (2) eiliad
+pwyntio tuag at (Earth v)
+ailadrodd (200) 
+  symud (2) cam
+  newid effaith [lliw v] gan (25)
+end
+
++   newid maint gan (-3)
+```
+
+--- /hint ---
+
+--- /hints ---
+
+--- /task ---
+
+Profa ac arbed dy gôd. Fe ddylai dy long ofod leihau wrth iddo symud. Profa dy long ofod am yr **ail dro**. Ydy e y maint cywir pan mae'n cychwyn?
+
+![Profi llong ofod sy'n lleihau](images/space-size-test.png)

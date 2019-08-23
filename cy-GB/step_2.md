@@ -1,51 +1,62 @@
-## Amineiddio llong ofod
+## Animeiddio llong ofod
 
-Rydym am greu llong ofod sydd yn hedfan tuag at y Ddaear!
+Y cam cyntaf fydd creu llong ofod sy'n hedfan tuag at y Ddaear!
 
-+ Cychwyna brosiect Scratch newydd, a dileu ciplun y gath fel bod eich prosiect yn wag.  Mae modd dod o hyd i'r golygydd Scratch arlein yma <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a>.
+--- task ---
 
-+ Ychwanega gipluniau 'Llong Ofod' a 'Daear' i dy lwyfan, yna cer ati i ychwanegu cefndir 'Sêr' i dy lwyfan.  Fe ddylai dy lwyfan nawr edrych fel hyn:
+Agor prosiect Scratch newydd.
 
-	![screenshot](images/space-sprites.png)
+**Arlein:** agora brosiect Scratch newydd yma [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
 
-+ Gwasga ar giplun dy long ofod newydd, a gwasga'r tab 'Gwisgoedd'.
+**All-lein** agora brosiect newydd yn y golygydd all-lein.
 
-	![screenshot](images/space-costume.png)
+Os oes angen i ti lawrlwytho a gosod golygydd Scratch all-lein, mae modd dod o hyd iddo yma [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-+ Defnyddia'r botwm dewis i ddethol y llun.  Yna gwasga ar y ddolen cylchdroi, i droi y llun tan ei fod ar ei ochr.
+--- /task ---
 
-	![screenshot](images/space-rotate.png)
+--- task --- Ychwanegu cipluniau 'llong ofod' a 'Daear' i dy Lwyfan.
 
-+ Ychwanega y côd yma i giplun dy long ofod:
+![Cipluniau llong ofod a Daear](images/space-sprites.png)
 
-	![screenshot](images/space-animate.png)
+[[[generic-scratch3-sprite-from-library]]]
 
-	Newida y rhifau yn y blociau côd, fel bod y côd union yr un peth â'r ddelwedd uchod.
+--- /task ---
 
-+ Os gwnei di glicio ar y bloc côd, fe ddylst ti weld y llong ofod yn siarad, troi a symud tuag at ganol y llwyfan.
+--- task --- Ychwanegu cefnlen 'Sêr' i dy Lwyfan.
 
-	![screenshot](images/space-animate-stage.png)
+![Cefnlen gofod](images/space-backdrop.png)
 
-	Safle sgrin `x:(0) y:(0)`{:class="blockmotion"} yw canol y llwyfan. Mae safle fel `x:(-150) y:(-150)`{:class="blockmotion"} tuag at gwaelod chwith y llwyfan, ac mae safle fel `x:(150) y:(150)`{:class="blockmotion"} yn agos i gornel top dde y llwyfan.
+--- /task ---
 
-	![screenshot](images/space-xy.png)
+--- task --- Clicia'r ciplun llong ofod, a chlicia'r tab **Gwisgoedd**.
 
-	Os oes angen i ti wybod cyfesur safle ar y llwyfan, symuda'r llygoden i'r safle yr hoffet ti a gwna nodyn o'r rhifau cyfesur, sydd i'w gweld o dan y llwyfan.
+![Gwisg corlun](images/space-costume.png)
 
-	![screenshot](images/space-coordinates.png)
+--- /task ---
 
-+ Profa dy animeiddiad, trwy wasgu ar y faner werdd uwchben y llwyfan.
+--- task --- Defnyddia'r teclyn **dewis** i glicio a llusgo bocs o amgylch y llong ofod. Yna clicia ar y teclyn **cylchdroi**, i droi y llun tan ei fod ar ei ochr.
 
-	![screenshot](images/space-flag.png)
+![Troi gwisg](images/space-rotate.png)
 
---- challenge ---
-## Her: Perffeithio dy animeiddiad
-Alli di newid y rhifau yn y côd amineiddio fel bod
-+ Y llong ofod yn cyffwrdd y Ddaear?
-+ Y llong ofod yn symud yn arafach tuag at y Ddaear?
+--- /task ---
 
-Bydd angen i ti newid y rhifau yn y bloc yma:
+--- task --- Ychwanega'r côd yma i gorlun dy long ofod:
 
-  ![screenshot](images/space-glide.png)
+![Corlun llong ofod](images/sprite-spaceship.png)
 
---- /challenge ---
+```blocks3
+pan fo'r flag werdd yn cael ei glicio
+pwyntio i gyfeiriad (0)
+mynd i x: (-150) y: (-150)
+dweud [Awn ni!] am (2) eiliad
+pwyntio tuag at (Earth v)
+llithro (1) eiliad i x: (0) y: (0)
+```
+
+Newida y rhifau yn y blociau côd fel bod y côd union yr un peth â’r llun uchod.
+
+--- /task ---
+
+Clicia ar y faner werdd ac fe ddylset ti weld y llong ofod yn siarad, troi a symud tuag at ganol y llwyfan.
+
+![Profi animeiddiad llong ofod](images/space-animate-stage.png)
