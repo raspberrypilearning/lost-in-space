@@ -42,6 +42,7 @@ Profa ac arbed dy gôd. Fe ddylai dy long ofod symud tuag at y Ddaear yn union f
 
 --- /task ---
 
+--- task ---
 Nesaf, ychwanegwch gôd at eich corlun llong ofod fel bod y llong ofod yn newid lliw wrth iddi symud tuag at y Ddaear.
 
 Defnyddia'r bloc yma:
