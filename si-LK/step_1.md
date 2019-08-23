@@ -21,7 +21,7 @@
 
 \--- print-only \---
 
-![Complete project](images/showcase_static.png)
+![සම්පූර්ණ ව්‍යාපෘතිය](images/showcase_static.png)
 
 \--- /print-only \---
 
@@ -33,11 +33,11 @@
 
 - Scratch 3 ධාවනය(run) කළ හැකි පරිගණකයක්
 
-### Software
+### මෘදුකාංග(Software)
 
 - Scratch 3 ([අන්තර්ජාල ගතව(online)](http://rpf.io/scratchon) {:target="_blank"} හෝ [අන්තර්ජාලයට නොබැඳිව(offline)](http://rpf.io/scratchoff) {:target="_blank"})
 
-### Downloads
+### බාගන්න(Downloads)
 
 - None
 
@@ -57,8 +57,8 @@
 
 ## title: අධ්‍යාපකයන්(educators) සඳහා අමතර තොරතුරු
 
-ඔබට මෙම ව්‍යාපෘතිය මුද්‍රණය කිරීමට අවශ්‍ය නම්, කරුණාකර [මුද්‍රණ-හිතකාමී අනුවාදය(printer-friendly version)](https://projects.raspberrypi.org/en/projects/lost-in-space/print)භාවිතා කරන්න {:target = "_blank"}.
+ඔබට මෙම ව්‍යාපෘතිය මුද්‍රණය කිරීමට අවශ්‍ය නම්, කරුණාකර [මුද්‍රණ-හිතකාමී අනුවාදය(printer-friendly version)](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"} භාවිතා කරන්න .
 
-You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+[ සම්පුර්ණ කරන ලද ව්‍යාපෘතිය(completed project here)](http://rpf.io/p/en/lost-in-space-get){:target="_blank"} ඔබට මෙහිදී බලගත හැකිය.
 
 \--- /collapse \---
