@@ -1,49 +1,49 @@
 ## Abprallender Asteroid
 
-Now you will add a floating space rock to your animation.
+Jetzt wirst du einen schwebenden Weltraumstein zu deiner Animation hinzufügen.
 
-\--- task \--- Add a 'rock' sprite to your animation.
+\--- task \--- Füge deiner Animation eine "Rocks"- (Felsen-) Figur hinzu.
 
 ![Hinzufügen der Rocks-Figur](images/space-rock-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Can you add code for your rock sprite so that the rock bounces around the stage?
+\--- task \--- Kannst du Code für deine Felsen-Figur hinzufügen, damit der Stein über die Bühne springt?
 
 ![Testing a bouncing rock](images/space-bounce-test.png)
 
-\--- hints \--- \--- hint \--- Wenn die grüne **Flagge angeklickt** wird, sollte sich deine Felsen-Figur **bewegen** und quer über die Bühne hüpfen, indem sie **fortlaufend** **vom Rand abprallt**. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
+\--- hints \--- \--- hint \--- Wenn die grüne **Flagge angeklickt** wird, sollte sich deine Felsen-Figur **bewegen** und quer über die Bühne hüpfen, indem sie **fortlaufend** **vom Rand abprallt**. \--- /hint \--- \--- hint \--- Hier sind die Codeblöcke die du brauchst:
 
 ```blocks3
-move (10) steps
+gehe (10) er Schritt
 
-if on edge bounce
+pralle vom Rand ab
 
-when flag clicked
+Wenn Flagge angeklickt wird
 
-forever
+wiederhole fortlaufend
 ```
 
-You can also set a more interesting starting direction for the rock sprite with one of these blocks:
+Du kannst auch eine interessantere Startrichtung für deine Felsen-Figur festlegen, indem du einen dieser Blöcke verwendest:
 
 ```blocks3
-turn cw (15) degrees
+drehe dich im Uhrzeigersinn um (15) Grad
 
-point towards (Earth v)
+drehe dich zu (Erde v)
 ```
 
 \--- /hint \--- \--- hint \---
 
-Here's the code for making your rock bounce around the stage:
+Hier ist der Code, mit dem du deinen Felsen über die Bühne springen lässt:
 
-![Rock sprite](images/sprite-rock.png)
+![Felsen Figur](images/sprite-rock.png)
 
 ```blocks3
-when flag clicked
-point towards (Earth v)
-forever
-    move (2) steps
-    if on edge, bounce
+Wenn Flagge angeklickt wird
+drehe dich zu (Erde v)
+wiederhole fortlaufend
+    gehe (2) er Schritt
+    pralle vom Rand ab
 ```
 
 \--- /hint \--- \--- /hints \--- \--- /task \---
