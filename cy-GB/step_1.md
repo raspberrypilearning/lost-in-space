@@ -1,59 +1,67 @@
+--- no-print ---
+
+Dyma fersiwn **Scratch 3** y prosiect. Ceir hefyd [fersiwn Scratch 2 o'r prosiect](https://projects.raspberrypi.org/cy-GB/projects/lost-in-space-scratch2).
+
+--- /no-print ---
+
 ## Cyflwyniad
 
-Rydych chi mynd i ddysgu sut i raglennu eich animeiddiad eich hunan!
+Rwyt ti mynd i ddysgu sut i raglenni dy animeiddiad dy hunan!
+
+### Yr hyn byddi di'n ei greu
+
+--- no-print --- Clicia'r faner werdd i weld yr animeiddiad.
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/26818098/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
   <img src="images/space-final.png">
 </div>
 
+--- /no-print ---
+
+--- print-only ---
+
+![Cwblhau'r prosiect](images/showcase_static.png)
+
+--- /print-only ---
+
 --- collapse ---
 ---
-title: Nodiadau i Wirfoddolwyr
+title: Beth fydd ei angen arno ti
 ---
 
-## Cyflwyniad:
+### Caledwedd
 
-Yn y prosiect yma, bydd plant yn dysgu sut i gyfuno blociau o gôd i greu amineiddiad syml.
+- Cyfrifiadur sy'n gallu rhedeg Scratch 3
 
-## Adnoddau
-Ar gyfer y prosiect yma, dylid defnyddio Scratch 2.  Mae modd defnyddio Scratch 2 arlein yma [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) neu mae modd ei lawrlwytho yma [jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) a'i ddefnyddio heb gysylltiad gwe.
+### Meddalwedd
 
-Mae modd gweld y prosiect wedi ei gwblhau yma <a href="http://scratch.mit.edu/projects/26818098/#editor">online</a>, neu mae modd ei lawrlwytho wrth glicio ar ddolen 'Adnoddau'r Prosiect' ar gyfer y prosiect yma, sydd yn cynnwys:
+- Scratch 3 (unai [arlein](http://rpf.io/scratchon){:target="_blank"} neu [all-lein](http://rpf.io/scratchoff){:target="_blank"})
 
-+ LostInSpace.sb2
+### Lawrlwythiadau
 
-## Nodau Addysgol
-+ Dolennu:
-	+ `Ail-adrodd` {.blockcontrol} dolennu;
-	+ Dolennu `Am byth` {.blockcontrol} 
-
-Mae'r prosiect yma yn trin elfennau sydd yn rhan o'r adran ganlynol o [Faes Llafur Gwneud Digidol Raspberry Pi](http://rpf.io/curriculum):
-
-+ [Defnyddio cystrawen iaith raglennu sylfaenol i greu rhaglenni syml](https://www.raspberrypi.org/curriculum/programming/creator)
-
-## Heriau
-+ "Gwella dy amineiddiad" - newid y rhifau mewn rhaglen fer;
-+ "Gwneud dy amineddiad dy hunan" - defnyddio'r sgiliau newydd i wneud amineiddiad newydd.
-
-## Cwestiynau a Ofynir yn Aml
-+ Mae'n bosib y bydd angen atgoffa plant i 'ail-osod' lleoliad y ciplun, maint ac effeithiau eraill i gychwyn yr amineiddiad.  Mae modd gwneud hyn yn hawdd trwy ychwanegu rhai o'r blociau canlynol i gychwyn yr amineiddiad:
-
-```blocks
-	mynd i x:(0) y:(0)
-```
-
-```blocks
-	gosod maint i (100)%
-```
-
-```blocks
-	clirio effeithiau graffeg
-```
-
-+ Bydd ciplun y 'llong ofod' yn symud i'r ochr oni bai ei fod yn cael ei gylchdroi 90 gradd gyda'r cloc.  Mae troi y llong ofod yn rhan o gyfarwyddiadau'r prosiect, ond mae modd defnyddio ciplun arall ar gyfer y llong ofod os yw hyn yn creu problemau.
-
-	![screenshot](images/space-rotate.png)
+- Dim
 
 --- /collapse ---
 
+--- collapse ---
+---
+title: Yr hyn byddi di'n ei ddysgu
+---
+
+- Defnyddio loop ailadrodd i animeiddio corlun yn Scratch
+- Defnyddio loop tragwyddol i ailadrodd animeiddiad am byth
+- Deall bod loops yn gallu cael eu nythu o fewn ei gilydd
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: Gwybodaeth ychwanegol i addysgwyr
+---
+
+Os oes angen i chi argraffu y prosiect, defnyddiwch [fersiwn i'w argraffu](https://projects.raspberrypi.org/cy-GB/projects/lost-in-space/print){:target="_blank"}.
+
+Gallwch chi ddod o hyd i'r [ateb ar gyfer y prosiect hwn yma](http://rpf.io/p/cy-GB/lost-in-space-get){:target="_blank"}.
+
+--- /collapse ---
