@@ -1,60 +1,59 @@
 ## Schwebender Affe
 
-Now you will add a monkey who's lost in space to your animation!
+Lass uns einen Affen zu deiner Animation hinzufügen, der im Weltraum verloren gegangen ist!
 
-\--- task \--- Start by adding the 'monkey' sprite from the library.
+\--- task \--- Beginne mit dem Hinzufügen der "Monkey" (Affe) Figur aus der Bibliothek.
 
 ![Hinzufügen einer Affen-Figur](images/space-monkey-sprite.png)
 
 \--- /task \---
 
-Click on your new monkey sprite and then click on **Costumes** so that you can edit how the monkey looks.
+Klicke auf deine neue Affen Figur und dann auf **Kostüme** um das Aussehen des Affen zu bearbeiten.
 
-\--- task \--- Set the fill to be transparent by selecting the red line. For the outline, set a white colour by moving the Saturation slider to `0`.
+\--- task \--- Setze die Füllfarbe auf Transparent, indem du den roten Strich auswählst. Für die Umrandung wähle eine weiße Frabe, indem du den Sättigung-Regler auf `0` stellst.
 
-![Make white colour](images/make-white.png) \--- /task \---
+![Mache weiße Farbe](images/make-white.png) \--- /task \---
 
-\--- task \--- Click on the **circle** tool and then use it to draw a white space helmet around the monkey's head.
+\--- task \--- Klicke auf das **Kreis**-Werkzeug und zeichne einen weißen Helm um den Kopf des Affen.
 
 ![Monkey space helmet](images/space-monkey-edit.png)
 
 \--- /task \---
 
-\--- task \--- Can you add code to your monkey sprite so that it spins slowly in a circle forever?
+\--- task \--- Kannst du deiner Affen-Figur Code hinzufügen, so dass er sich fortlaufend langsam im Kreis dreht?
 
 \--- hints \--- \--- hint \---
 
-When the green **flag is clicked**, your monkey sprite should **turn** in a circle **forever**.
+Wenn die grüne **Flagge angeklickt** wird, soll sich die Affen-Figur **fortlaufend** im Kreis **drehen**.
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+Hier sind die Codeblöcke die du brauchst:
 
 ```blocks3
-forever
-end
+wiederhole fortlaufend
 
-turn cw (15) degrees
+drehe dich im Uhrzeigersinn um (15) Grad
 
-when flag clicked
+Wenn grüne Flagge angeklickt wird
 ```
 
 \--- /hint \--- \--- hint \---
 
-Here's the code to make your monkey spin:
+Hier ist der Code, um deinen Affen zum Drehen zu bringen:
 
-![Monkey sprite](images/sprite-monkey.png)
+![Affen Figur](images/sprite-monkey.png)
 
 ```blocks3
-when flag clicked
-forever
-    turn cw (1) degrees
+Wenn die Flagge angeklickt wird
+wiederhole fortlaufend
+    drehe dich im Uhrzeigersinn um (1) Grad
 ```
 
 \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
-Test and save your project. You'll have to click on the red **stop** button to end this animation, as it runs forever!
+Teste und speichere dein Projekt. Du musst auf das rote **Stopschild** klicken, um diese Animation zu beenden, da sie ja fortlaufend läuft!
 
-![Test the spinning monkey](images/space-spin-test.png)
+![Teste den drehenden Affen](images/space-spin-test.png)
