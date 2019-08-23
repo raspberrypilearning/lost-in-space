@@ -48,7 +48,7 @@ W tym projekcie nauczysz się jak programować własne animacje!
 ## title: Czego się nauczysz
 
 - Używać pętli powtarzaj żeby animować ikonkę w Scratchu
-- Use a forever loop to repeat an animation indefinitely
+- Używać nieskończonej pętli aby powtarzać animację w nieskończoność
 - Zrozumiesz, że pętle mogą być zagnieżdżone w sobie
 
 \--- /collapse \---
