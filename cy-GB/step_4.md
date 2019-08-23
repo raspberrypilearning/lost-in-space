@@ -18,6 +18,8 @@ llithro (1) eiliad i x: (0) y: (0)
 
 --- /task ---
 
+--- task ---
+
 Nawr, defnyddiwch bloc `ailadrodd`{:class="block3control"} i symud dy long ofod tuag at y Ddaear.
 
 ![Profi animeiddiad llong ofod](images/space-animate-stage.png)
