@@ -47,9 +47,9 @@ Rwyt ti mynd i ddysgu sut i raglenni dy animeiddiad dy hunan!
 
 ## title: Yr hyn byddi di'n ei ddysgu
 
-- Use a repeat loop to animate a sprite in Scratch
-- Use a forever loop to repeat an animation indefinitely
-- Understand that loops can be nested within each other
+- Defnyddio loop ailadrodd i animeiddio corlun yn Scratch
+- Defnyddio loop tragwyddol i ailadrodd animeiddiad am byth
+- Deall bod loops yn gallu cael eu nythu o fewn ei gilydd
 
 \--- /collapse \---
 
