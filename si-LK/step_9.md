@@ -1,6 +1,6 @@
-## What next?
+## ඊලඟට කුමක්ද?
 
-Try the [Ghostbusters](https://projects.raspberrypi.org/en/projects/ghostbusters?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) project! In that project, you will learn how to create a game with ghosts that appear all over the place and that you need to catch. You will also learn how to add a timer and a score to the game, so that you can see how many ghosts you are able to catch.
+[Ghostbusters](https://projects.raspberrypi.org/en/projects/ghostbusters?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) ව්‍යාපෘතිය(project එක) උත්සාහ කරන්න! එම ව්‍යාපෘතියේදී, අවතාර(ghosts) සහිත ක්‍රීඩාවක් නිර්මාණය කරන්නේ කෙසේදැයි ඔබ ඉගෙන ගනු ඇත. ක්‍රීඩාවට ටයිමරයක්(timer එකක්) සහ ලකුණු(score) එකතු කරන්නේ කෙසේදැයි ඔබ ඉගෙන ගනු ඇත, එවිට ඔබ අවතාර කීයක් අල්ලා ගනීදැයි දැක ගත හැකිය.
 
 \--- no-print \---
 
@@ -13,6 +13,6 @@ Try the [Ghostbusters](https://projects.raspberrypi.org/en/projects/ghostbusters
 
 \--- print-only \---
 
-![showcase](images/ghostbusters-static.png)
+![ප්‍රදර්ශනාගාරය(showcase)](images/ghostbusters-static.png)
 
 \--- /print-only \---
