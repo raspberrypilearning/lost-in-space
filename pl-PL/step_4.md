@@ -1,28 +1,28 @@
 ## Animacja za pomocą pętli
 
-Innym sposobem na ożywienie statku kosmicznego jest powiedzenie mu, aby kilkakrotnie poruszać małą ilością
+Innym sposobem na ożywienie statku kosmicznego jest powiedzenie mu, aby przemieścił się kilkukrotnie o małą odległość
 
 \--- task \--- Usuń blok kodu `glide`{: class = "block3motion"} z kodu. Aby to zrobić, przeciągnij blok z obszaru kodu i upuść go tam, gdzie znajdują się inne pojedyncze bloki kodu.
 
 ![Spitehip sprite](images/sprite-spaceship.png)
 
 ```blocks3
-kiedy flaga kliknęła
-punktów w kierunku (0)
-przejdź do x: (- 150) y: (- 150)
-powiedz [Chodźmy] na (2) sekundy
-punkty w kierunku (Ziemia v)
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
 
-- poślizg (1) sek. do x: (0) y: (0)
+- glide (1) secs to x:(0) y:(0)
 ```
 
 \--- /task \---
 
-\--- task \--- Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
+\--- zadanie \--- Teraz użyj blok powtórzenia ` ` {: class = "block3control"}, aby przenieść swój statek kosmiczny w kierunku Ziemi?
 
 ![Testowanie animacji statku kosmicznego](images/space-animate-stage.png)
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Duszek Statku kosmicznego](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -35,15 +35,15 @@ point towards (Earth v)
     move (2) steps
 ```
 
-Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
+Przetestuj i zapisz kod. Twój statek kosmiczny powinien zbliżyć się do Ziemi dokładnie tak jak poprzednio, ale tym razem używa `bloku` powtórzenia {: class = "block3control"}.
 
 \--- /task \---
 
-\--- task \--- Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
+\--- zadanie \--- Następnie dodaj kod do duszka statku kosmicznego, aby statek kosmiczny zmieniał kolor w miarę zbliżania się do Ziemi?
 
-Use this block:
+Użyj tego bloku:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Duszek Statku kosmicznego](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -57,25 +57,25 @@ repeat (200)
 +    change [color v] effect by (25)
 ```
 
-Test and save your code.
+Przetestuj i zapisz kod.
 
-![Testing a colour-changing spaceship](images/space-colour-test.png)
+![Testowanie zmieniającego kolor statku kosmicznego](images/space-colour-test.png)
 
 \--- /task \---
 
-\--- task \--- Can you make your spaceship get smaller as it moves towards Earth?
+\--- zadanie \--- Czy możesz zmniejszyć swój statek kosmiczny, gdy zbliża się do Ziemi?
 
 \--- hints \---
 
 \--- hint \---
 
-Your spaceship should start at `100% size`{:class="blocklooks"}, and then `change size`{:class="blocklooks"} by a small amount each time it moves.
+Twój statek kosmiczny powinien zacząć od rozmiaru ` 100% ` {: class = "blocklooks"}, a następnie ` zmień rozmiar ` {: class = "blocklooks"} o niewielką ilość za każdym razem, gdy się porusza.
 
 \--- /hint \---
 
 \--- hint \---
 
-You will need to add these blocks to your code:
+Musisz dodać te bloki do swojego kodu:
 
 ![Spitehip sprite](images/sprite-spaceship.png)
 
@@ -89,9 +89,9 @@ set size to (100) %
 
 \--- hint \---
 
-Your code should look like this:
+Twój kod powinien wyglądać tak:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Duszek Statku kosmicznego](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -113,6 +113,6 @@ repeat (200)
 
 \--- /task \---
 
-Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
+Przetestuj i zapisz kod. Twój statek kosmiczny powinien się teraz zmniejszać w miarę ruchu. Przetestuj swój statek kosmiczny ** po raz drugi **. Czy ma odpowiedni rozmiar, kiedy się zaczyna?
 
-![Testing a shrinking spaceship](images/space-size-test.png)
+![Testowanie zmniejszającego się statku kosmicznego](images/space-size-test.png)
