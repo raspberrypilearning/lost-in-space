@@ -18,7 +18,7 @@ llithro (1) eiliad i x: (0) y: (0)
 
 \--- /task \---
 
-\--- task \--- Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
+Nawr, defnyddiwch bloc `ailadrodd`{:class="block3control"} i symud dy long ofod tuag at y Ddaear.
 
 ![Profi animeiddiad llong ofod](images/space-animate-stage.png)
 
@@ -40,7 +40,7 @@ Profa ac arbed dy gôd. Fe ddylai dy long ofod symud tuag at y Ddaear yn union f
 
 \--- /task \---
 
-\--- task \--- Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
+Nesaf, ychwanegwch gôd at eich corlun llong ofod fel bod y llong ofod yn newid lliw wrth iddi symud tuag at y Ddaear.
 
 Defnyddia'r bloc yma:
 
@@ -71,7 +71,7 @@ Profa ac arbed dy gôd.
 
 \--- hint \---
 
-Your spaceship should start at `100% size`{:class="blocklooks"}, and then `change size`{:class="blocklooks"} by a small amount each time it moves.
+Dylai eich llong ofod ddechrau ar maint `100%`{:class="blocklooks"}, ac yna `newid maint`{:class="blocklooks"} ychydig bach ar y tro, bob tro mae’n symud.
 
 \--- /hint \---
 
