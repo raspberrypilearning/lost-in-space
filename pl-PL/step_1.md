@@ -47,7 +47,7 @@ W tym projekcie nauczysz się jak programować własne animacje!
 
 ## title: Czego się nauczysz
 
-- Używać pętli powtarzaj żeby animować ikonkę w Scratchu
+- Używać pętli powtarzaj żeby animować duszka w Scratchu
 - Używać nieskończonej pętli aby powtarzać animację w nieskończoność
 - Zrozumiesz, że pętle mogą być zagnieżdżone w sobie
 
@@ -57,8 +57,8 @@ W tym projekcie nauczysz się jak programować własne animacje!
 
 ## title: Dodatkowe informacje dla nauczycieli
 
-Jeśli chcesz wydrukować ten projekt, użyj [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
+Jeśli chcesz wydrukować ten projekt, użyj [wersji-gotowej-do-druku](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
-Tutaj znajdziesz ukończony projekt [ ](http://rpf.io/p/en/lost-in-space-get) {: target = "_ blank"}.
+Tutaj znajdziesz [ukończony projekt](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
 \--- /collapse \---
