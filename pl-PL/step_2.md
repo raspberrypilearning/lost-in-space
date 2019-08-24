@@ -14,7 +14,7 @@ Jeśli musisz pobrać i zainstalować edytor Scratcha, znajdziesz go na stronie 
 
 \--- /task \---
 
-\--- task \--- Dodaj duchy "Rocketship" i "Earth" do swojej Sceny.
+\--- task \--- Dodaj duszki "Rocketship" i "Earth" do swojej Sceny.
 
 ![Duszki Spaceship i Earth](images/space-sprites.png)
 
@@ -24,11 +24,11 @@ Jeśli musisz pobrać i zainstalować edytor Scratcha, znajdziesz go na stronie 
 
 \--- task \--- Dodaj tło "Stars" do swojej Sceny.
 
-![Tło przestrzeni](images/space-backdrop.png)
+![Tło kosmosu](images/space-backdrop.png)
 
 \--- /task \---
 
-\--- task \--- Kliknij na ikonkę statku kosmicznego i kliknij na zakładkę **Costumes**.
+\--- task \--- Kliknij na duszka statku kosmicznego i kliknij na zakładkę **Costumes**.
 
 ![Kostium duszka](images/space-costume.png)
 
