@@ -1,18 +1,18 @@
-## Błyszcząca gwiazda
+## Świecąca gwiazda
 
-Teraz połączysz pętle, by stworzyć świecącą gwiazdę.
+Teraz wykorzystasz połączenie różnych pętli, żeby stworzyć świecącą gwiazdę.
 
-\--- task \--- Dodaj sprite 'star' do swojej sceny.
+\--- task \--- Dodaj duszka "gwiazdę" (ang. star) do swojej sceny.
 
 ![Dodanie sprite gwiazdy](images/space-star-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Czy umiesz dodać kod do swojego gwiazdkowego sprite'a, aby gwiazda kilkakrotnie rosła i kurczyła?
+\--- task \--- Czy umiesz dodać kod do swojego duszka gwiazdy, aby gwiazda nieustannie rosła i kurczyła się?
 
 ![Testowanie świecącej gwiazdy](images/sprite-star.png)
 
-\--- wskazówki \--- \--- podpowiedź \--- Gdy kliknie się na zieloną flagę ****, twój sprite gwiazda powinien **zmienić rozmiar** aby powiększyć kilka razy, a następnie **zmienić rozmiar** aby uzyskać mniejszy kilka razy. Powinno to zrobić, aby było większe, a następnie mniejsze o **zawsze** i wygląda na to, że świeci światłem. \--- / wskazówka \--- \--- podpowiedź \--- Oto potrzebne bloki kodu:
+\--- wskazówki \--- \--- podpowiedź \--- Gdy zielona **flaga zostanie kliknięta**, twój duszek gwiazdy powinien **zmienić rozmiar** tak, aby powiększyć się kilkukrotnie, a następnie **zmienić rozmiar** tak, aby zmniejszyć się kilka razy. Powinno to zrobić, aby było większe, a następnie mniejsze o **zawsze** i wygląda na to, że świeci światłem. \--- / wskazówka \--- \--- podpowiedź \--- Oto potrzebne bloki kodu:
 
 ```blocks3
 repeat (10)
