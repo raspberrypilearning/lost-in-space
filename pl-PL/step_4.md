@@ -4,7 +4,7 @@ Innym sposobem na ożywienie statku kosmicznego jest powiedzenie mu, aby przemie
 
 \--- task \--- Usuń blok kodu `leć`{:class="block3motion"} z kodu. Aby to zrobić, przeciągnij blok z obszaru kodu i upuść go tam, gdzie znajdują się inne pojedyncze bloki kodu.
 
-![Spitehip sprite](images/sprite-spaceship.png)
+![Duszek Statku kosmicznego](images/sprite-spaceship.png)
 
 ```blocks3
 kiedy flaga kliknięta
@@ -59,7 +59,7 @@ ustaw duszka w kierunku (Ziemia v)
 
 Przetestuj i zapisz kod.
 
-![Testowanie zmieniającego kolor statku kosmicznego](images/space-colour-test.png)
+![Testowanie statku kosmicznego zmieniającego kolor](images/space-colour-test.png)
 
 \--- /task \---
 
@@ -77,7 +77,7 @@ Twój statek kosmiczny powinien zacząć od `rozmiaru 100%` {:class="blocklooks"
 
 Musisz dodać te bloki do swojego kodu:
 
-![Spitehip sprite](images/sprite-spaceship.png)
+![Duszek Statku kosmicznego](images/sprite-spaceship.png)
 
 ```blocks3
 zmień rozmiar o (10)
@@ -94,17 +94,17 @@ Twój kod powinien wyglądać tak:
 ![Duszek Statku kosmicznego](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-set size to (100) %
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-repeat (200)
-    move (2) steps
-    change [color v] effect by (25)
+kiedy flaga kliknięta
+ustaw rozmiar na (100) %
+ustaw duszka w kierunku (0)
+idź do x:(-150) y:(-150)
+powiedz [Chodźmy] przez (2) sekundy
+ustaw duszka w kierunku (Ziemia v)
+powtórz (200)
+    przesuń o (2) kroki
+    zmień [kolor v] efekt o (25)
 
-+   change size by (-3)
++   zmień rozmiar o (-3)
 ```
 
 \--- /hint \---
@@ -113,6 +113,6 @@ repeat (200)
 
 \--- /task \---
 
-Przetestuj i zapisz kod. Twój statek kosmiczny powinien się teraz zmniejszać w miarę ruchu. Przetestuj swój statek kosmiczny ** po raz drugi **. Czy ma odpowiedni rozmiar, kiedy się zaczyna?
+Przetestuj i zapisz kod. Twój statek kosmiczny powinien się teraz zmniejszać w miarę ruchu. Przetestuj swój statek kosmiczny **po raz drugi**. Czy ma odpowiedni rozmiar, kiedy program się zaczyna?
 
 ![Testowanie zmniejszającego się statku kosmicznego](images/space-size-test.png)
