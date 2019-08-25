@@ -7,7 +7,7 @@ Czy możesz zmienić liczby w kodzie animacji, aby:
 
 Będziesz musiał zmienić liczby w tym bloku:
 
-![Duszek Rocketship](images/sprite-spaceship.png)
+![Duszek Rakiety](images/sprite-spaceship.png)
 
 ```blocks3
 leć przez (1) sekund do x:(0) y:(0)
