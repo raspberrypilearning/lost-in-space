@@ -49,7 +49,7 @@ kiedy flaga kliknięta
 ustaw kierunek na (0)
 idź do x: (- 150) y: (- 150)
 powiedz [Chodźmy] przez (2) sekundy
-ustaw duszka w kierunku (Ziemia v)
+ustaw w kierunku duszka (Ziemia v)
 leć przez (1) sekund do x: (0) y: (0)
 ```
 
