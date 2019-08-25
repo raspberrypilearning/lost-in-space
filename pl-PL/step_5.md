@@ -2,7 +2,7 @@
 
 Teraz dodamy małpę, która zaginęła w kosmosie do twojej animacji!
 
-\--- task \--- Zacznij od dodania duszka "małpa" z biblioteki.
+\--- task \--- Zacznij od dodania duszka "małpa" (ang. Monkey) z biblioteki.
 
 ![Dodanie duszka małpy](images/space-monkey-sprite.png)
 
@@ -14,7 +14,7 @@ Kliknij na swój nowy duszek małpy, a następnie kliknij **Kostiumy** , aby mó
 
 ![Zrób biały kolor](images/make-white.png) \--- /task \---
 
-\--- task \--- Kliknij narzędzie **kółko**, a następnie użyj go do narysowania białego hełmu wokół głowy małpy.
+\--- task \--- Kliknij narzędzie **okrąg**, a następnie użyj go do narysowania białego hełmu wokół głowy małpy.
 
 ![Małpi kosmiczny hełm](images/space-monkey-edit.png)
 
