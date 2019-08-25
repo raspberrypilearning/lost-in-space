@@ -18,7 +18,7 @@ ustaw duszka w kierunku (Ziemia v)
 
 \--- /task \---
 
-\--- zadanie \--- Teraz użyj bloku `powtórz` {:class="block3control"}, aby przesunąć swój statek kosmiczny w kierunku Ziemi?
+\--- zadanie \--- Teraz użyj bloku `powtarzaj` {:class="block3control"}, aby przesunąć swój statek kosmiczny w kierunku Ziemi?
 
 ![Testowanie animacji statku kosmicznego](images/space-animate-stage.png)
 
@@ -29,13 +29,13 @@ kiedy flaga kliknięta
 ustaw kierunek na (0)
 idź do x: (-150) y: (-150)
 powiedz [Chodźmy] przez (2) sekundy
-ustaw duszka w kierunku (Ziemia v)
+ustaw w kierunku duszka (Ziemia v)
 
-+ powtórz (200)
++ powtarzaj (200)
     przesuń o (2) kroki
 ```
 
-Przetestuj i zapisz kod. Twój statek kosmiczny powinien zbliżyć się do Ziemi dokładnie tak jak poprzednio, ale tym razem używa bloku `powtórz`{:class="block3control"}.
+Przetestuj i zapisz kod. Twój statek kosmiczny powinien zbliżyć się do Ziemi dokładnie tak jak poprzednio, ale tym razem używa bloku `powtarzaj`{:class="block3control"}.
 
 \--- /task \---
 
