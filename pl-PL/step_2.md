@@ -14,27 +14,27 @@ Jeśli musisz pobrać i zainstalować edytor Scratcha, znajdziesz go na stronie 
 
 \--- /task \---
 
-\--- task \--- Dodaj duszki "Rocketship" i "Earth" do swojej Sceny.
+\--- task \--- Dodaj duszki "Rakieta" i "Ziemia" do swojej Sceny.
 
-![Duszki Spaceship i Earth](images/space-sprites.png)
+![Duszki Statek kosmiczny i Ziemia](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
 \--- /task \---
 
-\--- task \--- Dodaj tło "Stars" do swojej Sceny.
+\--- task \--- Dodaj tło "Gwiazdy" do swojej Sceny.
 
 ![Tło kosmosu](images/space-backdrop.png)
 
 \--- /task \---
 
-\--- task \--- Kliknij na duszka statku kosmicznego i kliknij na zakładkę **Costumes**.
+\--- task \--- Kliknij na duszka statku kosmicznego i kliknij na zakładkę **Kostiumy**.
 
 ![Kostium duszka](images/space-costume.png)
 
 \--- /task \---
 
-\--- task \--- Użyj narzędzia **arrow** , aby kliknąć i przeciągnąć okno wokół całego obrazu statku kosmicznego. Następnie kliknij okrągły uchwyt **obróć** i obróć obraz, aż znajdzie się na boku.
+\--- task \--- Użyj narzędzia **strzałka**, aby kliknąć i przeciągnąć okno wokół całego obrazu statku kosmicznego. Następnie kliknij okrągły uchwyt **obróć** i obróć obraz, aż znajdzie się na boku.
 
 ![Obracanie kostiumu](images/space-rotate.png)
 
@@ -42,14 +42,14 @@ Jeśli musisz pobrać i zainstalować edytor Scratcha, znajdziesz go na stronie 
 
 \--- task \--- Dodaj ten kod do swojego duszka statku kosmicznego:
 
-![Duszek Spaceship](images/sprite-spaceship.png)
+![Duszek Statku kosmicznego](images/sprite-spaceship.png)
 
 ```blocks3
-kiedy flaga kliknięty
+kiedy flaga kliknięta
 ustaw kierunek na (0)
 idź do x: (- 150) y: (- 150)
 powiedz [Chodźmy] przez (2) sekundy
-ustaw w kierunku duszka (Ziemia v)
+ustaw duszka w kierunku (Ziemia v)
 leć przez (1) sekund do x: (0) y: (0)
 ```
 
