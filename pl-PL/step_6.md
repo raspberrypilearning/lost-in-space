@@ -1,14 +1,14 @@
-## Odbijając asteroidę
+## Odbijająca się asteroida
 
-Teraz dodacie pływającą spację do swojej animacji.
+Teraz dodasz latającą asteroidę do swojej animacji.
 
-\--- task \--- Dodaj sprite'a "rock" do swojej animacji.
+\--- task \--- Dodaj duszka "skała" (ang. Rock) do swojej animacji.
 
 ![Dodanie sprita skalnego](images/space-rock-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Czy umiesz dodać kod do swojego sprite'a, żeby skała odbijała się od sceny?
+\--- task \--- Czy umiesz dodać kod do swojego duszka skały, żeby skała odbijała się wokół sceny?
 
 ![Testowanie odbijającej skały](images/space-bounce-test.png)
 
