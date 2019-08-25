@@ -20,21 +20,21 @@ Kliknij na swój nowy duszek małpy, a następnie kliknij **Kostiumy** , aby mó
 
 \--- /task \---
 
-\--- task \--- Czy możesz dodać kod do swojego duszka małpy, tak aby cały czas obracała się powoli w koło?
+\--- task \--- Czy możesz dodać kod do swojego duszka małpy, tak aby cały czas obracała się powoli dookoła?
 
 \--- hints \--- \--- hint \---
 
-Gdy zielona **flaga jest kliknięta**, twój duszek małpy powinien **obracać się** w kółko **ciągle**.
+Gdy zielona **flaga jest kliknięta**, twój duszek małpy powinien **obracać się** w kółko **zawsze**.
 
 -- /hint \--- \--- hint \---
 
 Oto potrzebne bloki kodu:
 
 ```blocks3
-na zawsze
+zawsze
 koniec
 
-obróć cw (15) stopni
+obróć cw o (15) stopni
 
 kiedy flaga kliknięta
 ```
@@ -47,8 +47,8 @@ Oto kod, który sprawi, że twoja małpa się zakręci:
 
 ```blocks3
 kiedy flaga kliknęta
-na zawsze
-    obróć cw (1) stopni
+zawsze
+    obróć cw o (1) stopni
 ```
 
 \--- /hint \--- \--- /hints \---
