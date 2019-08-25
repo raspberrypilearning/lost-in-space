@@ -50,8 +50,8 @@ kiedy flaga kliknięta
 ustaw kierunek na (0)
 idź do x: (-150) y: (-150)
 powiedz [Chodźmy] przez (2) sekundy
-ustaw duszka w kierunku (Ziemia v)
-+ powtórz (200)
+ustaw w kierunku duszka (Ziemia v)
++ powtarzaj (200)
     przesuń o (2) kroki
 
 + zmień efekt [kolor v] o (25)
@@ -69,7 +69,7 @@ Przetestuj i zapisz kod.
 
 \--- hint \---
 
-Twój statek kosmiczny powinien zacząć od `rozmiaru 100%` {:class="blocklooks"}, a następnie `zmieniać rozmiar`{:class="blocklooks"} o niewielką ilość za każdym razem, gdy się porusza.
+Twój statek kosmiczny powinien zacząć od `rozmiaru 100%` {:class="blocklooks"}, a następnie `zmieniać rozmiar`{:class="blocklooks"} o małą wartość za każdym razem, gdy się porusza.
 
 \--- /hint \---
 
@@ -99,10 +99,10 @@ ustaw rozmiar na (100) %
 ustaw duszka w kierunku (0)
 idź do x:(-150) y:(-150)
 powiedz [Chodźmy] przez (2) sekundy
-ustaw duszka w kierunku (Ziemia v)
-powtórz (200)
+ustaw w kierunku duszka (Ziemia v)
+powtarzaj (200)
     przesuń o (2) kroki
-    zmień [kolor v] efekt o (25)
+    zmień efekt [kolor v] o (25)
 
 +   zmień rozmiar o (-3)
 ```
