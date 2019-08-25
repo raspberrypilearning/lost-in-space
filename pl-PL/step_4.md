@@ -2,23 +2,23 @@
 
 Innym sposobem na ożywienie statku kosmicznego jest powiedzenie mu, aby przemieścił się kilkukrotnie o małą odległość
 
-\--- task \--- Usuń blok kodu `glide`{: class = "block3motion"} z kodu. Aby to zrobić, przeciągnij blok z obszaru kodu i upuść go tam, gdzie znajdują się inne pojedyncze bloki kodu.
+\--- task \--- Usuń blok kodu `leć`{:class="block3motion"} z kodu. Aby to zrobić, przeciągnij blok z obszaru kodu i upuść go tam, gdzie znajdują się inne pojedyncze bloki kodu.
 
 ![Spitehip sprite](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
+kiedy flaga kliknięta
+ustaw kierunek na (0)
+idź do x: (- 150) y: (- 150)
+powiedz [Chodźmy] przez (2) sekundy
+ustaw duszka w kierunku (Ziemia v)
 
-- glide (1) secs to x:(0) y:(0)
+- leć przez (1) sekund do x: (0) y: (0)
 ```
 
 \--- /task \---
 
-\--- zadanie \--- Teraz użyj blok powtórzenia ` ` {: class = "block3control"}, aby przenieść swój statek kosmiczny w kierunku Ziemi?
+\--- zadanie \--- Teraz użyj bloku `powtórz` {:class="block3control"}, aby przesunąć swój statek kosmiczny w kierunku Ziemi?
 
 ![Testowanie animacji statku kosmicznego](images/space-animate-stage.png)
 
