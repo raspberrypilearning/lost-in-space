@@ -1,6 +1,6 @@
 ## Co dalej?
 
-Wypróbuj projekt [Ghostbusters](https://projects.raspberrypi.org/en/projects/ghostbusters?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects)! W tym projekcie nauczysz się tworzyć grę z duchami, które pojawiają się w każdym miejscu i które musisz złapać. Dowiesz się również, jak dodać licznik i wynik do gry, abyś mógł zobaczyć, ile duchów jesteś w stanie złapać.
+Wypróbuj projekt [Pogromcy duchów](https://projects.raspberrypi.org/en/projects/ghostbusters?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects)! W tym projekcie nauczysz się tworzyć grę z duchami, które pojawiają się w różnych miejscach i które musisz złapać. Dowiesz się również, jak dodać licznik i wynik do gry, abyś mogła zobaczyć, ile duchów jesteś w stanie złapać.
 
 \--- no-print \---
 
