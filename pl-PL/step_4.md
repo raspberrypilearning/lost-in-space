@@ -25,17 +25,17 @@ ustaw duszka w kierunku (Ziemia v)
 ![Duszek Statku kosmicznego](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
+kiedy flaga kliknięta
+ustaw kierunek na (0)
+idź do x: (-150) y: (-150)
+powiedz [Chodźmy] przez (2) sekundy
+ustaw duszka w kierunku (Ziemia v)
 
-+ repeat (200)
-    move (2) steps
++ powtórz (200)
+    przesuń o (2) kroki
 ```
 
-Przetestuj i zapisz kod. Twój statek kosmiczny powinien zbliżyć się do Ziemi dokładnie tak jak poprzednio, ale tym razem używa `bloku` powtórzenia {: class = "block3control"}.
+Przetestuj i zapisz kod. Twój statek kosmiczny powinien zbliżyć się do Ziemi dokładnie tak jak poprzednio, ale tym razem używa bloku `powtórz`{:class="block3control"}.
 
 \--- /task \---
 
@@ -46,15 +46,15 @@ Użyj tego bloku:
 ![Duszek Statku kosmicznego](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-repeat (200)
-    move (2) steps
+kiedy flaga kliknięta
+ustaw kierunek na (0)
+idź do x: (-150) y: (-150)
+powiedz [Chodźmy] przez (2) sekundy
+ustaw duszka w kierunku (Ziemia v)
++ powtórz (200)
+    przesuń o (2) kroki
 
-+    change [color v] effect by (25)
++ zmień efekt [kolor v] o (25)
 ```
 
 Przetestuj i zapisz kod.
@@ -69,7 +69,7 @@ Przetestuj i zapisz kod.
 
 \--- hint \---
 
-Twój statek kosmiczny powinien zacząć od rozmiaru ` 100% ` {: class = "blocklooks"}, a następnie ` zmień rozmiar ` {: class = "blocklooks"} o niewielką ilość za każdym razem, gdy się porusza.
+Twój statek kosmiczny powinien zacząć od `rozmiaru 100%` {:class="blocklooks"}, a następnie `zmieniać rozmiar`{:class="blocklooks"} o niewielką ilość za każdym razem, gdy się porusza.
 
 \--- /hint \---
 
@@ -80,9 +80,9 @@ Musisz dodać te bloki do swojego kodu:
 ![Spitehip sprite](images/sprite-spaceship.png)
 
 ```blocks3
-change size by (10)
+zmień rozmiar o (10)
 
-set size to (100) %
+ustaw rozmiar na (100) %
 ```
 
 \--- /hint \---
