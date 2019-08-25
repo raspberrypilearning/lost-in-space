@@ -2,9 +2,9 @@
 
 Teraz dodamy małpę, która zaginęła w kosmosie do twojej animacji!
 
-\--- task \--- Zacznij od dodania sprite'a "monkey" z biblioteki.
+\--- task \--- Zacznij od dodania duszka "małpa" z biblioteki.
 
-![Dodanie sprita małpy](images/space-monkey-sprite.png)
+![Dodanie duszka małpy](images/space-monkey-sprite.png)
 
 \--- /task \---
 
@@ -14,17 +14,17 @@ Kliknij na swój nowy duszek małpy, a następnie kliknij **Kostiumy** , aby mó
 
 ![Zrób biały kolor](images/make-white.png) \--- /task \---
 
-\--- task \--- Kliknij narzędzie **circle** , a następnie użyj go do narysowania białego hełmu wokół głowy małpy.
+\--- task \--- Kliknij narzędzie **kółko**, a następnie użyj go do narysowania białego hełmu wokół głowy małpy.
 
 ![Małpi kosmiczny hełm](images/space-monkey-edit.png)
 
 \--- /task \---
 
-\--- task \--- Czy możesz dodać kod do swojej sprite małpy, tak aby obracała się powoli w kółko na zawsze?
+\--- task \--- Czy możesz dodać kod do swojego duszka małpy, tak aby cały czas obracała się powoli w koło?
 
 \--- hints \--- \--- hint \---
 
-Gdy zielona **flag kliknięciu**, twoja małpa sprite powinien **tura** w okręgu **wiecznie**.
+Gdy zielona **flaga jest kliknięta**, twój duszek małpy powinien **obracać się** w kółko **ciągle**.
 
 -- /hint \--- \--- hint \---
 
@@ -34,27 +34,27 @@ Oto potrzebne bloki kodu:
 na zawsze
 koniec
 
-zakrętu cw (15) stopni
+obróć cw (15) stopni
 
-po kliknięciu flagi
+kiedy flaga kliknięta
 ```
 
 -- /hint \--- \--- hint \---
 
 Oto kod, który sprawi, że twoja małpa się zakręci:
 
-![Sprite małpa](images/sprite-monkey.png)
+![Duszek małpy](images/sprite-monkey.png)
 
 ```blocks3
-kiedy flaga kliknęła
-zawsze
-    obrót cw (1) stopni
+kiedy flaga kliknęta
+na zawsze
+    obróć cw (1) stopni
 ```
 
 \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
-Przetestuj i zapisz swój projekt. Będziesz musiał kliknąć czerwony przycisk **zatrzymania** , aby zakończyć tę animację, ponieważ działa ona wiecznie!
+Przetestuj i zapisz swój projekt. Będziesz musiał kliknąć czerwony przycisk **zatrzymaj**, aby zakończyć tę animację, ponieważ działa ona wiecznie!
 
 ![Przetestuj wirującą małpę](images/space-spin-test.png)
