@@ -39,7 +39,7 @@
 
 ### Downloads
 
-- None
+- 無し
 
 \--- /collapse \---
 
@@ -47,8 +47,8 @@
 
 ## title: 学習すること
 
-- Use a repeat loop to animate a sprite in Scratch
-- Use a forever loop to repeat an animation indefinitely
+- スクラッチで繰り返しループを使用して、スプライトをアニメーションにする
+- 無限ループを使用して、アニメーションを無期限に繰り返す
 - Understand that loops can be nested within each other
 
 \--- /collapse \---
