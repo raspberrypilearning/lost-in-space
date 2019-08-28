@@ -1,6 +1,6 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
+これは、このプロジェクトの**スクラッチ3**バージョンです。このプロジェクトの[ Scratch 2](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2) バージョンもあります。
 
 \--- /no-print \---
 
@@ -10,7 +10,7 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 ### 作るもの
 
-\--- no-print \--- Click on the green flag to see the animation.
+\--- no-print \--- 緑色のフラグをクリックして、アニメーションを表示します。
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -31,11 +31,11 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 ### ハードウェア
 
-- Scratch 3を実行できるコンピュータ
+- スクラッチ3を実行できるコンピュータ
 
 ### ソフトウェア
 
-- Scratch 3 ([オンライン](http://rpf.io/scratchon){:target="_blank"}または[オフライン](http://rpf.io/scratchoff){:target="_blank"})
+- スクラッチ3 ([オンライン](http://rpf.io/scratchon){:target="_blank"}または[オフライン](http://rpf.io/scratchoff){:target="_blank"})
 
 ### Downloads
 
