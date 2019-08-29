@@ -37,9 +37,9 @@ W tym projekcie nauczysz się jak programować własne animacje!
 
 - Scratch 3 ([online](http://rpf.io/scratchon){:target="_blank"} lub [offline](http://rpf.io/scratchoff){:target="_blank"})
 
-### Pobrane
+### Pliki do pobrania
 
-- Żaden
+- Żadne
 
 \--- /collapse \---
 
@@ -57,7 +57,7 @@ W tym projekcie nauczysz się jak programować własne animacje!
 
 ## title: Dodatkowe informacje dla nauczycieli
 
-Jeśli chcesz wydrukować ten projekt, użyj [wersji-gotowej-do-druku](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
+Jeśli chcesz wydrukować ten projekt, użyj [wersji gotowej do druku](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
 Tutaj znajdziesz [ukończony projekt](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
