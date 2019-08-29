@@ -7,13 +7,13 @@ Innym sposobem na ożywienie statku kosmicznego jest powiedzenie mu, aby przemie
 ![Duszek Statku kosmicznego](images/sprite-spaceship.png)
 
 ```blocks3
-kiedy flaga kliknięta
-ustaw kierunek na (0)
-idź do x: (- 150) y: (- 150)
-powiedz [Chodźmy] przez (2) sekundy
-ustaw duszka w kierunku (Ziemia v)
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
 
-- leć przez (1) sekund do x: (0) y: (0)
+- glide (1) secs to x:(0) y:(0)
 ```
 
 \--- /task \---
