@@ -18,12 +18,12 @@ Nu ga je verschillende lussen combineren om een fonkelende ster te maken.
  --- hint --- Dit zijn de codeblokken die je nodig hebt:
 
 ```blocks3
-herhaal (10) keer
+herhaal (10)
 end
 
 wanneer groene vlag wordt aangeklikt
 
-herhaal (10) keer
+herhaal (10)
 end
 
 verander grootte met (10)
@@ -38,10 +38,10 @@ herhaal
 ```blocks3
 wanneer groene vlag wordt aangeklikt
 herhaal 
-herhaal (20) keer 
+herhaal (20)
 verander grootte met (2)
 end
-herhaal (20) keer 
+herhaal (20) 
 verander grootte met (-2)
 end
 
