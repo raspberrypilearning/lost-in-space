@@ -2,7 +2,7 @@
 
 Teraz wykorzystasz połączenie różnych pętli, żeby stworzyć świecącą gwiazdę.
 
-\--- task \--- Dodaj duszka "gwiazdę" (ang. star) do swojej sceny.
+\--- task \--- Dodaj duszka gwiazda (ang. star) do swojej sceny.
 
 ![Dodawanie duszka gwiazdy](images/space-star-sprite.png)
 
