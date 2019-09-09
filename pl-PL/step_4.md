@@ -7,13 +7,13 @@ Innym sposobem na ożywienie statku kosmicznego jest powiedzenie mu, aby przemie
 ![Duszek Statku kosmicznego](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
+kiedy flaga kliknięta
+ustaw kierunek na (0)
+idź do x: (- 150) y: (- 150)
+powiedz [Chodźmy] przez (2) sekundy
+ustaw duszka w kierunku (Ziemia v)
 
-- glide (1) secs to x:(0) y:(0)
+- leć przez (1) sekund do x: (0) y: (0)
 ```
 
 \--- /task \---
@@ -69,7 +69,7 @@ Przetestuj i zapisz kod.
 
 \--- hint \---
 
-Twój statek kosmiczny powinien zacząć od `rozmiaru 100%` {:class="blocklooks"}, a następnie `zmieniać rozmiar`{:class="blocklooks"} o małą wartość za każdym razem, gdy się porusza.
+Twój statek kosmiczny powinien zacząć od `rozmiaru 100%` {:class="blocklooks"}, a następnie `zmieniać rozmiar`{:class="blocklooks"} o niewielką ilość za każdym razem, gdy się porusza.
 
 \--- /hint \---
 
