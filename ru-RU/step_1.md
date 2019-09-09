@@ -1,12 +1,12 @@
 \--- нет печати \---
 
-Это **Scratch 3** версия проекта. Существует также версия [Scratch 2 проекта](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
+Это версия проекта **Scratch 3**. Существует также версия проекта [Scratch 2 ](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
 
-\--- / без печати \---
+\--- / нет печати \---
 
 ## Введение
 
-Вы научитесь программировать собственную анимацию!
+Вы научитесь программировать свою собственную анимацию!
 
 ### Что вы сделаете
 
@@ -17,7 +17,7 @@
   <img src="images/space-final.png">
 </div>
 
-\--- / без печати \---
+\--- / нет печати \---
 
 \--- только для печати \---
 
@@ -27,15 +27,15 @@
 
 ## \--- свернуть \---
 
-## название: что вам нужно
+## заглавие: что вам понадобится
 
-### аппаратные средства
+### Оборудование
 
 - Компьютер с поддержкой Scratch 3
 
-### Программного обеспечения
+### Программное обеспечение
 
-- Царапина 3 (либо [онлайн](http://rpf.io/scratchon){: target = "_ blank"} или [offline](http://rpf.io/scratchoff){: target = "_ blank"})
+- Scratch 3 (либо [онлайн](http://rpf.io/scratchon){: target = "_ blank"} или [оффлайн](http://rpf.io/scratchoff){: target = "_ blank"})
 
 ### Загрузки
 
@@ -45,20 +45,20 @@
 
 ## \--- свернуть \---
 
-## title: Что вы выучите
+## заглавие: Что вы выучите
 
-- Use a repeat loop to animate a sprite in Scratch
-- Use a forever loop to repeat an animation indefinitely
-- Understand that loops can be nested within each other
+- Использование повторяющегося цикла для анимации спрайта в Scratch
+- Использование цикла Повторять всегда, чтобы анимация длилась бесконечно
+- Понимание того, что циклы могут быть вложены друг в друга
 
 \--- / свернуть \---
 
 ## \--- свернуть \---
 
-## title: Дополнительная информация для педагогов
+## заглавие: Дополнительная информация для педагогов
 
 Если вам нужно распечатать этот проект, пожалуйста , используйте [Версия для печати](https://projects.raspberrypi.org/en/projects/lost-in-space/print){: TARGET = «_blank»}.
 
-You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+Здесь ты можешь найти [завершённый проект](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
 \--- / свернуть \---
