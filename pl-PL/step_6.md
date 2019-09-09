@@ -24,7 +24,7 @@ kiedy flaga kliknięta
 zawsze
 ```
 
-Możesz również ustawić bardziej interesujący kierunek początkowy dla duszka skały za pomocą jednego z tych bloków:
+Możesz również ustawić bardziej interesujący kierunek początkowy dla sprite'a skalnego za pomocą jednego z tych bloków:
 
 ```blocks3
 obróć cw o (15) stopni
