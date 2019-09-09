@@ -2,8 +2,8 @@
 
 Czy możesz zmienić liczby w kodzie animacji, aby:
 
-+ Statek porusza się, dopóki nie dotknie Ziemi?
-+ Statek kosmiczny porusza się wolniej w kierunku Ziemi?
++ Statek poruszał się, dopóki nie dotknie Ziemi?
++ Statek kosmiczny poruszał się wolniej w kierunku Ziemi?
 
 Będziesz musiał zmienić liczby w tym bloku:
 
