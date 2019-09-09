@@ -16,13 +16,13 @@ Jeśli musisz pobrać i zainstalować edytor Scratcha, znajdziesz go na stronie 
 
 \--- task \--- Dodaj duszki "Rakieta" (ang. Rocketship) i "Ziemia" (ang. Earth) do swojej Sceny.
 
-![Duszki Statek kosmiczny i Ziemia](images/space-sprites.png)
+![Duszki Rakieta i Ziemia](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
 \--- /task \---
 
-\--- task \--- Dodaj tło "Gwiazdy" (ang. Stars) do swojej Sceny.
+\--- task \--- Dodaj tło "Stars" do swojej Sceny.
 
 ![Tło kosmosu](images/space-backdrop.png)
 
