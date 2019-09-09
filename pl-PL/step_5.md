@@ -8,9 +8,9 @@ Teraz dodamy małpę, która zaginęła w kosmosie do twojej animacji!
 
 \--- /task \---
 
-Kliknij na swój nowy duszek małpy, a następnie kliknij **Kostiumy** , aby móc edytować wygląd małpy.
+Kliknij na swój nowy duszek małpy, a następnie kliknij **Kostiumy**, aby móc edytować wygląd małpy.
 
-\--- task \--- Ustawić wypełnienie jako przezroczyste, wybierając czerwoną linię. W przypadku konturu ustaw biały kolor, przesuwając suwak Nasycenie w położenie `0`.
+\--- task \--- Ustaw przezroczyste wypełnienie, wybierając czerwoną linię. Ustaw biały kolor konturu, przesuwając suwak Nasycenie w położenie `0`.
 
 ![Zrób biały kolor](images/make-white.png) \--- /task \---
 
