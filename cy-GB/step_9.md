@@ -1,6 +1,6 @@
 ## Beth nesaf?
 
-Try the [Ghostbusters](https://projects.raspberrypi.org/cy-GB/projects/ghostbusters?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) project! In that project, you will learn how to create a game with ghosts that appear all over the place and that you need to catch. You will also learn how to add a timer and a score to the game, so that you can see how many ghosts you are able to catch.
+Rho gynnig ar y prosiect [Dal Ysbrydion](https://projects.raspberrypi.org/cy-GB/projects/ghostbusters?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects)! Yn y prosiect yna, fe fyddi di'n creu gêm gydag ysbrydion fydd yn ymddangos ar draws y sgrin a bydd angen i ti eu dal. Byddi di hefyd yn dysgu ychwanegu amserydd a sgôr i'r gêm, fel dy fod di'n gallu gweld faint o ysbrydion mae modd i ti eu dal.
 
 --- no-print ---
 
@@ -13,6 +13,6 @@ Try the [Ghostbusters](https://projects.raspberrypi.org/cy-GB/projects/ghostbust
 
 --- print-only ---
 
-![showcase](images/ghostbusters-static.png)
+![arddangos](images/ghostbusters-static.png)
 
 --- /print-only ---
