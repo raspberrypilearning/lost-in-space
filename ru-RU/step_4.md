@@ -25,14 +25,14 @@
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
+когда флаг нажат
+повернуться в направлении (0)
+перейти в x:(-150) y:(-150)
+говорить [пойдём] (2) секунд
+повернуться к (Земля)
 
-+ repeat (200)
-    move (2) steps
++ повторить (10)
+   идти (2) шагов
 ```
 
 Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
