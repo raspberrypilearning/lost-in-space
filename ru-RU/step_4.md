@@ -18,7 +18,7 @@
 
 \--- / задача \---
 
-\--- task \--- Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
+\--- задача \--- Теперь используйте блок `повторить`{:class="block3control"} для перемещения вашего космического корабля к Земле?
 
 ![Тестирование анимации космического корабля](images/space-animate-stage.png)
 
