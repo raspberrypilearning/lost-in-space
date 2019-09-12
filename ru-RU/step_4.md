@@ -4,7 +4,7 @@
 
 \--- task \--- Удалите блок `плыть`{: class = "block3motion"} из вашего кода. Для этого перетащите блок из области «Код» обратно туда, где находятся остальные отдельные блоки кода.
 
-![Космический корабль спрайт](images/sprite-spaceship.png)
+![Спрайт Космический корабль](images/sprite-spaceship.png)
 
 ```blocks3
 когда флаг нажат
@@ -22,7 +22,7 @@
 
 ![Тестирование анимации космического корабля](images/space-animate-stage.png)
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Спрайт Космический корабль](images/sprite-spaceship.png)
 
 ```blocks3
 когда флаг нажат
@@ -43,7 +43,7 @@
 
 Используйте этот блок:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Спрайт Космический корабль](images/sprite-spaceship.png)
 
 ```blocks3
 когда флаг нажат
@@ -59,7 +59,7 @@
 
 Протестируй и сохрани свой код.
 
-![Testing a colour-changing spaceship](images/space-colour-test.png)
+![Тестирование космического корабля, изменяющего цвет](images/space-colour-test.png)
 
 \--- / задача \---
 
@@ -77,7 +77,7 @@
 
 Тебе нужно будет добавить эти блоки в свой код:
 
-![Космический корабль спрайт](images/sprite-spaceship.png)
+![Спрайт Космический корабль](images/sprite-spaceship.png)
 
 ```blocks3
 изменить размер на (10)
@@ -91,28 +91,28 @@
 
 Твой код должен выглядеть, как этот:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Спрайт Космический корабль](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-set size to (100) %
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-repeat (200)
-    move (2) steps
-    change [color v] effect by (25)
+когда флаг нажат
+установить размер (100) %
+повернуться в направлении (0)
+перейти в x:(-150) y:(-150)
+говорить [пойдём] (2) секунд
+повернуться к (Земля)
+повторить (200)
++ идти (2) шагов
+   изменить эффект [цвет] на (25)
 
-+   change size by (-3)
++ изменить размер на (-3)
 ```
 
-\--- /hint \---
+\--- /подсказка \---
 
-\--- /hints \---
+\--- /подсказки \---
 
-\--- /task \---
+\--- / задача \---
 
-Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
+Протестируй и сохрани свой код. Твой космический корабль должен уменьшаться по мере движения. Проверь свой космический корабль ** во второй раз **. Правильный ли у него размер, когда он стартует?
 
-![Testing a shrinking spaceship](images/space-size-test.png)
+![Тестирование уменьшающегося космического корабля](images/space-size-test.png)
