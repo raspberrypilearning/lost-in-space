@@ -35,26 +35,26 @@
    идти (2) шагов
 ```
 
-Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
+Протестируйте и сохраните вашу программу. Ваш космический корабль должен двигаться к Земле точно также, как и раньше, только в этот раз он использует блок `повторить`{:class="block3control"}.
 
-\--- /task \---
+\--- /задача \---
 
-\--- task \--- Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
+\--- задача \--- Затем добавьте код к вашему спрайту космического корабля, чтобы космический корабль менял цвет при движении к Земле?
 
-Use this block:
+Используйте этот блок:
 
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-repeat (200)
-    move (2) steps
+когда флаг нажат
+повернуться в направлении (0)
+перейти в x:(-150) y:(-150)
+говорить [пойдём] (2) секунд
+повернуться к (Земля)
++ повторить (10)
+   идти (2) шагов
 
-+    change [color v] effect by (25)
++ изменить эффект [цвет] на (25)
 ```
 
 Test and save your code.
