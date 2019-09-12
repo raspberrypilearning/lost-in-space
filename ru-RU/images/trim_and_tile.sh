@@ -1,4 +1,4 @@
-for file in 1*.png;
+для файла в 1*.png;
 do
   text=$(echo "$file" | head -c 2 | tail -c 1) #get 2nd character from file name
   convert $file -trim +repage $file; #trim the image
