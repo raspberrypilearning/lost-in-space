@@ -63,33 +63,33 @@
 
 \--- / задача \---
 
-\--- задача \--- Можете ли вы сделать ваш космический корабль меньше по мере его движения к Земле?
+\--- задача \--- Можешь ли ты сделать свой космический корабль меньше по мере его движения к Земле?
 
-\--- hints \---
+\--- подсказки \---
 
-\--- hint \---
+\--- подсказка \---
 
-Your spaceship should start at `100% size`{:class="blocklooks"}, and then `change size`{:class="blocklooks"} by a small amount each time it moves.
+Твой космический корабль должен начинать двигаться с размера ` 100% ` {: class = "blocklooks"}, а затем немного ` изменить размер ` {: class = "blocklooks"} каждый раз, пока он движется.
 
-\--- /hint \---
+\--- /подсказка \---
 
-\--- hint \---
+\--- подсказка \---
 
-You will need to add these blocks to your code:
+Тебе нужно будет добавить эти блоки в свой код:
 
 ![Космический корабль спрайт](images/sprite-spaceship.png)
 
 ```blocks3
-change size by (10)
+изменить размер на (10)
 
-set size to (100) %
+установить размер (100)%
 ```
 
-\--- /hint \---
+\--- /подсказка \---
 
-\--- hint \---
+\--- подсказка \---
 
-Your code should look like this:
+Твой код должен выглядеть, как этот:
 
 ![Spaceship sprite](images/sprite-spaceship.png)
 
