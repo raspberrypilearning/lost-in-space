@@ -40,7 +40,7 @@ Hier ist der Code, mit dem du deinen Felsen über die Bühne springen lässt:
 
 ```blocks3
 Wenn Flagge angeklickt wird
-drehe dich zu (Erde v)
+drehe dich zu (Earth v)
 wiederhole fortlaufend
     gehe (2) er Schritt
     pralle vom Rand ab
