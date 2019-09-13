@@ -11,7 +11,7 @@ Wenn die Flagge angeklickt wird
 setze Richtung auf (0) Grad
 gehe zu x:(-150) y:(-150)
 sage [Los geht´s] für (2) Sekunden
-drehe dich zu (Erde v)
+drehe dich zu (Earth v)
 
 -gleite in (1) Sek. zu x:(0) y:(0)
 ```
@@ -29,10 +29,10 @@ Wenn die Flagge angeklickt wird
 setze Richtung auf (0) Grad
 gehe zu x:(-150) y:(-150)
 sage [Los geht´s] für (2) Sekunden
-drehe dich zu (Erde v)
+drehe dich zu (Earth v)
 
 +wiederhole (200) mal
-    gehe (2)er Schritt
+    gehe (2) er Schritt
 ```
 
 Teste und speichere deinen Code. Dein Raumschiff sollte sich genau wie zuvor zur Erde bewegen, aber diesmal mit Hilfe eines `wiederhole ... mal`{:class="block3control}-Blocks.
