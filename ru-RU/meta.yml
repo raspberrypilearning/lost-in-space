@@ -1,11 +1,11 @@
 ---
 title: Затерянные в космосе
-hero_image: изображения / потерянные-в-космосе.png
+hero_image: images/lost-in-space.png
 description: Узнайте, как запрограммировать свою собственную анимацию!
 original_url: https://www.codeclubprojects.org/en-GB/scratch/lost-in-space
 listed: true
 copyedit: true
-technologies: скретч
+technologies: scratch
 version: 4.1.3
 last_tested: 2018-09-26
 steps:
@@ -14,7 +14,7 @@ steps:
   - 
     title: Анимация космического корабля
   - 
-    title: 'Задание: улучшите вашу анимацию'
+    title: 'Задание: улучши свою анимацию'
     challenge: true
   - 
     title: Анимация с использованием циклов
