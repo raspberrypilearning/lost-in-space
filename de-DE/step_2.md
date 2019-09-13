@@ -1,6 +1,6 @@
 ## Ein Raumschiff animieren
 
-Dein erster Schritt wird sein, ein Raumschiff zu erstellen, das zur Erde fliegt!
+Dein erster Schritt wird es sein, ein Raumschiff zu erstellen, das zur Erde fliegt!
 
 \--- task \---
 
