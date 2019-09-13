@@ -1,6 +1,6 @@
 \--- no-print \---
 
-Dies ist die ** Scratch 3 ** Version des Projekts. Es gibt auch eine [ Scratch-2-Version des Projekts ](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
+Dies ist die **Scratch 3** Version des Projekts. Es gibt auch eine [Scratch-2-Version des Projekts](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
 
 \--- /no-print \---
 
@@ -31,7 +31,7 @@ Du wirst lernen, deine eigene Animation zu programmieren!
 
 ### Hardware
 
-- Ein Computer, auf dem Scratch 3 ausgeführt werden kann
+- Einen Computer, auf dem Scratch 3 ausgeführt werden kann
 
 ### Software
 
@@ -59,6 +59,6 @@ Du wirst lernen, deine eigene Animation zu programmieren!
 
 Wenn du dieses Projekt ausdrucken möchtest, verwende die [druckerfreundliche Version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
-Du findest das [komplette Projekt hier](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+Sie finden das [fertige Projekt hier](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
 \--- /collapse \---
