@@ -1,6 +1,6 @@
 ## Schwebender Affe
 
-Lass uns einen Affen zu deiner Animation hinzufügen, der im Weltraum verloren gegangen ist!
+Lass uns einen Affen, der im Weltraum verloren gegangen ist, zu deiner Animation hinzufügen!
 
 \--- task \--- Beginne mit dem Hinzufügen der "Monkey" (Affe) Figur aus der Bibliothek.
 
