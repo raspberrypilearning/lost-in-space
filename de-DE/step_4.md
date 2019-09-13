@@ -99,9 +99,9 @@ setze Größe auf (100)
 setze Richtung auf (0) Grad
 gehe zu x:(-150) y:(-150)
 sage [Los geht´s] für (2) Sekunden
-drehe dich zu (Erde v)
+drehe dich zu (Earth v)
 wiederhole (200) mal
-    gehe (2)er Schritt
+    gehe (2) er Schritt
     ändere Effekt [Farbe v] um (25)
 
 +    ändere Größe um (-0.3)
