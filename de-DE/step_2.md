@@ -14,7 +14,7 @@ Wenn du den Scratch-Offline-Editor herunterladen und installieren möchtest, fin
 
 \--- /task \---
 
-\--- task \--- Füge deiner Bühne die Figuren "rocketship" (Raumschiff) und "Earth" (Erde) hinzu.
+\--- task \--- Füge deiner Bühne die Figuren "Rocketship" (Raumschiff) und "Earth" (Erde) hinzu.
 
 ![Die Figuren Raumschiff und Erde](images/space-sprites.png)
 
@@ -34,7 +34,7 @@ Wenn du den Scratch-Offline-Editor herunterladen und installieren möchtest, fin
 
 \--- /task \---
 
-\--- task \--- Verwende das **Pfeil**-Werkzeug indem du klickst und eine Box um das gesamte Raumshiff-Bild ziehst. Klicke dann auf das kreisförmige **Drehen**-Symbol und drehe das Bild, bis es auf der Seite liegt.
+\--- task \--- Verwende das **Pfeil**-Werkzeug indem du klickst und eine Box um das gesamte Raumshiff-Bild ziehst. Klicke dann auf das **Drehen**-Symbol und drehe das Bild, bis es auf der Seite liegt.
 
 ![Eine Figur drehen](images/space-rotate.png)
 
