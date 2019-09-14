@@ -37,7 +37,7 @@
 
 - スクラッチ3 ([オンライン](http://rpf.io/scratchon){:target="_blank"}または[オフライン](http://rpf.io/scratchoff){:target="_blank"})
 
-### Downloads
+### ダウンロード
 
 - 無し
 
@@ -49,13 +49,13 @@
 
 - スクラッチで繰り返しループを使用して、スプライトをアニメーションにする
 - 無限ループを使用して、アニメーションを無期限に繰り返す
-- Understand that loops can be nested within each other
+- ループを相互にネストできることを理解する
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title：教育者向けの追加情報
 
 このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_ blank"}を使用してください。
 
