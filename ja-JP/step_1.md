@@ -21,7 +21,7 @@
 
 \--- print-only \---
 
-![Complete project](images/showcase_static.png)
+![完成したプロジェクト](images/showcase_static.png)
 
 \--- /print-only \---
 
@@ -59,6 +59,6 @@
 
 このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_ blank"}を使用してください。
 
-You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+[ここで完成したプロジェクト](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}を見ることができます 。
 
 \--- /collapse \---
