@@ -34,13 +34,13 @@ Scratchオフラインエディタをダウンロードしてインストール�
 
 \--- /task \---
 
-\---タスク\--- **矢印を使用**して、宇宙船の画像全体を囲むように、クリックしてドラッグします。 Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+\---タスク\--- **矢印を使用**して、宇宙船の画像全体を囲むように、クリックしてドラッグします。 次に、円状に**回転する**ハンドルをクリックして、画像が横になるまで回転します。
 
 ![Rotating a costume](images/space-rotate.png)
 
 \--- /task \---
 
-\--- task \--- Add this code to your spaceship sprite:
+\--- task \--- このコードを宇宙船のスプライトに追加します。
 
 ![Spaceship sprite](images/sprite-spaceship.png)
 
