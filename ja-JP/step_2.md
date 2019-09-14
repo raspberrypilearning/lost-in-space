@@ -1,20 +1,20 @@
 ## 宇宙船 (うちゅうせん) のアニメーション
 
-Your first step will be to create a spaceship that flies towards the Earth!
+最初のステップは、地球に向かって飛ぶ宇宙船を作成することです！
 
 \--- task \---
 
-Open a new Scratch project.
+新しいスクラッチプロジェクトを開きます。
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
+**Online: **新しいオンラインScratchプロジェクトを[rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}で開きます。
 
-**Offline:** open a new project in the offline editor.
+**Offline:**オフラインエディターで新しいプロジェクトを開きます。
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Scratchオフラインエディタをダウンロードしてインストールする必要がある場合は、[rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}で見つけることができます。:
 
 \--- /task \---
 
-\--- task \--- Add 'rocketship' and 'Earth' sprites to your Stage.
+宇宙船と地球のスプライトをステージに追加してください。
 
 ![Spaceship and Earth sprites](images/space-sprites.png)
 
@@ -22,13 +22,13 @@ If you need to download and install the Scratch offline editor, you can find it 
 
 \--- /task \---
 
-\--- task \--- Add the 'Stars' backdrop to your Stage.
+\--- task \--- ステージに「星」の背景を追加します。
 
 ![A space backdrop](images/space-backdrop.png)
 
 \--- /task \---
 
-\--- task \--- Click on your spaceship sprite, and click on the **Costumes** tab.
+\--- task \--- 宇宙船のスプライトをクリックし、**コスチューム**タブをクリックします。
 
 ![Sprite costume](images/space-costume.png)
 
