@@ -34,7 +34,7 @@ Scratchオフラインエディタをダウンロードしてインストール�
 
 \--- /task \---
 
-\--- task \--- Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+\---タスク\--- **矢印を使用**して、宇宙船の画像全体を囲むように、クリックしてドラッグします。 Then click on the circular **rotate** handle, and rotate the image until it is on its side.
 
 ![Rotating a costume](images/space-rotate.png)
 
