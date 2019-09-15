@@ -30,7 +30,7 @@ change size by (10)
 forever
 ```
 
-\--- /hint \--- \--- hint \--- Here's the code to make your star grow and shrink: ![Star sprite](images/sprite-star.png)
+\--- /提示\--- \---提示\--- 这是让你的星星成长和缩小的代码： ![星星精灵](images/sprite-star.png)
 
 ```blocks3
 when flag clicked
