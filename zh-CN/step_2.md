@@ -1,6 +1,6 @@
 ## 动画飞船
 
-Your first step will be to create a spaceship that flies towards the Earth!
+你的第一步将是创造一个飞向地球的宇宙飞船！
 
 \--- task \---
 
@@ -14,7 +14,7 @@ Your first step will be to create a spaceship that flies towards the Earth!
 
 \--- /task \---
 
-\--- task \--- Add 'rocketship' and 'Earth' sprites to your Stage.
+\---任务\--- 在你的舞台上添加'rocketship'和'Earth'精灵。
 
 ![飞船和地球角色](images/space-sprites.png)
 
@@ -22,27 +22,27 @@ Your first step will be to create a spaceship that flies towards the Earth!
 
 \--- /task \---
 
-\--- task \--- Add the 'Stars' backdrop to your Stage.
+为舞台添加“星星“背景。
 
 ![太空背景](images/space-backdrop.png)
 
 \--- /task \---
 
-\--- task \--- Click on your spaceship sprite, and click on the **Costumes** tab.
+点击飞船角色，然后点击**造型**选项卡。
 
 ![角色造型](images/space-costume.png)
 
 \--- /task \---
 
-\--- task \--- Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+\--- task \--- 使用**箭头**用于在整个太空飞船图像周围单击并拖动一个框的工具。 然后单击圆形**旋转**处理并旋转图像直到它侧面。
 
 ![旋转造型](images/space-rotate.png)
 
 \--- /task \---
 
-\--- task \--- Add this code to your spaceship sprite:
+\--- 任务 \--- 将此代码添加到您的宇宙飞船精灵：
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![宇宙飞船精灵](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -53,7 +53,7 @@ point towards (Earth v)
 glide (1) secs to x:(0) y:(0)
 ```
 
-Change the numbers in the code blocks you've added so that the code is exactly the same as above.
+修改积木中的数字，让宇宙飞船和上面显示的代码一样。
 
 \--- /task \---
 
