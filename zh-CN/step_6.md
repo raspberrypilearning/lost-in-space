@@ -1,14 +1,14 @@
 ## 跳跃的小行星
 
-Now you will add a floating space rock to your animation.
+让我们向动画中加入一些漂浮的太空岩石。
 
-\--- task \--- Add a 'rock' sprite to your animation.
+\--- task \--- 在你的动画中添加一个'岩石'精灵。
 
 ![添加岩石角色](images/space-rock-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Can you add code for your rock sprite so that the rock bounces around the stage?
+\---任务\--- 你能为你的岩石精灵添加代码，以便岩石在舞台上反弹吗？
 
 ![测试岩石反弹](images/space-bounce-test.png)
 
