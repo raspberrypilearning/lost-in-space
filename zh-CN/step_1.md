@@ -10,7 +10,7 @@
 
 ### 你将做出什么
 
-\--- no-print \--- Click on the green flag to see the animation.
+\--- 无打印 \--- 点击绿色标志开始。
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -21,7 +21,7 @@
 
 \--- print-only \---
 
-![Complete project](images/showcase_static.png)
+![完成项目](images/showcase_static.png)
 
 \--- /print-only \---
 
@@ -37,25 +37,25 @@
 
 - Scratch 3（[在线版本](http://rpf.io/scratchon){:target="_blank"}或[离线版本](http://rpf.io/scratchoff){:target="_blank"}）
 
-### Downloads
+### 下载
 
-- None
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: 你将学到什么
-
-- Use a repeat loop to animate a sprite in Scratch
-- Use a forever loop to repeat an animation indefinitely
-- Understand that loops can be nested within each other
+- 无
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: 教师附加信息
+## 标题: 你将学到什么
+
+- 使用重复循环在Scratch中为精灵设置动画
+- 使用forever循环无限期地重复动画
+- 理解循环可以互相嵌套
+
+\--- /collapse \---
+
+## \--- collapse \---
+
+## 标题: 教师附加信息
 
 如果你需要打印此项目，请使用[打印友好版](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}。
 
