@@ -12,7 +12,7 @@
 
 ![测试岩石反弹](images/space-bounce-test.png)
 
-\--- hints \--- \--- hint \--- 当绿**旗被点击**时，岩石应该**不停地**在舞台上**移动**并**反弹**。 \--- /hint \--- \--- hint \--- Here are the code blocks you need:
+\--- hints \--- \--- hint \--- 当绿**旗被点击**时，岩石应该**不停地**在舞台上**移动**并**反弹**。 \--- /提示\--- \---提示\--- 以下是您需要的代码块：
 
 ```blocks3
 move (10) steps
@@ -24,7 +24,7 @@ when flag clicked
 forever
 ```
 
-You can also set a more interesting starting direction for the rock sprite with one of these blocks:
+你还可以为岩石精灵上创建一个更令人感兴趣的方向，其中一个代码：
 
 ```blocks3
 turn cw (15) degrees
@@ -32,18 +32,16 @@ turn cw (15) degrees
 point towards (Earth v)
 ```
 
-\--- /hint \--- \--- hint \---
+\--- /提示\--- \---提示\---
 
-Here's the code for making your rock bounce around the stage:
+这是让你的岩石在舞台上反弹的代码：
 
-![Rock sprite](images/sprite-rock.png)
+![岩石精灵](images/sprite-rock.png)
 
 ```blocks3
-when flag clicked
+turn cw (15) degrees
+
 point towards (Earth v)
-forever
-    move (2) steps
-    if on edge, bounce
 ```
 
 \--- /hint \--- \--- /hints \--- \--- /task \---
