@@ -1,6 +1,6 @@
 ## 循环动画
 
-Another way to animate the spaceship is to tell it to move a small amount many times
+另一种移动飞船的方式是重复多次每次移动一小步。
 
 \--- task \--- Delete the `glide`{:class="block3motion"} block from your code. To do this, drag the block off the Code area and drop it back where the other single code blocks are.
 
