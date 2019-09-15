@@ -1,34 +1,34 @@
 ## 漂浮的猴子
 
-Now you will add a monkey who's lost in space to your animation!
+让我们向动画中加入一只迷失在太空中的猴子！
 
-\--- task \--- Start by adding the 'monkey' sprite from the library.
+首先从素材库中添加“猴子”角色。
 
 ![添加猴子角色](images/space-monkey-sprite.png)
 
 \--- /task \---
 
-Click on your new monkey sprite and then click on **Costumes** so that you can edit how the monkey looks.
+点击新加入的猴子然后点击**造型**，你就可以编辑猴子的外观了。
 
-\--- task \--- Set the fill to be transparent by selecting the red line. For the outline, set a white colour by moving the Saturation slider to `0`.
+\--- task \--- 通过选择红线将填充设置为透明。对于轮廓，通过将“饱和度”滑块移动到` 0来设置白色` 。
 
-![Make white colour](images/make-white.png) \--- /task \---
+![白色颜色](images/make-white.png) \--- /task \---
 
-\--- task \--- Click on the **circle** tool and then use it to draw a white space helmet around the monkey's head.
+点击**椭圆**工具在猴子头上画一顶白色的太空帽。
 
 ![猴子太空帽](images/space-monkey-edit.png)
 
 \--- /task \---
 
-\--- task \--- Can you add code to your monkey sprite so that it spins slowly in a circle forever?
+\--- task \--- 你能编码让猴子不停地缓慢旋转吗？
 
-\--- hints \--- \--- hint \---
+\---提示\--- \---提示\---
 
-When the green **flag is clicked**, your monkey sprite should **turn** in a circle **forever**.
+单击绿色**标志时** ，你的猴子精灵应该**转**永远在一个圆圈** ** 。
 
-\--- /hint \--- \--- hint \---
+\--- /提示\--- \---提示\---
 
-Here are the code blocks you need:
+以下是你需要的代码块：
 
 ```blocks3
 forever
@@ -39,11 +39,11 @@ turn cw (15) degrees
 when flag clicked
 ```
 
-\--- /hint \--- \--- hint \---
+\--- /提示\--- \---提示\---
 
-Here's the code to make your monkey spin:
+这是让你的猴子旋转的代码：
 
-![Monkey sprite](images/sprite-monkey.png)
+![猴子精灵](images/sprite-monkey.png)
 
 ```blocks3
 when flag clicked
@@ -55,6 +55,6 @@ forever
 
 \--- /task \---
 
-Test and save your project. You'll have to click on the red **stop** button to end this animation, as it runs forever!
+测试并保存工程。你需要点击红色**停止**按钮来结束动画，否则它会一直动下去！
 
-![Test the spinning monkey](images/space-spin-test.png)
+![测试旋转的猴子](images/space-spin-test.png)
