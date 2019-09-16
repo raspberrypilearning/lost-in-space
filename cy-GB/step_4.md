@@ -12,8 +12,7 @@ pwyntio i gyfeiriad (0)
 mynd i x: (-150) y: (-150)
 dweud [Awn ni!] am (2) eiliad
 pwyntio tuag at (Earth v)
-
-llithro (1) eiliad i x: (0) y: (0)
+- llithro (1) eiliad i x: (0) y: (0)
 ```
 
 --- /task ---
@@ -32,7 +31,6 @@ pwyntio i gyfeiriad (0)
 mynd i x: (-150) y: (-150)
 dweud [Awn ni!] am (2) eiliad
 pwyntio tuag at (Earth v)
-
 + ailadrodd (200) 
   symud (2) cam
 end
@@ -57,8 +55,6 @@ dweud [Awn ni!] am (2) eiliad
 pwyntio tuag at (Earth v)
 ailadrodd (200) 
   symud (2) cam
-end
-
 +    newid effaith [lliw v] gan (25)
 ```
 
@@ -109,8 +105,6 @@ pwyntio tuag at (Earth v)
 ailadrodd (200) 
   symud (2) cam
   newid effaith [lliw v] gan (25)
-end
-
 +   newid maint gan (-3)
 ```
 
