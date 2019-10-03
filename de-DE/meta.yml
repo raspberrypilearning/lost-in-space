@@ -1,27 +1,22 @@
 ---
 title: Verschollen im Weltraum
-theme: green
 hero_image: images/lost-in-space.png
 description: Lerne eigene Animationen zu programmieren!
 original_url: https://www.codeclubprojects.org/en-GB/scratch/lost-in-space
-duration: 2
 listed: true
 copyedit: true
-ingredient: false
-curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-interests: space
 technologies: scratch
-site_areas: projects
-hardware: ''
-software: scratch
-version: 4
-last_tested: 2017-11-01
+version: 4.1.3
+last_tested: 2018-09-26
 steps:
   - title: Einleitung
-  - title: Was du brauchen wirst
   - title: Ein Raumschiff animieren
+  - title: 'Herausforderung: Verbessere deine Animation'
+    challenge: true
   - title: Animieren mit Schleifen
   - title: Schwebender Affe
   - title: Abprallender Asteroid
   - title: Glänzender Stern
   - title: 'Herausforderung: Mache deine eigene Animation'
+    challenge: true
+  - title: Wie geht es weiter?

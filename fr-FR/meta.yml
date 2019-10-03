@@ -1,25 +1,22 @@
 ---
 title: Perdu dans l'espace
-theme: green
 hero_image: images/lost-in-space.png
 description: Apprends à programmer ta propre animation!
-original_url: https://projects.raspberrypi.org/en/projects/lost-in-space
-duration: 2
+original_url: https://www.codeclubprojects.org/en-GB/scratch/lost-in-space
 listed: true
 copyedit: true
-ingredient: false
-curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-interests: space
 technologies: scratch
-site_areas: projects
-hardware: ''
-software: scratch
-version: 4
-last_tested: 2017-11-01
-steps: 
-- title: Introduction
-- title: Les lutins
-- title: Animez vos lutins
-- title: Animez à l'aide de boucles
-- title: Plus de boucles
-- title: "Défi : Créez votre propre animation"
+version: 4.1.3
+last_tested: 2018-09-26
+steps:
+  - title: Introduction
+  - title: Animer un vaisseau spatial
+  - title: 'Défi: améliorer ton animation'
+    challenge: true
+  - title: L'animation à l'aide de boucles
+  - title: Singe flottant
+  - title: Astéroïde rebondissant
+  - title: Étoile brillante
+  - title: 'Défi: fait ta propre animation'
+    challenge: true
+  - title: Et ensuite?
