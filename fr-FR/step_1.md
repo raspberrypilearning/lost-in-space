@@ -1,47 +1,67 @@
+--- no-print ---
+
+Ceci est la version **Scratch 3** du projet. Il y a aussi une version [Scratch 2 du projet](https://projects.raspberrypi.org/fr-FR/projects/lost-in-space-scratch2).
+
+--- /no-print ---
+
 ## Introduction
 
-Vous allez apprendre à programmer votre propre animation !
+Tu vas apprendre à programmer ta propre animation!
+
+### Ce que tu vas faire
+
+--- no-print --- Clique sur le drapeau vert pour voir l'animation.
 
 <div class="scratch-preview">
- <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/26818098/?autostart=true" frameborder="0"></iframe>
- <img src="images/space-final.png">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <img src="images/space-final.png">
 </div>
 
-## Ressources
-Pour ce projet, nous allons devoir utiliser Scratch 2. Scratch 2 peut etre utiliser <a href="http://scratch.mit.edu/projects/editor/">en ligne</a> ou <a href="http://scratch.mit.edu/scratch2download/">hors-ligne</a>.
+--- /no-print ---
 
-Vous pouvez trouver une version complete de ce projet <a href="http://scratch.mit.edu/projects/26818098/#editor">en ligne</a>, ou en cliquant le lien 'Download Project Materials' pour ce projet, qui contiens:
+--- print-only ---
 
-+ LostInSpace.sb2
+![Projet complet](images/showcase_static.png)
 
-## Objectifs de la lesson
-+ Sprites;
-+ Séquence de blocks de code;
-+ Évenements;
-+ Boucles:
-	+ Boucle `Repeat`{:class="blockcontrol"};
-	+ Boucle `Forever`{:class="blockcontrol"}.
+--- /print-only ---
 
-## Défis
-+ "Ajouter un autre sprite" - Ajoute un autre sprite a ton projet;
-+ "Améliore ton animation" - change les nombres dans un court programme;
-+ "Créer ta propre animation" - Utilise ce que tu as appris pour créer une nouvelle animation.
+--- collapse ---
+---
+title: Ce qu'il te faut
+---
 
-## Foire Aux Questions
-+ Les enfants auront peut etre besoin de 'réinitialiser' la position, la taille et d'autres effets du sprite pour commencer leurs animations. Ceci peut etre facilement atteint en ajoutant les blocks suivants au debut de leurs animations: 
+### Matériel informatique
 
-```blocks
-	go to x:(0) y:(0)
-```
+- Un ordinateur capable d'exécuter Scratch 3
 
-```blocks
-	set size to (100)%
-```
+### Logiciel
 
-```blocks
-	clear graphic effects
-```
+- Scratch 3 ([en ligne](http://rpf.io/scratchon){:target="_blank"} ou [hors ligne](http://rpf.io/scratchoff){:target="_blank"})
 
-+ Le sprite 'Vaisseau spatial' devrais se déplacer de coté à moins qu'il ne soit tourné à 90 degrés sens horaire. Tourner le vaisseau spatial fait parti des instructions du projet, mais un autre sprite peut etre substitué au vaisseau spatial si cela cause des problèmes. 
+### Téléchargements
 
-	![screenshot](images/space-rotate.png)
+- Aucun
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: Ce que tu vas apprendre
+---
+
+- Utiliser une boucle de répétition pour animer un sprite dans Scratch
+- Utiliser une boucle infinie pour répéter une animation indéfiniment
+- Comprendre que les boucles peuvent être imbriquées les unes dans les autres
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: Informations supplémentaires pour les éducateurs
+---
+
+Si vous avez besoin d'imprimer ce projet, merci d'utiliser la [Version imprimable](https://projects.raspberrypi.org/fr-FR/projects/lost-in-space/print){:target="_blank"}.
+
+Vous pouvez trouver le [projet terminé ici](http://rpf.io/p/fr-FR/lost-in-space-get){:target="_blank"}.
+
+--- /collapse ---

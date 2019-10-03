@@ -1,38 +1,62 @@
-## Plus de boucles
+## Singe flottant
 
-+ Ajoutons maintenant un singe, perdu dans l'espace, à l'animation ! Commencez par choisir un lutin singe dans la bibliothèque.
+Maintenant tu vas ajouter un singe perdu dans l'espace à ton animation!
 
-	![screenshot](images/space-monkey.png)
+--- task --- Commence en ajoutant le lutin 'singe' de la bibliothèque.
 
-+ Si vous cliquez sur votre nouveau lutin singe, puis sur l'onglet 'Costumes', vous pouvez modifier l'apparence de votre singe. Cliquez sur l'outil cercle (nommé ici 'Ellipse') et dessinez un casque blanc autour de la tête du singe.
+![Ajout d'un sprite singe](images/space-monkey-sprite.png)
 
-	![screenshot](images/space-monkey-edit.png)
+--- /task ---
 
-+ Maintenant, cliquez sur l'onglet 'Scripts' et ajoutez du code pour que le singe tourne lentement et indéfiniment en rond :
+Clique sur ton nouveau sprite singe, puis sur **Costumes** pour pouvoir changer l'apparence du singe.
 
-	```blocks
-		quand le drapeau vert pressé
-		répéter indéfiniment
-		   tourner droite de (1) degrés
-	```
+--- task --- Définis la transparence en sélectionnant la ligne rouge. Pour le contour, définis une couleur blanche en déplaçant le curseur de saturation à `0`.
 
-	![screenshot](images/space-monkey-loop.png)
+![Faire la couleur blanche](images/make-white.png) --- /task ---
 
-	Le bloc `répéter indéfiniment`{:class="blockcontrol"} est une boucle qui se répète sans fin. Vous devrez l'arrêter en cliquant sur le bouton 'stop' rouge à côté du drapeau vert.
+--- task --- Clique sur l'outil **cercle** , puis utilise-le pour dessiner un casque blanc autour de la tête du singe.
 
-+ Vous pouvez également combiner des boucles. Ajoutez un lutin 'étoile' à votre animation, et programmez-le comme ceci :
+![Casque de cosmonaute de singe](images/space-monkey-edit.png)
 
-	```blocks
-		quand le drapeau vert pressé
-		répéter indéfiniment
-			répéter (20) fois
-				ajouter (2) à la taille
-			end
-			répéter (20) fois
-				ajouter (-2) à la taille
-			end
-	```
+--- /task ---
 
-	![screenshot](images/space-star.png)
+--- task --- Peux-tu ajouter du code à ton singe afin qu'il tourne lentement indéfiniment?
 
-+ Cliquez sur le drapeau pour tester l'animation de votre étoile. Que fait ce code ? Il fait légèrement grossir l'étoile 20 fois, puis rétrécir 20 fois pour revenir à sa taille du début. Et pour que cette animation recommence tout le temps, nous mettons ces deux boucles dans une troisième boucle `répéter indéfiniment`{:class="blockcontrol"}.
+--- hints ---
+ --- hint ---
+
+Lorsque le drapeau vert **est cliqué** , ton sprite singe devrait **tourner** dans un cercle **indéfiniment** .
+
+--- /hint --- --- hint ---
+
+Voici les blocs dont tu as besoin:
+
+```blocks3
+répéter indéfiniment
+end
+
+tourner droite de (15) degrés
+
+quand le drapeau vert pressé
+```
+
+--- /hint --- --- hint ---
+
+Voici le code pour faire tourner ton singe:
+
+![Sprite singe](images/sprite-monkey.png)
+
+```blocks3
+quand le drapeau vert pressé
+répéter indéfiniment 
+    tourner droite de (1) degrés
+end
+```
+
+--- /hint --- --- /hints ---
+
+--- /task ---
+
+Teste et enregistre ton projet. Tu devras cliquer sur le bouton rouge **arrêt** pour terminer cette animation, car elle tourne pour toujours!
+
+![Teste le singe qui tourne](images/space-spin-test.png)

@@ -1,13 +1,50 @@
 ## Glänzender Stern
 
-Lass' uns Schleifen kombinieren, um einen glänzenden, strahlenden Stern zu machen.
+Lass' uns Schleifen kombinieren, um einen strahlenden Stern zu machen.
 
-+ Füge deiner Animation eine "Star1"- (Stern1-) Figur hinzu.
-    
-    ![Hinzufügen einer Stern-Figur](images/space-star-sprite.png)
+--- task --- Füge deiner Animation eine "star"- (Sternen-) Figur hinzu.
 
-+ Kannst du deinen Stern so programmieren, dass er abwechselnd wächst und wieder schrumpft?
-    
-    ![Test eines glänzenden Sterns](images/space-star-test.png)
+![Hinzufügen einer Stern-Figur](images/space-star-sprite.png)
 
---- hints --- --- hint --- Wenn die grüne **Flagge angeklickt ** wird, sollte dein Stern ein paar mal die **Größe ändern** und dabei wachsen, und dann wieder ein paar mal **die Größe ändern** und dabei kleiner werden. Es sollte so sein, dass er **fortlaufend** wächst und schrumpft. --- /hint --- --- hint --- Hier sind die Code Blöcke, die du brauchen wirst: ![Blocks for a shining star](images/space-star-blocks.png) --- /hint --- --- hint --- Hier ist der Code, der deinen Stern glänzen lässt: ![Code for a shining star](images/space-star-code.png) --- /hint --- --- /hints ---
+--- /task ---
+
+--- task --- Kannst du Code zu deiner Stern-Figur hinzufügen, um den Stern immer wieder wachsen und schrumpfen zu lassen?
+
+![Test eines glänzenden Sterns](images/sprite-star.png)
+
+--- hints ---
+ --- hint --- Wenn die grüne **Flagge angeklickt** wird, sollte dein Stern ein paar mal die **Größe ändern** und dabei wachsen, und dann wieder ein paar mal **die Größe ändern** und dabei kleiner werden. Das soll er tun, damit er **fortlaufend** größer und kleiner wird und dadurch so aussieht als würde er leuchten.
+--- /hint ---
+ --- hint --- Hier sind die Codeblöcke die du brauchst:
+
+```blocks3
+wiederhole (10) mal
+ende
+
+Wenn die grüne Flagge angeklickt
+
+wiederhole (10) mal
+ende
+
+ändere Größe um (10)
+
+ändere Größe um (10)
+
+wiederhole fortlaufend
+```
+
+--- /hint --- --- hint --- Hier ist der Code, um deinen Stern wachsen und schrumpfen zu lassen: ![Stern Figur](images/sprite-star.png)
+
+```blocks3
+Wenn die grüne Flagge angeklickt
+wiederhole fortlaufend
+    wiederhole (20) mal
+        ändere Größe um (2)
+    ende
+    wiederhole (20) mal
+        ändere Größe um (-2)
+    ende
+
+```
+
+--- /hint --- --- /hints --- --- /task ---

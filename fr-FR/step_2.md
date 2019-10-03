@@ -1,59 +1,62 @@
-## Les lutins
+## Animer un vaisseau spatial
 
-+ Tout d'abord, assurez-vous d'avoir ouvert l'éditeur Scratch. Vous pouvez le trouver en ligne à l'adresse <a href="http://jumpto.cc/scratch-new">jumpto.cc/scratch-new</a>. Il devrait ressembler à ceci :
+Ton premier objectif sera de créer un vaisseau spatial qui vole vers la Terre!
 
-	![screenshot](images/space-scratch.png)
+--- task ---
 
-+ Avant de pouvoir coder votre animation, il vous faut un 'objet' à animer. Dans Scratch, ces 'objets' sont appelés 'lutins'. Le chat que vous pouvez voir est un lutin nommé Félix. C'est la mascotte de Scratch, mais débarrassons-nous de lui pour l'instant. Cliquez sur Felix avec le bouton droit de la souris, puis choisissez 'supprimer'.
+Ouvre un nouveau projet Scratch.
 
-	![screenshot](images/space-delete.png)
+**En ligne:** ouvre un nouveau projet Scratch en ligne à [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
 
-+ Cliquez ensuite sur l'icône 'Choisir un lutin dans la bibliothèque' pour voir tous les lutins qui sont fournis avec Scratch.
+**Hors ligne:** ouvre un nouveau projet dans l'éditeur hors ligne.
 
-	![screenshot](images/space-sprite-library.png)
+Si tu dois télécharger et installer l'éditeur hors ligne Scratch, tu peux le trouver à [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-+ Faites défiler les images jusqu'à ce que vous trouviez un vaisseau spatial. Cliquez dessus pour le sélectionner, puis cliquez sur 'OK' pour l'ajouter à votre animation.
+--- /task ---
 
-	![screenshot](images/space-sprite-spaceship.png)
+--- task --- Ajoute des sprites 'fusée' et 'Terre' à votre scène.
 
-+ Cliquez sur votre nouveau vaisseau spatial dans la zone 'Lutins' en bas à gauche, puis allez dans l'onglet 'Costumes' à droite.
+![Les sprites Vaisseau Spatial et Terre](images/space-sprites.png)
 
-	![screenshot](images/space-costume.png)
+[[[generic-scratch3-sprite-from-library]]]
 
-+ Utilisez l'outil flèche pour sélectionner toute l'image. Puis cliquez et tirez sur la poignée de rotation pour faire tourner la fusée sur ​​le côté.
+--- /task ---
 
-	![screenshot](images/space-rotate.png)
+--- task --- Ajoute l'arrière plan "Étoiles" à la scène.
 
-+ Vous devriez maintenant avoir un grand vaisseau spatial sur votre 'scène'. La 'scène' est la zone en haut à gauche. C'est là que votre animation va se dérouler, c'est comme une vraie scène de théatre ! Vous pouvez faire glisser le vaisseau spatial autour de la scène pour le déplacer.
+![Un arrière plan spatial](images/space-backdrop.png)
 
-	Pour l'instant, votre scène est blanche et bien ennuyeuse ! Ajoutez-y une toile de fond : Allez dans l'onglet​ 'Arrière-plans' de la scène, puis cliquez sur l'icône 'Choisir un arrière-plan dans la bibliothèque'.
+--- /task ---
 
-	![screenshot](images/space-stage.png)
+--- task --- Clique sur ton sprite vaisseau spatial, et clique sur l'onglet **Costumes** .
 
-+ Cliquez sur la catégorie 'Espace' à gauche, puis choisissez l'arrière-plan étoilé qui s'appelle 'stars'. Cliquez sur 'OK' pour l'ajouter à votre scène.
+![Costume de Sprite](images/space-costume.png)
 
-	![screenshot](images/space-backdrop.png)
+--- /task ---
 
-	Votre scène devrait maintenant ressembler à cela :
+--- task --- Utilise l'outil **flèche** pour cliquer et faire glisser une boîte autour de l'image du vaisseau spatial. Puis clique sur la circulaire **faire pivoter** manipuler et faire pivoter l’image jusqu’à ce qu’elle soit sur le côté.
 
-	![screenshot](images/space-step1.png)
+![Faire pivoter un costume](images/space-rotate.png)
 
---- challenge ---
-## Défi : Ajoutez un autre lutin
-Pouvez-vous ajouter un nouveau lutin (la Terre) à votre scène, pour que ça ressemble à ceci ?
+--- /task ---
 
-![screenshot](images/space-earth.png)
+--- task --- Ajoute ce code à ton lutin de vaisseau spatial:
 
---- /challenge ---
+![Sprite de vaisseau spatial](images/sprite-spaceship.png)
 
-Pour ne pas perdre votre travail, vous devez l'enregistrer régulièrement. Tout d'abord, donnez un nom à votre animation : tapez-le dans la zone texte au dessus de la scène. Vous pouvez ensuite cliquer sur 'Fichier' puis 'Sauvegarder maintenant' pour enregistrer votre projet.
+```blocks3
+quand le drapeau vert pressé
+s'orienter en direction de (0)
+aller à x: (-150) y: (-150)
+dire [c'est parti !] pendant (2) secondes
+s'orienter vers (Earth v)
+glisser en (1) secondes à x: (0) y: (0)
+```
 
-![screenshot](images/space-save.png)
+Change les nombres dans les blocs de code pour que le code soit exactement le même que dans l'image ci-dessus.
 
-Si vous utilisez Scratch en ligne, tout ce que vous sauvegardez est ajouté à vos 'projets'. C'est un dossier en ligne auquel vous pouvez accéder de n'importe où, même de chez vous. Vous pouvez accéder à ce dossier en cliquant sur 'Fichier', puis 'Aller à mes projets'.
+--- /task ---
 
-![screenshot](images/space-stuff.png)
+Si tu cliques sur le drapeau vert, tu dois voir le vaisseau parler, tourner et glisser vers le centre de la scène.
 
-Ceci vous donne la liste de tous vous projets. Cliquez sur 'Voir à l'intérieur' pour continuer de programmer votre animation.
-
-Si vous utilisez Scratch en ligne mais que vous n'avez pas de nom d'utilisateur, vous pouvez cliquer sur 'Télécharger dans votre ordinateur' pour sauvegarder votre projet sur votre ordinateur.
+![Test d'une animation de vaisseau spatial](images/space-animate-stage.png)
