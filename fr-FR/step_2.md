@@ -22,7 +22,7 @@ Si tu dois télécharger et installer l'éditeur hors ligne Scratch, tu peux le 
 
 --- /task ---
 
---- Ajoute l'arrière plan "Étoiles" à la scène.
+--- task --- Ajoute l'arrière plan "Étoiles" à la scène.
 
 ![Un arrière plan spatial](images/space-backdrop.png)
 

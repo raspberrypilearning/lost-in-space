@@ -21,7 +21,7 @@ Lass' uns Schleifen kombinieren, um einen strahlenden Stern zu machen.
 wiederhole (10) mal
 ende
 
-Wenn die Flagge angeklickt wird
+Wenn die grüne Flagge angeklickt
 
 wiederhole (10) mal
 ende
@@ -36,7 +36,7 @@ wiederhole fortlaufend
 --- /hint --- --- hint --- Hier ist der Code, um deinen Stern wachsen und schrumpfen zu lassen: ![Stern Figur](images/sprite-star.png)
 
 ```blocks3
-Wenn die Flagge angeklickt wird
+Wenn die grüne Flagge angeklickt
 wiederhole fortlaufend
     wiederhole (20) mal
         ändere Größe um (2)

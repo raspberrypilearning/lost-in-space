@@ -19,7 +19,7 @@ przesuń o (10) kroków
 
 jeżeli na brzegu, odbij się
 
-kiedy flaga kliknięta
+kiedy kliknięto zieloną flagę
 
 zawsze
 ```
@@ -27,7 +27,7 @@ zawsze
 Możesz również ustawić bardziej interesujący kierunek początkowy dla sprite'a skalnego za pomocą jednego z tych bloków:
 
 ```blocks3
-obróć cw o (15) stopni
+obróć w prawo o (15) stopn
 
 ustaw w kierunku duszka (Ziemia v)
 ```
@@ -39,11 +39,12 @@ Oto kod, dzięki któremu Twoja skała odbija się od sceny:
 ![Duszek skały](images/sprite-rock.png)
 
 ```blocks3
-kiedy flaga kliknięta
+kiedy kliknięto zieloną flagę
 ustaw w kierunku duszka (Ziemia v)
-zawsze
-    przesuń o (2) kroki
-    jeśli na brzegu, odbij się
+zawsze 
+    przesuń o (2) kroków
+    jeżeli na brzegu, odbij się
+end
 ```
 
 --- /hint --- --- /hints --- --- /task ---

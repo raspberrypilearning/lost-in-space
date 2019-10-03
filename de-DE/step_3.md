@@ -10,7 +10,7 @@ Du musst die Zahlen in diesem Block ändern:
 ![Raumschiff-Figur](images/sprite-spaceship.png)
 
 ```blocks3
-gleite (1) Sek. zu x:(0) y:(0)
+gleite in (1) Sek. zu x: (0) y: (0)
 ```
 
 [[[generic-scratch3-coordinates]]]

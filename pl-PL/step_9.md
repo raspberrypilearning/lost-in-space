@@ -20,6 +20,6 @@ Wypróbuj projekt [Pogromcy duchów](https://projects.raspberrypi.org/pl-PL/proj
 
 **Tłumaczenie wykonane przez wolontariuszy**
 
-Projekt ten przetłumaczył/a **Marek Lubinski** a zweryfikował/a **Tomasz Przybyłek**.
+Projekt ten przetłumaczył **Marek Lubinski** a zweryfikował **Tomasz Przybyłek**.
 
 Dzięki naszym wspaniałym wolontariuszom, ludzie na całym świecie mogą nauczyć się kodowania. Tłumacząc nasze projekty możesz pomóc nam dotrzeć do większej liczby ludzi. Więcej informacji na stronie [rpf.io/translate](https://rpf.io/translate).

@@ -45,10 +45,10 @@ Jeśli musisz pobrać i zainstalować edytor Scratcha, znajdziesz go na stronie 
 ![Duszek Statku kosmicznego](images/sprite-spaceship.png)
 
 ```blocks3
-kiedy flaga kliknięta
+kiedy kliknięto zieloną flagę
 ustaw kierunek na (0)
-idź do x: (- 150) y: (- 150)
-powiedz [Chodźmy] przez (2) sekundy
+Idź do x: (-150) y: (-150)
+powiedz [Chodźmy] przez (2) sekund
 ustaw w kierunku duszka (Ziemia v)
 leć przez (1) sekund do x: (0) y: (0)
 ```

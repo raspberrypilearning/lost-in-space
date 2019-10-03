@@ -37,14 +37,14 @@ répéter indéfiniment
 
 ```blocks3
 quand le drapeau vert pressé
-indéfiniment
-répéter (20)
-ajouter (2) à la taille 
+répéter indéfiniment 
+    répéter (20) fois 
+        ajouter (2) à la taille
+    end
+    répéter (20) fois 
+        ajouter (-2) à la taille
+    end
 end
-répéter (20)
-ajouter (-2) à la taille
-end
-
 ```
 
 --- /hint --- --- /hints --- --- /task ---

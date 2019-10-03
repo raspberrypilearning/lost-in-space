@@ -12,8 +12,7 @@ s'orienter en direction de (0)
 aller à x: (-150) y: (-150)
 dire [c'est parti !] pendant (2) secondes
 s'orienter vers (Terre v)
-
-glisser en (1) secondes à x: (0) y: (0)
+- glisser en (1) secondes à x: (0) y: (0)
 ```
 
 --- /task ---
@@ -25,14 +24,14 @@ glisser en (1) secondes à x: (0) y: (0)
 ![Sprite de vaisseau spatial](images/sprite-spaceship.png)
 
 ```blocks3
-lorsque le drapeau est cliqué
+quand le drapeau vert pressé
 s'orienter en direction de (0)
 aller à x: (-150) y: (-150)
-dire [c'est parti !] pendant (2) secondes
+dire [c'est parti!] pendant (2) secondes
 s'orienter vers (Terre v)
-
-+ répéter (200)
-    déplacer de (2) pas
++ répéter (200) fois 
+    avancer de (2) pas
+end
 ```
 
 Teste et enregistre ton code. Ton vaisseau spatial devrait se déplacer exactement comme avant vers la Terre, mais cette fois-ci il utilise un bloc `répéter`{:class="block3control"}.
@@ -46,15 +45,15 @@ Utilise ce bloc:
 ![Sprite de vaisseau spatial](images/sprite-spaceship.png)
 
 ```blocks3
-lorsque le drapeau est cliqué
+quand le drapeau vert pressé
 s'orienter en direction de (0)
 aller à x: (-150) y: (-150)
-dire [c'est parti !] pendant (2) secondes
+dire [c'est parti!] pendant (2) secondes
 s'orienter vers (Terre v)
-répéter (200)
+répéter (200) fois 
     avancer de (2) pas
-
-+ ajouter (25) à l'effet [couleur v]
++     ajouter (25) à l'effet [couleur v]
+end
 ```
 
 Teste et enregistre ton code.
@@ -95,17 +94,17 @@ Ton code devrait ressembler à ceci:
 ![Sprite de vaisseau spatial](images/sprite-spaceship.png)
 
 ```blocks3
-lorsque le drapeau est cliqué
-mettre la taille à (100)% de la taille initiale
+quand le drapeau vert pressé
+mettre la taille à (100) % de la taille initiale
 s'orienter en direction de (0)
-allez à x: (-150) y: (-150)
-dire [c'est parti !] pendant (2) secondes
-s'orienter vers (Terre v )
-répéter (200) fois
-avancer de (2) pas
-ajouter (25) à l'effet [couleur v]
-
-+ changer la taille de (-3)
+aller à x: (-150) y: (-150)
+dire [c'est parti!] pendant (2) secondes
+s'orienter vers (Terre v)
+répéter (200) fois 
+    avancer de (2) pas
+    ajouter (25) à l'effet [couleur v]
++   ajouter (-3) à la taille
+end
 ```
 
 --- /hint ---

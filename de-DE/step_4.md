@@ -7,13 +7,12 @@ Eine andere Möglichkeit das Raumschiff zu animieren ist, es ganz oft kleine Sch
 ![Raumschiff-Figur](images/sprite-spaceship.png)
 
 ```blocks3
-Wenn die Flagge angeklickt wird
+Wenn die grüne Flagge angeklickt
 setze Richtung auf (0) Grad
-gehe zu x:(-150) y:(-150)
+gehe zu x: (-150) y: (-150)
 sage [Los geht´s] für (2) Sekunden
 drehe dich zu (Earth v)
-
--gleite in (1) Sek. zu x:(0) y:(0)
+- gleite in (1) Sek. zu x: (0) y: (0)
 ```
 
 --- /task ---
@@ -25,14 +24,14 @@ drehe dich zu (Earth v)
 ![Raumschiff-Figur](images/sprite-spaceship.png)
 
 ```blocks3
-Wenn die Flagge angeklickt wird
+Wenn die grüne Flagge angeklickt
 setze Richtung auf (0) Grad
-gehe zu x:(-150) y:(-150)
+gehe zu x: (-150) y: (-150)
 sage [Los geht´s] für (2) Sekunden
 drehe dich zu (Earth v)
-
-+wiederhole (200) mal
++ wiederhole (200) mal 
     gehe (2) er Schritt
+end
 ```
 
 Teste und speichere deinen Code. Dein Raumschiff sollte sich genau wie zuvor zur Erde bewegen, aber diesmal mit Hilfe eines `wiederhole ... mal`{:class="block3control}-Blocks.
@@ -46,15 +45,15 @@ Verwende diesen Block:
 ![Raumschiff-Figur](images/sprite-spaceship.png)
 
 ```blocks3
-Wenn die Flagge angeklickt wird
+Wenn die grüne Flagge angeklickt
 setze Richtung auf (0) Grad
-gehe zu x:(-150) y:(-150)
+gehe zu x: (-150) y: (-150)
 sage [Los geht´s] für (2) Sekunden
 drehe dich zu (Earth v)
-wiederhole (200) mal
+wiederhole (200) mal 
     gehe (2) er Schritt
-
-+    ändere Effekt [Farbe v] um (25)
++     ändere Effekt [Farbe v] um (25)
+end
 ```
 
 Teste und speichere nun dein Projekt.
@@ -95,7 +94,7 @@ Dein Code sollte so aussehen:
 ![Raumschiff-Figur](images/sprite-spaceship.png)
 
 ```blocks3
-Wenn die Flagge angeklickt wird
+Wenn die grüne Flagge angeklickt
 setze Größe auf (100)
 setze Richtung auf (0) Grad
 gehe zu x:(-150) y:(-150)
@@ -104,13 +103,12 @@ drehe dich zu (Earth v)
 wiederhole (200) mal
     gehe (2) er Schritt
     ändere Effekt [Farbe v] um (25)
-
-+    ändere Größe um (-0.3)
++   ändere Größe um (-3)
 ```
 
 --- /hint ---
 
----/hints---
+--- /hints ---
 
 --- /task ---
 

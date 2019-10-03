@@ -22,7 +22,7 @@ gehe (10) er Schritt
 
 pralle vom Rand ab
 
-Wenn Flagge angeklickt wird
+Wenn die grüne Flagge angeklickt
 
 wiederhole fortlaufend
 ```
@@ -30,7 +30,7 @@ wiederhole fortlaufend
 Du kannst auch eine interessantere Startrichtung für deine Felsen-Figur festlegen, indem du einen dieser Blöcke verwendest:
 
 ```blocks3
-drehe dich im Uhrzeigersinn um (15) Grad
+drehe dich nach rechts um (15) Grad
 
 drehe dich zu (Erde v)
 ```
@@ -42,11 +42,12 @@ Hier ist der Code, mit dem du deinen Felsen über die Bühne springen lässt:
 ![Felsen Figur](images/sprite-rock.png)
 
 ```blocks3
-Wenn Flagge angeklickt wird
+Wenn die grüne Flagge angeklickt
 drehe dich zu (Earth v)
-wiederhole fortlaufend
+wiederhole fortlaufend 
     gehe (2) er Schritt
     pralle vom Rand ab
+end
 ```
 
 --- /hint --- --- /hints --- --- /task ---

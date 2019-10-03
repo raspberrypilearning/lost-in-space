@@ -33,11 +33,11 @@ Oto potrzebne bloki kodu:
 
 ```blocks3
 zawsze
-koniec
+end
 
-obróć cw o (15) stopni
+obróć w prawo o (15) stopni
 
-kiedy flaga kliknięta
+kiedy kliknięto zieloną flagę
 ```
 
 --- /hint --- --- hint ---
@@ -47,9 +47,10 @@ Oto kod, który sprawi, że twoja małpa się zakręci:
 ![Duszek małpy](images/sprite-monkey.png)
 
 ```blocks3
-kiedy flaga kliknęta
-zawsze
-    obróć cw o (1) stopni
+kiedy kliknięto zieloną flagę
+zawsze 
+    obróć w prawo o (1) stopni
+end
 ```
 
 --- /hint --- --- /hints ---

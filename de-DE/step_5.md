@@ -33,10 +33,11 @@ Hier sind die Codeblöcke die du brauchst:
 
 ```blocks3
 wiederhole fortlaufend
+end
 
-drehe dich im Uhrzeigersinn um (15) Grad
+drehe dich nach rechts um (15) Grad
 
-Wenn grüne Flagge angeklickt wird
+Wenn die grüne Flagge angeklickt
 ```
 
 --- /hint --- --- hint ---
@@ -46,9 +47,10 @@ Hier ist der Code, um deinen Affen zum Drehen zu bringen:
 ![Affen Figur](images/sprite-monkey.png)
 
 ```blocks3
-Wenn die Flagge angeklickt wird
-wiederhole fortlaufend
-    drehe dich im Uhrzeigersinn um (1) Grad
+Wenn die grüne Flagge angeklickt
+wiederhole fortlaufend 
+    drehe dich nach rechts um (1) Grad
+end
 ```
 
 --- /hint --- --- /hints ---

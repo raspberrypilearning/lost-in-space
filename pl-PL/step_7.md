@@ -18,7 +18,7 @@ Teraz wykorzystasz połączenie różnych pętli, żeby stworzyć świecącą gw
 powtarzaj (10)
 koniec
 
-kiedy flaga kliknięta
+kiedy kliknięto zieloną flagę
 
 powtarzaj (10)
 koniec
@@ -33,7 +33,7 @@ zawsze
 --- /hint --- --- hint --- Oto kod, dzięki któremu twoja gwiazda rośnie i zmniejsza się: ![Duszek gwiazdy](images/sprite-star.png)
 
 ```blocks3
-kiedy flaga kliknięta
+kiedy kliknięto zieloną flagę
 zawsze
     powtarzaj (20)
         zmień rozmiar o (2)

@@ -20,7 +20,7 @@ Clique sur ton nouveau sprite singe, puis sur **Costumes** pour pouvoir changer 
 
 --- /task ---
 
---- Peux-tu ajouter du code à ton singe afin qu'il tourne lentement indéfiniment?
+--- task --- Peux-tu ajouter du code à ton singe afin qu'il tourne lentement indéfiniment?
 
 --- hints ---
  --- hint ---
@@ -33,6 +33,7 @@ Voici les blocs dont tu as besoin:
 
 ```blocks3
 répéter indéfiniment
+end
 
 tourner droite de (15) degrés
 
@@ -47,7 +48,9 @@ Voici le code pour faire tourner ton singe:
 
 ```blocks3
 quand le drapeau vert pressé
-répéter (1) indéfiniment
+répéter indéfiniment 
+    tourner droite de (1) degrés
+end
 ```
 
 --- /hint --- --- /hints ---
