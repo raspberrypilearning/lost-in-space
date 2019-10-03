@@ -1,6 +1,6 @@
-## What next?
+## Que faire ensuite?
 
-Try the [Ghostbusters](https://projects.raspberrypi.org/en/projects/ghostbusters?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) project! In that project, you will learn how to create a game with ghosts that appear all over the place and that you need to catch. You will also learn how to add a timer and a score to the game, so that you can see how many ghosts you are able to catch.
+Essaye le projet [Chasseurs de fantômes](https://projects.raspberrypi.org/en/projects/ghostbusters?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects)  ! Dans ce projet, tu vas apprendre à créer un jeu avec des fantômes qui apparaissent partout et que tu devras attraper. Tu apprendras également à ajouter une minuterie et un score au jeu afin de voir le nombre de fantômes que tu attrapes.
 
 \--- no-print \---
 
@@ -13,6 +13,6 @@ Try the [Ghostbusters](https://projects.raspberrypi.org/en/projects/ghostbusters
 
 \--- print-only \---
 
-![showcase](images/ghostbusters-static.png)
+![démonstration](images/ghostbusters-static.png)
 
 \--- /print-only \---
