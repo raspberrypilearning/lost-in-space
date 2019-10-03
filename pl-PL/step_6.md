@@ -27,7 +27,7 @@ zawsze
 Możesz również ustawić bardziej interesujący kierunek początkowy dla sprite'a skalnego za pomocą jednego z tych bloków:
 
 ```blocks3
-obróć w prawo o (15) stopn
+obróć w prawo o (15) stopni
 
 ustaw w kierunku duszka (Ziemia v)
 ```
