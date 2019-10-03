@@ -1,4 +1,4 @@
-## Ein Raumschiff animieren
+## Herausforderung: Verbessere deine Animation
 
 Kannst du die Zahlen in deinem Animationscode ändern, so dass:
 
