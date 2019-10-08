@@ -5,7 +5,7 @@ Probeer het [Spokenjagers](https://projects.raspberrypi.org/nl-NL/projects/ghost
 --- no-print ---
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276874679/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/334692785/?autostart=false" frameborder="0" scrolling="no"></iframe>
   <img src="images/ghostbusters-static.png">
 </div>
 
