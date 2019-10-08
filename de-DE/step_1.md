@@ -13,7 +13,7 @@ Du wirst lernen, deine eigene Animation zu programmieren!
 --- no-print --- Klicke auf die grüne Flagge, um die Animation zu sehen.
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/227524980/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/334689239/?autostart=false" frameborder="0" scrolling="no"></iframe>
   <img src="images/space-final.png">
 </div>
 
