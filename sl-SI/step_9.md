@@ -13,6 +13,6 @@ Preizkusi projekt [Lovilci duhov](https://projects.raspberrypi.org/en/projects/g
 
 \--- print-only \---
 
-![showcase](images/ghostbusters-static.png)
+![vitrina](images/ghostbusters-static.png)
 
 \--- /print-only \---
