@@ -24,26 +24,26 @@ ko kliknemo na zastavico
 ponavljaj
 ```
 
-You can also set a more interesting starting direction for the rock sprite with one of these blocks:
+Za figuro skal lahko določiš tudi bolj zanimivo začetno smer z uporabo enega od teh blokov:
 
 ```blocks3
-turn cw (15) degrees
+obrni se za (15) stopinj v desno
 
-point towards (Earth v)
+obrni se proti (Zemlja v)
 ```
 
 \--- /hint \--- \--- hint \---
 
-Here's the code for making your rock bounce around the stage:
+Tukaj je koda, ki poskrbi za to, da se vaše skale odbijajo sem in tja po odru:
 
-![Rock sprite](images/sprite-rock.png)
+![Figura skale](images/sprite-rock.png)
 
 ```blocks3
-when flag clicked
-point towards (Earth v)
-forever
-    move (2) steps
-    if on edge, bounce
+ko kliknemo na zastavico
+obrni se proti (Zemlja v)
+ponavljaj
+  pojdi (2) korakov
+  odbij se, če si na robu
 ```
 
 \--- /hint \--- \--- /hints \--- \--- /task \---
