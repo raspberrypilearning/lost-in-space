@@ -21,7 +21,7 @@ Naučil se boš, kako sprogramirati svojo lastno animacijo!
 
 \--- print-only \---
 
-![Complete project](images/showcase_static.png)
+![Dokončan projekt](images/showcase_static.png)
 
 \--- /print-only \---
 
@@ -47,18 +47,18 @@ Naučil se boš, kako sprogramirati svojo lastno animacijo!
 
 ## title: Kaj se boš naučil?
 
-- Use a repeat loop to animate a sprite in Scratch
-- Use a forever loop to repeat an animation indefinitely
-- Understand that loops can be nested within each other
+- Uporabiti ponavljajočo se zanko za animiranje figure v Scratchu
+- Uporabiti večno zanko za neskončno ponavljanje animacije
+- Razumeti, da lahko zanke vsebujejo druge zanke
 
 \--- /collapse \---
 
-## \--- propad \---
+## \--- collapse \---
 
-## title: Additional information for educators
+## title: Dodatne informacije za izobraževalce
 
 Če želite natisniti ta projekt, uporabite [tiskalniku prijazno različico](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
-You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+Zaključen projekt lahko najdete [tukaj](http://rpf.io/p/en/lost-in-space-get)"}{:target="_blank"}.
 
 \--- /collapse \---
