@@ -14,13 +14,13 @@ Klikni na to novo figuro opice, nato pa klikni na **Videzi**, da boš lahko spre
 
 ![Make white colour](images/make-white.png) \--- /task \---
 
-\--- task \--- Click on the **circle** tool and then use it to draw a white space helmet around the monkey's head.
+\--- task \--- Klikni na orodje **krog** in ga uporabi, da narišeš belo vesoljsko čelado okoli glave opice.
 
 ![Čelada opice](images/space-monkey-edit.png)
 
 \--- /task \---
 
-\--- task \--- Can you add code to your monkey sprite so that it spins slowly in a circle forever?
+\--- task \--- Ali znaš figuri opice dodati kodo, da se počasi in neprenehoma vrti v krogu?
 
 \--- hints \--- \--- hint \---
 
