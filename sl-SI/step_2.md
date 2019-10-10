@@ -28,7 +28,7 @@ Ustvari nov Scratch projekt.
 
 \--- /task \---
 
-\--- task \--- Click on your spaceship sprite, and click on the **Costumes** tab.
+\--- task \--- Klikni na figuro rakete in nato klikni na zavihek **Videzi**.
 
 ![Videzi figure](images/space-costume.png)
 
@@ -47,7 +47,7 @@ Ustvari nov Scratch projekt.
 ```blocks3
 ko kliknemo na zastavico
 obrni se v smer (0)
-pojdi na x:(150) y:(150)
+pojdi na x:(-150) y:(-150)
 reci [Pojdimo!] za (2) sekund
 obrni se proti (Zemlja)
 drsi (1) sekund do x:(0) y:(0)
