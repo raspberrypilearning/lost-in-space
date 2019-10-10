@@ -1,27 +1,27 @@
-## Poskočni asteroid
+## Odbojni asteroid
 
-Now you will add a floating space rock to your animation.
+Zdaj boš v svojo animacijo dodal še potujoči skalnati asteroid.
 
-\--- task \--- Add a 'rock' sprite to your animation.
+\--- task \--- Dodaj figuro 'rocks' v svojo animacijo in jo preimenuj v 'skale'.
 
 ![Dodajanje figure 'rock'](images/space-rock-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Can you add code for your rock sprite so that the rock bounces around the stage?
+\--- task \--- Ali lahko dodaš kodo figuri skal, da se bodo skale odbijale od robov odra?
 
 ![Preizkušanje poskočnega asteroida](images/space-bounce-test.png)
 
-\--- hints \--- \--- hint \--- Ko kliknete **zeleno zastavo**, se mora asteroid **za vedno** **pomikati** in **odbijati** po odru. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
+\--- hints \--- \--- hint \--- Ko klikneš **zeleno zastavo**, mora asteroid neprenehoma **ponavljati**, da se **premika** in **odbija** po odru. \--- /hint \--- \--- hint \--- To so bloki kode, ki jih potrebuješ:
 
 ```blocks3
-move (10) steps
+pojdi (10) korakov
 
-if on edge bounce
+odbij se, če si na robu
 
-when flag clicked
+ko kliknemo na zastavico
 
-forever
+ponavljaj
 ```
 
 You can also set a more interesting starting direction for the rock sprite with one of these blocks:
