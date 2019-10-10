@@ -1,16 +1,16 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
+To je **Scratch 3** različica projekta. Obstaja tudi [Scratch 2](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2) različica projekta.
 
 \--- /no-print \---
 
 ## Uvod
 
-Naučili se boste ustvariti svojo animacijo!
+Naučil se boš, kako sprogramirati svojo lastno animacijo!
 
-### Kaj boste naredili?
+### Kaj boš ustvaril?
 
-\--- no-print \--- Click on the green flag to see the animation.
+\--- no-print \--- Za prikaz animacije klikni na zeleno zastavico.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -25,9 +25,9 @@ Naučili se boste ustvariti svojo animacijo!
 
 \--- /print-only \---
 
-## \--- propad \---
+## \--- collapse \---
 
-## title: Kaj potrebujete?
+## title: Kaj boš potreboval?
 
 ### Strojna oprema
 
@@ -35,17 +35,17 @@ Naučili se boste ustvariti svojo animacijo!
 
 ### Programska oprema
 
-- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (bodisi [na spletu](http://rpf.io/scratchon) {:target = "_blank"} ali [brez povezave](http://rpf.io/scratchoff){:target = "_blank"})
 
-### Downloads
+### Prenosi
 
-- None
+- Brez
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Kaj se boste naučili?
+## title: Kaj se boš naučil?
 
 - Use a repeat loop to animate a sprite in Scratch
 - Use a forever loop to repeat an animation indefinitely
