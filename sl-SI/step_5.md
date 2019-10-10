@@ -1,16 +1,16 @@
 ## Plavajoča opica
 
-Now you will add a monkey who's lost in space to your animation!
+Sedaj boš svoji animaciji dodal še opico, ki je izgubljena v vesolju!
 
-\--- task \--- Start by adding the 'monkey' sprite from the library.
+\--- task \--- Za začetek dodaj figuro 'monkey' iz knjižnice in jo preimenuj v 'opica'.
 
 ![Dodajanje figure 'monkey'](images/space-monkey-sprite.png)
 
 \--- /task \---
 
-Click on your new monkey sprite and then click on **Costumes** so that you can edit how the monkey looks.
+Klikni na to novo figuro opice, nato pa klikni na **Videzi**, da boš lahko spremminjal videz opice.
 
-\--- task \--- Set the fill to be transparent by selecting the red line. For the outline, set a white colour by moving the Saturation slider to `0`.
+\--- task \--- Nastavi polnilo na prozorno, tako da izbereš rdečo črto. Za obrobo določi belo barvo s premikom drsnika za nasičenost na `0`.
 
 ![Make white colour](images/make-white.png) \--- /task \---
 
