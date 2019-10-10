@@ -4,7 +4,7 @@ Sedaj boš svoji animaciji dodal še opico, ki je izgubljena v vesolju!
 
 \--- task \--- Za začetek dodaj figuro 'monkey' iz knjižnice in jo preimenuj v 'opica'.
 
-![Dodajanje figure 'monkey'](images/space-monkey-sprite.png)
+![Dodajanje figure opice](images/space-monkey-sprite.png)
 
 \--- /task \---
 
@@ -12,11 +12,11 @@ Klikni na to novo figuro opice, nato pa klikni na **Videzi**, da boš lahko spre
 
 \--- task \--- Nastavi polnilo na prozorno, tako da izbereš rdečo črto. Za obrobo določi belo barvo s premikom drsnika za nasičenost na `0`.
 
-![Make white colour](images/make-white.png) \--- /task \---
+![Ustvari belo barvo](images/make-white.png) \--- /task \---
 
 \--- task \--- Klikni na orodje **krog** in ga uporabi, da narišeš belo vesoljsko čelado okoli glave opice.
 
-![Čelada opice](images/space-monkey-edit.png)
+![Vesoljska čelada opice](images/space-monkey-edit.png)
 
 \--- /task \---
 
@@ -24,37 +24,35 @@ Klikni na to novo figuro opice, nato pa klikni na **Videzi**, da boš lahko spre
 
 \--- hints \--- \--- hint \---
 
-When the green **flag is clicked**, your monkey sprite should **turn** in a circle **forever**.
+Ko **kliknemo na zeleno zastavo**, bi morala tvoja opica **ponavljati** v neskončnost **obračanje** v krogu.
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+To so bloki kode, ki jih potrebuješ:
 
 ```blocks3
-forever
-end
+ponavljaj
+konec
 
-turn cw (15) degrees
-
-when flag clicked
+obrni se za (15) stopinj v desno
 ```
 
 \--- /hint \--- \--- hint \---
 
-Here's the code to make your monkey spin:
+Tukaj je koda, ki povzroči, da se tvoja opica vrti:
 
-![Monkey sprite](images/sprite-monkey.png)
+![Figura opice](images/sprite-monkey.png)
 
 ```blocks3
-when flag clicked
-forever
-    turn cw (1) degrees
+ko kliknemo na zastavico
+ponavljaj
+  obrni se za (1) stopinj v desno
 ```
 
 \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
-Test and save your project. You'll have to click on the red **stop** button to end this animation, as it runs forever!
+Preizkusi in shrani svoj projekt. Če želiš to animacijo končati, klikni na rdeči gumb **končaj**, saj se bo sicer izvajala neprenehoma!
 
-![Test the spinning monkey](images/space-spin-test.png)
+![Preizkus vrteče se opice](images/space-spin-test.png)
