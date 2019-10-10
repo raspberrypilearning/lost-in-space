@@ -1,7 +1,7 @@
 ## Izziv: izdelajte svojo animacijo
 
-Ustavite svojo animacijo prostora, jo shranite in začnite nov Scratch projekt.
+Zaustavi animacijo, jo shrani in ustvari nov Scratch projekt.
 
-Use what you've learned in this project to make your own animation. It can be anything you like, but try to make your animation match the background you choose. Here are some examples:
+Uporabi, kar si se naučil v tem projektu in izdelaj svojo animacijo. Lahko je karkoli hočeš, vendar poskusi narediti animacijo primerno ozadju, ki ga izbereš. Tukaj je nekaj predlogov:
 
 ![posnetek zaslona](images/space-egs.png)
