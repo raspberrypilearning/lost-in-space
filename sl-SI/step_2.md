@@ -34,7 +34,7 @@ Ustvari nov Scratch projekt.
 
 \--- /task \---
 
-\--- task \--- Uporabi orodje **puščico**, da klikneš in potegneš pravokotnik okoli slike celotne rakete. Nato klikni na ročaj za krožno **obračanje** in zasuči sliko, dokler ni obrnjena položno.
+\--- task \--- Uporabi orodje **puščico**, da klikneš in potegneš pravokotnik okoli slike celotne rakete. Nato klikni na ročaj za **vrtenje** in zasuči sliko, dokler ni obrnjena položno.
 
 ![Vrtenje figure](images/space-rotate.png)
 
@@ -42,21 +42,21 @@ Ustvari nov Scratch projekt.
 
 \--- task \--- Figuri rakete dodaj sledečo kodo:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Sprite vesoljske ladje](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-glide (1) secs to x:(0) y:(0)
+ko kliknemo na zastavico
+obrni se v smer (0)
+pojdi na x:(150) y:(150)
+reci [Pojdimo!] za (2) sekund
+obrni se proti (Zemlja)
+drsi (1) sekund do x:(0) y:(0)
 ```
 
-Change the numbers in the code blocks you've added so that the code is exactly the same as above.
+Spremeni številke v blokih kode, ki si jih dodal, da bodo povsem enake kot zgoraj.
 
 \--- /task \---
 
-Če kliknete zeleno zastavo, bi morali vesoljska ladja govoriti, se obrniti in nato drseti proti sredini odra.
+Če klikneš zeleno zastavo, bi morali vesoljska ladja spregovoriti, se obrniti in nato oddrseti proti sredini odra.
 
 ![Preizkušanje animacije vesoljske ladje](images/space-animate-stage.png)
