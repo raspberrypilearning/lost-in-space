@@ -1,38 +1,38 @@
-## Animation using loops
+## Animiranje z uporabo zank
 
-Another way to animate the spaceship is to tell it to move a small amount many times
+Drug način animiranja raket je, da se ji pove, da naj se velikokrat malo premakne
 
-\--- task \--- Delete the `glide`{:class="block3motion"} block from your code. To do this, drag the block off the Code area and drop it back where the other single code blocks are.
+\--- task \--- Izbriši blok `drsi`{:class="block3motion"} iz tvoje kode. V ta namen povleci block iz območja kode in ga vrszi nazaj med posamične bloke kode.
 
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
+ko kliknemo na zastavico
+obrni se v smer (0)
+pojdi na x:(-150) y:(-150)
+reci [Pojdimo!] za (2) sekund
+obrni se proti (Zemlja)
 
-- glide (1) secs to x:(0) y:(0)
+- drsi (1) sekund do x:(0) y:(0)
 ```
 
 \--- /task \---
 
-\--- task \--- Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
+\--- task \--- Sedaj uporabi blok `ponovi`{:class="block3control"}, da premakneš raketo bižje Zemlji.
 
 ![Preizkušanje animacije vesoljske ladje](images/space-animate-stage.png)
 
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
+ko kliknemo na zastavico
+obrni se v smer (0)
+pojdi na x:(150) y:(150)
+reci [Pojdimo!] za (2) sekund
+obrni se proti (Zemlja)
 
-+ repeat (200)
-    move (2) steps
++ponovi (200) krat
+  pojdi (2) korakov
 ```
 
 Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
