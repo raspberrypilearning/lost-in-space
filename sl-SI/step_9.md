@@ -1,6 +1,6 @@
-## What next?
+## Kaj sledi?
 
-Try the [Ghostbusters](https://projects.raspberrypi.org/en/projects/ghostbusters?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) project! In that project, you will learn how to create a game with ghosts that appear all over the place and that you need to catch. You will also learn how to add a timer and a score to the game, so that you can see how many ghosts you are able to catch.
+Preizkusi projekt [Lovilci duhov](https://projects.raspberrypi.org/en/projects/ghostbusters?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects)! V tem projektu se boš naučil, kako ustvariti igro z duhovi, ki se pojavljajo vse naokoli in jih je potrebno ujeti. Prav tako se boš naučil igri dodati časovnik in točke, tako da lahko vidiš, koliko duhov lahko ujameš.
 
 \--- no-print \---
 
