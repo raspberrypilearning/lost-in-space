@@ -35,35 +35,35 @@ obrni se proti (Zemlja)
   pojdi (2) korakov
 ```
 
-Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
+Preizkusi in shrani svojo kodo: Tvoja vesoljska ladja bi se morala premikati proti Zemlji na enak način kot prej, le da tokrat uporablja blok `ponovi`{:class="block3control"}.
 
 \--- /task \---
 
-\--- task \--- Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
+\--- task \--- Sedaj dodaj tvoji raketi kodo, da bo figura tvoje rakete spreminjala barvo, ko se bo približevala Zemlji.
 
-Use this block:
+Uporabi ta blok:
 
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-repeat (200)
-    move (2) steps
+ko kliknemo na zastavico
+obrni se v smer (0)
+pojdi na x:(150) y:(150)
+reci [Pojdimo!] za (2) sekund
+obrni se proti (Zemlja)
+ponovi (200) krat
+  pojdi (2) korakov
 
-+    change [color v] effect by (25)
++  spremeni učinek [barva v] za (25)
 ```
 
-Test and save your code.
+Preizkusi in shrani svoj projekt.
 
 ![Preizkušanje vesoljske ladje, ki spreminja barvo](images/space-colour-test.png)
 
 \--- /task \---
 
-\--- task \--- Can you make your spaceship get smaller as it moves towards Earth?
+\--- task \--- Ali lahko nardiš, da bo tvoja raketa postajala manjša, ko se bo bližala Zemlji?
 
 \--- hints \---
 
