@@ -4,7 +4,7 @@ Drug način animiranja raket je, da se ji pove, da naj se velikokrat malo premak
 
 \--- task \--- Izbriši blok `drsi`{:class="block3motion"} iz tvoje kode. V ta namen povleci block iz območja kode in ga vrszi nazaj med posamične bloke kode.
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Figura rakete](images/sprite-spaceship.png)
 
 ```blocks3
 ko kliknemo na zastavico
@@ -22,7 +22,7 @@ obrni se proti (Zemlja)
 
 ![Preizkušanje animacije vesoljske ladje](images/space-animate-stage.png)
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Figura rakete](images/sprite-spaceship.png)
 
 ```blocks3
 ko kliknemo na zastavico
@@ -43,7 +43,7 @@ Preizkusi in shrani svojo kodo: Tvoja vesoljska ladja bi se morala premikati pro
 
 Uporabi ta blok:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Figura rakete](images/sprite-spaceship.png)
 
 ```blocks3
 ko kliknemo na zastavico
@@ -69,42 +69,42 @@ Preizkusi in shrani svoj projekt.
 
 \--- hint \---
 
-Your spaceship should start at `100% size`{:class="blocklooks"}, and then `change size`{:class="blocklooks"} by a small amount each time it moves.
+Tvoja raketa bi morala na začetku imeti `100% velikost`{:class="blocklooks"}, potem pa mora `spremeniti velikost`{:class="blocklooks"} za majhen odstotek, vsakič ko se premakne.
 
 \--- /hint \---
 
 \--- hint \---
 
-You will need to add these blocks to your code:
+Svoji kodi boš moral dodati te bloke:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Figura rakete](images/sprite-spaceship.png)
 
 ```blocks3
-change size by (10)
+spremeni vellikost za (10)
 
-set size to (100) %
+nastavi velikost na (100) %
 ```
 
 \--- /hint \---
 
 \--- hint \---
 
-Your code should look like this:
+Tvoja koda bi morala izgledati tako:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Figura rakete](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-set size to (100) %
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-repeat (200)
-    move (2) steps
-    change [color v] effect by (25)
+ko kliknemo na zastavico
+nastavi velikost na (100)%
+obrni se v smer (0)
+pojdi na x:(150) y:(150)
+reci [Pojdimo!] za (2) sekund
+obrni se proti (Zemlja)
+ponovi (200) krat
+  pojdi (2) korakov
+  spremeni učinek [barva v] za (25)
 
-+   change size by (-3)
++  spremeni velikost za (-3)
 ```
 
 \--- /hint \---
@@ -113,6 +113,6 @@ repeat (200)
 
 \--- /task \---
 
-Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
+Preizkusi in shrani kodo. Tvoja raketa bi se sedaj morala manjšati, ko se premika. Preizkusi svojo raketo **še drugič**. Je na začetku prave velikosti?
 
 ![Preizkušanje zmanjševanja vesoljske ladje](images/space-size-test.png)
