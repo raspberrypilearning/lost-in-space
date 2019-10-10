@@ -15,32 +15,32 @@ Sedaj boš kombiniral zanke, da ustvariš sijočo zvezdo.
 \--- hints \--- \--- hint \--- **Ko kliknemo na zeleno zastavico**, naj tvoja zvezda **spremeni velikost**, da nekajkrat postane večja, potem pa naj **spremeni velikost**, da nekajkrat postane manjša. To večanje in manjšanje naj neprestano **ponavlja**, da bo videti, kot da sije svetlobo. \--- /hint \--- \--- hint \--- To so bloki kode, ki jih potrebuješ:
 
 ```blocks3
-repeat (10)
-end
+ponovi (10) krat
+konec
 
-when flag clicked
+ko kliknemo na zastavo
 
-repeat (10)
-end
+ponovi (10) krat
+konec
 
-change size by (10)
+spremeni velikost za (10)
 
-change size by (10)
+spremeni velikost za (10)
 
-forever
+ponavljaj
 ```
 
-\--- /hint \--- \--- hint \--- Here's the code to make your star grow and shrink: ![Star sprite](images/sprite-star.png)
+\--- /hint \--- \--- hint \--- Tukaj je koda, ki bo povzročila, da se bo tvoja zvezda večala in manjšala: ![Figura zvezde](images/sprite-star.png)
 
 ```blocks3
-when flag clicked
-forever
-    repeat (20)
-        change size by (2)
-    end
-    repeat (20)
-        change size by (-2)
-    end
+ko kliknemo na zastavo
+ponavljaj
+  ponovi (20) krat
+    spremeni velikost za (2)
+  konec
+  ponovi (20) krat
+    spremeni veliksot za (-2)
+  konec
 
 ```
 
