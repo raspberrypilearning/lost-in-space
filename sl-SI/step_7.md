@@ -1,18 +1,18 @@
 ## Sijoča ​​zvezda
 
-Now you will combine loops to make a shining star.
+Sedaj boš kombiniral zanke, da ustvariš sijočo zvezdo.
 
-\--- task \--- Add a 'star' sprite to your stage.
+\--- task \--- Na oder dodaj figuro 'star' in jo preimenuj v 'zvezda'.
 
 ![Dodajanje figure 'star'](images/space-star-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Can you add code to your star sprite to make the star repeatedly grow and shrink?
+\--- task \--- Ali lahko dodaš figuri zvezde kodo, ki bo povzročila, da se bo zvezda neprestano večala in manjšala?
 
 ![Preizkušanje sijoče zvezde](images/sprite-star.png)
 
-\--- hints \--- \--- hint \--- Ko kliknete **zeleno zastavico**, mora zvezda** spremeniti velikost**, tako da se večkrat poveča, nato pa nekoliko zmanjša. It should do this so that it gets bigger and then smaller **forever** and looks like it's shining light. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
+\--- hints \--- \--- hint \--- **Ko kliknemo na zeleno zastavico**, naj tvoja zvezda **spremeni velikost**, da nekajkrat postane večja, potem pa naj **spremeni velikost**, da nekajkrat postane manjša. To večanje in manjšanje naj neprestano **ponavlja**, da bo videti, kot da sije svetlobo. \--- /hint \--- \--- hint \--- To so bloki kode, ki jih potrebuješ:
 
 ```blocks3
 repeat (10)
