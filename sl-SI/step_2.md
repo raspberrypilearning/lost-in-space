@@ -1,20 +1,20 @@
 ## Animacija vesoljske ladje
 
-Your first step will be to create a spaceship that flies towards the Earth!
+Tvoj prvi korak bo ustvarjanje rakete, ki leti proti Zemlji!
 
 \--- task \---
 
-Open a new Scratch project.
+Ustvari nov Scratch projekt.
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
+**S povezavo:** ustvari nov spletni Scratch projekt na [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
 
-**Offline:** open a new project in the offline editor.
+**Brez povezave:** ustvari nov projekt v namiznem Scratch urejevalniku.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Če želiš prenesti in namestiti Namizni Scratch, ga lahko najdeš na [rpf.io/scratchoff](http://rpf.io/scratchoff){: target = "_ blank"}.
 
 \--- /task \---
 
-\--- task \--- Add 'rocketship' and 'Earth' sprites to your Stage.
+\--- task \--- Dodaj figuri 'rocketship' in 'Earth' na svoj oder in ju preimenuj v 'raketa' in 'Zemlja'.
 
 ![Figuri 'spaceship' in 'Earth'](images/space-sprites.png)
 
@@ -22,7 +22,7 @@ If you need to download and install the Scratch offline editor, you can find it 
 
 \--- /task \---
 
-\--- task \--- Add the 'Stars' backdrop to your Stage.
+\--- task \--- Odru dodaj ozadje 'Stars' in ga preimenuj v 'zvezde'.
 
 ![Ozadje 'stars'](images/space-backdrop.png)
 
@@ -34,13 +34,13 @@ If you need to download and install the Scratch offline editor, you can find it 
 
 \--- /task \---
 
-\--- task \--- Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+\--- task \--- Uporabi orodje **puščico**, da klikneš in potegneš pravokotnik okoli slike celotne rakete. Nato klikni na ročaj za krožno **obračanje** in zasuči sliko, dokler ni obrnjena položno.
 
 ![Vrtenje figure](images/space-rotate.png)
 
 \--- /task \---
 
-\--- task \--- Add this code to your spaceship sprite:
+\--- task \--- Figuri rakete dodaj sledečo kodo:
 
 ![Spaceship sprite](images/sprite-spaceship.png)
 
