@@ -1,49 +1,51 @@
-## Bouncing asteroid
+## Asteróide saltitante
 
-Now you will add a floating space rock to your animation.
+Agora tu poderás acrescentar uma rocha espacial flutuante à sua animação.
 
-\--- task \--- Add a 'rock' sprite to your animation.
+\--- task \--- Acrescenta um ator 'rock' à sua animação.
 
-![Adding a rock sprite](images/space-rock-sprite.png)
+![Acrescentar um ator de pedra](images/space-rock-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Can you add code for your rock sprite so that the rock bounces around the stage?
+\--- task \--- Consegues acrescentar código ao teu ator de rock para que a rocha salte pelo palco?
 
-![Testing a bouncing rock](images/space-bounce-test.png)
+![Testar uma rocha saltitante](images/space-bounce-test.png)
 
-\--- hints \--- \--- hint \--- When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
+\--- hints \--- \--- hint \--- Quando a ** bandeira verde é clicada **, o teu ator de rocha deve ** mover-se ** e ** saltar ** em redor do palco ** para sempre **. \--- /hint \--- \--- hint \--- Aqui estão os blocos de que precisas:
 
 ```blocks3
-move (10) steps
+anda (10) passos
 
-if on edge bounce
+se estiveres a bater na borda, ressalta
 
-when flag clicked
+Quando alguém clicar na bandeira verde
 
-forever
+repete para sempre
+end
 ```
 
-You can also set a more interesting starting direction for the rock sprite with one of these blocks:
+Vais também poder definir uma direção inicial mais interessante para o ator de pedra com um destes blocos:
 
 ```blocks3
-turn cw (15) degrees
+gira para a direita (15) º
 
-point towards (Earth v)
+aponta em direcção a (Earth v)
 ```
 
 \--- /hint \--- \--- hint \---
 
-Here's the code for making your rock bounce around the stage:
+Aqui está o código para fazer a tua pedra saltar pelo palco:
 
-![Rock sprite](images/sprite-rock.png)
+![Ator de rocha](images/sprite-rock.png)
 
 ```blocks3
-when flag clicked
-point towards (Earth v)
-forever
-    move (2) steps
-    if on edge, bounce
+quando alguém clicar na bandeira verde
+aponta em direcção a (Earth v)
+repete para sempre 
+  anda (2) passos
+  se estiveres a bater na borda, ressalta
+end
 ```
 
 \--- /hint \--- \--- /hints \--- \--- /task \---
