@@ -1,16 +1,16 @@
-## Floating monkey
+## Macaco flutuante
 
-Now you will add a monkey who's lost in space to your animation!
+Agora poderás adiciona um macaco perdido no espaço à tua animação!
 
-\--- task \--- Start by adding the 'monkey' sprite from the library.
+\--- task \--- Começa por adicionar o ator 'monkey' a partir da biblioteca.
 
 ![Adding a monkey sprite](images/space-monkey-sprite.png)
 
 \--- /task \---
 
-Click on your new monkey sprite and then click on **Costumes** so that you can edit how the monkey looks.
+Clica no seu novo ator de macaco e clique em ** Trajes ** para que possas editar a aparência do macaco.
 
-\--- task \--- Set the fill to be transparent by selecting the red line. For the outline, set a white colour by moving the Saturation slider to `0`.
+\--- task \--- Define o preenchimento para transparente, selecionando a linha vermelha. Para o contorno, define uma cor branca movendo o controle deslizante Saturação para ` 0 `.
 
 ![Make white colour](images/make-white.png) \--- /task \---
 
