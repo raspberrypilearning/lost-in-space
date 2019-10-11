@@ -4,7 +4,7 @@ Agora poderás adiciona um macaco perdido no espaço à tua animação!
 
 \--- task \--- Começa por adicionar o ator 'monkey' a partir da biblioteca.
 
-![Adding a monkey sprite](images/space-monkey-sprite.png)
+![Acrescentar um ator de macaco](images/space-monkey-sprite.png)
 
 \--- /task \---
 
@@ -12,11 +12,11 @@ Clica no seu novo ator de macaco e clique em ** Trajes ** para que possas editar
 
 \--- task \--- Define o preenchimento para transparente, selecionando a linha vermelha. Para o contorno, define uma cor branca movendo o controle deslizante Saturação para ` 0 `.
 
-![Make white colour](images/make-white.png) \--- /task \---
+![Fazer cor branca](images/make-white.png) \--- /task \---
 
 \--- task \--- Clica na ferramenta ** círculo ** e usa-a para desenhar um capacete de espaço em branco ao redor da cabeça do macaco.
 
-![Monkey space helmet](images/space-monkey-edit.png)
+![Capacete espacial de macaco](images/space-monkey-edit.png)
 
 \--- /task \---
 
@@ -43,7 +43,7 @@ Quando alguém clicar na bandeira verde
 
 Here's the code to make your monkey spin:
 
-![Monkey sprite](images/sprite-monkey.png)
+![Ator de macaco](images/sprite-monkey.png)
 
 ```blocks3
 quando alguém clicar na bandeira verde
@@ -56,6 +56,6 @@ end
 
 \--- /task \---
 
-Test and save your project. You'll have to click on the red **stop** button to end this animation, as it runs forever!
+Testa e salva o teu projeto. Vais ter que clicar no botão vermelho de ** stop ** para terminar esta animação, pois ela é executada para sempre!
 
-![Test the spinning monkey](images/space-spin-test.png)
+![Testa o macaco a girar](images/space-spin-test.png)
