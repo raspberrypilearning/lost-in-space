@@ -4,7 +4,7 @@ Outra maneira de animar a nave espacial é dizer-lhe para mover-se por uma peque
 
 \--- task \--- Elimina o bloco `desliza` {: class = "block3motion"} do teu código. Para fazer isso, arrasta o bloco para fora da área Código e solta-o novamente onde estão os outros blocos de código.
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Ator de nave espacial](images/sprite-spaceship.png)
 
 ```blocks3
 quando alguém clicar na bandeira verde
@@ -20,19 +20,20 @@ desliza em (1) s para a posição x: (0) y: (0)
 
 \--- task \--- Agora usa uma `repetição` {: class = "block3control"} para mover a tua nave espacial em direção à Terra?
 
-![Testing a spaceship animation](images/space-animate-stage.png)
+![Testar a animação de uma nave espacial](images/space-animate-stage.png)
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Ator de nave espacial](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
+quando alguém clicar na bandeira verde
+altera a tua direcção para (0) °
+vai para a posição x: (-150) y: (-150)
+diz [Let's go] durante (2) s
+aponta em direcção a (Earth v)
 
-+ repeat (200)
-    move (2) steps
+repete (200) vezes 
+  anda (2) passos
+end
 ```
 
 Testa e salva o teu código. A tua nave espacial deve mover-se em direção à Terra exatamente como antes, mas desta vez está a utilizar um bloco de `repetição`{:class="block3control"}.
@@ -43,7 +44,7 @@ Testa e salva o teu código. A tua nave espacial deve mover-se em direção à T
 
 Usa este bloco:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Ator de nave espacial](images/sprite-spaceship.png)
 
 ```blocks3
 quando alguém clicar na bandeira verde
@@ -59,7 +60,7 @@ end
 
 Testa e salva o teu código.
 
-![Testing a colour-changing spaceship](images/space-colour-test.png)
+![Testar uma nave espacial que muda de cor](images/space-colour-test.png)
 
 \--- /task \---
 
@@ -75,9 +76,9 @@ A tua nave espacial deve começar com ` tamanho 100% ` {: class = "blocklooks"} 
 
 \--- hint \---
 
-You will need to add these blocks to your code:
+Vais necessitar adicionar esses blocos ao teu código:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Ator de nave espacial](images/sprite-spaceship.png)
 
 ```blocks3
 adiciona (10) ao teu tamanho
@@ -89,9 +90,9 @@ altera o teu tamanho para (100) %
 
 \--- hint \---
 
-Your code should look like this:
+O teu código deverá ter este aspeto:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Ator de nave espacial](images/sprite-spaceship.png)
 
 ```blocks3
 quando alguém clicar na bandeira verde
@@ -113,6 +114,6 @@ end
 
 \--- /task \---
 
-Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
+Testa e salva o teu código. A tua nave espacial deve agora ficar mais pequena à medida que se move. Testa a tua nave espacial pela ** segunda vez **. É do tamanho certo quando começa?
 
-![Testing a shrinking spaceship](images/space-size-test.png)
+![Testar uma nave espacial que encolhe](images/space-size-test.png)
