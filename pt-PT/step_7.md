@@ -1,46 +1,48 @@
-## Shining star
+## Estrela Brilhante
 
-Now you will combine loops to make a shining star.
+Agora vais combinar ciclos para fazer uma estrela brilhante.
 
-\--- task \--- Add a 'star' sprite to your stage.
+\--- task \--- Acrescenta um ator 'rock' à sua animação.
 
 ![Adding a star sprite](images/space-star-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Can you add code to your star sprite to make the star repeatedly grow and shrink?
+\--- task \--- Consegues adicionar código ao seu ator de estrela para fazer com que a estrela cresça e encolha repetidamente?
 
 ![Testing a shining star](images/sprite-star.png)
 
-\--- hints \--- \--- hint \--- When the green **flag is clicked**, your star sprite should **change size** to get bigger a few times, and then **change size** to get smaller a few times. It should do this so that it gets bigger and then smaller **forever** and looks like it's shining light. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
+\--- hints \--- \--- hint \--- Quando ** a bandeira é clicada **, o teu ator em estrela deve ** mudar de tamanho ** aumentar algumas vezes e depois ** mudar de tamanho ** para diminuir algumas vezes. Isso deve ser feito para que fique maior e menor ** para sempre ** e pareça que está a brilhar. \--- /hint \--- \--- hint \--- Aqui estão os blocos de que precisas:
 
 ```blocks3
-repeat (10)
+repete (10) vezes
 end
 
-when flag clicked
+Quando alguém clicar na bandeira verde
 
-repeat (10)
+repete (10) vezes
 end
 
-change size by (10)
+adiciona (10) ao teu tamanho
 
-change size by (10)
+adiciona (10) ao teu tamanho
 
-forever
+repete para sempre
+end
 ```
 
-\--- /hint \--- \--- hint \--- Here's the code to make your star grow and shrink: ![Star sprite](images/sprite-star.png)
+\--- /hint \--- \--- hint \--- Aqui está o código para fazer a tua estrela crescer e encolher: ![Star sprite](images/sprite-star.png)
 
 ```blocks3
-when flag clicked
-forever
-    repeat (20)
-        change size by (2)
-    end
-    repeat (20)
-        change size by (-2)
-    end
+quando alguém clicar na bandeira verde
+repete para sempre 
+  repete (20) vezes 
+    adiciona (2) ao teu tamanho
+  end
+  repete (20) vezes 
+    adiciona (-2) ao teu tamanho
+  end
+end
 
 ```
 
