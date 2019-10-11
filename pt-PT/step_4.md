@@ -1,24 +1,24 @@
-## Animation using loops
+## Animação utilizando ciclos
 
-Another way to animate the spaceship is to tell it to move a small amount many times
+Outra maneira de animar a nave espacial é dizer-lhe para mover-se por uma pequena quantidade muitas vezes
 
-\--- task \--- Delete the `glide`{:class="block3motion"} block from your code. To do this, drag the block off the Code area and drop it back where the other single code blocks are.
+\--- task \--- Elimina o bloco `desliza` {: class = "block3motion"} do teu código. Para fazer isso, arrasta o bloco para fora da área Código e solta-o novamente onde estão os outros blocos de código.
 
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
+quando alguém clicar na bandeira verde
+altera a tua direcção para (0) °
+vai para a posição x: (-150) y: (-150)
+diz [Let's go] durante (2) s
+aponta em direcção a (Earth v)
 
-- glide (1) secs to x:(0) y:(0)
+desliza em (1) s para a posição x: (0) y: (0)
 ```
 
 \--- /task \---
 
-\--- task \--- Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
+\--- task \--- Agora usa uma `repetição` {: class = "block3control"} para mover a tua nave espacial em direção à Terra?
 
 ![Testing a spaceship animation](images/space-animate-stage.png)
 
@@ -35,41 +35,41 @@ point towards (Earth v)
     move (2) steps
 ```
 
-Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
+Testa e salva o teu código. A tua nave espacial deve mover-se em direção à Terra exatamente como antes, mas desta vez está a utilizar um bloco de `repetição`{:class="block3control"}.
 
 \--- /task \---
 
-\--- task \--- Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
+\--- task \--- De seguida, adiciona código ao teu ator da nave espacial para que a nave mude de cor à medida que se move em direção à Terra?
 
-Use this block:
+Usa este bloco:
 
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-repeat (200)
-    move (2) steps
-
-+    change [color v] effect by (25)
+quando alguém clicar na bandeira verde
+altera a tua direcção para (0) °
+vai para a posição x: (-150) y: (-150)
+diz [Let's go] durante (2) s
+aponta em direcção a (Earth v)
+repete (200) vezes 
+  anda (2) passos
+  + adiciona ao teu efeito [color v] o valor (25)
+end
 ```
 
-Test and save your code.
+Testa e salva o teu código.
 
 ![Testing a colour-changing spaceship](images/space-colour-test.png)
 
 \--- /task \---
 
-\--- task \--- Can you make your spaceship get smaller as it moves towards Earth?
+\--- task \--- Consegues fazer com que a tua nave espacial fique mais pequena à medida que se move em direção à Terra?
 
 \--- hints \---
 
 \--- hint \---
 
-Your spaceship should start at `100% size`{:class="blocklooks"}, and then `change size`{:class="blocklooks"} by a small amount each time it moves.
+A tua nave espacial deve começar com ` tamanho 100% ` {: class = "blocklooks"} e depois ` deve alterar um pouco o seu tamanho ` {: class = "blocklooks"} cada vez que se move.
 
 \--- /hint \---
 
@@ -80,9 +80,9 @@ You will need to add these blocks to your code:
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-change size by (10)
+adiciona (10) ao teu tamanho
 
-set size to (100) %
+altera o teu tamanho para (100) %
 ```
 
 \--- /hint \---
@@ -94,17 +94,17 @@ Your code should look like this:
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-set size to (100) %
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-repeat (200)
-    move (2) steps
-    change [color v] effect by (25)
-
-+   change size by (-3)
+quando alguém clicar na bandeira verde
+altera o teu tamanho para (100) %
+altera a tua direcção para (0) °
+vai para a posição x: (-150) y: (-150)
+diz [Let's go] durante (2) s
+aponta em direcção a (Earth v)
+repete (200) vezes 
+  anda (2) passos
+  adiciona ao teu efeito [color v] o valor (25)
+  + adiciona (-3) ao teu tamanho
+end
 ```
 
 \--- /hint \---
