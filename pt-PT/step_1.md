@@ -1,16 +1,16 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
+Esta é a versão **Scratch 3** do projeto. Há também uma versão [Scratch 2 do projeto](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
 
 \--- /no-print \---
 
-## Introduction
+## Introdução
 
-You are going to learn how to program your own animation!
+Vais aprender a programar o teu próprio robot falante!
 
-### What you will make
+### O que vais fazer
 
-\--- no-print \--- Click on the green flag to see the animation.
+\--- no-print\--- Clica na bandeira verde para começar.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -21,44 +21,44 @@ You are going to learn how to program your own animation!
 
 \--- print-only \---
 
-![Complete project](images/showcase_static.png)
+![Projeto concluído](images/showcase_static.png)
 
 \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: O que vais precisar
 
 ### Hardware
 
-- A computer capable of running Scratch 3
+- Um computador com capacidade para executar o Scratch 3
 
 ### Software
 
-- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (ou [online](http://rpf.io/scratchon){:target="_ blank"} ou [offline](http://rpf.io/scratchoff){:target="_ blank"})
 
 ### Downloads
 
-- None
+- Nenhum
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: What you will learn
+## title: O que vais aprender
 
-- Use a repeat loop to animate a sprite in Scratch
-- Use a forever loop to repeat an animation indefinitely
-- Understand that loops can be nested within each other
+- Usa um ciclo de repetição para animar um ator no Scratch
+- Usa um ciclo para sempre para repetir uma animação indefinidamente
+- Entende que os ciclos podem ser encaixados uns nos outros
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: Informações adicionais para educadores
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
+Se for necessário imprimir este projeto, por favor usa a [versão para impressão](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target = blank"}.
 
-You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+Podes encontrar o [projeto concluído aqui](http://rpf.io/p/en/lost-in-space-get){: target = "_ blank"}.
 
 \--- /collapse \---
