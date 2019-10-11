@@ -14,29 +14,29 @@ Clica no seu novo ator de macaco e clique em ** Trajes ** para que possas editar
 
 ![Make white colour](images/make-white.png) \--- /task \---
 
-\--- task \--- Click on the **circle** tool and then use it to draw a white space helmet around the monkey's head.
+\--- task \--- Clica na ferramenta ** círculo ** e usa-a para desenhar um capacete de espaço em branco ao redor da cabeça do macaco.
 
 ![Monkey space helmet](images/space-monkey-edit.png)
 
 \--- /task \---
 
-\--- task \--- Can you add code to your monkey sprite so that it spins slowly in a circle forever?
+\--- task \--- Consegues acrescentar código ao seu ator de macaco para que ele gire lentamente em círculo para sempre?
 
 \--- hints \--- \--- hint \---
 
-When the green **flag is clicked**, your monkey sprite should **turn** in a circle **forever**.
+Quando ** bandeira verde é clicada **, o teu ator de macaco deve ** girar ** em círculo ** para sempre **.
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+Estes são os blocos de que necessitas:
 
 ```blocks3
-forever
+repete para sempre
 end
 
-turn cw (15) degrees
+gira para a direita (15) º
 
-when flag clicked
+Quando alguém clicar na bandeira verde
 ```
 
 \--- /hint \--- \--- hint \---
@@ -46,9 +46,10 @@ Here's the code to make your monkey spin:
 ![Monkey sprite](images/sprite-monkey.png)
 
 ```blocks3
-when flag clicked
-forever
-    turn cw (1) degrees
+quando alguém clicar na bandeira verde
+repete para sempre 
+  gira para a direita (1) º
+end
 ```
 
 \--- /hint \--- \--- /hints \---
