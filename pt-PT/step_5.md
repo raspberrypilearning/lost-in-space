@@ -41,7 +41,7 @@ Quando alguém clicar na bandeira verde
 
 \--- /hint \--- \--- hint \---
 
-Here's the code to make your monkey spin:
+Aqui está o código para fazer o teu macaco girar:
 
 ![Ator de macaco](images/sprite-monkey.png)
 
