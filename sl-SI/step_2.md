@@ -14,7 +14,7 @@ Ustvari nov Scratch projekt.
 
 \--- /task \---
 
-\--- task \--- Dodaj figuri 'rocketship' in 'Earth' na svoj oder in ju preimenuj v 'raketa' in 'Zemlja'.
+\--- task \--- Dodaj figuri 'Rocketship' in 'Earth' na svoj oder in ju preimenuj v 'raketa' in 'Zemlja'.
 
 ![Figuri 'spaceship' in 'Earth'](images/space-sprites.png)
 
@@ -34,7 +34,7 @@ Ustvari nov Scratch projekt.
 
 \--- /task \---
 
-\--- task \--- Uporabi orodje **puščico**, da klikneš in potegneš pravokotnik okoli slike celotne rakete. Nato klikni na ročaj za **vrtenje** in zasuči sliko, dokler ni obrnjena položno.
+\--- task \--- Uporabi orodje **puščico**, da klikneš in potegneš pravokotnik okoli slike celotne rakete. Nato klikni na ročaj za **vrtenje** in zasuči sliko, dokler ni obrnjena postrani.
 
 ![Vrtenje figure](images/space-rotate.png)
 
