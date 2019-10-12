@@ -1,6 +1,6 @@
 ## Asteróide saltitante
 
-Agora tu poderás acrescentar uma rocha espacial flutuante à sua animação.
+Agora poderás acrescentar uma rocha espacial flutuante à tua animação.
 
 \--- task \--- Acrescenta um ator 'rock' à sua animação.
 
