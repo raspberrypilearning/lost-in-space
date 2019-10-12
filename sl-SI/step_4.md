@@ -104,7 +104,7 @@ ponovi (200) krat
   pojdi (2) korakov
   spremeni učinek [barva v] za (25)
 
-+  spremeni velikost za (-3)
++  spremeni velikost za (-0.3)
 ```
 
 \--- /hint \---
