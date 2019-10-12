@@ -57,6 +57,6 @@ Spremeni številke v blokih kode, ki si jih dodal, da bodo povsem enake kot zgor
 
 \--- /task \---
 
-Če klikneš zeleno zastavo, bi morali vesoljska ladja spregovoriti, se obrniti in nato oddrseti proti sredini odra.
+Če klikneš zeleno zastavo, bi morala vesoljska ladja spregovoriti, se obrniti in nato oddrseti proti sredini odra.
 
 ![Preizkušanje animacije vesoljske ladje](images/space-animate-stage.png)
