@@ -6,7 +6,7 @@ To je **Scratch 3** različica projekta. Obstaja tudi [Scratch 2](https://projec
 
 ## Uvod
 
-Naučil se boš, kako sprogramirati svojo lastno animacijo!
+Naučil-a se boš, kako sprogramirati svojo lastno animacijo!
 
 ### Kaj boš ustvaril?
 
@@ -45,7 +45,7 @@ Naučil se boš, kako sprogramirati svojo lastno animacijo!
 
 ## \--- collapse \---
 
-## title: Kaj se boš naučil?
+## title: Kaj se boš naučil-a?
 
 - Uporabiti ponavljajočo se zanko za animiranje figure v Scratchu
 - Uporabiti večno zanko za neskončno ponavljanje animacije
