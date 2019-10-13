@@ -1,6 +1,6 @@
 ## Kaj sledi?
 
-Preizkusi projekt [Lovilci duhov](https://projects.raspberrypi.org/en/projects/ghostbusters?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects)! V tem projektu se boš naučil, kako ustvariti igro z duhovi, ki se pojavljajo vse naokoli in jih je potrebno ujeti. Prav tako se boš naučil igri dodati časovnik in točke, tako da lahko vidiš, koliko duhov lahko ujameš.
+Preizkusi projekt [Lovilci duhov](https://projects.raspberrypi.org/en/projects/ghostbusters?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects)! V tem projektu se boš naučil-a, kako ustvariti igro z duhovi, ki se pojavljajo vse naokoli in jih je potrebno ujeti. Prav tako se boš naučil-a igri dodati časovnik in točke, tako da lahko vidiš, koliko duhov lahko ujameš.
 
 \--- no-print \---
 
