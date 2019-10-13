@@ -1,6 +1,6 @@
 ## Plavajoča opica
 
-Sedaj boš svoji animaciji dodal še opico, ki je izgubljena v vesolju!
+Sedaj svoji animaciji dodaj še opico, ki je izgubljena v vesolju!
 
 \--- task \--- Za začetek dodaj figuro 'monkey' iz knjižnice in jo preimenuj v 'opica'.
 
@@ -8,7 +8,7 @@ Sedaj boš svoji animaciji dodal še opico, ki je izgubljena v vesolju!
 
 \--- /task \---
 
-Klikni na to novo figuro opice, nato pa klikni na **Videzi**, da boš lahko spremminjal videz opice.
+Klikni na to novo figuro opice, nato pa klikni na **Videzi**, da boš lahko spreminjal-a videz opice.
 
 \--- task \--- Nastavi polnilo na prozorno, tako da izbereš rdečo črto. Za obrobo določi belo barvo s premikom drsnika za nasičenost na `0`.
 
