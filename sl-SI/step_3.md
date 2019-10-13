@@ -5,7 +5,7 @@ Ali lahko spremeniš številke v kodi animacije, tako da se:
 + Vesoljska ladja premika, dokler se ne dotakne Zemlje?
 + Vesoljska ladja počasi premika proti Zemlji?
 
-Spremeniti boš moral številke v tem bloku:
+Spremeniti bo potrebno številke v tem bloku:
 
 ![Figura rakete](images/sprite-spaceship.png)
 
