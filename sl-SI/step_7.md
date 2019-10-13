@@ -1,6 +1,6 @@
 ## Sijoča ​​zvezda
 
-Sedaj boš kombiniral zanke, da ustvariš sijočo zvezdo.
+Sedaj boš kombiniral-a zanke, da ustvariš sijočo zvezdo.
 
 \--- task \--- Na oder dodaj figuro 'star' in jo preimenuj v 'zvezda'.
 
@@ -12,7 +12,7 @@ Sedaj boš kombiniral zanke, da ustvariš sijočo zvezdo.
 
 ![Preizkušanje sijoče zvezde](images/sprite-star.png)
 
-\--- hints \--- \--- hint \--- **Ko kliknemo na zeleno zastavico**, naj tvoja zvezda **spremeni velikost**, da nekajkrat postane večja, potem pa naj **spremeni velikost**, da nekajkrat postane manjša. To večanje in manjšanje naj neprestano **ponavlja**, da bo videti, kot da sije svetlobo. \--- /hint \--- \--- hint \--- To so bloki kode, ki jih potrebuješ:
+\--- hints \--- \--- hint \--- **Ko kliknemo na zeleno zastavico**, naj tvoja zvezda **spremeni velikost**, da nekajkrat postane večja, potem pa naj **spremeni velikost**, da nekajkrat postane manjša. To večanje in manjšanje naj se neprestano **ponavlja**, da bo videti, kot da sije svetlobo. \--- /hint \--- \--- hint \--- To so bloki kode, ki jih potrebuješ:
 
 ```blocks3
 ponovi (10) krat
