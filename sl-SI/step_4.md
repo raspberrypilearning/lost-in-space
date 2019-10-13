@@ -2,7 +2,7 @@
 
 Drug način animiranja raket je, da se ji pove, da naj se velikokrat malo premakne
 
-\--- task \--- Izbriši blok `drsi`{:class="block3motion"} iz tvoje kode. V ta namen povleci block iz območja kode in ga vrszi nazaj med posamične bloke kode.
+\--- task \--- Izbriši blok `drsi`{:class="block3motion"} iz tvoje kode. V ta namen povleci block iz območja kode in ga vrzi nazaj med posamične bloke kode.
 
 ![Figura rakete](images/sprite-spaceship.png)
 
@@ -63,7 +63,7 @@ Preizkusi in shrani svoj projekt.
 
 \--- /task \---
 
-\--- task \--- Ali lahko nardiš, da bo tvoja raketa postajala manjša, ko se bo bližala Zemlji?
+\--- task \--- Ali lahko dosežeš, da bo tvoja raketa postajala manjša, ko se bo bližala Zemlji?
 
 \--- hints \---
 
@@ -75,7 +75,7 @@ Tvoja raketa bi morala na začetku imeti `100% velikost`{:class="blocklooks"}, p
 
 \--- hint \---
 
-Svoji kodi boš moral dodati te bloke:
+Tvoji kodi je potrebno dodati te bloke:
 
 ![Figura rakete](images/sprite-spaceship.png)
 
