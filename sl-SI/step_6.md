@@ -1,14 +1,14 @@
 ## Odbojni asteroid
 
-Zdaj boš v svojo animacijo dodal še potujoči skalnati asteroid.
+Zdaj boš v svojo animacijo dodal-a še potujoči skalnati asteroid.
 
-\--- task \--- Dodaj figuro 'rocks' v svojo animacijo in jo preimenuj v 'skale'.
+\--- task \--- V animacijo dodaj figuro 'rocks' in jo preimenuj v 'skale'.
 
 ![Dodajanje figure 'rock'](images/space-rock-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Ali lahko dodaš kodo figuri skal, da se bodo skale odbijale od robov odra?
+\--- task \--- Ali lahko dodaš figuri skal kodo, da se bodo skale odbijale od robov odra?
 
 ![Preizkušanje poskočnega asteroida](images/space-bounce-test.png)
 
@@ -24,7 +24,7 @@ ko kliknemo na zastavico
 ponavljaj
 ```
 
-Za figuro skal lahko določiš tudi bolj zanimivo začetno smer z uporabo enega od teh blokov:
+Za figuro skal lahko določiš tudi bolj zanimivo začetno smer, z uporabo enega od teh blokov:
 
 ```blocks3
 obrni se za (15) stopinj v desno
@@ -34,7 +34,7 @@ obrni se proti (Zemlja v)
 
 \--- /hint \--- \--- hint \---
 
-Tukaj je koda, ki poskrbi za to, da se vaše skale odbijajo sem in tja po odru:
+Tukaj je koda, ki poskrbi za to, da se tvoje skale odbijajo sem in tja po odru:
 
 ![Figura skale](images/sprite-rock.png)
 
