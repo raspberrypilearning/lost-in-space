@@ -16,7 +16,7 @@ Se for necessário descarregar e instalar o editor offline do Scratch, podes enc
 
 \--- task \--- Adiciona os atores 'rocketship' e 'Earth' ao teu palco.
 
-![Nave espacial e atores da terra](images/space-sprites.png)
+![Nave espacial e actores da terra](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
