@@ -6,7 +6,7 @@ Esta é a versão **Scratch 3** do projeto. Há também uma versão [Scratch 2 d
 
 ## Introdução
 
-Vais aprender a programar o teu próprio robot falante!
+Vais aprender a programar a tua própria animação!
 
 ### O que vais fazer
 
@@ -47,7 +47,7 @@ Vais aprender a programar o teu próprio robot falante!
 
 ## title: O que vais aprender
 
-- Usa um ciclo de repetição para animar um ator no Scratch
+- Usa um ciclo de repetição para animar um actor no Scratch
 - Usa um ciclo para sempre para repetir uma animação indefinidamente
 - Entende que os ciclos podem ser encaixados uns nos outros
 
@@ -59,6 +59,6 @@ Vais aprender a programar o teu próprio robot falante!
 
 Se for necessário imprimir este projeto, por favor usa a [versão para impressão](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target = blank"}.
 
-Podes encontrar o [projeto concluído aqui](http://rpf.io/p/en/lost-in-space-get){: target = "_ blank"}.
+Podes encontrar o [projeto concluído aqui](http://rpf.io/p/en/lost-in-space-get){:target = "_ blank"}.
 
 \--- /collapse \---
