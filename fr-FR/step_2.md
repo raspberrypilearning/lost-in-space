@@ -40,7 +40,7 @@ Si tu dois télécharger et installer l'éditeur hors ligne Scratch, tu peux le 
 
 \--- /task \---
 
-\--- task \--- Ajoute ce code à ton lutin de vaisseau spatial:
+\--- task \--- Ajoute ce code à ton sprite vaisseau spatial :
 
 ![Sprite de vaisseau spatial](images/sprite-spaceship.png)
 
