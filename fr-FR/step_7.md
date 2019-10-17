@@ -8,7 +8,7 @@ Maintenant, tu vas combiner les boucles pour faire une étoile brillante.
 
 \--- /task \---
 
-\--- task \--- Peux-tu ajouter du code à ton lutin d'étoile pour faire croître et rétrécir l'étoile indéfiniment?
+\--- task \--- Peux-tu ajouter du code à ton sprite étoile pour faire croître et rétrécir l'étoile de façon répétée?
 
 ![Tester une étoile brillante](images/sprite-star.png)
 
