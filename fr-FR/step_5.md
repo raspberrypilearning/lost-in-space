@@ -2,7 +2,7 @@
 
 Maintenant tu vas ajouter un singe perdu dans l'espace à ton animation!
 
-\--- task \--- Commence en ajoutant le lutin 'singe' de la bibliothèque.
+\--- task \--- Commence par ajouter le sprite 'singe' à partir de la bibliothèque.
 
 ![Ajout d'un sprite singe](images/space-monkey-sprite.png)
 
