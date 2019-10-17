@@ -1,4 +1,4 @@
-## Défi : fait ta propre animation
+## Défi : fais ta propre animation
 
 Arrête ton animation d'espace, enregistre-la et démarre un nouveau projet Scratch.
 
