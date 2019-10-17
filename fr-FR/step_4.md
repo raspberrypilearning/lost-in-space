@@ -2,7 +2,7 @@
 
 Une autre façon d'animer le vaisseau spatial est de lui dire d'avancer un petit peu beaucoup de fois
 
-\--- task \--- Supprime le bloc `glisser` {: class = "block3motion"} de ton code. Pour ce faire, faites glisser le bloc de la zone de code et dépose-le là où se trouvent les autres blocs de code.
+\--- task \--- Supprime le bloc `glisser` {: class = "block3motion"} de ton code. Pour ce faire, fais glisser le bloc de la zone de code et dépose-le là où se trouvent les autres blocs de code.
 
 ![Sprite de vaisseau spatial](images/sprite-spaceship.png)
 
