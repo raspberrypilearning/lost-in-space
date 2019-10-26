@@ -24,7 +24,7 @@ when flag clicked
 forever
 ```
 
-你还可以为岩石精灵上创建一个更令人感兴趣的方向，其中一个代码：
+你还可以为岩石精灵上创建一个更令人感兴趣的起始方向，其中一个代码：
 
 ```blocks3
 turn cw (15) degrees
