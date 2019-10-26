@@ -4,7 +4,7 @@
 
 \--- task \---
 
-打开一个新的Scratch项目
+创建一个新的Scratch项目
 
 **在线： **在[rpf.io/scrath-new](http://rpf.io/scratchon)打开一个新的Scratch在线项目 { target="_blank"}。
 
@@ -53,7 +53,7 @@ point towards (Earth v)
 glide (1) secs to x:(0) y:(0)
 ```
 
-修改积木中的数字，让宇宙飞船和上面显示的代码一样。
+修改程序块中的数字，让宇宙飞船和上面显示的代码一样。
 
 \--- /task \---
 
