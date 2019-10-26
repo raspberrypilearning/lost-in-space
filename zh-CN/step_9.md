@@ -1,6 +1,6 @@
 ## 接下来呢？
 
-试试[捉鬼敢死队](https://projects.raspberrypi.org/en/projects/ghostbusters?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects)项目！ 在该项目中，您将学习如何创建一个带有鬼魂的游戏，这些鬼魂出现在整个地方并且您需要捕获。 您还将学习如何为游戏添加计时器和分数，以便您可以看到有多少鬼可以捕获。
+试试[捉鬼敢死队](https://projects.raspberrypi.org/en/projects/ghostbusters?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects)项目！ 在该项目中，您将学习如何创建一个鬼的游戏，这些鬼出现在整个地方并且需要您捕获。 您还将学习如何为游戏添加计时器和分数，以便您可以看到有多少鬼可以捕获。
 
 --无打印--
 
