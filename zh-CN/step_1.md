@@ -1,4 +1,4 @@
---无打印--
+\--- no-print \---
 
 这个项目是基于**Scratch 3**版本的，另外还有一个基于[Scratch 2的版本](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2)。
 
@@ -6,18 +6,18 @@
 
 ## 简介
 
-你将学习如何编程实现动画！
+你将学习如何通过编程实现动画！
 
 ### 你将做出什么
 
-\--- 无打印 \--- 点击绿色标志开始。
+\--- no-print \--- 点击绿色标志开始。
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
   <img src="images/space-final.png">
 </div>
 
-\--- /no-prnt \---
+\--- /no-print \---
 
 \--- print-only \---
 
