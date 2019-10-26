@@ -29,6 +29,8 @@
 
 --- /task ---
 
+--- task ---
+
 点击飞船角色，然后点击 **造型** 选项卡。
 
 ![角色造型](images/space-costume.png)
