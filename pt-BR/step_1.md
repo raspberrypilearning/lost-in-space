@@ -10,7 +10,7 @@ Você vai aprender a programar sua própria animação!
 
 ### O que você vai fazer
 
-\--- no-print \--- Click on the green flag to see the animation.
+\--- no-print \--- Clique na bandeira verde para ver a animação.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -21,7 +21,7 @@ Você vai aprender a programar sua própria animação!
 
 \--- print-only \---
 
-![Complete project](images/showcase_static.png)
+![Projeto concluído](images/showcase_static.png)
 
 \--- /print-only \---
 
@@ -39,7 +39,7 @@ Você vai aprender a programar sua própria animação!
 
 ### Downloads
 
-- None
+- Nada
 
 \--- /collapse \---
 
@@ -47,9 +47,9 @@ Você vai aprender a programar sua própria animação!
 
 ## title: O que você vai aprender
 
-- Use a repeat loop to animate a sprite in Scratch
-- Use a forever loop to repeat an animation indefinitely
-- Understand that loops can be nested within each other
+- Use um loop de repetição para animar um sprite no Scratch
+- Use um loop infinito para repetir uma animação indefinidamente
+- Entenda que os loops podem ser encaixados um dentro do outro
 
 \--- /collapse \---
 
@@ -59,6 +59,6 @@ Você vai aprender a programar sua própria animação!
 
 Se você precisar imprimir este projeto, por favor use a [versão para impressão](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
-You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+Você pode encontrar o projeto completo a seguir: [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
 \--- /collapse \---
