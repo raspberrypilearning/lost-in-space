@@ -1,10 +1,10 @@
 ## Animando usando repetições
 
-Another way to animate the spaceship is to tell it to move a small amount many times
+Outra maneira de animar a nave espacial é dizer para ela se mover uma pequena distância várias vezes
 
-\--- task \--- Delete the `glide`{:class="block3motion"} block from your code. To do this, drag the block off the Code area and drop it back where the other single code blocks are.
+\--- task \--- Elimine o bloco `planar` {: class = "block3motion"} do teu código. Para fazer isso, arrasta o bloco para fora da área Código e solta-o novamente onde estão os outros blocos de código.
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Sprite da nave espacial](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -22,7 +22,7 @@ point towards (Earth v)
 
 ![Testing a spaceship animation](images/space-animate-stage.png)
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Sprite da nave espacial](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -43,7 +43,7 @@ Test and save your code. Your spaceship should move towards the Earth exactly as
 
 Use this block:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Sprite da nave espacial](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -77,7 +77,7 @@ Your spaceship should start at `100% size`{:class="blocklooks"}, and then `chang
 
 You will need to add these blocks to your code:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Sprite da nave espacial](images/sprite-spaceship.png)
 
 ```blocks3
 change size by (10)
@@ -91,7 +91,7 @@ set size to (100) %
 
 Seu código deve ficar assim:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Sprite da nave espacial](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
