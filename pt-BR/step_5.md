@@ -1,60 +1,60 @@
 ## Macaco flutuante
 
-Now you will add a monkey who's lost in space to your animation!
+Agora você vai adicionar um macaco perdido no espaço na sua animação!
 
-\--- task \--- Start by adding the 'monkey' sprite from the library.
+\--- task \--- Comece adicionando o ator 'monkey' da biblioteca.
 
 ![Adding a monkey sprite](images/space-monkey-sprite.png)
 
 \--- /task \---
 
-Click on your new monkey sprite and then click on **Costumes** so that you can edit how the monkey looks.
+Clique no seu novo ator de macaco e depois clique em ** Trajes ** para que possas editar a aparência do macaco.
 
-\--- task \--- Set the fill to be transparent by selecting the red line. For the outline, set a white colour by moving the Saturation slider to `0`.
+\--- task \--- Defina o preenchimento para transparente, selecionando a linha vermelha. Para o contorno, defina uma cor branca movendo o controle deslizante de saturação para ` 0 `.
 
-![Make white colour](images/make-white.png) \--- /task \---
+![Fazer cor branca](images/make-white.png) \--- /task \---
 
-\--- task \--- Click on the **circle** tool and then use it to draw a white space helmet around the monkey's head.
+\--- tarefa \--- Clique no **círculo** e use-o para desenhar um capacete de espaço branco em torno da cabeça do macaco.
 
 ![Monkey space helmet](images/space-monkey-edit.png)
 
 \--- /task \---
 
-\--- task \--- Can you add code to your monkey sprite so that it spins slowly in a circle forever?
+\--- task \--- Você consegue adicionar código ao seu macaco ator para que ele gire lentamente em círculos para sempre?
 
 \--- hints \--- \--- hint \---
 
-When the green **flag is clicked**, your monkey sprite should **turn** in a circle **forever**.
+Quando ** bandeira verde é clicada **, o seu ator de macaco deve ** girar ** em círculo ** para sempre **.
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+Aqui estão os blocos de código que você precisa:
 
 ```blocks3
-forever
+repete para sempre
 end
 
-turn cw (15) degrees
+gira para a direita (15) º
 
-when flag clicked
+Quando alguém clicar na bandeira verde
 ```
 
 \--- /hint \--- \--- hint \---
 
-Here's the code to make your monkey spin:
+Aqui está o código para fazer seu macaco girar:
 
-![Monkey sprite](images/sprite-monkey.png)
+![Ator de macaco](images/sprite-monkey.png)
 
 ```blocks3
-when flag clicked
-forever
-    turn cw (1) degrees
+quando alguém clicar na bandeira verde
+repete para sempre 
+  gira para a direita (1) º
 ```
 
 \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
-Test and save your project. You'll have to click on the red **stop** button to end this animation, as it runs forever!
+Testa e salva o teu projeto. Vais ter que clicar no botão vermelho de ** stop ** para terminar esta animação, pois ela é executada para sempre!
 
-![Test the spinning monkey](images/space-spin-test.png)
+![Teste o macaco girando](images/space-spin-test.png)
