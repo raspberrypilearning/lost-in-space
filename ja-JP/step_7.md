@@ -1,46 +1,48 @@
 ## 光る星
 
-Now you will combine loops to make a shining star.
+次に、ループを組み合わせて光る星を作成します。
 
-\--- task \--- Add a 'star' sprite to your stage.
+\--- task \--- 「星」スプライトをステージに追加します。
 
 ![Adding a star sprite](images/space-star-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Can you add code to your star sprite to make the star repeatedly grow and shrink?
+\--- task \--- 星のスプライトにコードを追加して、星が大きくなったり小さくなったりを繰り返すようにできますか？
 
 ![Testing a shining star](images/sprite-star.png)
 
-\--- hints \--- \--- hint \--- **緑の旗がクリックされたとき**、星のスプライトは**大きさを変えて**何度か大きくなり、また**大きさを変えて**何度か小さくなります。 It should do this so that it gets bigger and then smaller **forever** and looks like it's shining light. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
+\--- hints \--- \--- hint \--- **緑の旗がクリックされたとき**、星のスプライトは**大きさを変えて**何度か大きくなり、また**大きさを変えて**何度か小さくなります。 これを行うと、**ずっと**大きくなり、小さくなり、そして光が輝いているように見えます。 \--- /hint \--- \--- hint \--- 必要なコードブロックは次のとおりです。
 
 ```blocks3
-repeat (10)
+(10) 回繰り返す
 end
 
-when flag clicked
+⚑ が押されたとき
 
-repeat (10)
+(10) 回繰り返す
 end
 
-change size by (10)
+大きさを (10) ずつ変える
 
-change size by (10)
+大きさを (10) ずつ変える
 
-forever
+ずっと
+end
 ```
 
-\--- /hint \--- \--- hint \--- Here's the code to make your star grow and shrink: ![Star sprite](images/sprite-star.png)
+\--- /hint \--- \--- hint \--- 星を大きくしたり小さくしたりするためのコードは次になります: ![星プライト](images/sprite-star.png)
 
 ```blocks3
-when flag clicked
-forever
-    repeat (20)
-        change size by (2)
-    end
-    repeat (20)
-        change size by (-2)
-    end
+⚑ が押されたとき
+ずっと 
+  (20) 回繰り返す 
+    大きさを (2) ずつ変える
+  end
+  (20) 回繰り返す 
+    大きさを (-2) ずつ変える
+  end
+end
 
 ```
 
