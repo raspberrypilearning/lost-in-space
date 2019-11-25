@@ -10,7 +10,7 @@ Yeni bir Scratch projesi açın.
 
 **Çevrimdışı:** Çevrimdışı düzenleyicide yeni bir proje açın.
 
-Scratch çevrimdışı düzenleyicisini indirip yüklemeniz gerekiyorsa, buna [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"} adresinden ulaşabilirsiniz.
+Scratch çevrimdışı düzenleyicisini indirip yüklemeniz gerekirse, bunu [ rpf.io/scratchoff adresinde bulabilirsiniz. ](http://rpf.io/scratchoff) {: Hedef = "_ blank"}.
 
 \--- /task \---
 
