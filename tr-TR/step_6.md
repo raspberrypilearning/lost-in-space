@@ -1,4 +1,4 @@
-## Sıçrayan asteroit
+## Zıplayan asteroit
 
 Şimdi animasyonunuza kayan bir uzay taşı ekleyeceksiniz.
 
@@ -10,7 +10,7 @@
 
 \--- task \--- Taşın sahnenin etrafında zıplayabilmesi için taş kuklanıza bir kod ekleyebilir misiniz?
 
-![Sıçrayan bir taşın test edilmesi](images/space-bounce-test.png)
+![Zıplayan bir taşın test edilmesi](images/space-bounce-test.png)
 
 \---hints\--- \---hint\--- Yeşil **bayrak tıklandığında**, taş kuklanız sahne etrafında **hareket etmeli** ve **sonsuza dek sıçramalı**. \--- / hint \--- \--- hint \--- İhtiyacınız olan kod blokları:
 
