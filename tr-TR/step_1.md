@@ -48,7 +48,7 @@ Kendi animasyonunuzu nasıl programlayacağınızı öğreneceksiniz!
 ## title: Neler öğreneceksiniz
 
 - Bir kuklayı canlandırmak için tekrar eden döngü kullanma
-- Use a forever loop to repeat an animation indefinitely
+- Bir animasyonu süresiz olarak tekrar ettirmek için sonsuz döngü kullanımı
 - Döngülerin iç içe geçebileceğini anlama
 
 \--- /collapse \---
