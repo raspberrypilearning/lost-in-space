@@ -1,10 +1,10 @@
 ## Анімація космічного корабля
 
-Your first step will be to create a spaceship that flies towards the Earth!
+Твоїм першим кроком буде створення космічного корабля, що летить до Землі!
 
 \--- task \---
 
-Open a new Scratch project.
+Відкрий новий проєкт Scratch.
 
 **Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
 
