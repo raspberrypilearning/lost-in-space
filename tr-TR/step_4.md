@@ -69,7 +69,7 @@ Kodunuzu test edin ve kaydedin.
 
 \---hint\---
 
-Uzay geminiz `%100 boyutta`{:class="blocklooks"} başlayıp daha sonra her hareket ettiğinde birazcık `boyutunu değiştirmeli`.
+Uzay geminiz `%100 boyutta`{:class="blocklooks"} başlayıp daha sonra her hareket ettiğinde birazcık `boyutunu değiştirmeli`{:class="blocklooks"}.
 
 \--- /hint \---
 
@@ -109,7 +109,7 @@ repeat (200)
 
 \--- /hint \---
 
-\--- /hint \---
+\--- /hints \---
 
 \--- /task \---
 
