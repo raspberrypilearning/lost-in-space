@@ -2,6 +2,6 @@
 
 Pare a sua animação espacial, salve-a e inicie um novo projeto do Scratch.
 
-Use what you've learned in this project to make your own animation. It can be anything you like, but try to make your animation match the background you choose. Here are some examples:
+Use o que você aprendeu neste projeto para fazer sua própria animação. Pode ser qualquer coisa que você quiser, mas tente fazer a sua animação usando os recursos que você aprendeu. Aqui estão alguns exemplos:
 
 ![screenshot](images/space-egs.png)
