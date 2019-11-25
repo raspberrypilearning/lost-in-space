@@ -1,110 +1,110 @@
 ## 繰り返し (くりかえし) を使ったアニメーション
 
-Another way to animate the spaceship is to tell it to move a small amount many times
+宇宙船をアニメーション化するもう1つの方法は、少量の移動を何回も繰り返すことです。
 
-\--- task \--- Delete the `glide`{:class="block3motion"} block from your code. To do this, drag the block off the Code area and drop it back where the other single code blocks are.
+\--- task \--- `動かす` {:class="block3motion"}ブロックをコードから削除します。これを行うには、コード領域からブロックをドラッグしてはずし、他の単一コードブロックがある場所にドロップします。
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![宇宙船のスプライト](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
+⚑ が押されたとき
+(0) 度に向ける
+x座標を (-150) 、y座標を (-150) にする
+[レッツゴー] と (2) 秒言う
+(地球 v) へ向ける
 
-- glide (1) secs to x:(0) y:(0)
+- (1) 秒でx座標を (0) に、y座標を (0) に変える
 ```
 
 \--- /task \---
 
-\--- task \--- Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
+\--- task \--- ここで、`繰り返し` {:class="block3control"}ブロックを使用して、宇宙船地は球に向けて移動しますか？
 
 ![Testing a spaceship animation](images/space-animate-stage.png)
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![宇宙船のスプライト](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
+⚑ が押されたとき
+(0) 度に向ける
+x座標を (-150) 、y座標を (-150) にする
+[レッツゴー] と (2) 秒言う
+(地球 v) へ向ける
 
-+ repeat (200)
-    move (2) steps
++ (200) 回繰り返す 
+  (2) 歩動かす
 ```
 
-Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
+コードをテストして保存します。宇宙船は以前とまったく同じように地球に向かって移動するはずですが、今回は`繰り返し` {:class="block3control"}ブロックを使用します。
 
 \--- /task \---
 
-\--- task \--- Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
+\--- task \--- 次に、宇宙船のスプライトにコードを追加して、宇宙船が地球に向かって移動すると色が変わるようにしますか？
 
-Use this block:
+このブロックを使用します:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![宇宙船のスプライト](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-repeat (200)
-    move (2) steps
+⚑ が押されたとき
+(0) 度に向ける
+x座標を (-150) 、y座標を (-150) にする
+[レッツゴー] と (2) 秒言う
+(地球 v) へ向ける
+(200) 回繰り返す 
+  (2) 歩動かす
 
-+    change [color v] effect by (25)
++  [色 v] の効果を (25) ずつ変える
 ```
 
-Test and save your code.
+コードをテストして保存します。
 
-![Testing a colour-changing spaceship](images/space-colour-test.png)
+![色の変わる宇宙船のテスト](images/space-colour-test.png)
 
 \--- /task \---
 
-\--- task \--- Can you make your spaceship get smaller as it moves towards Earth?
+\--- task \--- 宇宙船が地球に向かって移動するにつれて、宇宙船を小さくすることができますか？
 
 \--- hints \---
 
 \--- hint \---
 
-Your spaceship should start at `100% size`{:class="blocklooks"}, and then `change size`{:class="blocklooks"} by a small amount each time it moves.
+宇宙船は` 100％のサイズ` {:class="blocklooks"}で開始し、`サイズの変更`{:class="blocklooks"}を少しずつ移動するたびに行います。
 
 \--- /hint \---
 
 \--- hint \---
 
-You will need to add these blocks to your code:
+これらのブロックをコードに追加する必要があります。
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![宇宙船のスプライト](images/sprite-spaceship.png)
 
 ```blocks3
-change size by (10)
+大きさを (10) ずつ変える
 
-set size to (100) %
+大きさを (100) %にする
 ```
 
 \--- /hint \---
 
 \--- hint \---
 
-Your code should look like this:
+コードは次のようになります:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![宇宙船のスプライト](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-set size to (100) %
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-repeat (200)
-    move (2) steps
-    change [color v] effect by (25)
+⚑ が押されたとき
+大きさを (100) %にする
+(0) 度に向ける
+x座標を (-150) 、y座標を (-150) にする
+[レッツゴー] と (2) 秒言う
+(地球 v) へ向ける
+(200) 回繰り返す 
+  (2) 歩動かす
+  [色 v] の効果を (25) ずつ変える
 
-+   change size by (-3)
++   大きさを (-3) ずつ変える
 ```
 
 \--- /hint \---
@@ -113,6 +113,6 @@ repeat (200)
 
 \--- /task \---
 
-Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
+コードをテストして保存します。宇宙船は移動すると小さくなります。宇宙船を**2回目のテスト**します 。起動時に適切なサイズですか？
 
-![Testing a shrinking spaceship](images/space-size-test.png)
+![縮小する宇宙船のテスト](images/space-size-test.png)
