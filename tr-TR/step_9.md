@@ -1,6 +1,6 @@
-## What next?
+## Sırada ne var?
 
-Try the [Ghostbusters](https://projects.raspberrypi.org/en/projects/ghostbusters?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) project! In that project, you will learn how to create a game with ghosts that appear all over the place and that you need to catch. You will also learn how to add a timer and a score to the game, so that you can see how many ghosts you are able to catch.
+[Hayalet Avcıları](https://projects.raspberrypi.org/en/projects/ghostbusters?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) projesini dene! Bu projede, her tarafta ortaya çıkan hayaletlerin olduğu ve bunların yakalanması gerektiği bir oyun yapmayı öğreneceksiniz. Aynı zamanda bir zamanlayıcı ve oyun skoru eklemeyi öğreneceksiniz. Böylelikle kaç hayalet yakalayabildiğinizi göreceksiniz.
 
 \--- no-print \---
 
