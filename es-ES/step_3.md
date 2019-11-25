@@ -1,16 +1,16 @@
-## Animación de una nave espacial
+## Desafío: mejora tu animación
 
-Can you change the numbers in your animation code so that:
+¿Puedes cambiar los números en tu código de la animación para que:
 
 + La nave espacial se mueva hasta que toca la Tierra?
 + La nave espacial se mueva más despacio hacia la Tierra?
 
 Deberás cambiar los números en este bloque:
 
-![Rocketship sprite](images/sprite-spaceship.png)
+![Objeto de un cohete espacial](images/sprite-spaceship.png)
 
 ```blocks3
-glide (1) secs to x:(0) y:(0)
+deslizar en (1) segs a x:(0) y:(0)
 ```
 
 [[[generic-scratch3-coordinates]]]
