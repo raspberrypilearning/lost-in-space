@@ -1,6 +1,6 @@
 \--- no-print \---
 
-Este es el ** Scratch 3 ** Versión del proyecto. También hay una versión [ Scratch 2 del proyecto. ](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
+Esta es la versión ** Scratch 3 ** del proyecto. También hay una versión [ Scratch 2 del proyecto. ](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
 
 \--- /no-print \---
 
@@ -10,7 +10,7 @@ Este es el ** Scratch 3 ** Versión del proyecto. También hay una versión [ Sc
 
 ### Lo que crearás
 
-\--- no-print \--- Click on the green flag to see the animation.
+\--- no-print \--- Haz clic en la bandera verde para ver la animación.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -21,7 +21,7 @@ Este es el ** Scratch 3 ** Versión del proyecto. También hay una versión [ Sc
 
 \--- print-only \---
 
-![Complete project](images/showcase_static.png)
+![Proyecto completo](images/showcase_static.png)
 
 \--- /print-only \---
 
@@ -31,7 +31,7 @@ Este es el ** Scratch 3 ** Versión del proyecto. También hay una versión [ Sc
 
 ### Hardware
 
-- Una computadora capaz de hacer correr Scratch 3
+- Un ordenador capaz de ejecutar Scratch 3
 
 ### Software
 
@@ -39,7 +39,7 @@ Este es el ** Scratch 3 ** Versión del proyecto. También hay una versión [ Sc
 
 ### Descargas
 
-- None
+- Ninguno
 
 \--- /collapse \---
 
@@ -47,9 +47,9 @@ Este es el ** Scratch 3 ** Versión del proyecto. También hay una versión [ Sc
 
 ## title: Lo que aprenderás
 
-- Use a repeat loop to animate a sprite in Scratch
-- Use a forever loop to repeat an animation indefinitely
-- Understand that loops can be nested within each other
+- Usar un bucle de repetición para animar un objeto en Scratch
+- Usar un bucle infinito para repetir la animación indefinidamente
+- Entender que los bucles pueden estar anidados unos dentro de otros
 
 \--- /collapse \---
 
@@ -59,6 +59,6 @@ Este es el ** Scratch 3 ** Versión del proyecto. También hay una versión [ Sc
 
 Si necesitas imprimir este proyecto, usa la [versión para imprimir](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
-You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+Puedes [encontrar el proyecto completo aquí](http://rpf.io/p/en/lost-in-space-get){:target ="_blank"}.
 
 \--- /collapse \---
