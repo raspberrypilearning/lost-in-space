@@ -1,49 +1,49 @@
 ## Asteroide viajante
 
-Now you will add a floating space rock to your animation.
+Agora você vai adicionar uma rocha no espaço flutuante à sua animação.
 
-\--- task \--- Add a 'rock' sprite to your animation.
+\--- task \--- Acrescenta um ator 'rock' à sua animação.
 
 ![Adding a rock sprite](images/space-rock-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Can you add code for your rock sprite so that the rock bounces around the stage?
+\--- task \--- Você consegue acrescentar código ao teu ator de rock para que a rocha salte pelo palco?
 
 ![Testing a bouncing rock](images/space-bounce-test.png)
 
 \--- hints \--- \--- hint \--- Quando a **bandeira verde é clicada**, o asteroide deve se **mover** e **viajar** em seu palco **para sempre**. \--- /hint \--- \--- hint \--- Aqui estão os blocos que você vai precisar:
 
 ```blocks3
-move (10) steps
+anda (10) passos
 
-if on edge bounce
+se estiver quase batendo na borda, retorna
 
-when flag clicked
+Quando alguém clicar na bandeira verde
 
-forever
+repete para sempre
 ```
 
-You can also set a more interesting starting direction for the rock sprite with one of these blocks:
+Você também pode definir uma direção inicial mais interessante para o ator da pedra com um destes blocos:
 
 ```blocks3
-turn cw (15) degrees
+gira para a direita (15) º
 
-point towards (Earth v)
+aponta em direção a (Terra v)
 ```
 
 \--- /hint \--- \--- hint \---
 
-Here's the code for making your rock bounce around the stage:
+Aqui está o código para fazer a sua pedra saltar pelo palco:
 
-![Rock sprite](images/sprite-rock.png)
+![Ator de rocha](images/sprite-rock.png)
 
 ```blocks3
-when flag clicked
-point towards (Earth v)
-forever
-    move (2) steps
-    if on edge, bounce
+quando alguém clicar na bandeira verde
+aponta em direção a (Terra v)
+repete para sempre 
+  anda (2) passos
+  se estiver quase batendo na borda, retorna
 ```
 
 \--- /hint \--- \--- /hints \--- \--- /task \---
