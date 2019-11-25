@@ -14,7 +14,7 @@ Scratchオフラインエディタをダウンロードしてインストール�
 
 \--- /task \---
 
-宇宙船と地球のスプライトをステージに追加してください。
+\--- task \--- 「宇宙船」と「地球」のスプライトをステージに追加してください。
 
 ![Spaceship and Earth sprites](images/space-sprites.png)
 
@@ -22,7 +22,7 @@ Scratchオフラインエディタをダウンロードしてインストール�
 
 \--- /task \---
 
-\--- task \--- ステージに「星」の背景を追加します。
+\--- task \--- ステージに「Stars」の背景を追加します。
 
 ![A space backdrop](images/space-backdrop.png)
 
@@ -34,7 +34,7 @@ Scratchオフラインエディタをダウンロードしてインストール�
 
 \--- /task \---
 
-\---タスク\--- **矢印を使用**して、宇宙船の画像全体を囲むように、クリックしてドラッグします。 次に、円状に**回転する**ハンドルをクリックして、画像が横になるまで回転します。
+\--- task \--- **矢印**ツール使って、宇宙船の画像全体を囲むボックスをクリックしてドラッグします。 次に、円状に**回転する**ハンドルをクリックして、画像が横になるまで回転します。
 
 ![Rotating a costume](images/space-rotate.png)
 
@@ -42,18 +42,18 @@ Scratchオフラインエディタをダウンロードしてインストール�
 
 \--- task \--- このコードを宇宙船のスプライトに追加します。
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![宇宙船のスプライト](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-glide (1) secs to x:(0) y:(0)
+⚑ が押されたとき
+(0) 度に向ける
+x座標を (-150) 、y座標を (-150) にする
+[レッツゴー！] と (2) 秒言う
+(地球 v) へ向ける
+(1) 秒でx座標を (0) に、y座標を (0) に変える
 ```
 
-Change the numbers in the code blocks you've added so that the code is exactly the same as above.
+追加したコードブロックの数字を変更して、コードが上記とまったく同じになるようにします。
 
 \--- /task \---
 
