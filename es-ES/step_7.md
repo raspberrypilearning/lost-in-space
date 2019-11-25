@@ -1,46 +1,46 @@
 ## Una estrella brillante
 
-Now you will combine loops to make a shining star.
+Ahora combinarás bucles para hacer una estrella brillante.
 
-\--- task \--- Add a 'star' sprite to your stage.
+\--- task \--- Añade un objeto 'estrella' a tu escenario.
 
 ![Agregar la figura de una estrella](images/space-star-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Can you add code to your star sprite to make the star repeatedly grow and shrink?
+\--- task \--- ¿Puedes añadir código a tu objeto de estrella para que la estrella crezca y se reduzca repetidamente?
 
 ![Probando una estrella brillante](images/sprite-star.png)
 
-\--- hints \--- \--- hint \--- Cuando **se hace clic en la bandera** verde, tu figura estrella debería **cambiar de tamaño** para hacerse más grande unas cuantas veces, y luego **cambiar de tamaño** para hacerse más pequeña unas cuantas veces. It should do this so that it gets bigger and then smaller **forever** and looks like it's shining light. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
+\--- hints \--- \--- hint \--- Cuando **se hace clic en la bandera** verde, tu figura estrella debería **cambiar de tamaño** para hacerse más grande unas cuantas veces, y luego **cambiar de tamaño** para hacerse más pequeña unas cuantas veces. Debería hacer esto para que se haga más grande y luego más pequeña **para siempre** y parezca que es una luz brillante. \--- /hint \--- \--- hint \--- Aquí están los bloques de código que necesitas:
 
 ```blocks3
-repeat (10)
-end
+repetir (10)
+fin
 
-when flag clicked
+cuando la bandera es pulsada
 
-repeat (10)
-end
+repetir (10)
+fin
 
-change size by (10)
+cambiar tamaño por (10)
 
-change size by (10)
+cambiar tamaño por (10)
 
-forever
+por siempre
 ```
 
-\--- /hint \--- \--- hint \--- Here's the code to make your star grow and shrink: ![Star sprite](images/sprite-star.png)
+\--- /hint \--- \--- hint \--- Aquí está el código para hacer crecer tu estrella y encogerla: ![Objeto de una estrella](images/sprite-star.png)
 
 ```blocks3
-when flag clicked
-forever
-    repeat (20)
-        change size by (2)
-    end
-    repeat (20)
-        change size by (-2)
-    end
+cuando la bandera es pulsada
+por siempre
+    repetir (20)
+        cambiar tamaño por (2)
+    fin
+    repetir (20)
+        cambiar tamaño por (-2)
+    fin
 
 ```
 
