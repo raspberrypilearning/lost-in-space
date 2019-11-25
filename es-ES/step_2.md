@@ -1,20 +1,20 @@
 ## Animación de una nave espacial
 
-Your first step will be to create a spaceship that flies towards the Earth!
+¡Tu primer paso será crear una nave espacial que vuela hacia la Tierra!
 
 \--- task \---
 
-Open a new Scratch project.
+Abre un nuevo proyecto en Scratch.
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
+**En línea:** abre un nuevo proyecto en [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
 
-**Offline:** open a new project in the offline editor.
+**Offline:** abre un nuevo proyecto en el editor offline.
 
 Si necesitas descargar e instalar el editor offline de Scratch, puedes encontrarlo en [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
-\--- task \--- Add 'rocketship' and 'Earth' sprites to your Stage.
+\--- task \--- Añade los objetos 'cohete espacial' y 'Tierra' a tu escenario.
 
 ![Figuras de la nave espacial y de la Tierra](images/space-sprites.png)
 
@@ -22,38 +22,38 @@ Si necesitas descargar e instalar el editor offline de Scratch, puedes encontrar
 
 \--- /task \---
 
-\--- task \--- Add the 'Stars' backdrop to your Stage.
+\--- task \--- Añade el fondo 'Estrellas' a tu escenario.
 
 ![Un fondo espacial](images/space-backdrop.png)
 
 \--- /task \---
 
-\--- task \--- Click on your spaceship sprite, and click on the **Costumes** tab.
+\--- task \--- Haz clic en el objeto de tu nave espacial y luego haz clic en la pestaña **Disfraces**.
 
 ![Disfraz de la figura](images/space-costume.png)
 
 \--- /task \---
 
-\--- task \--- Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+\--- task \--- Usa la herramienta **flecha** para hacer clic y arrastrar la caja alrededor de toda la imagen de la nave espacial. Luego haz clic en los controles circulares para ** rotar ** y rota la imagen hasta que esté de lado.
 
 ![Rotando un disfraz](images/space-rotate.png)
 
 \--- /task \---
 
-\--- task \--- Add this code to your spaceship sprite:
+\--- task \--- Añade este código al objeto de tu nave espacial:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Objeto nave espacial](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-glide (1) secs to x:(0) y:(0)
+cuando la bandera es pulsada
+apuntar en dirección (0)
+ir a x:(-150) y:(-150)
+decir [Vamos] durante (2) segundos
+apuntar hacia (Tierra v)
+deslizar en (1) segs a x:(0) y:(0)
 ```
 
-Change the numbers in the code blocks you've added so that the code is exactly the same as above.
+Cambia los números en los bloques de código que has añadido para que el código sea exactamente como el que se muestra arriba.
 
 \--- /task \---
 
