@@ -1,16 +1,16 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
+Це — версія проєкту для **Scratch 3**. Також існує [версія проєкту для Scratch 2](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
 
 \--- /no-print \---
 
-## Введення
+## Вступ
 
-Ви навчитеся програмувати власну анімацію!
+Ти навчишся програмувати власну анімацію!
 
-### Те, що вам знадобиться
+### Що ти зробиш
 
-\--- no-print \--- Click on the green flag to see the animation.
+\--- no-print \--- Натисни на зелений прапор, щоб побачити анімацію.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -21,13 +21,13 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 \--- print-only \---
 
-![Complete project](images/showcase_static.png)
+![Завершений проєкт](images/showcase_static.png)
 
 \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: Що вам знадобиться
+## title: Що тобі знадобиться
 
 ### Обладнання
 
@@ -35,30 +35,30 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 ### Програмне забезпечення
 
-- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (або [онлайн](http://rpf.io/scratchon){:target="_ blank"}, або [офлайн](http://rpf.io/scratchoff){:target="_ blank"})
 
 ### Завантаження
 
-- None
+- Нічого
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Що ви вивчите
+## title: Що ти вивчиш
 
-- Use a repeat loop to animate a sprite in Scratch
-- Use a forever loop to repeat an animation indefinitely
-- Understand that loops can be nested within each other
+- Використовувати цикл для анімації персонажа в Scratch
+- Використовувати нескінченний цикл для нескінченної анімації персонажа в Scratch
+- Побачиш, що цикли можуть бути вкладені одне в одного
 
-\---collapse\---
+\--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: Додаткова інформація для викладачів
 
-Якщо вам потрібно роздрукувати цей проект, скористайтеся [версією для друку](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_ blank"}.
+Якщо вам потрібно роздрукувати цей проєкт, будь ласка, скористайтеся [версією для друку](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
-You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+Ви можете [знайти завершений проєкт тут](http://rpf.io/p/en/lost-in-space-get){:target="_ blank"}.
 
 \--- /collapse \---
