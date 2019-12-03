@@ -2,7 +2,7 @@
 
 O altă modalitate de a anima nava spațială este să-i spuneți să se miște puțin de mai multe ori
 
-\--- Sarcina \--- Ștergeți `alunecare`{: class = "block3motion"} bloc din codul. Pentru a face acest lucru, trageți blocul din zona Cod și introduceți-l înapoi acolo unde sunt celelalte blocuri de cod unic.
+\--- Sarcina \--- Șterge acest rand de cod `alunecare`{: class = "block3motion"}. Pentru a face acest lucru, trage blocul din zona Cod și du-l înapoi acolo unde sunt celelalte blocuri.
 
 ![Sprite](images/sprite-spaceship.png)
 
@@ -35,11 +35,11 @@ point towards (Earth v)
     move (2) steps
 ```
 
-Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
+Testează și salvează: Nava ta spațială trebuie să se deplaseze spre Pământ exact ca mai înainte, dar de data aceasta utilizând un bloc `repetă`.
 
 \--- /task \---
 
-\--- task \--- Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
+\--- sarcină \--- Apoi, adauga cod la nava ta spațială, astfel încât își va schimba culoarea pe măsură ce se deplasează spre Pământ?
 
 Use this block:
 
