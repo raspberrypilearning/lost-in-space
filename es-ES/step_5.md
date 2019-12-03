@@ -35,9 +35,9 @@ Aquí están los bloques de código que necesitas:
 por siempre
 fin
 
-girar cw (15) grados
+girar a la derecha (15) grados
 
-cuando la bandera es pulsada
+al presionar bandera verde
 ```
 
 --- /hint --- --- hint ---
@@ -47,9 +47,9 @@ Aquí está el código para hacer girar a tu mono:
 ![Objeto de un mono](images/sprite-monkey.png)
 
 ```blocks3
-cuando la bandera es pulsada
+al presionar bandera verde
 por siempre
-    girar cw (1) grados
+    girar a la derecha (15) grados
 ```
 
 --- /hint ------ /hints ---

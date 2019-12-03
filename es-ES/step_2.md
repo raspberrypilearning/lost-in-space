@@ -45,7 +45,7 @@ Si necesitas descargar e instalar el editor offline de Scratch, puedes encontrar
 ![Objeto nave espacial](images/sprite-spaceship.png)
 
 ```blocks3
-cuando la bandera es pulsada
+al presionar bandera verde
 apuntar en dirección (0)
 ir a x:(-150) y:(-150)
 decir [Vamos] durante (2) segundos

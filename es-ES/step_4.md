@@ -7,12 +7,11 @@ Otra forma de animar la nave espacial es decirle que se mueva una pequeña canti
 ![Objeto de una nave espacial](images/sprite-spaceship.png)
 
 ```blocks3
-cuando la bandera es pulsada
+al presionar bandera verde
 apuntar en dirección (0)
 ir a x:(-150) y:(-150)
 decir [Vamos] durante (2) segundos
 apuntar hacia (Tierra v)
-
 - deslizar en (1) segs a x:(0) y:(0)
 ```
 
@@ -25,12 +24,11 @@ apuntar hacia (Tierra v)
 ![Objeto de una nave espacial](images/sprite-spaceship.png)
 
 ```blocks3
-cuando la bandera es pulsada
+al presionar bandera verde
 apuntar en dirección (0)
 ir a x:(-150) y:(-150)
 decir [Vamos] durante (2) segundos
 apuntar hacia (Tierra v)
-
 + repetir(200)
     mover (2) pasos
 ```
@@ -46,15 +44,14 @@ Usa este bloque:
 ![Objeto de una nave espacial](images/sprite-spaceship.png)
 
 ```blocks3
-cuando la bandera es pulsada
+al presionar bandera verde
 apuntar en dirección (0)
 ir a x:(-150) y:(-150)
 decir [Vamos] durante (2) segundos
 apuntar hacia (Tierra v)
  repetir(200)
     mover (2) pasos
-
-+    sumar a [color v] (25)
++    sumar al efecto [color v] (25)
 ```
 
 Prueba y guarda tu código.
@@ -95,7 +92,7 @@ Su código debe parecerse a esto:
 ![Objeto de una nave espacial](images/sprite-spaceship.png)
 
 ```blocks3
-cuando la bandera es pulsada
+al presionar bandera verde
 fijar tamaño al (100) %
 apuntar en dirección (0)
 ir a x:(-150) y:(-150)
@@ -103,8 +100,7 @@ decir [Vamos] durante (2) segundos
 apuntar hacia (Tierra v)
 repetir(200)
     mover (2) pasos
-    sumar a [color v] (25)
-
+    sumar al efecto [color v] (25)
 +   cambiar tamaño por (-3)
 ```
 

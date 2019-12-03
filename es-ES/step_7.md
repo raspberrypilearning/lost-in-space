@@ -21,7 +21,7 @@ Ahora combinarás bucles para hacer una estrella brillante.
 repetir (10)
 fin
 
-cuando la bandera es pulsada
+al presionar bandera verde
 
 repetir (10)
 fin
@@ -36,7 +36,7 @@ por siempre
 --- /hint --- --- hint --- Aquí está el código para hacer crecer tu estrella y encogerla: ![Objeto de una estrella](images/sprite-star.png)
 
 ```blocks3
-cuando la bandera es pulsada
+al presionar bandera verde
 por siempre
     repetir (20)
         cambiar tamaño por (2)

@@ -20,9 +20,9 @@ Ahora añadirás una roca espacial flotante a tu animación.
 ```blocks3
 mover (10) pasos
 
-si en el borde rebota
+si toca un borde, rebotar
 
-cuando la bandera es pulsada
+al presionar bandera verde
 
 por siempre
 ```
@@ -30,7 +30,7 @@ por siempre
 También puedes establecer una dirección de inicio más interesante para el objeto de una roca con uno de estos bloques:
 
 ```blocks3
-girar cw (15) grados
+girar a la derecha (15) grados
 
 apuntar hacia (Tierra v)
 ```
@@ -42,11 +42,11 @@ Aquí está el código para hacer que tu roca rebote alrededor del escenario:
 ![Objeto de una roca](images/sprite-rock.png)
 
 ```blocks3
-cuando la bandera es pulsada
+al presionar bandera verde
 apuntar hacia (Tierra v)
 por siempre
     mover (2) pasos
-    si en el borde, rebotar
+    si toca un borde, rebotar
 ```
 
 --- /hint ------ /hints --- --- /task ---
