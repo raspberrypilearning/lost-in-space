@@ -1,6 +1,6 @@
 \--- no-print \---
 
-Aceasta este versiunea **Scratch 3** a proiectului. Există , de asemenea , o [versiune Scratch 2 a proiectului](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
+Aceasta este versiunea **Scratch 3** a proiectului. Există, de asemenea, o [versiune Scratch 2 a proiectului](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
 
 \--- /no-print \---
 
@@ -10,7 +10,7 @@ Vei învăța să programezi propria animație!
 
 ### Ce trebuie să faci
 
-\--- no-print \--- Faceți clic pe steagul verde pentru a vedea animația.
+\--- no-print \--- Dă clic pe steagul verde pentru a vedea animația.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -45,11 +45,11 @@ Vei învăța să programezi propria animație!
 
 ## \--- collapse \---
 
-## titlu: Ce veți învăța
+## titlu: Ce vei învăța
 
-- Use a repeat loop to animate a sprite in Scratch
-- Use a forever loop to repeat an animation indefinitely
-- Understand that loops can be nested within each other
+- Folosește o buclă de repetare pentru a anima un sprite în Scratch
+- Folosește o buclă eternă pentru a repeta o animație la nesfârșit
+- Înțelege că buclele pot fi grupate între ele
 
 \--- /restrange \---
 
@@ -59,6 +59,6 @@ Vei învăța să programezi propria animație!
 
 Dacă aveți nevoie să tipăriți acest proiect, vă rugăm să folosiți versiunea [ imprimabilă ](https://projects.raspberrypi.org/en/projects/lost-in-space/print) {: Target = "_ blank"}.
 
-You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+Poți găsi [proiectul finalizat aici](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
 \--- /collapse \---
