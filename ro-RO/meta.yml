@@ -1,7 +1,7 @@
 ---
-title: Pierdut in spatiu
+title: Pierdut in spațiu
 hero_image: images / pierdut-in-space.png
-description: Vei învăța cum să faci propria ta animație!
+description: Învață cum să programezi propria ta animație!
 original_url: https://www.codeclubprojects.org/en-GB/scratch/lost-in-space
 listed: true
 copyedit: true
@@ -10,22 +10,22 @@ version: 4
 last_tested: 2017-11-01
 steps:
   - 
-    title: Lost in space
+    title: Introducere
   - 
-    title: Animând o navă spațială
+    title: Să animăm o navă spațială
   - 
-    title: 'Provocare: îmbunătățiți animația'
+    title: 'Provocare: îmbunătățește-ți animația'
     challenge: true
   - 
-    title: Animație folosind bucle
+    title: Animația folosind bucle
   - 
-    title: Floarea maimuță
+    title: Maimuța plutitoare
   - 
-    title: Bomba asteroidului
+    title: Asteroidul săltăreț
   - 
-    title: Stea stralucitoare
+    title: Stea strălucitoare
   - 
     title: 'Provocare: creați propria animație'
     challenge: true
   - 
-    title: What next?
+    title: Ce urmează?
