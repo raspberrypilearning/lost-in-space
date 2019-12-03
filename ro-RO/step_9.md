@@ -13,6 +13,6 @@
 
 \--- print-only \---
 
-![showcase](images/ghostbusters-static.png)
+![prezentare](images/ghostbusters-static.png)
 
 \--- /print-only \---
