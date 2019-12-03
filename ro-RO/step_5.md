@@ -4,7 +4,7 @@ Acum vei adăuga o maimuță care s-a pierdut în spațiu la animația ta!
 
 \--- task \--- Începe prin a adăuga personajul maimuță din bibliotecă.
 
-![Adăugarea unui sprite de maimuță](images/space-monkey-sprite.png)
+![Adăugarea unui personaj maimuță](images/space-monkey-sprite.png)
 
 \--- /task \---
 
@@ -12,15 +12,15 @@ Dă clic pe maimuță și apoi clic pe **Costume** astfel încât să poți edit
 
 \--- task \--- Pentru umplere selectează linia roșie iar pentru contur, setează o culoare albă mutând glisorul Saturație la `0`.
 
-![Faceți culoare albă](images/make-white.png) \--- /task \---
+![Creează culoarea albă](images/make-white.png) \--- /task \---
 
 \--- task \--- dă clic pe instrumentul **cerc** și apoi utilizează-l pentru a desena o casetă de culoare albă în jurul capului maimuței.
 
-![Monkey casca spațială](images/space-monkey-edit.png)
+![Casca spațială a maimuței](images/space-monkey-edit.png)
 
 \--- /task \---
 
-\--- task \--- Puteți adăuga un cod la sprite de maimuță, astfel încât să se rotească încet într-un cerc pentru totdeauna?
+\--- task \--- Puteți adăuga un cod la maimuță, astfel încât să se rotească încet într-un cerc pentru totdeauna?
 
 \--- Sugestii \--- \--- Indicație \---
 
@@ -28,7 +28,7 @@ Dă clic pe maimuță și apoi clic pe **Costume** astfel încât să poți edit
 
 \--- / indiciu \--- \--- indiciu \---
 
-Iată blocurile de cod de care aveți nevoie:
+Iată care sunt blocurile de care ai nevoie:
 
 ```blocks3
 pentru totdeauna
@@ -41,9 +41,9 @@ atunci când pavilion clic
 
 \--- / indiciu \--- \--- indiciu \---
 
-Iată codul pentru a-ți face spinul de maimuță:
+Iată codul pentru a face maimuța sa se rotească:
 
-![Monkey sprite](images/sprite-monkey.png)
+![Personaj maimuță](images/sprite-monkey.png)
 
 ```blocks3
 când pavilionul a dat clic pe
@@ -55,6 +55,6 @@ pentru
 
 \--- /task \---
 
-Testați și salvați proiectul. Va trebui să faceți clic pe butonul roșu **stop** pentru a pune capăt acestei animații, deoarece aceasta se execută pentru totdeauna!
+Testează și salvează proiectul. Va trebui să dai clic pe butonul roșu **stop** pentru a opri animația, deoarece aceasta rulează continuu!
 
-![Testați maimuța de filare](images/space-spin-test.png)
+![Testați maimuța care se învârte](images/space-spin-test.png)
