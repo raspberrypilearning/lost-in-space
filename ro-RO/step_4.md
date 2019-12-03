@@ -65,7 +65,7 @@ Test and save your code.
 
 \--- task \--- Can you make your spaceship get smaller as it moves towards Earth?
 
-\--- sugestii \---
+\--- hints \---
 
 \--- indiciu \---
 
