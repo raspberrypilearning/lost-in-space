@@ -1,13 +1,50 @@
-## Paso 5: Una estrella brillante
+## Una estrella brillante
 
-Combinemos los bucles para hacer una estrella brillante.
+Ahora combinarás bucles para hacer una estrella brillante.
 
-+ Agrega una figura 'star' (estrella) a tu animación.
-    
-    ![Agregar la figura de una estrella](images/space-star-sprite.png)
+--- task --- Añade un objeto 'estrella' a tu escenario.
 
-+ ¿Puedes codificar tu estrella para que crezca y se encoja repetidamente?
-    
-    ![Probando una estrella brillante](images/space-star-test.png)
+![Agregar la figura de una estrella](images/space-star-sprite.png)
 
---- hints --- --- hint --- Cuando **se hace clic en la bandera** verde, tu figura estrella debería **cambiar de tamaño** para hacerse más grande unas cuantas veces, y luego **cambiar de tamaño** para hacerse más pequeña unas cuantas veces. Debería hacer esto para que crezca y luego se encoja **para siempre**. --- /hint --- --- hint --- Aquí tienes los bloques de código que necesitarás: ![Blocks for a shining star](images/space-star-blocks.png) --- /hint --- --- hint --- Aquí tienes el código para que brille tu estrella: ![Code for a shining star](images/space-star-code.png) --- /hint --- --- /hints ---
+--- /task ---
+
+--- task --- ¿Puedes añadir código a tu objeto de estrella para que la estrella crezca y se reduzca repetidamente?
+
+![Probando una estrella brillante](images/sprite-star.png)
+
+--- hints ---
+ --- hint --- Cuando **se hace clic en la bandera** verde, tu figura estrella debería **cambiar de tamaño** para hacerse más grande unas cuantas veces, y luego **cambiar de tamaño** para hacerse más pequeña unas cuantas veces. Debería hacer esto para que se haga más grande y luego más pequeña **para siempre** y parezca que es una luz brillante.
+--- /hint ---
+ --- hint --- Aquí están los bloques de código que necesitas:
+
+```blocks3
+repetir (10)
+fin
+
+cuando la bandera es pulsada
+
+repetir (10)
+fin
+
+cambiar tamaño por (10)
+
+cambiar tamaño por (10)
+
+por siempre
+```
+
+--- /hint --- --- hint --- Aquí está el código para hacer crecer tu estrella y encogerla: ![Objeto de una estrella](images/sprite-star.png)
+
+```blocks3
+cuando la bandera es pulsada
+por siempre
+    repetir (20)
+        cambiar tamaño por (2)
+    fin
+    repetir (20)
+        cambiar tamaño por (-2)
+    fin
+
+```
+
+--- /hint ------ /hints --- --- /task ---
