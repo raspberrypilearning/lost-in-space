@@ -8,13 +8,13 @@ Acum vei adăuga o maimuță care s-a pierdut în spațiu la animația ta!
 
 \--- /task \---
 
-Faceți clic pe noul dvs. sprite maimuță și apoi faceți clic pe **Costume** astfel încât să puteți edita cum arată maimuța.
+Dă clic pe maimuță și apoi clic pe **Costume** astfel încât să poți edita cum arată maimuța.
 
-\--- task \--- Setați umplutura să fie transparentă selectând linia roșie. Pentru contur, setați o culoare albă mutând glisorul Saturație la `0`.
+\--- task \--- Pentru umplere selectează linia roșie iar pentru contur, setează o culoare albă mutând glisorul Saturație la `0`.
 
 ![Faceți culoare albă](images/make-white.png) \--- /task \---
 
-\--- task \--- Faceți clic pe instrumentul **cerc** și apoi utilizați-l pentru a desena o casetă de culoare albă în jurul capului maimuței.
+\--- task \--- dă clic pe instrumentul **cerc** și apoi utilizează-l pentru a desena o casetă de culoare albă în jurul capului maimuței.
 
 ![Monkey casca spațială](images/space-monkey-edit.png)
 
