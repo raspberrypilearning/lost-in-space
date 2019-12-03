@@ -12,20 +12,20 @@ steps:
   - 
     title: Sretan rođendan
   - 
-    title: Animating a spaceship
+    title: Animacija svemirskog broda
   - 
-    title: 'Challenge: improve your animation'
+    title: 'Izazov: poboljšaj svoju animaciju'
     challenge: true
   - 
-    title: Animation using loops
+    title: Animacija pomoću petlje
   - 
-    title: Floating monkey
+    title: Plutajući majmun
   - 
-    title: Bouncing asteroid
+    title: Odskakanje asteroida
   - 
-    title: Shining star
+    title: Blistajuća zvijezda
   - 
-    title: 'Challenge: make your own animation'
+    title: 'Izazov: napravite vlastitu animaciju'
     challenge: true
   - 
-    title: What next?
+    title: Što dalje?
