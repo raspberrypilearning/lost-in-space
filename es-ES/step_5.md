@@ -1,19 +1,61 @@
-## Paso 3: Mono flotante
+## Mono flotante
 
-¡Agreguemos un mono perdido en el espacio a tu animación!
+¡Ahora añadirás un mono que está perdido en el espacio a tu animación!
 
-+ Comienza agregando la figura 'monkey' (mono) de la biblioteca.
-    
-    ![Agregar la figura de un mono](images/space-monkey-sprite.png)
+--- task --- Comienza añadiendo el objeto 'mono' de la biblioteca.
 
-+ Si haces clic en tu nueva figura del mono y luego haces clic en **Disfraces**, puedes editar el aspecto del mono. Haz clic en la herramienta de **elipse** y dibuja un casco espacial blanco alrededor de la cabeza del mono.
-    
-    ![Casco espacial de mono](images/space-monkey-edit.png)
+![Agregar la figura de un mono](images/space-monkey-sprite.png)
 
-+ ¿Puedes agregar código a la figura de tu mono para que gire lentamente en un círculo para siempre?
-    
-    Prueba y guarda tu proyecto. Tendrás que hacer clic en el botón rojo de **parada** para finalizar esta animación, ¡ya que continúa para siempre!
-    
-    ![Bloques para un mono que gira](images/space-spin-test.png)
+--- /task ---
 
---- hints --- --- hint --- Cuando **se hace clic en la bandera** verde, la figura de tu mono debería **girar** en un círculo **para siempre**. --- /hint --- --- hint --- Aquí tienes los bloques de código que necesitarás: ![Blocks for a spinning monkey](images/space-spin-blocks.png) --- /hint --- --- hint --- Aquí tienes el código para hacer que tu mono gire: ![Code for a spinning monkey](images/space-spin-code.png) --- /hint --- --- /hints ---
+Haz clic en tu nuevo objeto de un mono y luego haz clic en **Disfraces** para que puedas editar el aspecto del mono.
+
+--- task --- Configura el relleno para que sea transparente seleccionando la línea roja. Para el contorno, configura un color blanco moviendo la barra de ajuste de saturación a `0`.
+
+![Hacer color blanco](images/make-white.png) --- /task ---
+
+--- task --- Haz clic en la herramienta **círculo** y luego úsalo para dibujar un casco espacial blanco alrededor de la cabeza del mono.
+
+![Casco espacial de mono](images/space-monkey-edit.png)
+
+--- /task ---
+
+--- task --- ¿Puedes añadir código a tu objeto de un mono para que gire lentamente en un círculo para siempre?
+
+--- hints ---
+ --- hint ---
+
+Cuando **se hace clic en la bandera** verde, tu objeto de un mono debería **girar** en un círculo **para siempre**.
+
+--- /hint --- --- hint ---
+
+Aquí están los bloques de código que necesitas:
+
+```blocks3
+por siempre
+fin
+
+girar a la derecha (15) grados
+
+al presionar bandera verde
+```
+
+--- /hint --- --- hint ---
+
+Aquí está el código para hacer girar a tu mono:
+
+![Objeto de un mono](images/sprite-monkey.png)
+
+```blocks3
+al presionar bandera verde
+por siempre
+    girar a la derecha (15) grados
+```
+
+--- /hint ------ /hints ---
+
+--- /task ---
+
+Prueba y guarda tu proyecto. Tendrás que hacer clic en el botón rojo de **parada** para finalizar esta animación, ¡ya que continúa para siempre!
+
+![Prueba el mono giratorio](images/space-spin-test.png)
