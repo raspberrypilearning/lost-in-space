@@ -1,8 +1,8 @@
-## Floarea maimuță
+## Maimuța plutitoare
 
-Acum veți adăuga o maimuță care a pierdut în spațiu animația dvs.!
+Acum vei adăuga o maimuță care s-a pierdut în spațiu la animația ta!
 
-\--- task \--- Începeți prin a adăuga sprite "maimuță" din bibliotecă.
+\--- task \--- Începe prin a adăuga personajul maimuță din bibliotecă.
 
 ![Adăugarea unui sprite de maimuță](images/space-monkey-sprite.png)
 
