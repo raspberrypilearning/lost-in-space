@@ -1,7 +1,7 @@
-## Challenge: make your own animation
+## Izazov: napravite vlastitu animaciju
 
-Stop your space animation, save it, and start a new Scratch project.
+Zaustavite svoju svemirsku animaciju, spremite je i pokrenite novi Scratch projekt.
 
-Use what you've learned in this project to make your own animation. It can be anything you like, but try to make your animation match the background you choose. Here are some examples:
+Pomoću onoga što ste naučili u ovom projektu napravite svoju vlastitu animaciju. To može biti sve što želite, ali pokušajte prilagoditi svoju animaciju pozadini koju odaberete. Evo nekoliko primjera:
 
 ![screenshot](images/space-egs.png)
