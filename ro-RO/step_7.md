@@ -2,9 +2,9 @@
 
 Acum veți combina buclele pentru a crea o stea strălucitoare.
 
-\--- sarcina \--- Adăugați un sprite "star" la scenă.
+\--- task \--- Adaugă o stea strălucitoare la animație.
 
-![Adăugarea unui sprite stele](images/space-star-sprite.png)
+![Adăugarea unei stele](images/space-star-sprite.png)
 
 \--- /task \---
 
@@ -30,7 +30,7 @@ schimbati marimea cu (10)
 pentru totdeauna
 ```
 
-\--- / indiciu \--- \--- indiciu \--- Iată codul pentru a face ca steaua să crească și să se micșoreze: ![Star sprite](images/sprite-star.png)
+\--- / indiciu \--- \--- indiciu \--- Iată codul pentru a face ca steaua să crească și să se micșoreze: ![Personajul stea](images/sprite-star.png)
 
 ```blocks3
 când pavilionul a făcut clic
