@@ -1,8 +1,8 @@
 ## Animație folosind bucle
 
-O altă modalitate de a anima nava spațială este să-i spuneți să se miște puțin de mai multe ori
+O altă modalitate de a anima nava spațială este să-i spui să se miște puțin de mai multe ori
 
-\--- Sarcina \--- Șterge acest rand de cod `alunecare`{: class = "block3motion"}. Pentru a face acest lucru, trage blocul din zona Cod și du-l înapoi acolo unde sunt celelalte blocuri.
+\--- Sarcina \--- Șterge acest rând de cod `alunecare`{: class = "block3motion"}. Pentru a face acest lucru, trage blocul din zona Cod și du-l înapoi acolo unde sunt celelalte blocuri.
 
 ![Personajul nava spațială](images/sprite-spaceship.png)
 
