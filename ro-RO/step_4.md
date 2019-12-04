@@ -77,7 +77,7 @@ Your spaceship should start at `100% size`{:class="blocklooks"}, and then `chang
 
 Trebuie să adaugi aceste blocuri la codul tău:
 
-![Personaj](images/sprite-spaceship.png)
+![Personajul nava spațială](images/sprite-spaceship.png)
 
 ```blocks3
 change size by (10)
