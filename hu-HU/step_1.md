@@ -6,9 +6,9 @@ Ez, a projekt **Scratch 3**-as verziója. Van [Scratch 2-es változata is](https
 
 ## Bevezetés
 
-Megtanulod, hogyan készítsd el a saját animációdat!
+Megtanulhatod, hogyan programozhatsz saját animációt!
 
-### Mit fogsz elkészíteni
+### Ezt fogod elkészíteni
 
 \--- no-print \--- Kattints a zöld zászlóra az animáció megtekintéséhez.
 
@@ -27,7 +27,7 @@ Megtanulod, hogyan készítsd el a saját animációdat!
 
 ## \--- collapse \---
 
-## title: Mire lesz szükséged
+## title: Mire lesz szükséged?
 
 ### Hardver
 
@@ -45,11 +45,11 @@ Megtanulod, hogyan készítsd el a saját animációdat!
 
 ## \--- collapse \---
 
-## title: Miről fogsz tanulni
+## title: Ezt fogod megtanulni
 
-- Hogyan animálj egy szereplőt ismétlődés használatával a Scratch-ben
+- Használj ismétlődést egy szereplő animálásához a Scratch-ben
 - Use a forever loop to repeat an animation indefinitely
-- Megértheted hogyan ágyazhatóak egymásba az ismétlődések
+- Megértheted, hogyan ágyazhatóak egymásba az ismétlődések
 
 \--- /collapse \---
 
