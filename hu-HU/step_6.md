@@ -12,7 +12,7 @@ Következő lépésként adj hozzá egy lebegő aszteroidát az animációdhoz.
 
 ![Egy pattogó szikla tesztelése](images/space-bounce-test.png)
 
-\--- hints \--- \--- hint \--- Amikor a zöld **zászló kattintasz**, a szikla szereplőnek **mozognia** és **ugrálnia** kellene a játéktér körül **folyamatosan**. \--- /hint \--- \--- hint \--- Íme a szükséges kódblokkok:
+\--- hints \--- \--- hint \--- Amikor a zöld **zászlóra kattintasz**, a szikla szereplőnek **mozognia** és **pattognia** kell a játéktér körül **folyamatosan**. \--- /hint \--- \--- hint \--- Íme a szükséges kódblokkok:
 
 ```blocks3
 menj (10) lépést
@@ -36,7 +36,7 @@ nézz (Earth v) felé
 
 Itt van a kód, amellyel a szikla a játéktérben ugrál:
 
-![Rock sprite](images/sprite-rock.png)
+![Szikla szereplő](images/sprite-rock.png)
 
 ```blocks3
 ⚑ -ra kattintáskor
