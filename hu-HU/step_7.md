@@ -12,7 +12,7 @@ Most ismétlődéseket fogsz kombinálni, hogy egy ragyogó csillagot készíts.
 
 ![Ragyogó csillag tesztelése](images/sprite-star.png)
 
-\--- hints \--- \--- hint \--- Amikor a zöld **zászlóra kattintasz**, a csillag szereplő **méretének változnia kell**, hogy megnövekedjen párszor, majd a **méretének változnia kell**, hogy zsugorodjon párszor. Így **mindig** nagyobb, majd kisebb lesz és ezért úgy néz ki, mintha egy ragyogó fény lenne. \--- /hint \--- \--- hint \--- Íme a szükséges kódblokkok:
+\--- hints \--- \--- hint \--- Amikor a zöld **zászlóra kattintasz**, a csillag szereplő **méretének változnia kell**, hogy megnövekedjen párszor, majd a **méretének változnia kell**, hogy zsugorodjon párszor. Így **folyamatosan** nagyobbá, majd kisebbé kell változnia, és ezért úgy kinéznie, mintha egy ragyogó fény lenne. \--- /hint \--- \--- hint \--- Íme a szükséges kódblokkok:
 
 ```blocks3
 ismételd (10)
