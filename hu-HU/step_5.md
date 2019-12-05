@@ -12,7 +12,7 @@ Kattints az új majom szereplőre, majd a **Jelmezekre**, hogy megváltoztasd a 
 
 \--- task \--- Állítsd a kitöltést átlátszóvá a piros vonal kiválasztásával. A körvonalhoz állíts be egy fehér színt a Telítettség csúszka `0`-ra húzásával.
 
-![Készíts fehér színt](images / make-white.png) \--- /task \---
+![Készíts fehér színt](images/make-white.png) \--- /task \---
 
 \--- task \--- Kattints a **kör** eszközre, majd rajzolj egy fehér űrsisakot a majom feje köré.
 
@@ -20,7 +20,7 @@ Kattints az új majom szereplőre, majd a **Jelmezekre**, hogy megváltoztasd a 
 
 \--- /task \---
 
-\--- task \--- Hozzá tudod adni a kódhoz a majom szereplőt, hogy lassan, folyamatosan körbe forduljon?
+\--- task \--- Hozzá tudsz adni kódot a majom szereplőhöz, hogy az lassan, folyamatosan körbe forogjon?
 
 \--- hints \--- \--- hint \---
 
