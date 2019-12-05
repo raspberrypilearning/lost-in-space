@@ -1,6 +1,6 @@
 ## Animáció ismétlések használatával
 
-Egy másik módja az űrhajó animálásának az, hogy megadod, hogy sokszor, de kicsi távolságot mozogjon
+Úgy is animálhatod az űrhajót, hogy megadod, hogy sokszor, de kicsi távolságot mozogjon
 
 \--- task \--- Töröld a kódból az `csússz`{:class = "block3motion"} blokkot. Ehhez húzd le a blokkot a Kód területről, és húzd vissza oda, ahol a többi egyedi kódblokk van.
 
