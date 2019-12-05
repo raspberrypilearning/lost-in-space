@@ -10,7 +10,7 @@ Most hozzá fogsz adni az animációdhoz egy majomot, aki elveszett az űrben!
 
 Kattints az új majom szereplőre, majd a **Jelmezekre**, hogy megváltoztasd a majom kinézetét.
 
-\--- task \--- Állítsd a kitöltést átlátszóvá a piros vonal kiválasztásával. A körvonalhoz állíts be egy fehér színt és a Telítettség csúszkát húzd le `0`-ra.
+\--- task \--- Állítsd a kitöltést átlátszóvá a piros vonal kiválasztásával. A körvonalhoz állíts be egy fehér színt a Telítettség csúszka `0`-ra húzásával.
 
 ![Készíts fehér színt](images / make-white.png) \--- /task \---
 
