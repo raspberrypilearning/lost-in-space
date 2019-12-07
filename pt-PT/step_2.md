@@ -22,7 +22,7 @@ Se for necessário descarregar e instalar o editor offline do Scratch, podes enc
 
 \--- /task \---
 
-\--- task \--- Adiciona o pano de fundo 'Estrelas' ao seu palco.
+\--- task \--- Adiciona o pano de fundo 'Stars' ao teu palco.
 
 ![Um cenário de espaço](images/space-backdrop.png)
 
@@ -30,7 +30,7 @@ Se for necessário descarregar e instalar o editor offline do Scratch, podes enc
 
 \--- task \--- Clica no teu ator nave espacial, e clica na aba ** Trajes **.
 
-![Traje de ator](images/space-costume.png)
+![Traje de actor](images/space-costume.png)
 
 \--- /task \---
 
