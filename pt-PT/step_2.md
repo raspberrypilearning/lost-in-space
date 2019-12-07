@@ -34,7 +34,7 @@ Se for necessário descarregar e instalar o editor offline do Scratch, podes enc
 
 \--- /task \---
 
-\--- task \--- Usa a ferramenta **seta** para clicar e arrastar uma caixa em redor de toda a imagem da nave espacial. De seguida, clica na **rotação** circular para manusear e girar a imagem até esta ficar de lado.
+\--- task \--- Usa a ferramenta **seta** para clicar e arrastar uma caixa em redor de toda a imagem da nave espacial. De seguida, clica na pega de **rotação** circular para manusear e girar a imagem até esta ficar de lado.
 
 ![Girar um traje](images/space-rotate.png)
 
@@ -42,7 +42,7 @@ Se for necessário descarregar e instalar o editor offline do Scratch, podes enc
 
 \--- task \--- Adiciona este código ao teu actor botão:
 
-![Ator de nave espacial](images/sprite-spaceship.png)
+![Actor de nave espacial](images/sprite-spaceship.png)
 
 ```blocks3
 quando alguém clicar na bandeira verde
