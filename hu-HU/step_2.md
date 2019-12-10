@@ -47,7 +47,7 @@ Ha le szeretnéd tölteni és telepíteni a Scratch offline szerkesztőt, akkor 
 ```blocks3
 ⚑-ra kattintáskor
 nézz (0) fokos irányba
-menj ide: x: (-150) y: (-150)
+ugorj ide: x: (-150) y: (-150)
 mondd: [Indulás] (2) másodpercig
 nézz (Earth) felé
 csússz (1) mp-ig ide x: (0) y: (0)
