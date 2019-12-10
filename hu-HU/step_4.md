@@ -104,7 +104,7 @@ ismételd (200)
     menj (2) lépést
     [szín v] hatás változzon (25)
 
-+ méret változzon (-0.3)
++ méret változzon (-3)
 ```
 
 \--- /hint \---
