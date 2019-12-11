@@ -14,13 +14,13 @@ Klik op de nieuwe aap-sprite en daarna op **Uiterlijken** om het uiterlijk van d
 
 ![Witte kleur instellen](images/make-white.png) \--- /task \---
 
-\--- task \--- Klik op het **Cirkel** gereedschap en teken er een witte ruimtehelm mee rond het hoofd van de aap.
+\--- task \--- Klik op het **Cirkel** gereedschap en gebruik dit om een witte ruimtehelm rond het hoofd van de aap te tekenen.
 
 ![Apen-ruimtehelm](images/space-monkey-edit.png)
 
 \--- /task \---
 
-\--- task \--- Kan je code toevoegen aan de aap-sprite zodat die de hele tijd langzaam ronddraait?
+\--- task \--- Kun je code aan de aap-sprite toevoegen, waardoor hij langzaam rond blijft draaien?
 
 \--- hints \--- \--- hint \---
 
