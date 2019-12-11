@@ -1,6 +1,6 @@
 ## Zwevende aap
 
-Nu zal je aan je animatie een aap toevoegen die verdwaald is in de ruimte!
+Nu voeg je aan je animatie een aap toe, die verdwaald is in de ruimte!
 
 \--- task \--- Begin met het toevoegen van de 'Monkey'-sprite uit de bibliotheek.
 
@@ -10,7 +10,7 @@ Nu zal je aan je animatie een aap toevoegen die verdwaald is in de ruimte!
 
 Klik op de nieuwe aap-sprite en daarna op **Uiterlijken** om het uiterlijk van de aap aan te passen.
 
-\--- task \--- Stel een doorzichtige vulling in door de rode lijn te selecteren. Stel een witte omtrek in door de Verzadiging naar `0` te schuiven.
+\--- task \--- Stel een doorzichtige opvulling in door de rode lijn te selecteren. Stel een witte rand in door de Verzadiging naar `0` te schuiven.
 
 ![Witte kleur instellen](images/make-white.png) \--- /task \---
 
