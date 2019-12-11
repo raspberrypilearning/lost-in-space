@@ -47,9 +47,9 @@ Je gaat leren hoe je jouw eigen animatie kunt programmeren!
 
 ## title: Wat ga je leren
 
-- Gebruik een herhaal-lus om een sprite in Scratch te animeren
+- Gebruik een herhaal-lus om een sprite in Scratch te laten bewegen
 - Gebruik een herhaal-lus om een animatie oneindig te herhalen
-- Begrijp dat lussen in elkaar kunnen worden genest
+- Begrijp dat een nieuwe lus in een voorgaande lus kan staan
 
 \--- /collapse \---
 
