@@ -16,7 +16,7 @@ Als je de Scratch offline editor wilt downloaden en installeren dan kun je die v
 
 \--- task \--- Voeg de 'Rocketship' en 'Earth' sprites toe aan je speelveld.
 
-![Rocketship en Earth sprites](images/space-sprites.png)
+![Spaceship and Earth sprites](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -24,7 +24,7 @@ Als je de Scratch offline editor wilt downloaden en installeren dan kun je die v
 
 \--- task \--- Voeg de achtergrond 'Stars' toe aan je speelveld.
 
-![Een ruimteachtergrond](images/space-backdrop.png)
+![De ruimte als achtergrond](images/space-backdrop.png)
 
 \--- /task \---
 
@@ -57,6 +57,6 @@ Wijzig de getallen in de codeblokken die je hebt toevoegd, zodat de code precies
 
 \--- /task \---
 
-Als je op de groene vlag klikt zie je het ruimteschip praten en zie je het draaien en glijden naar het midden van het speelveld.
+Als je op de groene vlag klikt zie je het ruimteschip praten, draaien en naar het midden van het speelveld zweven.
 
 ![Een ruimteschip-animatie testen](images/space-animate-stage.png)
