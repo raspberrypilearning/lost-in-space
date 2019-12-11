@@ -1,13 +1,13 @@
-## Uitdaging: je animatie verbeteren
+## Een ruimteschip animeren
 
-Kan je de getallen in je animatiecode wijzigen, zodat:
+Kun je de getallen in je animatiecode wijzigen, zodat:
 
 + Het ruimteschip beweegt totdat het de aarde raakt?
 + Het ruimteschip zich langzamer naar de aarde beweegt?
 
-Je moet de getallen in dit blok wijzigen:
+Je zult de getallen in dit blok moeten wijzigen:
 
-![Rocketship sprite](images/sprite-spaceship.png)
+![Ruimteschip sprite](images/sprite-spaceship.png)
 
 ```blocks3
 schuif in (1) sec. naar x: (0) y: (0)
