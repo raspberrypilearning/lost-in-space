@@ -1,8 +1,8 @@
 ## Animatie met lussen
 
-Een andere manier om het ruimteschip te laten bewegen is het te vertellen dat het vele kleine stapjes moet zetten
+Een andere manier om het ruimteschip te laten bewegen is door te vertellen dat het vele kleine stapjes moet zetten
 
-\--- task \--- Verwijder het `schuif`{:class="block3motion"} blok uit je code. Dit kan je doen door het blok uit het codegebied te slepen, en het terug neer te zetten in het gebied met de losse codeblokken.
+\--- task \--- Verwijder het `schuif`{:class="block3motion"} blok uit je code. Dit kun je doen door het blok uit het codegebied te slepen, om het vervolgens neer te zetten in het gebied met de losse codeblokken.
 
 ![Ruimteschip sprite](images/sprite-spaceship.png)
 
@@ -18,7 +18,7 @@ richt naar (Earth v)
 
 \--- /task \---
 
-\--- task \--- Gebruik nu een `herhaal`{:class="block3control"} blok om je ruimteschip naar de aarde te bewegen?
+\--- task \--- Gebruik nu een `herhaal`{:class="block3control"} blok om je ruimteschip naar de aarde te laten bewegen.
 
 ![Een ruimteschip-animatie testen](images/space-animate-stage.png)
 
@@ -32,14 +32,14 @@ zeg [We gaan!] (2) sec.
 richt naar (Aarde v)
 
 + herhaal (200) 
-   neem (2) stappen
+   maak (2) stappen
 ```
 
 Test en bewaar je code. Je ruimteschip zou nog steeds naar de aarde moeten bewegen, maar nu met een `herhaal`{:class="block3control"}-blok.
 
 \--- /task \---
 
-\--- task \--- Voeg vervolgens code toe aan je ruimteschip sprite, zodat het ruimteschip van kleur verandert terwijl het naar de aarde beweegt?
+\--- task \--- Voeg vervolgens code toe aan je ruimteschip sprite, zodat het ruimteschip van kleur verandert terwijl het naar de aarde beweegt.
 
 Gebruik dit blok:
 
@@ -52,7 +52,7 @@ ga naar x: (-150) y: (-150)
 zeg [We gaan!] (2) sec.
 richt naar (Aarde v)
 herhaal (200) 
-  neem (2) stappen
+ maak (2) stappen
 + verander [kleur v] -effect met (25)
 ```
 
@@ -62,7 +62,7 @@ Test en sla je code op.
 
 \--- /task \---
 
-\--- task \--- Kan je je ruimteschip kleiner maken naarmate het dichter naar de aarde toe beweegt?
+\--- task \--- Kun je het ruimteschip kleiner maken naarmate het dichter naar de aarde toe beweegt?
 
 \--- hints \---
 
