@@ -1,6 +1,6 @@
 ## Stuiterende asteroïde
 
-Nu zal je een zwevende ruimtesteen toevoegen aan je animatie.
+Nu ga je een zwevende ruimtesteen toevoegen aan je animatie.
 
 \--- task \--- Voeg de 'Rock' sprite toe aan je animatie.
 
