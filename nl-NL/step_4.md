@@ -58,7 +58,7 @@ herhaal (200)
 
 Test en sla je code op.
 
-![Testing a colour-changing spaceship](images/space-colour-test.png)
+![Een in kleur veranderend ruimteschip testen](images/space-colour-test.png)
 
 \--- /task \---
 
@@ -68,7 +68,7 @@ Test en sla je code op.
 
 \--- hint \---
 
-Je ruimteschip moet starten op `100% grootte`{:class="block3looks"}, en vervolgens `verander grootte`{:class="block3looks"} met een klein aantal wanneer het beweegt.
+Je ruimteschip moet starten op `100% grootte`{:class="block3looks"}, en vervolgens `verander grootte`{:class="block3looks"} met een klein beetje veranderen, telkens wanneer het beweegt.
 
 \--- /hint \---
 
@@ -100,7 +100,7 @@ ga naar x: (-150) y: (-150)
 zeg [We gaan!] (2) sec.
 richt naar (Aarde v)
 herhaal (200) 
-  neem (2) stappen
+  maak (2) stappen
   verander [kleur v] -effect met (25)
 + verander grootte met (-3)
 ```
@@ -113,4 +113,4 @@ herhaal (200)
 
 Test en bewaar je code. Je ruimteschip zou nu kleiner moeten worden als het beweegt. Test je ruimteschip een **tweede keer**. Heeft het de juiste grootte bij het begin?
 
-![Testing a shrinking spaceship](images/space-size-test.png)
+![Het kleiner worden van het ruimteschip testen](images/space-size-test.png)
