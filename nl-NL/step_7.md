@@ -1,4 +1,4 @@
-## Fonkelende ster
+## Flonkerende ster
 
 Nu ga je verschillende lussen combineren om een fonkelende ster te maken.
 
@@ -8,7 +8,7 @@ Nu ga je verschillende lussen combineren om een fonkelende ster te maken.
 
 \--- /task \---
 
-\--- task \--- Kun je code aan je ster-sprite toevoegen om die herhaaldelijk groter en kleiner te laten worden?
+\--- task \--- Kun je aan je ster-sprite code toevoegen om de ster afwisselend groter en kleiner te laten worden?
 
 ![Een fonkelende ster testen](images/sprite-star.png)
 
