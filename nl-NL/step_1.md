@@ -6,7 +6,7 @@ Dit is de **Scratch 3** versie van het project. Er is ook een [Scratch 2 versie 
 
 ## Inleiding
 
-Je gaat leren hoe je je eigen animatie kunt programmeren!
+Je gaat leren hoe je jouw eigen animatie kunt programmeren!
 
 ### Wat je gaat maken
 
