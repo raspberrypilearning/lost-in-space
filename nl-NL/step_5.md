@@ -4,7 +4,7 @@ Nu voeg je aan je animatie een aap toe, die verdwaald is in de ruimte!
 
 \--- task \--- Begin met het toevoegen van de 'Monkey'-sprite uit de bibliotheek.
 
-![Een aap-sprite tovoegen](images/space-monkey-sprite.png)
+![Een aap-sprite toevoegen](images/space-monkey-sprite.png)
 
 \--- /task \---
 
@@ -16,7 +16,7 @@ Klik op de nieuwe aap-sprite en daarna op **Uiterlijken** om het uiterlijk van d
 
 \--- task \--- Klik op het **Cirkel** gereedschap en gebruik dit om een witte ruimtehelm rond het hoofd van de aap te tekenen.
 
-![Apen-ruimtehelm](images/space-monkey-edit.png)
+![Ruimtehelm voor de aap](images/space-monkey-edit.png)
 
 \--- /task \---
 
@@ -24,7 +24,7 @@ Klik op de nieuwe aap-sprite en daarna op **Uiterlijken** om het uiterlijk van d
 
 \--- hints \--- \--- hint \---
 
-Wanneer de **groene vlag wordt aangeklikt** zou je aap-sprite **herhaal**delijk in een rondje moeten blijven **draai**en.
+Wanneer de **groene vlag wordt aangeklikt** zou je aap-sprite steeds weer **herhaal**de rondjes moeten blijven **draai**en.
 
 \--- /hint \--- \--- hint \---
 
@@ -32,9 +32,9 @@ Dit zijn de codeblokken die je nodig hebt:
 
 ```blocks3
 herhaal
-end
+einde
 
-draai naar rechts (15) graden 
+draai rechtsom (15) graden 
 
 wanneer op groene vlag wordt geklikt
 ```
@@ -48,13 +48,13 @@ Dit is de code om je aap te laten ronddraaien:
 ```blocks3
 wanneer groene vlag wordt aangeklikt
 herhaal 
-draai (1) graden naar rechts
+draai (1) graad rechtsom
 ```
 
 \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
-Test en bewaar je project. Je moet op de rode **stop**-knop drukken om de animatie te beëindigen, want die blijft maar doorgaan!
+Test en bewaar je project. Druk op de rode **stop**-knop om de animatie te stoppen, anders blijft hij maar doorgaan!
 
 ![Test de ronddraaiende aap](images/space-spin-test.png)
