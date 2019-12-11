@@ -12,7 +12,7 @@ Nu ga je verschillende lussen combineren om een fonkelende ster te maken.
 
 ![Een fonkelende ster testen](images/sprite-star.png)
 
-\--- hints \--- \--- hint \--- Als de **groene vlag wordt aangeklikt** kun je een paar keer met **verander grootte met** de ster groter maken en met **verander grootte met** die ook weer kleiner maken. De ster zou **herhaal**delijk groter en dan kleiner moeten worden, zodat het eruit ziet als een fonkelende ster. \--- /hint \--- \--- hint \--- Dit zijn de codeblokken die je nodig hebt:
+\--- hints \--- \--- hint \--- Als de **groene vlag wordt aangeklikt** kun je, door een paar keer op **verander grootte met** te klikken, de ster groter maken en met **verander grootte met** die ook weer kleiner maken. De ster zou **herhaal**delijk groter en dan kleiner moeten worden, zodat het eruit ziet als een flonkerende ster. \--- /hint \--- \--- hint \--- Dit zijn de codeblokken die je nodig hebt:
 
 ```blocks3
 herhaal (10) keer
@@ -30,17 +30,17 @@ verander grootte met (10)
 herhaal
 ```
 
-\--- /hint \--- \--- hint \--- Dit is de code die je nodig hebt om je ster groter en kleiner te maken: ![Ster-sprite](images/sprite-star.png)
+\--- /hint \--- \--- hint \--- Dit is de code die je nodig hebt om de ster groter en kleiner te maken: ![Ster-sprite](images/sprite-star.png)
 
 ```blocks3
 wanneer groene vlag wordt aangeklikt
 herhaal 
 herhaal (20) keer 
 verander grootte met (2)
-end
+einde
 herhaal (20) keer 
 verander grootte met (-2)
-end
+einde
 
 ```
 
