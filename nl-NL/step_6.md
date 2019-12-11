@@ -8,14 +8,14 @@ Nu ga je een zwevende ruimtesteen toevoegen aan je animatie.
 
 \--- /task \---
 
-\--- task \--- Kan je code aan je steen-sprite toevoegen zodat die het speelveld rond stuitert?
+\--- task \--- Kun je aan je steen-sprite code toevoegen, zodanig dat hij rondstuitert door het speelveld?
 
 ![Een stuiterende steen testen](images/space-bounce-test.png)
 
-\--- hints \--- \--- hint \--- Als de **groene vlag is aangeklikt** zou de rots-sprite **stappen moeten nemen** en **herhaal**delijk moeten **omkeren aan de rand** van het speelveld. \--- /hint \--- \--- hint \--- Dit zijn de codeblokken die je nodig hebt:
+\--- hints \--- \--- hint \--- Als je op de **groene vlag klikt** zou de rots-sprite **stappen moeten zetten** en **herhaal**delijk moeten **omkeren aan de rand** van het speelveld. \--- /hint \--- \--- hint \--- Dit zijn de codeblokken die je nodig hebt:
 
 ```blocks3
-neem (10) stappen
+maak (10) stappen
 
 keer om aan de rand
 
@@ -24,17 +24,17 @@ wanneer groene vlag wordt aangeklikt
 herhaal
 ```
 
-Je kunt ook een interessantere startrichting instellen voor de steen-sprite met één van deze blokken:
+Je kunt een nog boeiender startrichting van de steen-sprite instellen met één van deze blokken:
 
 ```blocks3
-draai (15) graden naar rechts
+draai (15) graden rechtsom
 
 richt naar (Earth v)
 ```
 
 \--- /hint \--- \--- hint \---
 
-Met deze code kan je je steen het speelveld rond laten stuiteren:
+Met deze code laat je de steen rondstuiteren over het speelveld:
 
 ![Steen-sprite](images/sprite-rock.png)
 
@@ -42,7 +42,7 @@ Met deze code kan je je steen het speelveld rond laten stuiteren:
 wanneer groene vlag wordt aangeklikt
 richt naar (Earth v)
 herhaal 
-neem (2) stappen
+maak (2) stappen
 keer om aan de rand
 ```
 
