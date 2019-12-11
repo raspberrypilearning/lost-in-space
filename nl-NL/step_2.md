@@ -1,6 +1,6 @@
-## Een ruimteschip animeren
+## Een ruimteschip maken
 
-Laten we beginnen met een ruimteschip te maken dat naar de aarde vliegt!
+Laten we beginnen met het maken van een ruimteschip dat naar de aarde vliegt!
 
 \--- task \---
 
@@ -28,7 +28,7 @@ Als je de Scratch offline editor wilt downloaden en installeren dan kun je die v
 
 \--- /task \---
 
-\--- task\--- Klik eerst op de sprite van je ruimteschip, en klik dan op de tab **Uiterlijken**.
+\--- task\--- Klik eerst op de sprite van je ruimteschip en klik vervolgens op de tab **Uiterlijken**.
 
 ![Sprite uiterlijk](images/space-costume.png)
 
