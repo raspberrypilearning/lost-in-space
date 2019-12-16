@@ -1,8 +1,8 @@
-\--- но-принт \---
+\--- no-print \---
 
-Ово је **сцратцх 3** верзија пројекта. Постоји и верзија пројекта [Сцратцх 2](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
+Ово је **Scratch 3** верзија пројекта. Постоји, такође, и [Scratch 2 верзија пројекта](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
 
-\--- / без штампања \---
+\--- /no-print \---
 
 ## Увод
 
@@ -10,22 +10,22 @@
 
 ### Шта ћеш направити
 
-\--- но-принт \--- Кликните на зелену заставу да бисте видели анимацију.
+\--- no-print \--- Кликни на зелену заставицу да видиш анимацију.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
   <img src="images/space-final.png">
 </div>
 
-\--- / без штампања \---
+\--- /no-print \---
 
-\--- само за испис \---
+\--- print-only \---
 
 ![Комплетан пројекат](images/showcase_static.png)
 
-\--- / само за испис \---
+\--- /print-only \---
 
-## \--- колапс \---
+## \--- collapse \---
 
 ## наслов: Шта ће вам требати
 
