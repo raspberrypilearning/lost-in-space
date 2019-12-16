@@ -6,7 +6,7 @@
 
 ## Увод
 
-Научит ћете како програмирати властиту анимацију!
+Научићеш како да програмираш сопствену анимацију!
 
 ### Шта ћеш направити
 
@@ -21,44 +21,44 @@
 
 \--- print-only \---
 
-![Комплетан пројекат](images/showcase_static.png)
+![Завршени пројекат](images/showcase_static.png)
 
 \--- /print-only \---
 
 ## \--- collapse \---
 
-## наслов: Шта ће вам требати
+## title: Шта ће ти бити потребно
 
 ### Хардвер
 
-- Рачунар способан за покретање Сцратцх 3
+- Рачунар који може да покрене Scratch 3
 
 ### Софтвер
 
-- Сцратцх 3 (или [онлине](http://rpf.io/scratchon){: таргет = "_ бланк"} или [оффлине](http://rpf.io/scratchoff){: таргет = "_ бланк"})
+- Scratch 3 ([на мрежи](http://rpf.io/scratchon){:target="_blank"} или [ван мреже](http://rpf.io/scratchoff){:target="_blank"})
 
-### Преузимања
+### Преузимање
 
 - Ниједан
 
-\--- /колапс \---
+\--- /collapse \---
 
-## \--- колапс \---
+## \--- collapse \---
 
-## титле: Шта ћете научити
+## title: Шта ћеш научити
 
 - Use a repeat loop to animate a sprite in Scratch
 - Use a forever loop to repeat an animation indefinitely
 - Understand that loops can be nested within each other
 
-\--- /колапс \---
+\--- /collapse \---
 
-## \--- колапс \---
+## \--- collapse \---
 
-## назив: Додатне информације за едукаторе
+## title: Додатне информације за наставнике
 
-Ако желите да одштампате овај пројекат, молимо користите [верзију за штампач](https://projects.raspberrypi.org/en/projects/lost-in-space/print){: таргет = "_ бланк"}.
+Уколико желите да одштампате овај пројекат, молимо Вас користите [верзију за штампање](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
-You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+Завршени пројекат можете пронаћи [овде](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
-\--- /колапс \---
+\--- /collapse \---
