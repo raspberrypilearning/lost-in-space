@@ -1,6 +1,6 @@
-## Floating monkey
+## ভাসমান বানর
 
-Now you will add a monkey who's lost in space to your animation!
+এখন আপনি আপনার অ্যানিমেশনে মহাকাশে হারিয়ে যাওয়া একটি বানর যুক্ত করবেন!
 
 \--- task \--- Start by adding the 'monkey' sprite from the library.
 
