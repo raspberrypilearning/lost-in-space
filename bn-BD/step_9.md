@@ -1,6 +1,6 @@
-## What next?
+## এরপর কি?
 
-Try the [Ghostbusters](https://projects.raspberrypi.org/en/projects/ghostbusters?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) project! In that project, you will learn how to create a game with ghosts that appear all over the place and that you need to catch. You will also learn how to add a timer and a score to the game, so that you can see how many ghosts you are able to catch.
+[Ghostbusters](https://projects.raspberrypi.org/en/projects/ghostbusters?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) প্রকল্প ব্যবহার করে দেখুন! এই প্রকল্পে আপনি কীভাবে ভূতদের সাথে একটি গেম তৈরি করতে পারবেন যা পুরো জায়গা জুড়ে দেখা যায় এবং এটি আপনাকে ধরতে হবে।. আপনি খেলায় কীভাবে একটি টাইমার এবং স্কোর যুক্ত করবেন তাও শিখবেন, যাতে আপনি দেখতে পান যে আপনি কতটা ভূতকে ধরতে সক্ষম।.
 
 \--- no-print \---
 
@@ -9,10 +9,10 @@ Try the [Ghostbusters](https://projects.raspberrypi.org/en/projects/ghostbusters
   <img src="images/ghostbusters-static.png">
 </div>
 
-\--- /no-print \---
+\--- no-print \---
 
 \--- print-only \---
 
-![showcase](images/ghostbusters-static.png)
+![প্রদর্শনী](images/ghostbusters-static.png)
 
 \--- /print-only \---
