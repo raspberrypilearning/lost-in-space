@@ -1,18 +1,18 @@
-## Bouncing asteroid
+## বাউন্সিং গ্রহাণু
 
-Now you will add a floating space rock to your animation.
+এখন আপনি আপনার অ্যানিমেশনে একটি ভাসমান স্পেস রক যুক্ত করবেন।.
 
-\--- task \--- Add a 'rock' sprite to your animation.
+\--- task \--- আপনার অ্যানিমেশনে একটি শিলা স্প্রাইট যোগ করুন।.
 
-![Adding a rock sprite](images/space-rock-sprite.png)
+![একটি বানরের স্প্রিট যুক্ত করা হচ্ছে](images/space-rock-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Can you add code for your rock sprite so that the rock bounces around the stage?
+\--- task \--- আপনি কি আপনার রক স্প্রাইটের জন্য কোড যুক্ত করতে পারেন যাতে মঞ্চের চারপাশে শিলাটি বাউন্স করে?
 
-![Testing a bouncing rock](images/space-bounce-test.png)
+![বাউন্সিং শিলা পরীক্ষা করছে](images/space-bounce-test.png)
 
-\--- hints \--- \--- hint \--- When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
+\--- hints \--- \--- hint \--- যখন সবুজ ** পতাকা ক্লিক করা হয় **, আপনার রক স্প্রিট ** সরানো ** এবং মঞ্চের চারপাশে ** চিরকাল ** ** বাউন্স ** করা উচিত।. \--- /hint \--- \--- hint \--- আপনার প্রয়োজনীয় কোডগুলি এখানে রইল:
 
 ```blocks3
 move (10) steps
@@ -24,7 +24,7 @@ when flag clicked
 forever
 ```
 
-You can also set a more interesting starting direction for the rock sprite with one of these blocks:
+আপনি এই ব্লকগুলির মধ্যে একটি দিয়ে রক স্প্রাইটের জন্য আরও আকর্ষণীয় শুরু করার দিকনির্দেশটি সেট করতে পারেন:
 
 ```blocks3
 turn cw (15) degrees
@@ -34,9 +34,9 @@ point towards (Earth v)
 
 \--- /hint \--- \--- hint \---
 
-Here's the code for making your rock bounce around the stage:
+মঞ্চটি ঘিরে আপনার রকটি বাউন্স করার কোড এখানে:
 
-![Rock sprite](images/sprite-rock.png)
+![রক স্প্রাইট](images/sprite-rock.png)
 
 ```blocks3
 when flag clicked
