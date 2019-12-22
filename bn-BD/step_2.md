@@ -34,7 +34,7 @@
 
 \--- /task \---
 
-\--- task \--- Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+\--- task \--- **arrow** ব্যবহার করে টেনে আনার সরঞ্জাম দিয়ে পুরো স্পেসশিপ চিত্রের চারপাশে একটি বক্স আনুন. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
 
 ![Rotating a costume](images/space-rotate.png)
 
