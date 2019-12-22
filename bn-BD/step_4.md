@@ -18,7 +18,7 @@ point towards (Earth v)
 
 \--- /task \---
 
-\--- task \--- Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
+\--- task \--- এখন `repeat`{:class="block3control"} ব্লক ব্যবহার করে আপনার স্পেসশিপকে পৃথিবীর দিকে নিন?
 
 ![Testing a spaceship animation](images/space-animate-stage.png)
 
@@ -35,7 +35,7 @@ point towards (Earth v)
     move (2) steps
 ```
 
-Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
+আপনার কোডটি পরীক্ষা করুন এবং সংরক্ষণ করুন। আপনার স্পেসশিপটি আগের মতো ঠিক পৃথিবীর দিকে অগ্রসর হওয়া উচিত তবে এবার এটি `repeat`{:class="block3control"} ব্লক ব্যবহার করবে।.
 
 \--- /task \---
 
