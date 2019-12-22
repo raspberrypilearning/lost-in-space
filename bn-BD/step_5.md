@@ -2,19 +2,19 @@
 
 এখন আপনি আপনার অ্যানিমেশনে মহাকাশে হারিয়ে যাওয়া একটি বানর যুক্ত করবেন!
 
-\--- task \--- Start by adding the 'monkey' sprite from the library.
+\--- task \--- লাইব্রেরী থেকে 'বানর' স্প্রিট যুক্ত করে শুরু করুন।.
 
 ![Adding a monkey sprite](images/space-monkey-sprite.png)
 
 \--- /task \---
 
-Click on your new monkey sprite and then click on **Costumes** so that you can edit how the monkey looks.
+আপনার নতুন বানরের স্প্রাইটে ক্লিক করুন এবং তারপরে **Costumes** ক্লিক করুন যাতে আপনি বানরটি দেখতে কেমন হবে তা সম্পাদনা করতে পারেন।.
 
-\--- task \--- Set the fill to be transparent by selecting the red line. For the outline, set a white colour by moving the Saturation slider to `0`.
+\--- task \--- ভরাট লাল রেখা নির্বাচন করে স্বচ্ছ হতে নির্ধারণ করুন। রূপরেখার জন্য, স্যাচুরেশন স্লাইডারটিকে `0` এ সরিয়ে একটি সাদা রঙ সেট করুন।.
 
-![Make white colour](images/make-white.png) \--- /task \---
+![Make white colour](images/make-white.png) \--- task \---
 
-\--- task \--- Click on the **circle** tool and then use it to draw a white space helmet around the monkey's head.
+\--- task \--- **circle** এ ক্লিক করুন এবং তারপরে বানরের মাথার চারপাশে একটি সাদা স্পেস হেলমেট আঁকতে এটি ব্যবহার করুন।.
 
 ![Monkey space helmet](images/space-monkey-edit.png)
 
