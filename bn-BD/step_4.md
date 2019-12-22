@@ -1,8 +1,8 @@
-## Animation using loops
+## লুপগুলি ব্যবহার করে অ্যানিমেশন করুন
 
-Another way to animate the spaceship is to tell it to move a small amount many times
+স্পেসশিপ অ্যানিমেটেড করার আরেকটি উপায় হ'ল এটিকে অল্প পরিমাণে অনেকবার স্থানান্তরিত করতে বলা
 
-\--- task \--- Delete the `glide`{:class="block3motion"} block from your code. To do this, drag the block off the Code area and drop it back where the other single code blocks are.
+\--- task \--- `glide`{:class="block3motion"} ব্লকটি আপনার কোড থেকে মুছুন। এটি করার জন্য, কোড অঞ্চলটি থেকে ব্লকটি টানুন এবং অন্যান্য সিঙ্গল কোড ব্লকগুলি যেখানে রয়েছে সেখানে রেখে দিন।.
 
 ![Spaceship sprite](images/sprite-spaceship.png)
 
