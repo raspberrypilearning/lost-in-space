@@ -4,7 +4,7 @@
 
 \--- task \--- লাইব্রেরী থেকে 'বানর' স্প্রিট যুক্ত করে শুরু করুন।.
 
-![Adding a monkey sprite](images/space-monkey-sprite.png)
+![একটি বানরের স্প্রিট যুক্ত করা হচ্ছে](images/space-monkey-sprite.png)
 
 \--- /task \---
 
@@ -12,23 +12,23 @@
 
 \--- task \--- ভরাট লাল রেখা নির্বাচন করে স্বচ্ছ হতে নির্ধারণ করুন। রূপরেখার জন্য, স্যাচুরেশন স্লাইডারটিকে `0` এ সরিয়ে একটি সাদা রঙ সেট করুন।.
 
-![Make white colour](images/make-white.png) \--- task \---
+![সাদা রঙ করুন](images/make-white.png) \--- task \---
 
 \--- task \--- **circle** এ ক্লিক করুন এবং তারপরে বানরের মাথার চারপাশে একটি সাদা স্পেস হেলমেট আঁকতে এটি ব্যবহার করুন।.
 
-![Monkey space helmet](images/space-monkey-edit.png)
+![বানরের স্পেস হেলমেট](images/space-monkey-edit.png)
 
 \--- /task \---
 
-\--- task \--- Can you add code to your monkey sprite so that it spins slowly in a circle forever?
+\--- task \--- আপনি কি আপনার বানরের স্প্রাইটে কোড যুক্ত করতে পারেন যাতে এটি চিরতরে আস্তে আস্তে স্পিন করে?
 
 \--- hints \--- \--- hint \---
 
-When the green **flag is clicked**, your monkey sprite should **turn** in a circle **forever**.
+সবুজ পতাকা ক্লিক করা হলে **flag is clicked**, আপনার বানরের স্প্রিটটি চিরকাল চক্রাকারে ঘুরবে।.
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+আপনার প্রয়োজনীয় কোডগুলি এখানে রইল:
 
 ```blocks3
 forever
@@ -41,9 +41,9 @@ when flag clicked
 
 \--- /hint \--- \--- hint \---
 
-Here's the code to make your monkey spin:
+আপনার বানরকে ঘুরিয়ে দেওয়ার কোডটি এখানে:
 
-![Monkey sprite](images/sprite-monkey.png)
+![বানরের স্প্রাইট](images/sprite-monkey.png)
 
 ```blocks3
 when flag clicked
@@ -55,6 +55,6 @@ forever
 
 \--- /task \---
 
-Test and save your project. You'll have to click on the red **stop** button to end this animation, as it runs forever!
+আপনার প্রকল্পটি পরীক্ষা করুন এবং সংরক্ষণ করুন। এই অ্যানিমেশনটি শেষ করতে আপনাকে লাল স্টপ বাটনে **stop** ক্লিক করতে হবে যেহেতু এটি চিরকাল চলবে!
 
 ![Test the spinning monkey](images/space-spin-test.png)
