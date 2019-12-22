@@ -1,7 +1,7 @@
-## Challenge: make your own animation
+## Challenge: আপনার নিজের অ্যানিমেশন তৈরি করুন
 
-Stop your space animation, save it, and start a new Scratch project.
+আপনার স্পেস অ্যানিমেশন বন্ধ করুন, এটি সংরক্ষণ করুন এবং একটি নতুন স্ক্র্যাচ প্রকল্প শুরু করুন।.
 
-Use what you've learned in this project to make your own animation. It can be anything you like, but try to make your animation match the background you choose. Here are some examples:
+আপনার নিজের অ্যানিমেশন তৈরি করতে এই প্রকল্পে আপনি যা শিখেছেন তা ব্যবহার করুন। এটি আপনার পছন্দমতো যে কোন কিছু হতে পারে তবে আপনার অ্যানিমেশনটি আপনার বাছাই করা পটভূমির সাথে মিলিয়ে দেওয়ার চেষ্টা করুন। এখানে কিছু উদাহরন:
 
 ![screenshot](images/space-egs.png)
