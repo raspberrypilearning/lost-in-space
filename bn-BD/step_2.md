@@ -24,25 +24,25 @@
 
 \--- task \--- মঞ্চে 'তারার' পরিপ্রেক্ষিত যুক্ত করো।.
 
-![A space backdrop](images/space-backdrop.png)
+![একটি স্পেস ব্যাকড্রপ](images/space-backdrop.png)
 
 \--- /task \---
 
 \--- task \--- আপনার স্পেসশিপ স্প্রাইটে ক্লিক করুন এবং **Costumes** এ ক্লিক করুন।.
 
-![Sprite costume](images/space-costume.png)
+![স্প্রাইট পোশাক](images/space-costume.png)
 
 \--- /task \---
 
 \--- task \--- **arrow** ব্যবহার করে টেনে আনার সরঞ্জাম দিয়ে পুরো স্পেসশিপ চিত্রের চারপাশে একটি বক্স আনুন. তারপরে বৃত্তাকার **rotate** এ ক্লিক করে চিত্রটি তার পাশ না হওয়া পর্যন্ত পরিচালনা করুন এবং ঘোরান।.
 
-![Rotating a costume](images/space-rotate.png)
+![একটি পোশাক ঘোরানো](images/space-rotate.png)
 
 \--- /task \---
 
 \--- task \--- আপনার মহাকাশযান স্প্রাইটে এই কোড যোগ করুন:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![স্পেসশিপ স্প্রাইট](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -59,4 +59,4 @@ glide (1) secs to x:(0) y:(0)
 
 আপনি যদি সবুজ পতাকাটিতে ক্লিক করেন তবে আপনার স্পেসশিপটি কথা বলা, ঘুরিয়ে দেওয়া এবং মঞ্চের কেন্দ্রের দিকে গ্লাইড হওয়া উচিত।.
 
-![Testing a spaceship animation](images/space-animate-stage.png)
+![একটি স্পেসশিপ অ্যানিমেশন পরীক্ষা করা](images/space-animate-stage.png)
