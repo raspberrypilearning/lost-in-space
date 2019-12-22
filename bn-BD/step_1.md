@@ -21,7 +21,7 @@
 
 \--- print-only \---
 
-![Complete project](images/showcase_static.png)
+![সমাপ্ত প্রকল্প](images/showcase_static.png)
 
 \--- /print-only \---
 
@@ -59,6 +59,6 @@
 
 আপনি যদি এই প্রজেক্টটি প্রিন্ট করতে চান তবে [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"} ব্যবহার করুন।.
 
-You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+আপনি এখানে সমাপ্ত প্রকল্প সমূহ [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"} সন্ধান করতে পারেন।.
 
-\--- /collapse \---
+-- /collapse \---
