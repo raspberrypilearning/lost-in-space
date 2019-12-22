@@ -16,7 +16,7 @@
 
 \--- task \--- মঞ্চে'rocketship' এবং 'Earth' sprites যোগ করুন.
 
-![Spaceship and Earth sprites](images/space-sprites.png)
+![স্পেসশিপ এবং আর্থ স্প্রাইট](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -34,13 +34,13 @@
 
 \--- /task \---
 
-\--- task \--- **arrow** ব্যবহার করে টেনে আনার সরঞ্জাম দিয়ে পুরো স্পেসশিপ চিত্রের চারপাশে একটি বক্স আনুন. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+\--- task \--- **arrow** ব্যবহার করে টেনে আনার সরঞ্জাম দিয়ে পুরো স্পেসশিপ চিত্রের চারপাশে একটি বক্স আনুন. তারপরে বৃত্তাকার **rotate** এ ক্লিক করে চিত্রটি তার পাশ না হওয়া পর্যন্ত পরিচালনা করুন এবং ঘোরান।.
 
 ![Rotating a costume](images/space-rotate.png)
 
 \--- /task \---
 
-\--- task \--- Add this code to your spaceship sprite:
+\--- task \--- আপনার মহাকাশযান স্প্রাইটে এই কোড যোগ করুন:
 
 ![Spaceship sprite](images/sprite-spaceship.png)
 
@@ -53,10 +53,10 @@ point towards (Earth v)
 glide (1) secs to x:(0) y:(0)
 ```
 
-Change the numbers in the code blocks you've added so that the code is exactly the same as above.
+আপনি যে কোড ব্লকগুলি যুক্ত করেছেন তাতে নম্বরগুলি পরিবর্তন করুন যাতে কোডটি ঠিক উপরের মতই হয়।.
 
 \--- /task \---
 
-If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
+আপনি যদি সবুজ পতাকাটিতে ক্লিক করেন তবে আপনার স্পেসশিপটি কথা বলা, ঘুরিয়ে দেওয়া এবং মঞ্চের কেন্দ্রের দিকে গ্লাইড হওয়া উচিত।.
 
 ![Testing a spaceship animation](images/space-animate-stage.png)
