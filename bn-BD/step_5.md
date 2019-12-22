@@ -57,4 +57,4 @@ forever
 
 আপনার প্রকল্পটি পরীক্ষা করুন এবং সংরক্ষণ করুন। এই অ্যানিমেশনটি শেষ করতে আপনাকে লাল স্টপ বাটনে **stop** ক্লিক করতে হবে যেহেতু এটি চিরকাল চলবে!
 
-![Test the spinning monkey](images/space-spin-test.png)
+![ঘূর্ণনরত বানরটিকে পরীক্ষা করুন](images/space-spin-test.png)
