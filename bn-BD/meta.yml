@@ -1,7 +1,7 @@
 ---
 title: Lost in space
 hero_image: images/lost-in-space.png
-description: Learn how to program your own animation!
+description: কিভাবে নিজের এনিমেশন প্রোগ্রাম করা যায় তা শিখুন!
 original_url: https://www.codeclubprojects.org/en-GB/scratch/lost-in-space
 listed: true
 copyedit: true
@@ -10,22 +10,22 @@ version: 4.1.3
 last_tested: 2018-09-26
 steps:
   - 
-    title: Introduction
+    title: ভূমিকা
   - 
-    title: Animating a spaceship
+    title: একটি স্পেসশিপ অ্যানিমেটিং করা
   - 
-    title: 'Challenge: improve your animation'
+    title: 'Challenge: আপনার ড্রাম উন্নত করুন'
     challenge: true
   - 
-    title: Animation using loops
+    title: লুপগুলি ব্যবহার করে অ্যানিমেশন করুন
   - 
-    title: Floating monkey
+    title: ভাসমান বানর
   - 
-    title: Bouncing asteroid
+    title: বাউন্সিং গ্রহাণু
   - 
-    title: Shining star
+    title: জ্বলন্ত তারা
   - 
-    title: 'Challenge: make your own animation'
+    title: 'Challenge: আপনার নিজের অ্যানিমেশন তৈরি করুন'
     challenge: true
   - 
-    title: What next?
+    title: এরপর কি?
