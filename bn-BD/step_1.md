@@ -57,7 +57,7 @@
 
 ## title: শিক্ষাবিদদের জন্য অতিরিক্ত তথ্য
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
+আপনি যদি এই প্রজেক্টটি প্রিন্ট করতে চান তবে [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"} ব্যবহার করুন।.
 
 You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
