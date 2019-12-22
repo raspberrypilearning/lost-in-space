@@ -1,23 +1,23 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
+এটি প্রকল্পের **Scratch 3** সংস্করণ। প্রকল্পের একটি [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2) ও রয়েছে.
 
-\--- /no-print \---
+\--- no-print \---
 
-## Introduction
+## পরিচিতি
 
-You are going to learn how to program your own animation!
+আপনি কীভাবে নিজের অ্যানিমেশন প্রোগ্রাম করবেন তা শিখতে চলেছেন!
 
-### What you will make
+### যা তৈরি করতে হবে
 
-\--- no-print \--- Click on the green flag to see the animation.
+\--- no-print \--- অ্যানিমেশন দেখতে সবুজ পতাকাটিতে ক্লিক করুন।.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
   <img src="images/space-final.png">
 </div>
 
-\--- /no-print \---
+\--- no-print \---
 
 \--- print-only \---
 
@@ -27,35 +27,35 @@ You are going to learn how to program your own animation!
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: যা যা প্রয়োজন
 
-### Hardware
+### হার্ডওয়্যার
 
-- A computer capable of running Scratch 3
+- একটি কম্পিউটার যেথানে স্ক্র্যাচ ৩. ০ (Scratch 3) চালানো যাবে
 
-### Software
+### সফটওয়্যার
 
 - Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
-### Downloads
+### ডাউনলোডসমূহ
 
-- None
+- কোনটি নয়
 
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: What you will learn
-
-- Use a repeat loop to animate a sprite in Scratch
-- Use a forever loop to repeat an animation indefinitely
-- Understand that loops can be nested within each other
-
-\--- /collapse \---
+-- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: যা শিখতে পারবেন
+
+- স্ক্র্যাচে একটি স্প্রিট প্রাণবন্ত করতে পুনরাবৃত্তি লুপ ব্যবহার করুন
+- একটি অ্যানিমেশন অনির্দিষ্টকালের জন্য পুনরাবৃত্তি করতে চিরকালের লুপ ব্যবহার করুন
+- বুঝতে হবে যে লুপগুলি একে অপরের মধ্যে কাজ করতে পারে
+
+-- /collapse \---
+
+## \--- collapse \---
+
+## title: শিক্ষাবিদদের জন্য অতিরিক্ত তথ্য
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
