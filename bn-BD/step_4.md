@@ -4,7 +4,7 @@
 
 \--- task \--- `glide`{:class="block3motion"} ব্লকটি আপনার কোড থেকে মুছুন। এটি করার জন্য, কোড অঞ্চলটি থেকে ব্লকটি টানুন এবং অন্যান্য সিঙ্গল কোড ব্লকগুলি যেখানে রয়েছে সেখানে রেখে দিন।.
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![স্পেসশিপ স্প্রাইট](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -20,9 +20,9 @@ point towards (Earth v)
 
 \--- task \--- এখন `repeat`{:class="block3control"} ব্লক ব্যবহার করে আপনার স্পেসশিপকে পৃথিবীর দিকে নিন?
 
-![Testing a spaceship animation](images/space-animate-stage.png)
+![একটি স্পেসশিপ অ্যানিমেশন পরীক্ষা করা](images/space-animate-stage.png)
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![স্পেসশিপ স্প্রাইট](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -39,11 +39,11 @@ point towards (Earth v)
 
 \--- /task \---
 
-\--- task \--- Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
+\--- task \--- এবার আপনার স্পেসশিপ স্প্রাইটে কোড যুক্ত করুন যাতে স্পেসশিপ পৃথিবীর দিকে চলে যাওয়ার সাথে সাথে রঙ পরিবর্তন করে?
 
-Use this block:
+এই ব্লকটি ব্যবহার করুন:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![স্পেসশিপ স্প্রাইট](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -57,27 +57,27 @@ repeat (200)
 +    change [color v] effect by (25)
 ```
 
-Test and save your code.
+আপনার কোডটি পরীক্ষা করুন এবং সংরক্ষণ করুন।.
 
-![Testing a colour-changing spaceship](images/space-colour-test.png)
+![রঙ পরিবর্তনকারী স্পেসশিপ পরীক্ষা করুন](images/space-colour-test.png)
 
 \--- /task \---
 
-\--- task \--- Can you make your spaceship get smaller as it moves towards Earth?
+\--- টাস্ক \--- আপনি কি আপনার মহাকাশযানটি পৃথিবীর দিকে যাওয়ার সাথে সাথে আরও ছোট করে তুলতে পারবেন?
 
 \--- hints \---
 
 \--- hint \---
 
-Your spaceship should start at `100% size`{:class="blocklooks"}, and then `change size`{:class="blocklooks"} by a small amount each time it moves.
+আপনার স্পেসশিপটি `100% size`{:class="blocklooks"} আকারে শুরু হওয়া উচিত এবং তারপরে প্রতিবার যখন সরানো হয় অল্প পরিমাণে `change size`{:class="blocklooks"} আকার পরিবর্তন করুন ।.
 
 \--- /hint \---
 
 \--- hint \---
 
-You will need to add these blocks to your code:
+আপনার কোডগুলিতে আপনাকে এই ব্লকগুলি যুক্ত করতে হবে:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![স্পেসশিপ স্প্রাইট](images/sprite-spaceship.png)
 
 ```blocks3
 change size by (10)
@@ -89,9 +89,9 @@ set size to (100) %
 
 \--- hint \---
 
-Your code should look like this:
+আপনার কোডটি দেখতে এমন হওয়া উচিত:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![স্পেসশিপ স্প্রাইট](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -113,6 +113,6 @@ repeat (200)
 
 \--- /task \---
 
-Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
+আপনার কোডটি পরীক্ষা করুন এবং সংরক্ষণ করুন। আপনার স্পেসশিপটি চলার সাথে সাথে এখন আরও ছোট হওয়া উচিত। আপনার মহাকাশযানটি **second time** পরীক্ষা করুন। শুরু হওয়ার সাথে সাথে কি এটি সঠিক আকারের?
 
-![Testing a shrinking spaceship](images/space-size-test.png)
+![স্পেসশিপ সঙ্কুচিত হয় কিনা পরীক্ষা করুন](images/space-size-test.png)
