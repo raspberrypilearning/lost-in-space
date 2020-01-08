@@ -1,49 +1,50 @@
-## 彈跳小行星
+## 彈跳的行星
 
-Now you will add a floating space rock to your animation.
+現在我們添加一個在太空漂浮的岩石。
 
-\--- task \--- Add a 'rock' sprite to your animation.
+\--- task \--- 添加一個名為 rock（岩石）的角色到你的動畫裡。
 
 ![添加一個岩石角色](images/space-rock-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Can you add code for your rock sprite so that the rock bounces around the stage?
+\--- task \--- 你可以為岩石編寫程式，讓它在舞台上四處彈跳嗎？
 
 ![測試一個彈跳的岩石](images/space-bounce-test.png)
 
-\--- hints \--- \--- hint \--- 當 **綠旗**被點擊時，您的岩石角色應該會在舞台中 **永遠** **移動** 和 **飄動**。 \--- /hint \--- \--- hint \--- Here are the code blocks you need:
+\--- hints \--- \--- hint \--- 當**綠旗被點擊**時，你的岩石角色應該**不停**的**移動**，而且一碰到邊緣就**反彈**。 \--- /hint \--- \--- hint \--- 這些是你會用到的積木：
 
 ```blocks3
-move (10) steps
+移動 (10) 點
 
-if on edge bounce
+碰到邊緣就反彈
 
-when flag clicked
+當 @greenflag 被點擊
 
-forever
+重複無限次
 ```
 
-You can also set a more interesting starting direction for the rock sprite with one of these blocks:
+你也可以用下面其中一個積木，讓岩石角色朝不同的方向移動：
 
 ```blocks3
-turn cw (15) degrees
+右轉 @turnright (15) 度
 
-point towards (Earth v)
+面朝 (Earth v) 向
 ```
 
 \--- /hint \--- \--- hint \---
 
-Here's the code for making your rock bounce around the stage:
+這是讓岩石不斷彈跳的程式：
 
-![Rock sprite](images/sprite-rock.png)
+![岩石角色](images/sprite-rock.png)
 
 ```blocks3
-when flag clicked
-point towards (Earth v)
-forever
-    move (2) steps
-    if on edge, bounce
+當 @greenflag 被點擊
+面朝 (Earth v) 向
+重複無限次
+    移動 (2) 點
+    碰到邊緣就反彈
+end
 ```
 
 \--- /hint \--- \--- /hints \--- \--- /task \---
