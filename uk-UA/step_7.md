@@ -1,46 +1,48 @@
 ## Сяюча зірка
 
-Now you will combine loops to make a shining star.
+Тепер ти скомбінуєш цикли, щоб зробити сяючу зірку.
 
-\--- task \--- Add a 'star' sprite to your stage.
+\--- task \--- Додай спрайт "star" до своєї сцени.
 
-![Додавання спрайту зірки](images/space-star-sprite.png)
+![Додати спрайт зірки](images/space-star-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Can you add code to your star sprite to make the star repeatedly grow and shrink?
+\--- task \--- Чи можеш ти додати код до спрайту зірки для того, щоб вона постійно збільшувалася та зменшувалася?
 
-![Тестування зірки, що сяє](images/sprite-star.png)
+![Тестування сяючої зірки](images/sprite-star.png)
 
-\--- hints \--- \--- hint \---коли на зелений **прапор натиснуто**, спрайт зірки має **збільшитися** у кілька разів, а потім - **зменшитися** у кілька разів. It should do this so that it gets bigger and then smaller **forever** and looks like it's shining light. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
+\--- hints \--- \--- hint \---Коли на зелений **прапор натиснуто**, спрайт зірки має декілька разів **збільшитися**, а потім — декілька разів **зменшитися**. Він повинен збільшуватися та зменшуватися **завжди**, щоб виглядати як сяюче світло. \--- /hint \--- \--- hint \--- Ось блоки, які тобі знадобляться:
 
 ```blocks3
-repeat (10)
+повторити (10)
 end
 
-when flag clicked
+коли ⚑ натиснуто
 
-repeat (10)
+повторити (10)
 end
 
-change size by (10)
+змінити розмір на (10)
 
-change size by (10)
+змінити розмір на (10)
 
-forever
+завжди
+end
 ```
 
-\--- /hint \--- \--- hint \--- Here's the code to make your star grow and shrink: ![Star sprite](images/sprite-star.png)
+\--- /hint \--- \--- hint \--- Ось код для збільшення та зменшення зірки: ![Спрайт зірки](images/sprite-star.png)
 
 ```blocks3
-when flag clicked
-forever
-    repeat (20)
-        change size by (2)
-    end
-    repeat (20)
-        change size by (-2)
-    end
+коли ⚑ натиснуто
+завжди 
+  повторити (20) 
+    змінити розмір на (2)
+  end
+  повторити (20) 
+    змінити розмір на (-2)
+  end
+end
 
 ```
 
