@@ -1,16 +1,16 @@
-## Challenge: improve your animation
+## 挑戰：改良你的動畫
 
-Can you change the numbers in your animation code so that:
+你可以更改動畫程式中的數字，讓：
 
-+ 太空船運行直到觸及地球？
-+ 太空船向著地球更慢運行？
++ 太空船飛行直到碰到地球？
++ 太空船向地球飛行的速度變慢？
 
-您需要更改此區塊中的數字：
+你需要更改的積木是：
 
-![Rocketship sprite](images/sprite-spaceship.png)
+![太空船角色](images/sprite-spaceship.png)
 
 ```blocks3
-glide (1) secs to x:(0) y:(0)
+滑行 (1) 秒到 x:(0) y:(0)
 ```
 
 [[[generic-scratch3-coordinates]]]
