@@ -1,110 +1,109 @@
-## Animation using loops
+## 用迴圈做動畫
 
-Another way to animate the spaceship is to tell it to move a small amount many times
+另一種讓太空船動起來的方式，是要它在一點一點的持續向前推進。
 
-\--- task \--- Delete the `glide`{:class="block3motion"} block from your code. To do this, drag the block off the Code area and drop it back where the other single code blocks are.
+\--- task \--- 移除你的程式中的`滑行`{:class="block3motion"}積木。方式是用滑鼠點著這個積木，把它拖曳到工具箱的某個區域，然後鬆開滑鼠鍵就可以把他放回工具箱。
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![太空船角色](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
+當 @greenflag 被點擊
+面朝 (0) 度
+定位到 x:(-150) y:(-150)
+說出 (Let's go) 持續 (2) 秒
+面朝 (Earth v) 向
 
-- glide (1) secs to x:(0) y:(0)
+- 滑行 (1) 秒到 x:(0) y:(0)
 ```
 
 \--- /task \---
 
-\--- task \--- Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
+\--- task \--- 現在，用`重複`{:class="block3control"}積木讓太空船飛向地球吧！
 
 ![測試太空船動畫](images/space-animate-stage.png)
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![太空船角色](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
+當 @greenflag 被點擊
+面朝 (0) 度
+定位到 x:(-150) y:(-150)
+說出 (Let's go) 持續 (2) 秒
+面朝 (Earth v) 向
 
-+ repeat (200)
-    move (2) steps
++ 重複 (200) 次
+    移動 (2) 點
 ```
 
-Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
+測試一下然後儲存你的程式，你的太空船應該會像先前一樣朝地球前進，不過這次用的是`重複`{:class="block3control"}積木。
 
 \--- /task \---
 
-\--- task \--- Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
+\--- task \--- 接著來加個程式到太空船角色，讓它在飛向地球時會變顏色？！
 
-Use this block:
+用到的積木是：
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![太空船角色](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-repeat (200)
-    move (2) steps
-
-+    change [color v] effect by (25)
+當 @greenflag 被點擊
+面朝 (0) 度
+定位到 x:(-150) y:(-150)
+說出 (Let's go) 持續 (2) 秒
+面朝 (Earth v) 向
+重複 (200) 次
+    移動 (2) 點
++    圖像效果 [顏色 v] 改變 (25)
 ```
 
-Test and save your code.
+測試並儲存你的程式。
 
 ![測試變色太空船](images/space-colour-test.png)
 
 \--- /task \---
 
-\--- task \--- Can you make your spaceship get smaller as it moves towards Earth?
+\--- task \--- 你能不能讓太空船向地球飛行時，變得愈來愈小嗎？
 
 \--- hints \---
 
 \--- hint \---
 
-Your spaceship should start at `100% size`{:class="blocklooks"}, and then `change size`{:class="blocklooks"} by a small amount each time it moves.
+你的太空船一開始的尺寸就是 `100%`{:class="blocklooks"}，你要用`尺寸改變 `{:class="blocklooks"}積木，在太空船每次移動時都減小。
 
 \--- /hint \---
 
 \--- hint \---
 
-You will need to add these blocks to your code:
+你會用到這些積木：
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![太空船角色](images/sprite-spaceship.png)
 
 ```blocks3
-change size by (10)
+尺寸改變 (10)
 
-set size to (100) %
+尺寸設為 (100) %
 ```
 
 \--- /hint \---
 
 \--- hint \---
 
-Your code should look like this:
+你的程式應該會像這樣：
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![太空船角色](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-set size to (100) %
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-repeat (200)
-    move (2) steps
-    change [color v] effect by (25)
+當 @greenflag 被點擊
+尺寸設為 (100) %
+面朝 (0) 度
+定位到 x:(-150) y:(-150)
+說出 (Let's go) 持續 (2) 秒
+面朝 (Earth v) 向
+重複 (200) 次
+    移動 (2) 點
+    圖像效果 [顏色 v] 改變 (25)
 
-+   change size by (-3)
++   尺寸改變 (-3)
 ```
 
 \--- /hint \---
@@ -113,6 +112,6 @@ repeat (200)
 
 \--- /task \---
 
-Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
+測試並儲存你的程式，你的太空船在飛行時應該會愈變愈小，停止程式**再測試一次**，它的大小有沒有和一開始一樣？
 
 ![測試一艘正在縮小的太空船](images/space-size-test.png)
