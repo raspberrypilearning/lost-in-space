@@ -1,7 +1,7 @@
-## Väljakutse: tehke oma animatsioon
+## Väljakutse: tee omaenda animatsioon
 
-Peatage oma ruumi animatsioon, salvestage see ja käivitage uus Scratch projekt.
+Peata oma kosmoseanimatsioon, salvesta see ja alusta uue Scratchi projektiga.
 
-Oma animatsiooni tegemiseks kasutage selles projektis õppinud. See võib olla midagi, mis sulle meeldib, kuid proovige muuta oma animatsioon teie valitud taustale vastavaks. siin on mõned näidised:
+Kasuta selles projektis õpitut omaenda animatsiooni tegemiseks. See võib olla mis iganes sulle meeldib, kuid proovi muuta oma animatsioon sinu valitud taustale vastavaks. Siin on mõned näidised:
 
-![ekraanipilt](images/space-egs.png)
+![kuvatõmmis](images/space-egs.png)
