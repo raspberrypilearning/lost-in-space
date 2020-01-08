@@ -1,46 +1,47 @@
-## 閃亮之星
+## 發亮的星星
 
-Now you will combine loops to make a shining star.
+現在我們用組合迴圈來做個閃閃發光的星星。
 
-\--- task \--- Add a 'star' sprite to your stage.
+\--- task \--- 添加一個名為 star（星星）的角色到舞台。
 
 ![添加一個星星角色](images/space-star-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Can you add code to your star sprite to make the star repeatedly grow and shrink?
+\--- task \--- 你可以寫個程式，讓星星有一會兒放大，一會兒又縮小的效果嗎？
 
 ![測試一顆閃亮的星星](images/sprite-star.png)
 
-\--- hints \--- \--- hint \--- 當 **綠旗**被點擊時，你的星星角色應該會 **改變尺寸** 變大幾次，然後再**改變尺寸** 變小幾次。 It should do this so that it gets bigger and then smaller **forever** and looks like it's shining light. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
+\--- hints \--- \--- hint \--- 當**綠旗被點擊**時，你的星星角色應該**改變尺寸**變大幾次，然後再**改變尺寸**變小幾次。 讓它**重複不停的**變大然後變小，它看起來就會像是在發光了。 \--- /hint \--- \--- hint \--- 這些是你會用到的積木：
 
 ```blocks3
-repeat (10)
+重複 (10) 次
 end
 
-when flag clicked
+當 @greenflag 被點擊
 
-repeat (10)
+重複 (10) 次
 end
 
-change size by (10)
+尺寸改變 (10)
 
-change size by (10)
+尺寸改變 (10)
 
-forever
+重複無限次
 ```
 
-\--- /hint \--- \--- hint \--- Here's the code to make your star grow and shrink: ![Star sprite](images/sprite-star.png)
+\--- /hint \--- \--- hint \--- 這個程式能讓你的星星不斷縮放： ![星星角色](images/sprite-star.png)
 
 ```blocks3
-when flag clicked
-forever
-    repeat (20)
-        change size by (2)
+當 @greenflag 被點擊
+重複無限次
+    重複 (20) 次
+        尺寸改變 (2)
     end
-    repeat (20)
-        change size by (-2)
+    重複 (20) 次
+        尺寸改變 (-2)
     end
+end
 
 ```
 
