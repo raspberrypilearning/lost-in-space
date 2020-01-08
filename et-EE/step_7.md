@@ -1,47 +1,47 @@
 ## Särav täht
 
-Nüüd ühendate silmad särava tärniga.
+Nüüd ühendad tsüklid, et teha särav täht.
 
-\--- ülesanne \--- Lisage oma staadionile „tärniga”.
+\--- task \--- Lisa oma lavale „tähe” sprait.
 
-![Tähe-sprite lisamine](images/space-star-sprite.png)
+![Tähe spraidi lisamine](images/space-star-sprite.png)
 
-\--- / ülesanne \---
+\--- /task \---
 
-\--- ülesanne - Kas sa saad oma staarile lisada koodi, et tähed korduvalt kasvada ja kahaneda?
+\--- task \--- Kas oskad lisada oma tähe spraidile lisada koodi nii, et tähed korduvalt kasvaks ja kahaneks?
 
 ![Särava tähe testimine](images/sprite-star.png)
 
-\--- vihjed \--- \--- vihje \--- Kui roheline **lipu klikitakse**, oma tähe sprite peaks **muutuse suurus** saada suurem paar korda ja siis **muutuse suurus** , et saada väiksemaid paar korda. See peaks seda tegema nii, et see muutub suuremaks ja siis väiksemaks **igavesti** ja tundub, et see on särav valgus. \--- / vihje \--- \--- vihje \--- Siin on vajalikud koodiplokid:
+\--- hints \--- \--- hint \--- Kui rohelisele **lipule klõpsata**, peaks sinu tähe sprait **suurust muutma**, et paar korda kasvada ja siis **muutma suurust**, et paar korda kahaneda. See peaks seda tegema nii, et see muutub **igavesti** suuremaks ja siis väiksemaks ning näeb välja nagu särav valgus. \--- /hint \--- \--- hint \--- Siin on vajalikud koodiplokid:
 
 ```blocks3
-korrake (10)
-lõppu
+korda (10) korda
+end
 
-kui lipp klõpsati
+kui klõpsata ⚑
 
-kordust (10)
-lõpp
+korda (10) korda
+end
 
-muuta suurust (10)
+muuda suurust (10) võrra
 
-muuta suurust (10)
+muuda suurust (10) võrra
 
-igavesti
+korda lõputult
 ```
 
-\--- / vihje \--- \--- vihje \--- Siin on kood, mis muudab teie tähe kasvamise ja kahanemise: ![Star sprite](images/sprite-star.png)
+\--- /hint \--- \--- hint \--- Siin on kood, mis paneb sinu tähe kasvama ja kahanema: ![Tähe sprait](images/sprite-star.png)
 
 ```blocks3
-kui lipp klõpsas
-igavesti
-    kordus (20)
-        muutke suurust (2)
-    lõpu
-    kordust (20)
-        muutke suurust (-2)
-    otsaga
+kui klõpsata ⚑
+korda lõputult 
+korda (20) korda 
+muuda suurust (2) võrra
+end
+korda (20) korda 
+muuda suurust (-2) võrra
+end
 
 ```
 
-\--- / vihje \--- \--- / hints \--- \--- / ülesanne \---
+\--- /hint \--- \--- /hints \--- \--- /task \---
