@@ -1,33 +1,33 @@
 \--- no-print \---
 
-See on projekti **Scratch 3** versioon. Samuti on projekti [Scratch 2 versioon](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
+See on projekti **Scratch 3** versioon. On ka [projekti Scratch 2 versioon](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
 
-\--- / no-print \---
+\--- /no-print \---
 
 ## Sissejuhatus
 
-Te saate teada, kuidas oma animatsiooni programmeerida!
+Õpid, kuidas oma animatsiooni programmeerida!
 
-### Mida te teete
+### Mida sa teed
 
-\--- no-print \--- Animatsiooni vaatamiseks klõpsake rohelist lippu.
+\--- no-print \--- Animatsiooni vaatamiseks klõpsa rohelisel lipul.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
   <img src="images/space-final.png">
 </div>
 
-\--- / no-print \---
+\--- /no-print \---
 
-\--- ainult printimiseks \---
+\--- print-only \---
 
-![Täielik projekt](images/showcase_static.png)
+![Lõpeta projekt](images/showcase_static.png)
 
-\--- / ainult printimiseks \---
+\--- /print-only \---
 
-## \--- kollaps \---
+## \--- collapse \---
 
-## pealkiri: Mida on vaja
+## title: Mida sul vaja on
 
 ### Riistvara
 
@@ -35,30 +35,30 @@ Te saate teada, kuidas oma animatsiooni programmeerida!
 
 ### Tarkvara
 
-- Scratch 3 (kas [online](http://rpf.io/scratchon){: target = "_ blank"} või [offline](http://rpf.io/scratchoff){: target = "_ blank"})
+- Scratch 3 (kas [võrguühendusega](http://rpf.io/scratchon){:target="_blank"} või [võrguväliselt](http://rpf.io/scratchoff){: target="_blank"})
 
 ### Allalaadimised
 
-- Puudub
+- Mitte ühtegi
 
-\--- / kollaps \---
+\--- /collapse \---
 
-## \--- kollaps \---
+## \--- collapse \---
 
-## pealkiri: Mida sa õpid
+## title: Mida sa õpid
 
-- Use a repeat loop to animate a sprite in Scratch
-- Use a forever loop to repeat an animation indefinitely
-- Understand that loops can be nested within each other
+- Kasuta korduvat tsüklit (repeat loop) spraidi animeerimiseks Scratchis
+- Kasuta lõpmatut tsüklit (forever loop) animatsiooni kordamiseks määramata arv kordi
+- Mõista, et tsükleid (loops) saab pesastada (üksteise sisse paigutada)
 
-\--- / kollaps \---
+\--- /collapse \---
 
-## \--- kollaps \---
+## \--- collapse \---
 
-## pealkiri: Lisainfo õpetajatele
+## title: Lisainfo õpetajatele
 
-Kui teil on vaja seda projekti printida, kasutage [printeri sõbralikku versiooni](https://projects.raspberrypi.org/en/projects/lost-in-space/print){: target = "_ blank"}.
+Kui sul on vaja see projekt välja printida, siis kasuta [printerisõbralikku versiooni](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
-You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+Leiad [lõpetatud projekti siit](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
-\--- / kollaps \---
+\--- /collapse \---
