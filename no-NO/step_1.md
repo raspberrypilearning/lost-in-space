@@ -1,16 +1,16 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
+Dette er en **Scratch 3-versjon** av prosjektet. Det finnes også en [Scratch 2-versjon av prosjektet](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
 
 \--- /no-print \---
 
-## Introduction
+## Introduksjon
 
-You are going to learn how to program your own animation!
+Du skal lære hvordan du programmerer din egen animasjon!
 
-### What you will make
+### Hva du vil lage
 
-\--- no-print \--- Click on the green flag to see the animation.
+\--- no-print \--- Klikk på det grønne flagget for å se animasjonen.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -21,44 +21,44 @@ You are going to learn how to program your own animation!
 
 \--- print-only \---
 
-![Complete project](images/showcase_static.png)
+![Fullført prosjekt](images/showcase_static.png)
 
 \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: Hva du trenger
 
-### Hardware
+### Maskinvare
 
-- A computer capable of running Scratch 3
+- En datamaskin som kan kjøre Scratch 3
 
-### Software
+### Programvare
 
-- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (enten [online](http://rpf.io/scratchon){:target="_blank"} eller [offline](http://rpf.io/scratchoff){:target="_blank"})
 
-### Downloads
+### Nedlastninger
 
-- None
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: What you will learn
-
-- Use a repeat loop to animate a sprite in Scratch
-- Use a forever loop to repeat an animation indefinitely
-- Understand that loops can be nested within each other
+- Ingen
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: Hva du vil lære
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
+- Bruke en repetisjonsløkke for å animere en figur i Scratch
+- Bruke en evig løkke for å gjenta en animasjon for alltid
+- Forstå at løkker kan plasseres inne i hverandre
 
-You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: Tilleggsinformasjon for lærere
+
+Hvis du trenger å skrive ut dette prosjektet, bruk den [utskriftsvennlige versjonen](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
+
+Du kan finne det [ferdige prosjektet her](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
 \--- /collapse \---
