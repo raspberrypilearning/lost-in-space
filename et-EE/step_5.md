@@ -1,60 +1,60 @@
-## Ujuv ahv
+## Hõljuv ahv
 
-Nüüd lisate ahvile, kes on oma animatsioonile kosmoses kaotanud!
+Nüüd lisad oma animatsioonile ahvi, kes on kosmosesse ära eksinud!
 
-\--- ülesanne \--- Alusta, lisades raamatust 'ahvi' sprite.
+\--- task \--- Alusta, lisades teegist 'ahvi' sprait.
 
-![Monkey sprite lisamine](images/space-monkey-sprite.png)
+![Ahvi spraidi lisamine](images/space-monkey-sprite.png)
 
-\--- / ülesanne \---
+\--- /task \---
 
-Klõpsake oma uue ahvi sprite ja seejärel klõpsa **Kostüümid** , et saaksite muuta ahvi välimust.
+Klõpsa oma uuel ahvi spraidil, seejärel klõpsa **Kostüümidel**, et saaksid muuta ahvi välimust.
 
-\--- ülesanne \--- Määrake punane joon valides läbipaistev. Kontuuri jaoks seadke valge värv, liigutades küllastuse liugurit asendisse `0`.
+\--- task \--- Määra täide läbipaistvaks, valides punane joon. Piirjoone jaoks määra valge värv, liigutades küllastuse liugurit asendisse `0`.
 
-![Tee valge värv](images/make-white.png) \--- / ülesanne \---
+![Tee valge värv](images/make-white.png) \--- /task \---
 
-\--- ülesanne \--- Klõpsa **ringi** tööriista ja seejärel kasutage seda, et joonistada ahvipea ümber valge ruumi kiiver.
+\--- task \--- Klõpsa **ringi** tööriiistal ja seejärel kasuta seda ahvi pea ümber valge kosmosekiivri joonistamiseks.
 
-![Monkey ruumi kiiver](images/space-monkey-edit.png)
+![Ahvi kosmosekiiver](images/space-monkey-edit.png)
 
-\--- / ülesanne \---
+\--- /task \---
 
-\--- ülesanne - Kas sa saad oma ahvi spriitile koodi lisada, nii et see pöörleb aeglaselt ringis igavesti?
+\--- task \--- Kas oskad oma ahvi spraidile koodi lisada, nii et see alati aeglaselt ringis pöörleks?
 
-\--- hints \--- \--- vihje \---
+\--- hints \--- \--- hint \---
 
-Kui roheline **lipp on klõpsatud**, oma ahv sprite peaks **omakorda** ringi **igavesti**.
+Kui rohelisele **lipule klõpsata**, peaks sinu ahvi sprait **igavesti** **pöörlema**.
 
-\--- / vihje \--- \--- vihje \---
+\--- /hint \--- \--- hint \---
 
 Siin on vajalikud koodiplokid:
 
 ```blocks3
-igavesti
-lõpp
+korda lõputult
+end
 
-pöörake cw (15) kraadi
+pööra ↻ (15) kraadi
 
-kui lipp klõpsati
+kui klõpsata ⚑
 ```
 
-\--- / vihje \--- \--- vihje \---
+\--- /hint \--- \--- hint \---
 
-Siin on kood, mis teeb teie ahvi spin:
+Siin on kood, mis paneb sinu ahvi pöörlema:
 
-![Monkey sprite](images/sprite-monkey.png)
+![Ahvi sprait](images/sprite-monkey.png)
 
 ```blocks3
-kui lipp klõpsas
-igavesti
-    pööret cw (1) kraadi
+kui klõpsata ⚑
+korda lõputult 
+pööra ↻ (1) kraadi
 ```
 
-\--- / vihje \--- \--- / vihjed \---
+\--- /hint \--- \--- /hints \---
 
-\--- / ülesanne \---
+\--- /task \---
 
-Testige ja salvestage oma projekt. Selle animatsiooni lõpetamiseks peate klõpsama punast **stop** nuppu, sest see kestab igavesti!
+Testi ja salvesta oma projekt. Selle animatsiooni lõpetamiseks pead klõpsama punasel **stop** nupul, sest see kestab igavesti!
 
 ![Testi pöörlevat ahvi](images/space-spin-test.png)
