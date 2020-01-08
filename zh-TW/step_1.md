@@ -1,16 +1,16 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
+這個專案是 **Scratch 3** 版本。另外還有 [Scratch 2](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2) 版本。
 
 \--- /no-print \---
 
 ## 介紹
 
-你將學習如何編程你自己的動畫！
+你會學習到如何用程式編寫動畫！
 
-### 你會做出:
+### 你會做出的玩意兒
 
-\--- no-print \--- Click on the green flag to see the animation.
+\--- no-print \--- 點擊綠旗看看這個動畫。
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -21,44 +21,44 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 \--- print-only \---
 
-![Complete project](images/showcase_static.png)
+![完成專案](images/showcase_static.png)
 
 \--- /print-only \---
 
-## - - 自動隱藏選單 - -
+## \--- collapse \---
 
-## title: What you will need
+## title: 你會用到
 
 ### 硬體
 
-- 可運行Scratch 3的電腦
+- 可運行 Scratch 3 的電腦
 
 ### 軟體
 
-- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3（[線上版](http://rpf.io/scratchon){:target="_blank"} 或 [離線版](http://rpf.io/scratchoff){:target="_blank"}）
 
-### Downloads
+### 相關下載
 
-- None
+- 無
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: What you will learn
+## title: 你會學到
 
-- Use a repeat loop to animate a sprite in Scratch
-- Use a forever loop to repeat an animation indefinitely
-- Understand that loops can be nested within each other
+- 用 Scratch 程式的重複迴圈做出角色的動畫
+- 使無限迴圈不斷的播放動畫
+- 了解迴圈可以相互嵌套成為巢狀迴圈
 
-- - 自動隱藏選單 - -
+\--- /collapse \---
 
-## - - 自動隱藏選單 - -
+## \--- collapse \---
 
-## title: Additional information for educators
+## title: 給教師的其它資訊
 
-如果您需要打印此項目，請使用 [適合打印的版本](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}。
+如果你需要列印這個專案，可以先切換成[列印友好模式](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}。
 
-You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+你可以在這裡找到[已經完成的專案](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}。
 
 \--- /collapse \---
