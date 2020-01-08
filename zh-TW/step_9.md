@@ -1,6 +1,6 @@
-## What next?
+## 然後呢？
 
-Try the [Ghostbusters](https://projects.raspberrypi.org/en/projects/ghostbusters?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) project! In that project, you will learn how to create a game with ghosts that appear all over the place and that you need to catch. You will also learn how to add a timer and a score to the game, so that you can see how many ghosts you are able to catch.
+試試[捉鬼敢死隊](https://projects.raspberrypi.org/en/projects/ghostbusters?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects)專案！ 你要學習怎麼做一個人抓鬼的遊戲專案。 你會學到如何在遊戲中添加計時器和記分器，這樣子就可以統計你在時間內抓到多少鬼。
 
 \--- no-print \---
 
@@ -13,6 +13,6 @@ Try the [Ghostbusters](https://projects.raspberrypi.org/en/projects/ghostbusters
 
 \--- print-only \---
 
-![showcase](images/ghostbusters-static.png)
+![演示](images/ghostbusters-static.png)
 
 \--- /print-only \---
