@@ -1,62 +1,62 @@
 ## Kosmoselaeva animeerimine
 
-Sinu esimene samm on luua kosmoselaev, mis sõidab Maa poole!
+Esimese sammuna lood kosmoselaeva, mis lendab Maa poole!
 
 \--- ülesanne \---
 
-Avage uus Scratch projekt.
+Ava uus Scratch projekt.
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
+**Veebis:**ava uus Scratchi veebiprojekt aadressil [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
 
-**Offline:** avab võrguühenduseta redaktoris uue projekti.
+**Võrguühenduse puudumisel:** ava uus projekt võrguvälises redaktoris.
 
-Kui teil on vaja alla laadida ja paigaldada Scratch offline redaktor, leiate selle aadressilt [rpf.io/scratchoff](http://rpf.io/scratchoff){: target = "_ blank"}.
+Kui sul on vaja alla laadida ja installida Scratchi võrguväline redaktor, mine aadressile [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-\--- / ülesanne \---
+\--- /task \---
 
-\--- ülesanne \--- Lisage oma staadiumile „rocketship” ja „Earth” sprites.
+\--- task \--- Lisa oma Lavale „kosmoselaeva” ja „Maa” spraidid.
 
-![Kosmoselaev ja Maa sprites](images/space-sprites.png)
+![Kosmoselaeva ja Maa spraidid](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
-\--- / ülesanne \---
+\--- /task \---
 
-\--- ülesanne - Lisage oma staadiumile taust „Tähed”.
+\--- task \--- Lisa oma Lavale taust „Tähed”.
 
-![Ruumi taust](images/space-backdrop.png)
+![Kosmosetaust](images/space-backdrop.png)
 
-\--- / ülesanne \---
+\--- /task \---
 
-\--- ülesanne \--- Klõpsa oma kosmoselaevale ja kliki vahekaardil **Kostüümid**.
+\--- task \--- Klõpsa oma kosmoselaeva spraidil, seejärel klõpsa vahekaardil **Kostüümid**.
 
-![Sprite kostüüm](images/space-costume.png)
+![Spraidi kostüüm](images/space-costume.png)
 
-\--- / ülesanne \---
+\--- /task \---
 
-\--- ülesanne - Kasutage **noolt** tööriista, et klõpsata ja lohistada kasti ümber kogu kosmoselaeva pildi. Seejärel klõpsa ringikujulisel **pöörata** käepidet ja pöörake pilti, kuni see on selle küljel.
+\--- task \--- Kasuta **noole** tööriista, et klõpsata ja nihutada kast ümber kogu kosmoselaeva pildi. Seejärel klõpsa ringikujulisel **pööra** pidemel ja pööra pilti, kuni see on külili.
 
 ![Kostüümi pööramine](images/space-rotate.png)
 
-\--- / ülesanne \---
+\--- /task \---
 
-\--- ülesanne \--- Lisa see kood oma kosmoselaevale:
+\--- task \--- Lisa see kood oma kosmoselaeva spraidile:
 
-![Kosmoselaeva spriit](images/sprite-spaceship.png)
+![Kosmoselaeva sprait](images/sprite-spaceship.png)
 
 ```blocks3
-kui lipp klõpsas
-punkti suunas (0)
-minge x: (- 150) y: (- 150)
-ütle [Lähme] (2) sekundi jooksul
-punkti (Maa v)
-libisemine (1) sekundit x: (0) y: (0)
+kui klõpsata ⚑
+osuta suunas (0)
+mine x: (-150) y: (-150)
+ütle [Lähme] (2) sek
+osuta (Maa) -le
+liugle (1) sekundiga x: (0) y: (0)
 ```
 
-Muutke lisatud koodide plokkide numbreid nii, et kood oleks täpselt sama nagu ülal.
+Muuda lisatud koodiplokkide numbreid nii, et kood oleks täpselt selline nagu ülal.
 
-\--- / ülesanne \---
+\--- /task \---
 
-Kui klõpsate rohelisele lipule, peaksite nägema kosmoselaeva rääkima, pöörduma ja libistama lava keskele.
+Kui klõpsad rohelisel lipul, peaksid nägema kosmoselaeva rääkimas, pööramas ja lava keskosa suunas liuglemas.
 
-![Kosmoselaeva animatsiooni katsetamine](images/space-animate-stage.png)
+![Kosmoselaeva animatsiooni testimine](images/space-animate-stage.png)
