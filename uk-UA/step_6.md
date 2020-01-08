@@ -1,49 +1,49 @@
-## Астероїд, що стрибає
+## Астероїд, що відбивається
 
-Now you will add a floating space rock to your animation.
+Тепер ти додаси до своєї анімації літаючий астероїд.
 
-\--- task \--- Add a 'rock' sprite to your animation.
+\--- task \--- Додай до своєї анімації спрайт "Rocks".
 
 ![Додавання спрайту астероїда](images/space-rock-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Can you add code for your rock sprite so that the rock bounces around the stage?
+\--- task \--- Чи можеш ти додати код для того, щоб твій астероїд літав по сцені, відбиваючись від її країв?
 
-![Тестування астероїда-стрибунця](images/space-bounce-test.png)
+![Тестування астероїда, що відбивається](images/space-bounce-test.png)
 
-\--- hints \--- \--- hint \--- Коли на зелений **прапор натиснуто**, спрайт астероїда повинен **рухатися** і **стрибати** по сцені **без перестанку**. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
+\--- hints \--- \--- hint \--- Коли на зелений **прапор натиснуто**, спрайт астероїда повинен **рухатися** по сцені і **відбиватися** **завжди**. \--- /hint \--- \--- hint \--- Тобі знадобляться наступні блоки коду:
 
 ```blocks3
-move (10) steps
+перемістити на (10) кроків
 
-if on edge bounce
+якщо на межі, відбити
 
-when flag clicked
+коли ⚑ натиснуто
 
-forever
+завжди
 ```
 
-You can also set a more interesting starting direction for the rock sprite with one of these blocks:
+Також ти можеш задати цікавіший початковий напрямок для астероїда за допомогою одного з наступних блоків:
 
 ```blocks3
-turn cw (15) degrees
+поворот ↻ на (15) градусів
 
-point towards (Earth v)
+слідувати за (Earth v)
 ```
 
 \--- /hint \--- \--- hint \---
 
-Here's the code for making your rock bounce around the stage:
+Наступний код змусить астероїд літати по сцені, відбаваючись від її країв:
 
-![Rock sprite](images/sprite-rock.png)
+![Спрайт астероїда](images/sprite-rock.png)
 
 ```blocks3
-when flag clicked
-point towards (Earth v)
-forever
-    move (2) steps
-    if on edge, bounce
+коли ⚑ натиснуто
+слідувати за (Earth v)
+завжди 
+  перемістити на (2) кроків
+  якщо на межі, відбити
 ```
 
 \--- /hint \--- \--- /hints \--- \--- /task \---
