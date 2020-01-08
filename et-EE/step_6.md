@@ -1,49 +1,49 @@
-## Asteroidi kopsakas
+## Põrkuv asteroid
 
-Nüüd lisate oma animatsioonile ujuva ruumi kivi.
+Nüüd lisad oma animatsioonile hõljuva kosmosekivi.
 
-\--- ülesanne \--- Lisage oma animatsioonile 'rock' sprite.
+\--- task \--- Lisa oma animatsioonile 'kivi' sprait.
 
-![Rock sprite lisamine](images/space-rock-sprite.png)
+![Kivi spraidi lisamine](images/space-rock-sprite.png)
 
-\--- / ülesanne \---
+\--- /task \---
 
-\--- ülesanne - Kas sa saad lisada oma rock sprite koodi nii, et kivi põrkab laval ümber?
+\--- task \--- Kas oskad lisada oma kivi spraidile koodi nii, et kivi põrkub lava ümber?
 
-![Põrkava kivi katsetamine](images/space-bounce-test.png)
+![Põrkuva kivi testimine](images/space-bounce-test.png)
 
-\--- hints \--- \--- vihje \--- Kui klõpsate rohelist **lippu**, siis peaks teie rock sprite **liikuma** ja **põrkama** ümber astme **igavesti**. \--- / vihje \--- \--- vihje \--- Siin on vajalikud koodiplokid:
-
-```blocks3
-liigutage (10) samme
-
-kui serv on põrkamas
-
-kui lipp klõpsas
-
-igavesti
-```
-
-Võite ka rock-sprite jaoks huvitavama algussuuna seada ühega neist plokkidest:
+\--- hints \--- \--- hint \--- Kui rohelisele **lipule klõpsata**, siis peaks sinu kivi sprait **liikuma** ja **põrkuma** **igavesti** ümber lava. \--- /hint \--- \--- hint \--- Siin on vajalikud koodiplokid:
 
 ```blocks3
-pöörake cw (15) kraadi
+liigu (10) punkti
 
-punkti suunas (Maa v)
+kui äärel, põrka
+
+kui klõpsata ⚑
+
+korda lõputult
 ```
 
-\--- / vihje \--- \--- vihje \---
-
-Siin on kood, kuidas muuta oma kivi ümber laval:
-
-![Rock sprite](images/sprite-rock.png)
+Võid kivi spraidi jaoks ühega neist plokkidest ka huvitavama algussuuna seada:
 
 ```blocks3
-kui lipp klõpsas
-punkti suunas (Maa v)
-igavesti
-    liiguta (2) samme
-    kui serv on, põrge
+pööra ↻ (15) kraadi
+
+osuta (Maa v) -le
 ```
 
-\--- / vihje \--- \--- / hints \--- \--- / ülesanne \---
+\--- /hint \--- \--- hint \---
+
+Siin on kood, mis paneb sinu kivi ümber lava põrkuma:
+
+![Kivi sprait](images/sprite-rock.png)
+
+```blocks3
+kui klõpsata ⚑
+osuta (Maa v) -le
+korda lõputult 
+liigu (2) punkti
+kui äärel, põrka
+```
+
+\--- /hint \--- \--- /hints \--- \--- /task \---
