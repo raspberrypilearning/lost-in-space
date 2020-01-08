@@ -1,7 +1,7 @@
 ---
-title: Lost in space
+title: Fortapt i verdensrommet
 hero_image: images/lost-in-space.png
-description: Learn how to program your own animation!
+description: Lær hvordan du programmerer din egen animasjon!
 original_url: https://www.codeclubprojects.org/en-GB/scratch/lost-in-space
 listed: true
 copyedit: true
@@ -10,22 +10,22 @@ version: 4.1.3
 last_tested: 2018-09-26
 steps:
   - 
-    title: Introduction
+    title: Introduksjon
   - 
-    title: Animating a spaceship
+    title: Animere et romskip
   - 
-    title: 'Challenge: improve your animation'
+    title: 'Utfordring: gjør animasjonen din bedre'
     challenge: true
   - 
-    title: Animation using loops
+    title: Animasjon med løkker
   - 
-    title: Floating monkey
+    title: Svevende apekatt
   - 
-    title: Bouncing asteroid
+    title: Sprettende asteroide
   - 
-    title: Shining star
+    title: Skinnende stjerne
   - 
-    title: 'Challenge: make your own animation'
+    title: 'Utfordring: lag din egen animasjon'
     challenge: true
   - 
-    title: What next?
+    title: Hva nå?
