@@ -1,16 +1,16 @@
-## Challenge: improve your animation
+## Utfordring: gjør animasjonen din bedre
 
-Can you change the numbers in your animation code so that:
+Kan du endre tallene i animasjonskoden slik at:
 
-+ The spaceship moves until it touches the Earth?
-+ The spaceship moves more slowly towards the Earth?
++ Romskipet beveger seg til det berører jorden?
++ Romskipet beveger seg saktere mot jorden?
 
-You'll need to change the numbers in this block:
+Du må endre tallene i denne blokken:
 
-![Rocketship sprite](images/sprite-spaceship.png)
+![Figur med romskip](images/sprite-spaceship.png)
 
 ```blocks3
-glide (1) secs to x:(0) y:(0)
+gli (1) sekunder til x:(0) y:(0)
 ```
 
 [[[generic-scratch3-coordinates]]]
