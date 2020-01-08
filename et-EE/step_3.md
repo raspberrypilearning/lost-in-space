@@ -1,16 +1,16 @@
-## Väljakutse: parandage oma animatsiooni
+## Väljakutse: täiusta oma animatsiooni
 
-Kas saate muuta oma animatsioonikoodi numbreid nii, et:
+Kas oskad muuta oma animatsiooni koodi numbreid nii, et:
 
 + Kosmoselaev liigub, kuni see puudutab Maad?
 + Kosmoselaev liigub aeglasemalt Maa poole?
 
-Peate muutma selle ploki numbreid:
+Pead muutma selle ploki numbreid:
 
-![Rocketship sprite](images/sprite-spaceship.png)
+![Kosmoselaeva sprait](images/sprite-spaceship.png)
 
 ```blocks3
-libisemine (1) sekundit x: (0) y: (0)
+liugle (1) sekundiga x: (0) y: (0)
 ```
 
 [[[generic-scratch3-coordinates]]]
