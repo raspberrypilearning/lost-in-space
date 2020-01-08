@@ -1,11 +1,11 @@
 ---
-title: Kadunud kosmoses
-hero_image: images / lost-in-space.png
-description: Lugege, kuidas oma animatsiooni programmeerida!
+title: Kosmosesse eksinud
+hero_image: images/lost-in-space.png
+description: Loe, kuidas programmeerida omaenda animatsiooni!
 original_url: https://www.codeclubprojects.org/en-GB/scratch/lost-in-space
 listed: true
 copyedit: true
-technologies: nullist
+technologies: scratch
 version: 4.1.3
 last_tested: 2018-09-26
 steps:
@@ -14,18 +14,18 @@ steps:
   - 
     title: Kosmoselaeva animeerimine
   - 
-    title: 'Väljakutse: parandage oma animatsiooni'
+    title: 'Väljakutse: täiusta oma animatsiooni'
     challenge: true
   - 
     title: Animatsioon silmuste abil
   - 
-    title: Ujuv ahv
+    title: Hõljuv ahv
   - 
-    title: Asteroidi kopsakas
+    title: Põrkuv asteroid
   - 
     title: Särav täht
   - 
-    title: 'Väljakutse: tehke oma animatsioon'
+    title: 'Väljakutse: tee oma animatsioon'
     challenge: true
   - 
-    title: What next?
+    title: Mis edasi?
