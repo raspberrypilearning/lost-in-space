@@ -1,20 +1,20 @@
-## 動畫一個太空船
+## 動起來的太空船
 
-Your first step will be to create a spaceship that flies towards the Earth!
+你的第一步是創建一個飛往地球的宇宙飛船！
 
 \--- task \---
 
-Open a new Scratch project.
+建立一個新的 Scratch 專案。
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
+**線上版：**你可以連結 [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"} 以新建專案。
 
-**Offline:** open a new project in the offline editor.
+**離線版：**在離線編輯器的工作列中開啟選單並點擊新建專案。。
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+如果你需要 Scratch 離線版編輯器，可以連結到 [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}。
 
 \--- /task \---
 
-\--- task \--- Add 'rocketship' and 'Earth' sprites to your Stage.
+\--- task \--- 將 rocketship（太空船）和 Earth（地球）角色添加到舞台。
 
 ![太空船和地球角色](images/space-sprites.png)
 
@@ -22,41 +22,41 @@ If you need to download and install the Scratch offline editor, you can find it 
 
 \--- /task \---
 
-\--- task \--- Add the 'Stars' backdrop to your Stage.
+\--- task \--- 為舞台添加一個新的背景 Stars（星空）。
 
 ![一個太空背景](images/space-backdrop.png)
 
 \--- /task \---
 
-\--- task \--- Click on your spaceship sprite, and click on the **Costumes** tab.
+\--- task \--- 點擊太空船這個角色，然後切換到**造型**頁籤。
 
 ![角色造型](images/space-costume.png)
 
 \--- /task \---
 
-\--- task \--- Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+\--- task \--- 用**選取**工具點一下圖案，圖案周圍會出現方框邊界。 接著點擊其中的一個**旋轉**控點，按住控點向左右擺動就可以讓圖像旋轉，把角色轉成像下圖那樣。
 
-![旋轉一件造型](images/space-rotate.png)
+![旋轉一個造型](images/space-rotate.png)
 
 \--- /task \---
 
-\--- task \--- Add this code to your spaceship sprite:
+\--- task \--- 為你的太空船角色編寫這個程式：
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![太空船角色](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-glide (1) secs to x:(0) y:(0)
+當 @greenflag 被點擊
+面朝 (0) 度
+定位到 x:(-150) y:(-150)
+說出 (Let's go) 持續 (2) 秒
+面朝 (Earth v) 向
+滑行 (1) 秒到 x:(0) y:(0)
 ```
 
-Change the numbers in the code blocks you've added so that the code is exactly the same as above.
+記得要把程式積木中的數字改成和上面一樣。
 
 \--- /task \---
 
-如果你點擊綠旗，你將看到太空船說話，轉身，然後滑向舞台中央。
+如果你點擊綠旗，你會看到太空船說話、轉向，然後滑到舞台中央。
 
 ![測試太空船動畫](images/space-animate-stage.png)
