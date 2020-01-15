@@ -1,20 +1,20 @@
 ## تحريك سفينة فضاء
 
-Your first step will be to create a spaceship that flies towards the Earth!
+ستكون خطوتك الأولى هي إنشاء سفينة فضائية تطير باتجاه الأرض!
 
 \--- task \---
 
-Open a new Scratch project.
+افتح مشروع سكراتش (Scratch) جديدًا وفارغًا.
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
+**بالاتصال بالانترنت**: افتح المشروع المبدئي من هنا [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
 
-**Offline:** open a new project in the offline editor.
+**من دون اتصال انترنيت:** افتح مشروع سكراتش Scratch جديد عبر برنامج المحرر الموجود على جهازك دون اتصال بالانترنيت.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+اذا تحتاج تنزيل وتنصيب برنامج السكراتش Scratch على جهازك الشخصي، ستجده في [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
-\--- task \--- Add 'rocketship' and 'Earth' sprites to your Stage.
+\--- task \--- قم بإضافة الكائنين "rocketship" و "الارض" الى المنصة خاصتك.
 
 ![الكائنين سفينة الفضاء و كوكب الأرض](images/space-sprites.png)
 
@@ -22,38 +22,38 @@ If you need to download and install the Scratch offline editor, you can find it 
 
 \--- /task \---
 
-\--- task \--- Add the 'Stars' backdrop to your Stage.
+\--- task \--- أضف خلفية "Stars" إلى المنصة خاصتك.
 
 ![خلفية الفضاء](images/space-backdrop.png)
 
 \--- /task \---
 
-\--- task \--- Click on your spaceship sprite, and click on the **Costumes** tab.
+\--- task \--- انقر فوق كائن سفينة الفضاء، ثم انقر فوق علامة التبويب **المظاهر**.
 
 ![مظهر الكائن](images/space-costume.png)
 
 \--- /task \---
 
-\--- task \--- Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+\--- task \--- استخدم أداة **السهم** لنقر وسحب مربع حول صورة سفينة الفضاء بأكملها. ثم انقر على المقبض الدائري ** تدوير** وقم بتدوير الصورة حتى تكون على جانبها.
 
 ![تدوير المظهر](images/space-rotate.png)
 
 \--- /task \---
 
-\--- task \--- Add this code to your spaceship sprite:
+\--- task \--- أضف هذه التعليمة البرمجية إلى كائن سفينة الفضاء:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![كائن سفينة الفضاء](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-glide (1) secs to x:(0) y:(0)
+عند نقر ⚑
+اتجه نحو الاتجاه (0)
+اذهب إلى الموضع س: (-150) ص: (-150)
+قل [Let's go] لمدة (2) ثانية
+اتجه نحو (Earth v)
+انزلق خلال (1) ثانية إلى الموضع س: (0) ص: (0)
 ```
 
-Change the numbers in the code blocks you've added so that the code is exactly the same as above.
+غيِّر الأرقام الموجودة في قوالب التعليمات البرمجية بحيث تكون التعليمات البرمجية مماثلة لتلك الموضحة في الصورة أعلاه.
 
 \--- /task \---
 
