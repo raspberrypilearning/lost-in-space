@@ -10,7 +10,7 @@
 
 ### ما الذي ستصنعه
 
-\--- no-print \--- Click on the green flag to see the animation.
+\--- no-print \--- انقر على العلم الأخضر لرؤية الرسوم المتحركة.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -21,7 +21,7 @@
 
 \--- print-only \---
 
-![Complete project](images/showcase_static.png)
+![المشروع كامل](images/showcase_static.png)
 
 \--- /print-only \---
 
@@ -37,9 +37,9 @@
 
 - برنامج Scratch 3 (سواء أكان [عبر الإنترنت](http://rpf.io/scratchon){:target="_blank"} أو [دون اتصال بالإنترنت](http://rpf.io/scratchoff){:target="_blank"})
 
-### Downloads
+### التنزيلات
 
-- None
+- لا يوجد
 
 \--- /collapse \---
 
@@ -47,9 +47,9 @@
 
 ## title: ما الذي ستتعلمه
 
-- Use a repeat loop to animate a sprite in Scratch
-- Use a forever loop to repeat an animation indefinitely
-- Understand that loops can be nested within each other
+- استخدام حلقة التكرار لتحريك الكائن في سكراتش
+- استخدم اللبنة كرر باستمرار لتكرار الرسوم المتحركة إلى الابد
+- نفهم أن حلقات التكرار يمكن أن تتداخل داخل بعضها البعض
 
 \--- /collapse \---
 
@@ -59,6 +59,6 @@
 
 إذا كنت بحاجة إلى طباعة هذا المشروع ، فالرجاء استخدام الإصدار [الملائم للطابعة](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
-You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+يمكنك الحصول على [المشروع كاملاً من هنا](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
 \--- /collapse \---
