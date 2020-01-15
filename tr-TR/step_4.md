@@ -2,7 +2,7 @@
 
 Uzay gemisini canlandırmanın bir başka yolu, küçük bir miktarını birçok kez hareket ettirmesini söylemektir.
 
---- görev --- `kayma`{:class="block3motion"} bloğunu kodunuzdan silin. Bunu yapmak için, bloğu Kod alanından sürükleyin ve diğer tek kod bloklarının olduğu yere geri bırakın.
+--- task --- `kayma`{:class="block3motion"} bloğunu kodunuzdan silin. Bunu yapmak için, bloğu Kod alanından sürükleyin ve diğer tek kod bloklarının olduğu yere geri bırakın.
 
 ![Uzay gemisi kuklası](images/sprite-spaceship.png)
 
@@ -17,7 +17,7 @@ x: (-150) y: (-150) konumuna git
 
 --- /task ---
 
---- task --- Şimdi bir `repeat`{:class="block3control"} bloğu kullanarak uzay geminizi Dünya'ya doğru ilerletin.
+--- task --- Şimdi bir `defa tekrarla`{:class="block3control"} bloğu kullanarak uzay geminizi Dünya'ya doğru ilerletin.
 
 ![Bir uzay gemisi animasyonunu test etme](images/space-animate-stage.png)
 
@@ -34,7 +34,7 @@ x: (-150) y: (-150) konumuna git
 end
 ```
 
-Kodunuzu test edin ve kaydedin. Uzay geminiz, tam olarak eskisi gibi Dünya'ya doğru hareket etmeli, ancak bu sefer bir `repeat`{:class="block3control"} bloğu kullanıyor.
+Kodunuzu test edin ve kaydedin. Uzay geminiz, tam olarak eskisi gibi Dünya'ya doğru hareket etmeli, ancak bu sefer bir `defa tekrarla`{:class="block3control"} bloğu kullanıyor.
 
 --- /task ---
 
@@ -52,7 +52,7 @@ x: (-150) y: (-150) konumuna git
 (Earth v) yönüne doğru yönel
 (200) defa tekrarla 
   (2) adım git
-  + [renk v] etkisini (25) değiştir
++  [renk v] etkisini (25) değiştir
 end
 ```
 
@@ -101,9 +101,9 @@ x: (-150) y: (-150) konumuna git
 (2) saniye boyunca [Let's go] de
 (Earth v) yönüne doğru yönel
 (200) defa tekrarla 
-  (2) adım git
-  [renk v] etkisini (25) değiştir
-  + boyutu (-3) birim değiştir
+   (2) adım git
+   [renk v] etkisini (25) değiştir
++  boyutu (-3) birim değiştir
 end
 ```
 

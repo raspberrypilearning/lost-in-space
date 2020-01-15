@@ -59,8 +59,8 @@ title: Neler öğreneceksiniz
 ---
 title: Eğitimciler için ek bilgiler
 ---
-Bu projeyi yazdırmanız gerekiyorsa, lütfen [yazıcı dostu sürüm](https://projects.raspberrypi.org/tr-TR/projects/lost-in-space/print)ü kullanın{:target="_blank"}.
+Bu projeyi yazdırmanız gerekiyorsa, lütfen [yazıcı dostu sürüm](https://projects.raspberrypi.org/tr-TR/projects/lost-in-space/print){:target="_blank"} ü kullanın.
 
-[Tamamlanmış projeye buradan](http://rpf.io/p/tr-TR/lost-in-space-get) ulaşabilirsiniz{:target="_blank"}.
+[Tamamlanmış projeye buradan](http://rpf.io/p/tr-TR/lost-in-space-get){:target="_blank"} ulaşabilirsiniz.
 
 --- /collapse ---
