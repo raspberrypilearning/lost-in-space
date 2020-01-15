@@ -1,49 +1,51 @@
 ## كويكب يرتدّ
 
-Now you will add a floating space rock to your animation.
+الآن سنقوم بإضافة صخرة عائمة في الفضاء إلى الرسم المتحرك.
 
-\--- task \--- Add a 'rock' sprite to your animation.
+\--- task \--- أضف كائن "rock" الى الرسم المتحرك.
 
 ![إضافة كائن القرد](images/space-rock-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Can you add code for your rock sprite so that the rock bounces around the stage?
+\--- task \--- هل يمكنك إضافة تعليمات برمجية لكائن الصخرة الخاصة بك بحيث ترتد حول المنصة؟
 
 ![اختبار إرتداد الصخرة](images/space-bounce-test.png)
 
-\--- hints \--- \--- hint \--- **عند النقر فوق العلم الأخضر**، يجب أن ي**تحرك** كائن الصخرة و **يرتد** عن حواف المنصة **باستمرار**. \--- /hint \--- \--- hint \--- Here are the code blocks you need:
+\--- hints \--- \--- hint \--- **عند النقر فوق العلم الأخضر**، يجب أن ي**تحرك** كائن الصخرة و **يرتد** عن حواف المنصة **باستمرار**. \--- /hint \--- \--- hint \--- فيما يلي التعليمات البرمجية التي سوف تحتاجها:
 
 ```blocks3
-move (10) steps
+تحرك (10) خطوة
 
-if on edge bounce
+ارتد إذا كنت عند الحافة
 
-when flag clicked
+عند نقر ⚑
 
-forever
+كرِّر باستمرار
+end
 ```
 
-You can also set a more interesting starting direction for the rock sprite with one of these blocks:
+يمكنك أيضًا تعيين اتجاه البداية بشكل أكثر إثارة للاهتمام لكائن الصخرة باستخدام إحدى هذه الكتل:
 
 ```blocks3
-turn cw (15) degrees
+استدر ↻ (15) درجة
 
-point towards (Earth v)
+اتجه نحو (Earth v)
 ```
 
 \--- /hint \--- \--- hint \---
 
-Here's the code for making your rock bounce around the stage:
+إليك التعليمات البرمجية اللازمة لجعل الصخرة ترتد حول المنصة:
 
-![Rock sprite](images/sprite-rock.png)
+![كائن الصخرة](images/sprite-rock.png)
 
 ```blocks3
-when flag clicked
-point towards (Earth v)
-forever
-    move (2) steps
-    if on edge, bounce
+عند نقر ⚑
+اتجه نحو (Earth v)
+كرِّر باستمرار 
+  تحرك (2) خطوة
+  ارتد إذا كنت عند الحافة
+end
 ```
 
 \--- /hint \--- \--- /hints \--- \--- /task \---
