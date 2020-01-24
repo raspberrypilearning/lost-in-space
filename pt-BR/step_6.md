@@ -2,17 +2,27 @@
 
 Agora você vai adicionar uma rocha no espaço flutuante à sua animação.
 
-\--- task \--- Acrescenta um ator 'rock' à sua animação.
+\--- task \---
+
+Add a 'rock' sprite to your animation.
 
 ![Adding a rock sprite](images/space-rock-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Você consegue acrescentar código ao teu ator de rock para que a rocha salte pelo palco?
+\--- task \---
+
+Can you add code for your rock sprite so that the rock bounces around the stage?
 
 ![Testing a bouncing rock](images/space-bounce-test.png)
 
-\--- hints \--- \--- hint \--- Quando a **bandeira verde é clicada**, o asteroide deve se **mover** e **viajar** em seu palco **para sempre**. \--- /hint \--- \--- hint \--- Aqui estão os blocos que você vai precisar:
+\--- hints \--- \--- hint \---
+
+When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**.
+
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
 
 ```blocks3
 anda (10) passos
@@ -24,7 +34,7 @@ Quando alguém clicar na bandeira verde
 repete para sempre
 ```
 
-Você também pode definir uma direção inicial mais interessante para o ator da pedra com um destes blocos:
+You can also set a more interesting starting direction for the rock sprite with one of these blocks:
 
 ```blocks3
 gira para a direita (15) º
@@ -34,9 +44,9 @@ aponta em direção a (Terra v)
 
 \--- /hint \--- \--- hint \---
 
-Aqui está o código para fazer a sua pedra saltar pelo palco:
+Here's the code for making your rock bounce around the stage:
 
-![Ator de rocha](images/sprite-rock.png)
+![Rock sprite](images/sprite-rock.png)
 
 ```blocks3
 quando alguém clicar na bandeira verde
