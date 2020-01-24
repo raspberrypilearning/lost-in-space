@@ -14,35 +14,45 @@ Nếu bạn cần tải xuống và cài đặt trình soạn thảo ngoại tuy
 
 \--- /bài tập \---
 
-\--- nhiệm vụ \--- Thêm 'tên lửa' và 'Trái đất' mọc lên Sân khấu của bạn.
+\--- task \---
 
-![Tàu vũ trụ và trái đất spites](images/space-sprites.png)
+Add 'rocketship' and 'Earth' sprites to your Stage.
+
+![Spaceship and Earth sprites](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
-\--- /bài tập \---
+\--- /task \---
 
-\--- task \--- Thêm phông nền 'Stars' vào Giai đoạn của bạn.
+\--- task \---
 
-![Một không gian bối cảnh](images/space-backdrop.png)
+Add the 'Stars' backdrop to your Stage.
 
-\--- /bài tập \---
+![A space backdrop](images/space-backdrop.png)
 
-\--- task \--- Nhấp vào sprite tàu vũ trụ của bạn và nhấp vào tab **Trang phục**.
+\--- /task \---
 
-![Trang phục Sprite](images/space-costume.png)
+\--- task \---
 
-\--- /bài tập \---
+Click on your spaceship sprite, and click on the **Costumes** tab.
 
-\--- task \--- Sử dụng công cụ **mũi tên** để nhấp và kéo hộp xung quanh toàn bộ hình ảnh tàu vũ trụ. Sau đó bấm vào tay cầm **xoay tròn** và xoay hình ảnh cho đến khi nó ở bên cạnh.
-
-![Xoay một bộ trang phục](images/space-rotate.png)
+![Sprite costume](images/space-costume.png)
 
 \--- /bài tập \---
 
-\--- task \--- Thêm mã này vào sprite tàu vũ trụ của bạn:
+\--- task \---
 
-![Tàu vũ trụ](images/sprite-spaceship.png)
+Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+
+![Rotating a costume](images/space-rotate.png)
+
+\--- /bài tập \---
+
+\--- task \---
+
+Add this code to your spaceship sprite:
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 khi cờ nhấp
@@ -53,10 +63,10 @@ nói [Hãy đi] trong (2) giây
 lướt (1) giây x: (0) y: (0)
 ```
 
-Thay đổi số trong các khối mã bạn đã thêm để mã giống hệt như trên.
+Change the numbers in the code blocks you've added so that the code is exactly the same as above.
 
-\--- /bài tập \---
+\--- /task \---
 
-Nếu bạn nhấp vào cờ màu xanh lá cây, bạn sẽ thấy tàu vũ trụ nói, xoay và lướt về phía trung tâm của sân khấu.
+If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
 
-![Thử nghiệm hoạt hình tàu vũ trụ](images/space-animate-stage.png)
+![Testing a spaceship animation](images/space-animate-stage.png)
