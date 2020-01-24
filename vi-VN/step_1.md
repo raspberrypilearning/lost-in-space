@@ -10,20 +10,22 @@ Bạn sẽ học cách lập trình hoạt hình của riêng bạn!
 
 ### Những gì bạn sẽ làm
 
-\--- không in \--- Nhấp vào cờ màu xanh lá cây để xem hoạt hình.
+\--- no-print \---
+
+Click on the green flag to see the animation.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
   <img src="images/space-final.png">
 </div>
 
-\--- / không in \---
+\--- /no-print \---
 
-\--- chỉ in \---
+\--- print-only \---
 
-![Hoàn thành dự án](images/showcase_static.png)
+![Complete project](images/showcase_static.png)
 
-\--- / chỉ in \---
+\--- /print-only \---
 
 ## \--- sự sụp đổ \---
 
@@ -51,14 +53,14 @@ Bạn sẽ học cách lập trình hoạt hình của riêng bạn!
 - Use a forever loop to repeat an animation indefinitely
 - Hiểu rằng các vòng lặp có thể được lồng vào nhau
 
-\--- /sự sụp đổ \---
+\--- /collapse \---
 
 ## \--- sự sụp đổ \---
 
 ## tiêu đề: Thông tin bổ sung cho các nhà giáo dục
 
-Nếu bạn cần in dự án này, vui lòng sử dụng [phiên bản thân thiện với máy in](https://projects.raspberrypi.org/en/projects/lost-in-space/print){: target = "_ blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
-Bạn có thể tìm thấy [dự án đã hoàn thành ở đây](http://rpf.io/p/en/lost-in-space-get){: target = "_ blank"}.
+You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
-\--- /sự sụp đổ \---
+\--- /collapse \---
