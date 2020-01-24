@@ -14,35 +14,45 @@ Ako trebaš preuzeti i instalirati offline Scratch uređivač, to možeš prona�
 
 \--- /task \---
 
-\--- zadatak \--- Dodajte "raketni brod" i "Zemlju" likove na svoju pozornicu.
+\--- task \---
 
-![Svemirski i zemaljski likovi](images/space-sprites.png)
+Add 'rocketship' and 'Earth' sprites to your Stage.
+
+![Spaceship and Earth sprites](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
 \--- /task \---
 
-\--- task \--- Dodajte 'Zvjezde' na pozadinu svoje pozornice.
+\--- task \---
 
-![Svemirska pozadina](images/space-backdrop.png)
+Add the 'Stars' backdrop to your Stage.
 
-\--- /task \---
-
-\--- zadatak \--- Kliknite na svoj lik svemirskog broda i kliknite **Costumes** karticu.
-
-![Kostimi likova](images/space-costume.png)
+![A space backdrop](images/space-backdrop.png)
 
 \--- /task \---
 
-\--- zadatak \--- Upotrijebite **arrow** alat za klikanje i povlačenje okvira oko slike cijelog svemirskog broda. Zatim kliknite kružni **rotate** ručicu i okrećite sliku dok se ne nalazi na njenoj strani.
+\--- task \---
 
-![Rotiranje kostima](images/space-rotate.png)
+Click on your spaceship sprite, and click on the **Costumes** tab.
+
+![Sprite costume](images/space-costume.png)
 
 \--- /task \---
 
-\--- zadatak \--- Dodajte ovaj kôd u lik svemirskog broda:
+\--- task \---
 
-![Lik svemirskog broda](images/sprite-spaceship.png)
+Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+
+![Rotating a costume](images/space-rotate.png)
+
+\--- /task \---
+
+\--- task \---
+
+Add this code to your spaceship sprite:
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -53,10 +63,10 @@ point towards (Earth v)
 glide (1) secs to x:(0) y:(0)
 ```
 
-Promijenite brojeve u blokovima koda koje ste dodali tako da je kôd potpuno isti kao gore.
+Change the numbers in the code blocks you've added so that the code is exactly the same as above.
 
 \--- /task \---
 
-Ako kliknete na zelenu zastavu, trebali biste vidjeti svemirski brod koji govori, okreće se i klizi prema sredini pozornice.
+If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
 
-![Testiranje animacije svemirskog broda](images/space-animate-stage.png)
+![Testing a spaceship animation](images/space-animate-stage.png)
