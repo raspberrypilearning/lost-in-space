@@ -14,35 +14,45 @@
 
 \--- /task \---
 
-\--- task \--- ඔබේ වේදිකාවට(stage එකට) 'අභ්‍යවකාශ යානයක(spaceship එකක්) ' සහ 'පෘථිවියේ(earth)' sprites එක් කරන්න.
+\--- task \---
 
-![අභ්‍යවකාශ යානය(spaceship) සහ පෘථිවි(earth) sprites](images/space-sprites.png)
+Add 'rocketship' and 'Earth' sprites to your Stage.
+
+![Spaceship and Earth sprites](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
 \--- /task \---
 
-\--- task \--- ඔබේ වේදිකාවට(stage එකට) 'තරු(stars)' පසුබිම(backdrop එක) එක් කරන්න.
+\--- task \---
 
-![අවකාශයේ(space) පසුබිමක්(backdrop)](images/space-backdrop.png)
+Add the 'Stars' backdrop to your Stage.
 
-\--- /task \---
-
-\--- task \--- ඔබේ අභ්‍යවකාශ යානයේ sprite එක මත ක්ලික් කර **ඇදුම්(costumes)** පටිත්ත(tab එක) මත ක්ලික් කරන්න .
-
-![Sprite ඇඳුම(costume)](images/space-costume.png)
+![A space backdrop](images/space-backdrop.png)
 
 \--- /task \---
 
-\--- task \--- **ඊතල(arrow)** මෙවලම(tool එක) භාවිතා කර, ක්ලික් කරගෙන මුළු අභ්‍යවකාශ යානා(spaceship) රූපය(image එක) වටා කොටුවක් පරිදි ඇදගෙන යන්න(drag a box around). ඉන්පසු වටකුරු **කරකවන(rotate)** හසුරුවනය(handle එක) මත ක්ලික් කර, රූපය එහි පැත්තට හැරෙන තුරු කරකවන්න.
+\--- task \---
 
-![ඇඳුමක්(costume එකක්) කරකැවීම(rotating)](images/space-rotate.png)
+Click on your spaceship sprite, and click on the **Costumes** tab.
+
+![Sprite costume](images/space-costume.png)
 
 \--- /task \---
 
-\--- task \--- මෙම කේතය(code එක) ඔබේ අභ්‍යවකාශ යානා(spaceship) sprite එකට එක් කරන්න:
+\--- task \---
 
-![අභ්‍යවකාශ යානා(spaceship) sprite එක](images/sprite-spaceship.png)
+Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+
+![Rotating a costume](images/space-rotate.png)
+
+\--- /task \---
+
+\--- task \---
+
+Add this code to your spaceship sprite:
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked 
@@ -53,10 +63,10 @@ point towards (Earth v)
 glide (1) secs to x:(0) y:(0)
 ```
 
-ඔබ එකතු කළ කේත(code) කුට්ටි(blocks) වල අංක වෙනස් කරන්න එවිට කේතය(code එක) ඉහත ආකාරයටම සමාන වේ.
+Change the numbers in the code blocks you've added so that the code is exactly the same as above.
 
 \--- /task \---
 
-ඔබ හරිත ධජය(green flag එක) ක්ලික් කළහොත්, අභ්‍යවකාශ යානය(spaceship එකේ) කථා(speak) කිරීම, හැරීම(turn) සහ වේදිකාවේ කේන්ද්‍රය දෙසට ගමන්(glide) කිරීම ඔබට දැකගත හැකිය.
+If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
 
-![අභ්‍යවකාශ යානා(spaceship) සජීවිකරණයක්(animation එකක්) පරීක්ෂා(test) කිරීම](images/space-animate-stage.png)
+![Testing a spaceship animation](images/space-animate-stage.png)
