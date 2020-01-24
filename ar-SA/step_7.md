@@ -2,17 +2,27 @@
 
 والآن سنقوم بجمع الحلقات لنصنع نجمًا لامعًا.
 
-\--- task \--- أضف كائن "star" الى المنصة.
+\--- task \---
 
-![إضافة كائن النجم](images/space-star-sprite.png)
+Add a 'star' sprite to your stage.
+
+![Adding a star sprite](images/space-star-sprite.png)
 
 \--- /task \---
 
-\--- task \--- هل يمكنك إضافة تعليمات برمجية إلى كائن النجمة الخاص بك لجعل النجمة تكبر وتتقلص بشكل متكرر؟
+\--- task \---
 
-![اختبار النجم اللامع](images/sprite-star.png)
+Can you add code to your star sprite to make the star repeatedly grow and shrink?
 
-\--- hints \--- \--- hint \--- **عند النقر فوق العلم الأخضر**، يجب أن **يتغير حجم** كائن النجم ليكبُر تدريجيًا عدة مرات ثم **يتغير حجمه** ليصغُر تدريجيًا عدة مرات. يجب أن تفعل هذا بحيث تصبح أكبر ثم أصغر ** إلى الأبد ** لتبدو كأنها ضوء ساطع. \--- /hint \--- \--- hint \--- فيما يلي التعليمات البرمجية التي سوف تحتاجها:
+![Testing a shining star](images/sprite-star.png)
+
+\--- hints \--- \--- hint \---
+
+When the green **flag is clicked**, your star sprite should **change size** to get bigger a few times, and then **change size** to get smaller a few times. It should do this so that it gets bigger and then smaller **forever** and looks like it's shining light.
+
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
 
 ```blocks3
 كرِّر (10) مرة
@@ -31,7 +41,11 @@ end
 end
 ```
 
-\--- /hint \--- \--- hint \--- اليك التعليمات البرمجية التي تجعل النجمة الخاصة بك تكبر وتتقلص: ![كائن النجمة](images/sprite-star.png)
+\--- /hint \--- \--- hint \---
+
+Here's the code to make your star grow and shrink:
+
+![Star sprite](images/sprite-star.png)
 
 ```blocks3
 عند نقر ⚑
