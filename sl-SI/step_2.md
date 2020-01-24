@@ -14,35 +14,45 @@ Ustvari nov Scratch projekt.
 
 \--- /task \---
 
-\--- task \--- Dodaj figuri 'Rocketship' in 'Earth' na svoj oder in ju preimenuj v 'raketa' in 'Zemlja'.
+\--- task \---
 
-![Figuri 'spaceship' in 'Earth'](images/space-sprites.png)
+Add 'rocketship' and 'Earth' sprites to your Stage.
+
+![Spaceship and Earth sprites](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
 \--- /task \---
 
-\--- task \--- Odru dodaj ozadje 'Stars' in ga preimenuj v 'zvezde'.
+\--- task \---
 
-![Ozadje 'stars'](images/space-backdrop.png)
+Add the 'Stars' backdrop to your Stage.
 
-\--- /task \---
-
-\--- task \--- Klikni na figuro rakete in nato klikni na zavihek **Videzi**.
-
-![Videzi figure](images/space-costume.png)
+![A space backdrop](images/space-backdrop.png)
 
 \--- /task \---
 
-\--- task \--- Uporabi orodje **puščico**, da klikneš in potegneš pravokotnik okoli slike celotne rakete. Nato klikni na ročaj za **vrtenje** in zasuči sliko, dokler ni obrnjena postrani.
+\--- task \---
 
-![Vrtenje figure](images/space-rotate.png)
+Click on your spaceship sprite, and click on the **Costumes** tab.
+
+![Sprite costume](images/space-costume.png)
 
 \--- /task \---
 
-\--- task \--- Figuri rakete dodaj sledečo kodo:
+\--- task \---
 
-![Sprite vesoljske ladje](images/sprite-spaceship.png)
+Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+
+![Rotating a costume](images/space-rotate.png)
+
+\--- /task \---
+
+\--- task \---
+
+Add this code to your spaceship sprite:
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 ko kliknemo na zastavico
@@ -53,10 +63,10 @@ obrni se proti (Zemlja)
 drsi (1) sekund do x:(0) y:(0)
 ```
 
-Spremeni številke v blokih kode, ki si jih dodal, da bodo povsem enake kot zgoraj.
+Change the numbers in the code blocks you've added so that the code is exactly the same as above.
 
 \--- /task \---
 
-Če klikneš zeleno zastavo, bi morala vesoljska ladja spregovoriti, se obrniti in nato oddrseti proti sredini odra.
+If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
 
-![Preizkušanje animacije vesoljske ladje](images/space-animate-stage.png)
+![Testing a spaceship animation](images/space-animate-stage.png)
