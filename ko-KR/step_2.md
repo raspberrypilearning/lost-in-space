@@ -14,35 +14,45 @@
 
 \--- /task \---
 
-\--- task \--- 무대에 'rocketship'과 'Earth' 스프라이트를 추가하세요.
+\--- task \---
 
-![우주선과 지구 스프라이트](images/space-sprites.png)
+Add 'rocketship' and 'Earth' sprites to your Stage.
+
+![Spaceship and Earth sprites](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
 \--- /task \---
 
-\--- task \--- 무대에 '별(Stars)' 배경을 추가하세요.
+\--- task \---
 
-![우주 배경](images/space-backdrop.png)
+Add the 'Stars' backdrop to your Stage.
 
-\--- /task \---
-
-\--- task \--- 우주선 스프라이트를 클릭하고 **모양** 탭을 누르세요.
-
-![스프라이트 의상](images/space-costume.png)
+![A space backdrop](images/space-backdrop.png)
 
 \--- /task \---
 
-\--- task \--- **화살표**도구를 사용해서 우주선 이미지를 클릭하고 드래그하세요. 그 다음 **rotate(회전)**을 클릭하여 이미지가 측면에 올 때까지 회전하세요.
+\--- task \---
 
-![의상 회전](images/space-rotate.png)
+Click on your spaceship sprite, and click on the **Costumes** tab.
+
+![Sprite costume](images/space-costume.png)
 
 \--- /task \---
 
-\--- task \--- 우주선 스프라이트에 이 코드를 더해주세요:
+\--- task \---
 
-![우주선 스프라이트](images/sprite-spaceship.png)
+Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+
+![Rotating a costume](images/space-rotate.png)
+
+\--- /task \---
+
+\--- task \---
+
+Add this code to your spaceship sprite:
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 flag 클릭했을 때
@@ -53,10 +63,10 @@ x:(-150) y:(-150)로 이동하기
 (1)초 동안 x:(0) y:(0)로 이동하기
 ```
 
-위 그림과 같게 코드블록의 숫자들을 바꿔주세요.
+Change the numbers in the code blocks you've added so that the code is exactly the same as above.
 
 \--- /task \---
 
-코드 블록을 눌러서 코드를 돌려보면 우주선이 '출발하자!' 라고 말한 후 돌아서 무대 중간으로 움직이는 걸 볼 수 있습니다.
+If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
 
-![우주선 움직임 테스트](images/space-animate-stage.png)
+![Testing a spaceship animation](images/space-animate-stage.png)
