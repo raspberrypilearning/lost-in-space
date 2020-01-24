@@ -10,20 +10,22 @@
 
 ### آپ کیا کریں گے
 
-\---نو-پرنٹ \--- اینیمیشن کو دیکھنے کے لئے سبز پرچم پر کلک کریں ۔
+\--- no-print \---
+
+Click on the green flag to see the animation.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
   <img src="images/space-final.png">
 </div>
 
-\---نو-پرنٹ \---
+\--- /no-print \---
 
-\--- صرف پرنٹ \---
+\--- print-only \---
 
-![مکمل منصوبہ](images/showcase_static.png)
+![Complete project](images/showcase_static.png)
 
-\--- /صرف پرنٹ \---
+\--- /print-only \---
 
 ## \---تفصیل غائب کریں--
 
@@ -41,7 +43,7 @@
 
 - کوئی بھی نہیں
 
-\---تفصیل غائب کریں--
+\--- /collapse \---
 
 ## \---تفصیل غائب کریں--
 
