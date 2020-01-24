@@ -2,33 +2,43 @@
 
 ตอนนี้คุณจะเพิ่มลิงที่หลงทางในอนิเมชั่นของคุณ!
 
-\--- task \--- เริ่มต้นด้วยการเพิ่มสไปรท์ 'monkey' จากไลบรารี
+\--- task \---
 
-![การเพิ่มลิงสไปรท์](images/space-monkey-sprite.png)
+Start by adding the 'monkey' sprite from the library.
+
+![Adding a monkey sprite](images/space-monkey-sprite.png)
+
+\--- /task \---
+
+Click on your new monkey sprite and then click on **Costumes** so that you can edit how the monkey looks.
+
+\--- task \---
+
+Set the fill to be transparent by selecting the red line. For the outline, set a white colour by moving the Saturation slider to `0`.
+
+![Make white colour](images/make-white.png)
 
 \--- / task \---
 
-คลิกที่เทพดาลิงใหม่ของคุณจากนั้นคลิกที่ **เครื่องแต่งกาย** เพื่อให้คุณสามารถแก้ไขลักษณะที่ลิง
+\--- task \---
 
-\--- task \--- ตั้งค่าการเติมเพื่อให้โปร่งใสโดยการเลือกเส้นสีแดง สำหรับโครงร่างให้ตั้งค่าสีขาวโดยเลื่อนแถบเลื่อนความอิ่มตัวเป็น `0`
+Click on the **circle** tool and then use it to draw a white space helmet around the monkey's head.
 
-![ทำให้สีขาว](images/make-white.png) \--- / task \---
+![Monkey space helmet](images/space-monkey-edit.png)
 
-\--- งาน \--- คลิกที่เครื่องมือ **วงกลม** แล้วใช้มันเพื่อวาดหมวกกันน็อกสีขาวรอบ ๆ หัวของลิง
+\--- /task \---
 
-![หมวกกันน็อคลิง](images/space-monkey-edit.png)
+\--- task \---
 
-\--- / task \---
+Can you add code to your monkey sprite so that it spins slowly in a circle forever?
 
-\--- งาน \--- คุณสามารถเพิ่มรหัสลงในสไปรต์ลิงของคุณเพื่อที่จะหมุนช้าๆเป็นวงกลมตลอดไปได้หรือไม่?
+\--- hints \--- \--- hint \---
 
-\--- คำแนะนำ \--- \--- คำใบ้ \---
+When the green **flag is clicked**, your monkey sprite should **turn** in a circle **forever**.
 
-เมื่อสีเขียว **ธงมีการคลิก**, สไปรต์ลิงของคุณควร **เปิด** ในวงกลม **ตลอด**
+\--- /hint \--- \--- hint \---
 
-\--- / hint \--- \--- hint \---
-
-นี่คือบล็อคโค้ดที่คุณต้องการ:
+Here are the code blocks you need:
 
 ```blocks3
 ตลอดกาล
@@ -39,11 +49,11 @@
 เมื่อคลิกที่ธง
 ```
 
-\--- / hint \--- \--- hint \---
+\--- /hint \--- \--- hint \---
 
-นี่คือรหัสที่จะทำให้สปินลิงของคุณ:
+Here's the code to make your monkey spin:
 
-![ลิงสไปรท์](images/sprite-monkey.png)
+![Monkey sprite](images/sprite-monkey.png)
 
 ```blocks3
 เมื่อคลิกสถานะ
@@ -51,10 +61,10 @@
     ให้หมุน cw (1) องศา
 ```
 
-\--- / hint \--- \--- / hints \---
+\--- /hint \--- \--- /hints \---
 
-\--- / task \---
+\--- /task \---
 
-ทดสอบและบันทึกโครงการของคุณ คุณจะต้องคลิกที่ปุ่มสีแดง **stop** เพื่อจบภาพเคลื่อนไหวนี้ในขณะที่มันทำงานตลอดไป!
+Test and save your project. You'll have to click on the red **stop** button to end this animation, as it runs forever!
 
-![ทดสอบลิงปั่น](images/space-spin-test.png)
+![Test the spinning monkey](images/space-spin-test.png)
