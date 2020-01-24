@@ -10,7 +10,9 @@
 
 ### 你會做出的玩意兒
 
-\--- no-print \--- 點擊綠旗看看這個動畫。
+\--- no-print \---
+
+Click on the green flag to see the animation.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -21,7 +23,7 @@
 
 \--- print-only \---
 
-![完成專案](images/showcase_static.png)
+![Complete project](images/showcase_static.png)
 
 \--- /print-only \---
 
@@ -57,8 +59,8 @@
 
 ## title: 給教師的其它資訊
 
-如果你需要列印這個專案，可以先切換成[列印友好模式](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}。
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
-你可以在這裡找到[已經完成的專案](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}。
+You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
 \--- /collapse \---
