@@ -14,35 +14,45 @@
 
 \--- /task \---
 
-\--- task \--- Πρόσθεσε τα αντικείμενα "spaceship" και "Earth" στο σκηνικό σου.
+\--- task \---
 
-![Αντικείμενα Διαστημόπλοιο και Γη](images/space-sprites.png)
+Add 'rocketship' and 'Earth' sprites to your Stage.
+
+![Spaceship and Earth sprites](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
 \--- /task \---
 
-\--- task \--- Πρόσθεσε το υπόβαθρο "Stars" στο σκηνικό σου.
+\--- task \---
 
-![Ένα υπόβαθρο διαστήματος](images/space-backdrop.png)
+Add the 'Stars' backdrop to your Stage.
 
-\--- /task \---
-
-\--- task \--- Κάνε κλικ στο αντικείμενο διαστημόπλοιο και ξανά κλικ στην καρτέλα **Ενδυμασίες**.
-
-![Ενδυμασία αντικειμένου](images/space-costume.png)
+![A space backdrop](images/space-backdrop.png)
 
 \--- /task \---
 
-\--- task \--- Χρησιμοποίησε το εργαλείο **βέλος** για να επιλέξεις και να σύρεις ένα κουτί γύρω από την εικόνα του διαστημόπλοιου. Μετά κάνε κλικ στην κυκλική **περιστροφή** και περίστρεψε την εικόνα μέχρι να έρθει στο πλάι.
+\--- task \---
 
-![Περιστροφή μιας ενδυμασίας](images/space-rotate.png)
+Click on your spaceship sprite, and click on the **Costumes** tab.
+
+![Sprite costume](images/space-costume.png)
 
 \--- /task \---
 
-\--- task \--- Πρόσθεσε αυτόν τον κώδικα στο αντικείμενο διαστημόπλοιο:
+\--- task \---
 
-![Αντικείμενο διαστημόπλοιου](images/sprite-spaceship.png)
+Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+
+![Rotating a costume](images/space-rotate.png)
+
+\--- /task \---
+
+\--- task \---
+
+Add this code to your spaceship sprite:
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 Όταν στην πράσινη σημαία γίνει κλικ
@@ -53,10 +63,10 @@
 ολίσθησε για (1) δευτ. στη θέση x: (0) y: (0)
 ```
 
-Άλλαξε τους αριθμούς στα μπλοκ κώδικα που έχεις προσθέσει, έτσι ώστε ο κώδικας να είναι ακριβώς ίδιος όπως παραπάνω.
+Change the numbers in the code blocks you've added so that the code is exactly the same as above.
 
 \--- /task \---
 
-Αν κάνεις κλικ στην πράσινη σημαία, θα πρέπει να δεις το διαστημόπλοιο να μιλά, να γυρίζει και να γλιστρά προς το κέντρο του σκηνικού.
+If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
 
-![Δοκιμάζοντας ένα κινούμενο σχέδιο διαστημόπλοιου](images/space-animate-stage.png)
+![Testing a spaceship animation](images/space-animate-stage.png)
