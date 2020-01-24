@@ -10,7 +10,9 @@ You are going to learn how to program your own animation!
 
 ### നിങ്ങൾ എന്ത് ചെയ്യും
 
-\--- no-print \--- Click on the green flag to see the animation.
+\--- no-print \---
+
+Click on the green flag to see the animation.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
