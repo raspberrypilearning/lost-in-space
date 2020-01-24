@@ -2,17 +2,27 @@
 
 让我们通过循环的组合来创造一颗闪亮的星星。
 
-\--- task \--- 在你的动画中添加一个'岩石'精灵。
+\--- task \---
 
-![添加星星角色](images/space-star-sprite.png)
+Add a 'star' sprite to your stage.
+
+![Adding a star sprite](images/space-star-sprite.png)
 
 \--- /task \---
 
-\--- task \--- 你能为你的星形精灵添加代码，让星星反复增长和缩小吗？
+\--- task \---
 
-![测试闪亮的星星](images/sprite-star.png)
+Can you add code to your star sprite to make the star repeatedly grow and shrink?
 
-\--- hints \--- \--- hint \--- 当绿**旗被点击**时，星星应该**放大**一段时间，然后**缩小**一段时间。 它应该这样做，以便它变得更大，然后永远变小** **看起来像是闪亮的光芒。 \--- /提示\--- \---提示\--- 以下是您需要的代码块：
+![Testing a shining star](images/sprite-star.png)
+
+\--- hints \--- \--- hint \---
+
+When the green **flag is clicked**, your star sprite should **change size** to get bigger a few times, and then **change size** to get smaller a few times. It should do this so that it gets bigger and then smaller **forever** and looks like it's shining light.
+
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
 
 ```blocks3
 repeat (10)
@@ -30,7 +40,11 @@ change size by (10)
 forever
 ```
 
-\--- /提示\--- \---提示\--- 这是让你的星星放大和缩小的代码： ![星星精灵](images/sprite-star.png)
+\--- /hint \--- \--- hint \---
+
+Here's the code to make your star grow and shrink:
+
+![Star sprite](images/sprite-star.png)
 
 ```blocks3
 when flag clicked
