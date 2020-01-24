@@ -2,17 +2,27 @@
 
 አሁን አንጸባራቂ ኮከብ ለማብራት ቀለላዎችን ያዋህዳል.
 
-\--- ተግባር \--- ወደ መድረክዎ የ "ኮከብ" ስፔይት አክል.
+\--- task \---
 
-![የኮከብ ስፒት ማከል](images/space-star-sprite.png)
+Add a 'star' sprite to your stage.
 
-\--- / task \---
+![Adding a star sprite](images/space-star-sprite.png)
 
-\--- ተግባር \--- ኮከብን በተደጋጋሚ ሊያድግ እና ሊያንስ እንዲችል ኮከብዎ ውስጥ ኮዱን ማከል ይችላሉ?
+\--- /task \---
 
-![የሚያበራ ኮከብ በመሞከር ላይ](images/sprite-star.png)
+\--- task \---
 
-\--- ፍንጮች \--- \--- ፍንጭ \--- አረንጓዴ ጊዜ **ባንዲራ ጠቅ ነው**, የእርስዎን ኮከብ sprite ይገባል **ለውጥ መጠን** ጥቂት ጊዜያት ትልቅ ማግኘት; ከዚያም **ለውጥ መጠን** ትናንሽ ሀ ለማግኘት ጥቂት ጊዜዎች. ይህም ትልቅ እና ከዚያ ያነሰ ይሄዳል ስለዚህም ይህን ማድረግ ይገባል **ለዘላለም** እና ብርሃን የሚያበራ ያለ ይመስላል. \--- / hint \--- \--- ትርጓሜ \--- እነዚህ የሚያስፈልጉዎት የቁጥር አይነቶች ናቸው.
+Can you add code to your star sprite to make the star repeatedly grow and shrink?
+
+![Testing a shining star](images/sprite-star.png)
+
+\--- hints \--- \--- hint \---
+
+When the green **flag is clicked**, your star sprite should **change size** to get bigger a few times, and then **change size** to get smaller a few times. It should do this so that it gets bigger and then smaller **forever** and looks like it's shining light.
+
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
 
 ```blocks3
 ድግግሞሽ (10)
@@ -30,7 +40,11 @@
 ለዘለዓለም
 ```
 
-\--- / ፍንጭ \--- \--- ፍንጭ \--- እነሆ ኮከብ እያደገ እና አይጠቡም ለማድረግ ኮድ ይኸውና: ![ኮከብ ስፔር](images/sprite-star.png)
+\--- /hint \--- \--- hint \---
+
+Here's the code to make your star grow and shrink:
+
+![Star sprite](images/sprite-star.png)
 
 ```blocks3
 ባንዲራ ጠቅ ጊዜ
@@ -44,4 +58,4 @@
 
 ```
 
-\--- / hint \--- \--- / prine \--- \--- / task \---
+\--- /hint \--- \--- /hints \--- \--- /task \---
