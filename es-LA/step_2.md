@@ -14,35 +14,45 @@ Si necesitas descargar e instalar el editor offline de Scratch, puedes encontrar
 
 \--- /task \---
 
-\--- task \--- Añade sprites 'cohete' y 'Tierra' a tu escenario.
+\--- task \---
 
-![Figuras de la nave espacial y de la Tierra](images/space-sprites.png)
+Add 'rocketship' and 'Earth' sprites to your Stage.
+
+![Spaceship and Earth sprites](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
 \--- /task \---
 
-\--- task \--- Agrega el fondo de 'Estrellas' a tu escenario.
+\--- task \---
 
-![Un fondo espacial](images/space-backdrop.png)
+Add the 'Stars' backdrop to your Stage.
 
-\--- /task \---
-
-\--- tarea \--- Haga clic en el sprite de su nave espacial, y haga clic en ** Disfraces ** lengüeta.
-
-![Disfraz de la figura](images/space-costume.png)
+![A space backdrop](images/space-backdrop.png)
 
 \--- /task \---
 
-\--- task \--- Usa la flecha ** ** Herramienta para hacer clic y arrastrar un cuadro alrededor de toda la imagen de la nave espacial. Luego haga clic en la circular ** rotar ** Manejar y rotar la imagen hasta que esté de lado.
+\--- task \---
 
-![Rotando un disfraz](images/space-rotate.png)
+Click on your spaceship sprite, and click on the **Costumes** tab.
+
+![Sprite costume](images/space-costume.png)
 
 \--- /task \---
 
-\--- task \--- Agrega este código a tu sprite de nave espacial:
+\--- task \---
 
-![Figura de nave espacial](images/sprite-spaceship.png)
+Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+
+![Rotating a costume](images/space-rotate.png)
+
+\--- /task \---
+
+\--- task \---
+
+Add this code to your spaceship sprite:
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -53,10 +63,10 @@ point towards (Earth v)
 glide (1) secs to x:(0) y:(0)
 ```
 
-Cambia los números en los bloques de código para que el código sea exactamente el mismo que en la imagen de arriba.
+Change the numbers in the code blocks you've added so that the code is exactly the same as above.
 
 \--- /task \---
 
-Si haces clic en la bandera verde, deberías ver que la nave espacial habla, gira y se desliza hacia el centro del escenario.
+If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
 
-![Probando una animación de la nave espacial](images/space-animate-stage.png)
+![Testing a spaceship animation](images/space-animate-stage.png)
