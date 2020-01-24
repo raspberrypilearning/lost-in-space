@@ -2,33 +2,43 @@
 
 Sedaj svoji animaciji dodaj še opico, ki je izgubljena v vesolju!
 
-\--- task \--- Za začetek dodaj figuro 'monkey' iz knjižnice in jo preimenuj v 'opica'.
+\--- task \---
 
-![Dodajanje figure opice](images/space-monkey-sprite.png)
+Start by adding the 'monkey' sprite from the library.
 
-\--- /task \---
-
-Klikni na to novo figuro opice, nato pa klikni na **Videzi**, da boš lahko spreminjal-a videz opice.
-
-\--- task \--- Nastavi polnilo na prozorno, tako da izbereš rdečo črto. Za obrobo določi belo barvo s premikom drsnika za nasičenost na `0`.
-
-![Ustvari belo barvo](images/make-white.png) \--- /task \---
-
-\--- task \--- Klikni na orodje **krog** in ga uporabi, da narišeš belo vesoljsko čelado okoli glave opice.
-
-![Vesoljska čelada opice](images/space-monkey-edit.png)
+![Adding a monkey sprite](images/space-monkey-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Ali znaš figuri opice dodati kodo, da se počasi in neprenehoma vrti v krogu?
+Click on your new monkey sprite and then click on **Costumes** so that you can edit how the monkey looks.
+
+\--- task \---
+
+Set the fill to be transparent by selecting the red line. For the outline, set a white colour by moving the Saturation slider to `0`.
+
+![Make white colour](images/make-white.png)
+
+\--- /task \---
+
+\--- task \---
+
+Click on the **circle** tool and then use it to draw a white space helmet around the monkey's head.
+
+![Monkey space helmet](images/space-monkey-edit.png)
+
+\--- /task \---
+
+\--- task \---
+
+Can you add code to your monkey sprite so that it spins slowly in a circle forever?
 
 \--- hints \--- \--- hint \---
 
-Ko **kliknemo na zeleno zastavo**, bi morala tvoja opica **ponavljati** v neskončnost **obračanje** v krogu.
+When the green **flag is clicked**, your monkey sprite should **turn** in a circle **forever**.
 
 \--- /hint \--- \--- hint \---
 
-To so bloki kode, ki jih potrebuješ:
+Here are the code blocks you need:
 
 ```blocks3
 ponavljaj
@@ -39,9 +49,9 @@ obrni se za (15) stopinj v desno
 
 \--- /hint \--- \--- hint \---
 
-Tukaj je koda, ki povzroči, da se tvoja opica vrti:
+Here's the code to make your monkey spin:
 
-![Figura opice](images/sprite-monkey.png)
+![Monkey sprite](images/sprite-monkey.png)
 
 ```blocks3
 ko kliknemo na zastavico
@@ -53,6 +63,6 @@ ponavljaj
 
 \--- /task \---
 
-Preizkusi in shrani svoj projekt. Če želiš to animacijo končati, klikni na rdeči gumb **končaj**, saj se bo sicer izvajala neprenehoma!
+Test and save your project. You'll have to click on the red **stop** button to end this animation, as it runs forever!
 
-![Preizkus vrteče se opice](images/space-spin-test.png)
+![Test the spinning monkey](images/space-spin-test.png)
