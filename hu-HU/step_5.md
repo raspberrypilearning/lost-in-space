@@ -2,33 +2,43 @@
 
 Most hozzá fogsz adni az animációdhoz egy majomot, aki elveszett az űrben!
 
-\--- task \--- Először is add hozzá a 'monkey' szereplőt a könyvtárból.
+\--- task \---
 
-![Egy majom szereplő hozzáadása](images/space-monkey-sprite.png)
+Start by adding the 'monkey' sprite from the library.
 
-\--- /task \---
-
-Kattints az új majom szereplőre, majd a **Jelmezekre**, hogy megváltoztasd a majom kinézetét.
-
-\--- task \--- Állítsd a kitöltést átlátszóvá a piros vonal kiválasztásával. A körvonalhoz állíts be egy fehér színt a Telítettség csúszka `0`-ra húzásával.
-
-![Készíts fehér színt](images/make-white.png) \--- /task \---
-
-\--- task \--- Kattints a **kör** eszközre, majd rajzolj egy fehér űrsisakot a majom feje köré.
-
-![Majom űrsisak](images/space-monkey-edit.png)
+![Adding a monkey sprite](images/space-monkey-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Hozzá tudsz adni kódot a majom szereplőhöz, hogy az lassan, folyamatosan körbe forogjon?
+Click on your new monkey sprite and then click on **Costumes** so that you can edit how the monkey looks.
+
+\--- task \---
+
+Set the fill to be transparent by selecting the red line. For the outline, set a white colour by moving the Saturation slider to `0`.
+
+![Make white colour](images/make-white.png)
+
+\--- /task \---
+
+\--- task \---
+
+Click on the **circle** tool and then use it to draw a white space helmet around the monkey's head.
+
+![Monkey space helmet](images/space-monkey-edit.png)
+
+\--- /task \---
+
+\--- task \---
+
+Can you add code to your monkey sprite so that it spins slowly in a circle forever?
 
 \--- hints \--- \--- hint \---
 
-Amikor a zöld **zászlóra kattintasz**, a majom szereplőnek **forognia** kell egy körben **örökre**.
+When the green **flag is clicked**, your monkey sprite should **turn** in a circle **forever**.
 
 \--- /hint \--- \--- hint \---
 
-Íme a szükséges kódblokkok:
+Here are the code blocks you need:
 
 ```blocks3
 mindig
@@ -41,9 +51,9 @@ fordulj ↻ (15) fokot
 
 \--- /hint \--- \--- hint \---
 
-Itt van a kód, ami megforgatja a majmod:
+Here's the code to make your monkey spin:
 
-![Majom szereplő](images/sprite-monkey.png)
+![Monkey sprite](images/sprite-monkey.png)
 
 ```blocks3
 ⚑ -ra kattintáskor
@@ -56,6 +66,6 @@ end
 
 \--- /task \---
 
-Teszteld és mentsd le a projektet. Az animáció befejezéséhez kattints a piros **stop** gombra, különben végtelenszer lefutna!
+Test and save your project. You'll have to click on the red **stop** button to end this animation, as it runs forever!
 
-![Teszteld a forgó majmot](images/space-spin-test.png)
+![Test the spinning monkey](images/space-spin-test.png)
