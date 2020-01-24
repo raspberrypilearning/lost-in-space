@@ -2,9 +2,11 @@
 
 توجد طريقة أخرى لتحريك سفينة الفضاء وهي أن تأمر السفينة بالتحرك مسافات صغيرة عدة مرّات
 
-\--- task \--- احذف لبنة `إنزلق` {: class = "block3motion"} من تعليماتك البرمجية. للقيام بذلك، اسحب الكتلة خارج منطقة الكود واسقطها مرة أخرى حيث توجد التعليمات البرمجية المفردة الأخرى.
+\--- task \---
 
-![كائن سفينة الفضاء](images/sprite-spaceship.png)
+Delete the `glide`{:class="block3motion"} block from your code. To do this, drag the block off the Code area and drop it back where the other single code blocks are.
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 عند نقر ⚑
@@ -16,13 +18,15 @@
 انزلق خلال (1) ثانية إلى الموضع س: (0) ص: (0)
 ```
 
-\---/task--
+\--- /task \---
 
-\--- task \--- الآن استخدم لبنة `كرّر` {: class = "block3control"} لتحريك سفينة الفضاء الخاصة بك نحو الأرض؟
+\--- task \---
 
-![اختبار تحرك سفينة الفضاء](images/space-animate-stage.png)
+Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
 
-![كائن سفينة الفضاء](images/sprite-spaceship.png)
+![Testing a spaceship animation](images/space-animate-stage.png)
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 عند نقر ⚑
@@ -36,15 +40,17 @@
 end
 ```
 
-اختبر مشروعك وقم بحفظه: ستتحرَّك سفينة الفضاء نحو كوكب الأرض تمامًا كما كانت من قبل، لكن باستخدام القالب `كرِّر ` {:class="block3control"} في هذه المرة.
+Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
 
 \--- /task \---
 
-\--- task \--- بعدها قم بإضافة كود إلى كائن سفينة الفضاء الخاصة بك بحيث يتغير لون سفينة الفضاء أثناء تحركها نحو الأرض؟
+\--- task \---
 
-استخدم هذه الكتلة:
+Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
 
-![كائن سفينة الفضاء](images/sprite-spaceship.png)
+Use this block:
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 عند نقر ⚑
@@ -58,25 +64,27 @@ end
 end
 ```
 
-إختبر واحفظ المشروع الخاص بك.
+Test and save your code.
 
-![اختبار تغيير لون السفينة الفضائية](images/space-colour-test.png)
+![Testing a colour-changing spaceship](images/space-colour-test.png)
 
 \--- /task \---
 
-\--- task \--- هل يمكنك جعل سفينة الفضاء الخاصة بك تصبح أصغر كلما إقتربت من كوكب الأرض؟
+\--- task \---
+
+Can you make your spaceship get smaller as it moves towards Earth?
 
 \--- hints \---
 
 \--- hint \---
 
-يجب أن تبدأ سفينة الفضاء الخاصة بك بحجم ` 100٪ ` {:class="blocklooks"}، ثم ` يتغير الحجم ` {:class="blocklooks"} بمقدار صغير في كل مرة يتحرك فيها.
+Your spaceship should start at `100% size`{:class="blocklooks"}, and then `change size`{:class="blocklooks"} by a small amount each time it moves.
 
 \--- /hint \---
 
 \--- hint \---
 
-ستحتاج إلى إضافة هذه الكتل للكود الخاصة بك:
+You will need to add these blocks to your code:
 
 ![كائن سفينة الفضاء](images/sprite-spaceship.png)
 
@@ -90,9 +98,9 @@ end
 
 \--- hint \---
 
-يجب أن تبدو التعليمات البرمجية خاصتك بالشكل التالي:
+Your code should look like this:
 
-![كائن سفينة الفضاء](images/sprite-spaceship.png)
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 عند نقر ⚑
@@ -114,6 +122,6 @@ end
 
 \--- /task \---
 
-اختبر مشروعك وقم بحفظه. يجب أن يقل حجم سفينة الفضاء الآن أثناء تحركها. اختبر سفينة الفضاء **مرة أخرى**. هل تكون بالحجم الصحيح عندما تبدأ؟
+Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
 
-![اختبار تقلص السفينة الفضائية](images/space-size-test.png)
+![Testing a shrinking spaceship](images/space-size-test.png)
