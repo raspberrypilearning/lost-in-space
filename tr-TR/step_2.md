@@ -14,35 +14,45 @@ Scratch çevrimdışı düzenleyicisini indirip yüklemeniz gerekirse, bunu [ rp
 
 \--- /task \---
 
-\--- task \--- Sahne Alanı'na 'roket' ve 'Dünya' kuklaları ekleyin.
+\--- task \---
 
-![Uzay gemisi ve Dünya kuklası](images/space-sprites.png)
+Add 'rocketship' and 'Earth' sprites to your Stage.
+
+![Spaceship and Earth sprites](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
 \--- /task \---
 
-\--- task \--- Sahne Alanı'na 'Yıldızlar' fonunu ekleyin.
+\--- task \---
 
-![Bir uzay fonu](images/space-backdrop.png)
+Add the 'Stars' backdrop to your Stage.
 
-\--- /task \---
-
-\--- task \--- Uzay gemisi kuklasına tıklayın ve **Costumes** sekmesine tıklayın.
-
-![Kukla kostümü](images/space-costume.png)
+![A space backdrop](images/space-backdrop.png)
 
 \--- /task \---
 
-\--- task \--- Bir kutuya tıklayıp uzay gemisi görüntüsünün etrafına sürüklemek için **ok** aracını kullanın. Ardından, dairesel **döndürme** koluna tıklayın ve resmi yanına gelene kadar döndürün.
+\--- task \---
 
-![Kostüm döndürme](images/space-rotate.png)
+Click on your spaceship sprite, and click on the **Costumes** tab.
+
+![Sprite costume](images/space-costume.png)
 
 \--- /task \---
 
-\--- task \--- Bu kodu uzay gemisi kuklanıza ekleyin:
+\--- task \---
 
-![Uzay gemisi kuklası](images/sprite-spaceship.png)
+Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+
+![Rotating a costume](images/space-rotate.png)
+
+\--- /görev \---
+
+\--- task \---
+
+Add this code to your spaceship sprite:
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -53,10 +63,10 @@ point towards (Earth v)
 glide (1) secs to x:(0) y:(0)
 ```
 
-Eklediğiniz kod bloklarındaki sayıları, kodun yukarıdakiyle tamamen aynı olması için değiştirin.
+Change the numbers in the code blocks you've added so that the code is exactly the same as above.
 
-\--- /görev \---
+\--- /task \---
 
-Yeşil bayrağa tıklarsanız, uzay gemisinin konuştuğunu, döndüğünü ve sahnenin ortasına doğru kaydığını göreceksiniz.
+If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
 
-![Bir uzay gemisi animasyonunu test etme](images/space-animate-stage.png)
+![Testing a spaceship animation](images/space-animate-stage.png)
