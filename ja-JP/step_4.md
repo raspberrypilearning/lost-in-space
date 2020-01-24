@@ -2,9 +2,11 @@
 
 宇宙船をアニメーション化するもう1つの方法は、少量の移動を何回も繰り返すことです。
 
-\--- task \--- `動かす` {:class="block3motion"}ブロックをコードから削除します。これを行うには、コード領域からブロックをドラッグしてはずし、他の単一コードブロックがある場所にドロップします。
+\--- task \---
 
-![宇宙船のスプライト](images/sprite-spaceship.png)
+Delete the `glide`{:class="block3motion"} block from your code. To do this, drag the block off the Code area and drop it back where the other single code blocks are.
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 ⚑ が押されたとき
@@ -18,11 +20,13 @@ x座標を (-150) 、y座標を (-150) にする
 
 \--- /task \---
 
-\--- task \--- ここで、`繰り返し` {:class="block3control"}ブロックを使用して、宇宙船地は球に向けて移動しますか？
+\--- task \---
+
+Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
 
 ![Testing a spaceship animation](images/space-animate-stage.png)
 
-![宇宙船のスプライト](images/sprite-spaceship.png)
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 ⚑ が押されたとき
@@ -35,15 +39,17 @@ x座標を (-150) 、y座標を (-150) にする
   (2) 歩動かす
 ```
 
-コードをテストして保存します。宇宙船は以前とまったく同じように地球に向かって移動するはずですが、今回は`繰り返し` {:class="block3control"}ブロックを使用します。
+Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
 
 \--- /task \---
 
-\--- task \--- 次に、宇宙船のスプライトにコードを追加して、宇宙船が地球に向かって移動すると色が変わるようにしますか？
+\--- task \---
 
-このブロックを使用します:
+Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
 
-![宇宙船のスプライト](images/sprite-spaceship.png)
+Use this block:
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 ⚑ が押されたとき
@@ -57,25 +63,27 @@ x座標を (-150) 、y座標を (-150) にする
 +  [色 v] の効果を (25) ずつ変える
 ```
 
-コードをテストして保存します。
+Test and save your code.
 
-![色の変わる宇宙船のテスト](images/space-colour-test.png)
+![Testing a colour-changing spaceship](images/space-colour-test.png)
 
 \--- /task \---
 
-\--- task \--- 宇宙船が地球に向かって移動するにつれて、宇宙船を小さくすることができますか？
+\--- task \---
+
+Can you make your spaceship get smaller as it moves towards Earth?
 
 \--- hints \---
 
 \--- hint \---
 
-宇宙船は` 100％のサイズ` {:class="blocklooks"}で開始し、`サイズの変更`{:class="blocklooks"}を少しずつ移動するたびに行います。
+Your spaceship should start at `100% size`{:class="blocklooks"}, and then `change size`{:class="blocklooks"} by a small amount each time it moves.
 
 \--- /hint \---
 
 \--- hint \---
 
-これらのブロックをコードに追加する必要があります。
+You will need to add these blocks to your code:
 
 ![宇宙船のスプライト](images/sprite-spaceship.png)
 
@@ -89,9 +97,9 @@ x座標を (-150) 、y座標を (-150) にする
 
 \--- hint \---
 
-コードは次のようになります:
+Your code should look like this:
 
-![宇宙船のスプライト](images/sprite-spaceship.png)
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 ⚑ が押されたとき
@@ -113,6 +121,6 @@ x座標を (-150) 、y座標を (-150) にする
 
 \--- /task \---
 
-コードをテストして保存します。宇宙船は移動すると小さくなります。宇宙船を**2回目のテスト**します 。起動時に適切なサイズですか？
+Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
 
-![縮小する宇宙船のテスト](images/space-size-test.png)
+![Testing a shrinking spaceship](images/space-size-test.png)
