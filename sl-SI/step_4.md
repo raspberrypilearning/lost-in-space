@@ -2,9 +2,11 @@
 
 Drug način animiranja raket je, da se ji pove, da naj se velikokrat malo premakne
 
-\--- task \--- Izbriši blok `drsi`{:class="block3motion"} iz tvoje kode. V ta namen povleci block iz območja kode in ga vrzi nazaj med posamične bloke kode.
+\--- task \---
 
-![Figura rakete](images/sprite-spaceship.png)
+Delete the `glide`{:class="block3motion"} block from your code. To do this, drag the block off the Code area and drop it back where the other single code blocks are.
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 ko kliknemo na zastavico
@@ -18,11 +20,13 @@ obrni se proti (Zemlja)
 
 \--- /task \---
 
-\--- task \--- Sedaj uporabi blok `ponovi`{:class="block3control"}, da premakneš raketo bižje Zemlji.
+\--- task \---
 
-![Preizkušanje animacije vesoljske ladje](images/space-animate-stage.png)
+Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
 
-![Figura rakete](images/sprite-spaceship.png)
+![Testing a spaceship animation](images/space-animate-stage.png)
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 ko kliknemo na zastavico
@@ -35,15 +39,17 @@ obrni se proti (Zemlja)
   pojdi (2) korakov
 ```
 
-Preizkusi in shrani svojo kodo: Tvoja vesoljska ladja bi se morala premikati proti Zemlji na enak način kot prej, le da tokrat uporablja blok `ponovi`{:class="block3control"}.
+Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
 
 \--- /task \---
 
-\--- task \--- Sedaj dodaj tvoji raketi kodo, da bo figura tvoje rakete spreminjala barvo, ko se bo približevala Zemlji.
+\--- task \---
 
-Uporabi ta blok:
+Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
 
-![Figura rakete](images/sprite-spaceship.png)
+Use this block:
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 ko kliknemo na zastavico
@@ -57,25 +63,27 @@ ponovi (200) krat
 +  spremeni učinek [barva v] za (25)
 ```
 
-Preizkusi in shrani svoj projekt.
+Test and save your code.
 
-![Preizkušanje vesoljske ladje, ki spreminja barvo](images/space-colour-test.png)
+![Testing a colour-changing spaceship](images/space-colour-test.png)
 
 \--- /task \---
 
-\--- task \--- Ali lahko dosežeš, da bo tvoja raketa postajala manjša, ko se bo bližala Zemlji?
+\--- task \---
+
+Can you make your spaceship get smaller as it moves towards Earth?
 
 \--- hints \---
 
 \--- hint \---
 
-Tvoja raketa bi morala na začetku imeti `100% velikost`{:class="blocklooks"}, potem pa mora `spremeniti velikost`{:class="blocklooks"} za majhen odstotek, vsakič ko se premakne.
+Your spaceship should start at `100% size`{:class="blocklooks"}, and then `change size`{:class="blocklooks"} by a small amount each time it moves.
 
 \--- /hint \---
 
 \--- hint \---
 
-Tvoji kodi je potrebno dodati te bloke:
+You will need to add these blocks to your code:
 
 ![Figura rakete](images/sprite-spaceship.png)
 
@@ -89,9 +97,9 @@ nastavi velikost na (100) %
 
 \--- hint \---
 
-Tvoja koda bi morala izgledati tako:
+Your code should look like this:
 
-![Figura rakete](images/sprite-spaceship.png)
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 ko kliknemo na zastavico
@@ -113,6 +121,6 @@ ponovi (200) krat
 
 \--- /task \---
 
-Preizkusi in shrani kodo. Tvoja raketa bi se sedaj morala manjšati, ko se premika. Preizkusi svojo raketo **še drugič**. Je na začetku prave velikosti?
+Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
 
-![Preizkušanje zmanjševanja vesoljske ladje](images/space-size-test.png)
+![Testing a shrinking spaceship](images/space-size-test.png)
