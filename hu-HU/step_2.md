@@ -14,35 +14,45 @@ Ha le szeretnéd tölteni és telepíteni a Scratch offline szerkesztőt, akkor 
 
 \--- /task \---
 
-\--- task \--- Add hozzá a 'rocketship' és az 'Earth' szereplőt a játéktérhez.
+\--- task \---
 
-![Űrhajó és Föld szereplők](images/space-sprites.png)
+Add 'rocketship' and 'Earth' sprites to your Stage.
+
+![Spaceship and Earth sprites](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
 \--- /task \---
 
-\--- task \--- Add hozzá a 'Stars' hátteret a játéktérhez.
+\--- task \---
 
-![Egy űr háttér](images/space-backdrop.png)
+Add the 'Stars' backdrop to your Stage.
 
-\--- /task \---
-
-\--- task \--- Kattints az űrhajó szereplőre, majd a **Jelmezek** fülre.
-
-![Szereplő jelmez](images/space-costume.png)
+![A space backdrop](images/space-backdrop.png)
 
 \--- /task \---
 
-\--- task \--- Használd a **kijelölés** eszközt és rajzolj egy dobozt az egész űrhajó képe köré. Ezután kattints a **forgatásra** és forgasd el a képet az oldalára.
+\--- task \---
 
-![Jelmez forgatása](images/space-rotate.png)
+Click on your spaceship sprite, and click on the **Costumes** tab.
+
+![Sprite costume](images/space-costume.png)
 
 \--- /task \---
 
-\--- task \--- Add hozzá ezt a kódot az űrhajó szereplőhöz:
+\--- task \---
 
-![Űrhajó szereplő](images/sprite-spaceship.png)
+Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+
+![Rotating a costume](images/space-rotate.png)
+
+\--- /task \---
+
+\--- task \---
+
+Add this code to your spaceship sprite:
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 ⚑-ra kattintáskor
@@ -53,10 +63,10 @@ nézz (Earth) felé
 csússz (1) mp-ig ide x: (0) y: (0)
 ```
 
-Módosítsd a kódblokkokban szereplő számokat úgy, hogy a kód pontosan megegyezzen a fentiekkel.
+Change the numbers in the code blocks you've added so that the code is exactly the same as above.
 
 \--- /task \---
 
-Ha rákattintasz a zöld zászlóra, látnod kell az űrhajót beszélni, fordulni és a játéktér középre csúszni.
+If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
 
-![Űrhajó animáció tesztelése](images/space-animate-stage.png)
+![Testing a spaceship animation](images/space-animate-stage.png)
