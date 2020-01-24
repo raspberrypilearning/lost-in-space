@@ -2,9 +2,11 @@
 
 Зробити анімацію руху космічного корабля можна й по-іншому: наказавши йому рухатися малими відрізками багато разів
 
-\--- task \--- Видали із свого коду блок `ковзати`{:class="block3motion"}. Щоб це зробити, перетягни його із вкладки Код назад до інших одиночних блоків.
+\--- task \---
 
-![Спрайт космічного корабля](images/sprite-spaceship.png)
+Delete the `glide`{:class="block3motion"} block from your code. To do this, drag the block off the Code area and drop it back where the other single code blocks are.
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 коли ⚑ натиснуто
@@ -18,11 +20,13 @@
 
 \--- /task \---
 
-\--- task \--- Тепер використай блок `повторити`{:class="block3control"} для переміщення космічного корабля до Землі.
+\--- task \---
 
-![Тестування анімації космічного корабля](images/space-animate-stage.png)
+Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
 
-![Спрайт космічного корабля](images/sprite-spaceship.png)
+![Testing a spaceship animation](images/space-animate-stage.png)
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 коли ⚑ натиснуто
@@ -35,15 +39,17 @@
     перемістити на (2) кроків
 ```
 
-Перевір та збережи свій код. Твій космічний корабель повинен рухатися в напрямку Землі точно так, як раніше, але на цей раз, за допомогою блоку `повторити`.
+Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
 
 \--- /task \---
 
-\--- task \--- Далі додай код до спрайту космічного корабля, щоб він міняв колір, рухаючись до Землі.
+\--- task \---
 
-Використовуй цей блок:
+Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
 
-![Спрайт космічного корабля](images/sprite-spaceship.png)
+Use this block:
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 коли ⚑ натиснуто
@@ -57,25 +63,27 @@
   + змінити ефект [колір v] на (25)
 ```
 
-Протестуй та збережи свій проект.
+Test and save your code.
 
-![Тестування зміни кольору космічним кораблем](images/space-colour-test.png)
+![Testing a colour-changing spaceship](images/space-colour-test.png)
 
 \--- /task \---
 
-\--- task \--- Чи можеш ти зробити так, щоб космічний корабель зменшувався при русі до Землі?
+\--- task \---
+
+Can you make your spaceship get smaller as it moves towards Earth?
 
 \--- hints \---
 
 \--- hint \---
 
-Спочатку твій космічний корабель повинен мати `розмір 100`{:class="blocklooks"}, а далі використовуй `змінити розмір`{:class="blocklooks"} на невелике значення кожного разу, коли він переміщується.
+Your spaceship should start at `100% size`{:class="blocklooks"}, and then `change size`{:class="blocklooks"} by a small amount each time it moves.
 
 \--- /hint \---
 
 \--- hint \---
 
-Тобі треба буде додати наступні блоки до свого коду:
+You will need to add these blocks to your code:
 
 ![Спрайт космічного корабля](images/sprite-spaceship.png)
 
@@ -89,9 +97,9 @@
 
 \--- hint \---
 
-Твій код повинен виглядати так:
+Your code should look like this:
 
-![Спрайт космічного корабля](images/sprite-spaceship.png)
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 коли ⚑ натиснуто
@@ -113,6 +121,6 @@
 
 \--- /task \---
 
-Перевір та збережи свій код. Тепер твій космічний корабель має зменшуватися при русі. Перевір свій космічний корабель **іще раз**. Чи правильний у нього розмір на початку?
+Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
 
-![Тестування зменшення космічного корабля](images/space-size-test.png)
+![Testing a shrinking spaceship](images/space-size-test.png)
