@@ -2,33 +2,43 @@
 
 Aggiungiamo alla tua animazione una scimmietta che si è persa nello spazio!
 
-\--- task \--- Inizia aggiungendo lo sprite 'Monkey' dalla libreria.
+\--- task \---
 
-![Aggiungere lo sprite di una scimmia](images/space-monkey-sprite.png)
+Start by adding the 'monkey' sprite from the library.
 
-\--- /task \---
-
-Facendo click sullo sprite 'Monkey' e poi sulla scheda **Costumi**, puoi modificare l'aspetto della scimmietta.
-
-\--- attività \--- Imposta il riempimento affinchè sia trasparente selezionando la linea diagonale rossa. Per il contorno, imposta un colore bianco spostando il cursore Saturazione a `0`.
-
-![Rendi il colore bianco](images/make-white.png) \--- /task \---
-
-\--- task \--- Fare clic sullo strumento **cerchio ** e poi usalo per disegnare un casco spaziale bianco intorno alla testa della scimmia.
-
-![Casco della scimmia](images/space-monkey-edit.png)
+![Adding a monkey sprite](images/space-monkey-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Puoi aggiungere del codice alla tua scimmia in modo che ruoti lentamente per sempre?
+Click on your new monkey sprite and then click on **Costumes** so that you can edit how the monkey looks.
+
+\--- task \---
+
+Set the fill to be transparent by selecting the red line. For the outline, set a white colour by moving the Saturation slider to `0`.
+
+![Make white colour](images/make-white.png)
+
+\--- /task \---
+
+\--- task \---
+
+Click on the **circle** tool and then use it to draw a white space helmet around the monkey's head.
+
+![Monkey space helmet](images/space-monkey-edit.png)
+
+\--- /task \---
+
+\--- task \---
+
+Can you add code to your monkey sprite so that it spins slowly in a circle forever?
 
 \--- hints \--- \--- hint \---
 
-Quando si clicca **la bandiera verde**, il tuo sprite scimmia dovrebbe **girare** in cerchio **per sempre**.
+When the green **flag is clicked**, your monkey sprite should **turn** in a circle **forever**.
 
 \--- /hint \--- \--- hint \---
 
-Ecco i blocchi di codice che ti serviranno:
+Here are the code blocks you need:
 
 ```blocks3
 per sempre
@@ -41,9 +51,9 @@ quando si clicca sulla bandiera verde
 
 \--- /hint \--- \--- hint \---
 
-Ecco il codice per far girare la tua scimmia:
+Here's the code to make your monkey spin:
 
-![Sprite scimmia](images/sprite-monkey.png)
+![Monkey sprite](images/sprite-monkey.png)
 
 ```blocks3
 quando si clicca sulla bandiera verde
@@ -56,6 +66,6 @@ end
 
 \--- /task \---
 
-Prova e salva il tuo progetto. Dovrai cliccare sul pulsante rosso **stop** per terminare questa animazione, perché è in esecuzione per sempre!
+Test and save your project. You'll have to click on the red **stop** button to end this animation, as it runs forever!
 
-![Prova la scimmia rotante](images/space-spin-test.png)
+![Test the spinning monkey](images/space-spin-test.png)
