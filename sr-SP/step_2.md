@@ -14,35 +14,45 @@
 
 \--- /задатак \---
 
-\--- таск \--- Додајте 'роцкетсхип' и 'Еартх' спритес на вашу сцену.
+\--- task \---
 
-![Свемирски брод и земаљски духови](images/space-sprites.png)
+Add 'rocketship' and 'Earth' sprites to your Stage.
+
+![Spaceship and Earth sprites](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
-\--- /задатак \---
+\--- /task \---
 
-\--- задатак \--- Додајте позадину 'Старс' на вашу сцену.
+\--- task \---
 
-![Просторна позадина](images/space-backdrop.png)
+Add the 'Stars' backdrop to your Stage.
 
-\--- /задатак \---
+![A space backdrop](images/space-backdrop.png)
 
-\--- задатак \--- Кликните на свој сприте свемирског брода и кликните на картицу **Цостумес**.
+\--- /task \---
 
-![Сприте цостуме](images/space-costume.png)
+\--- task \---
 
-\--- /задатак \---
+Click on your spaceship sprite, and click on the **Costumes** tab.
 
-\--- задатак \--- Помоћу алата **стрелице** кликните и повуците оквир око цијеле слике свемирског брода. Затим кликните на кружном **ротирање** дршком, и окрените слику док је на њеној страни.
-
-![Ротирајући костим](images/space-rotate.png)
+![Sprite costume](images/space-costume.png)
 
 \--- /задатак \---
 
-\--- задатак \--- Додајте овај код у ваш свемирски брод:
+\--- task \---
 
-![Спацесхип сприте](images/sprite-spaceship.png)
+Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+
+![Rotating a costume](images/space-rotate.png)
+
+\--- /задатак \---
+
+\--- task \---
+
+Add this code to your spaceship sprite:
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 када је заставица кликнула
@@ -53,10 +63,10 @@
 глиде (1) сек. к: (0) и: (0)
 ```
 
-Промените бројеве у блоковима кода које сте додали тако да је код потпуно исти као горе.
+Change the numbers in the code blocks you've added so that the code is exactly the same as above.
 
-\--- /задатак \---
+\--- /task \---
 
-Ако кликнете на зелену заставу, требало би да видите како свемирски брод говори, окрећете се и клизи према центру фазе.
+If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
 
-![Тестирање анимације свемирског брода](images/space-animate-stage.png)
+![Testing a spaceship animation](images/space-animate-stage.png)
