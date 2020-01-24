@@ -2,17 +2,27 @@
 
 Rwyt ti am gyfunio dolenu i greu seren ddisglair.
 
-\--- task \--- Ychwanegu corlun 'seren' i dy lwyfan.
+\--- task \---
 
-![Ychwanegu corlun seren](images/space-star-sprite.png)
+Add a 'star' sprite to your stage.
+
+![Adding a star sprite](images/space-star-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Alli di ychwanegu côd i dy gorlun i wneud i'r seren dyfu a lleihau dro ar ôl tro?
+\--- task \---
 
-![Profi seren ddisglair](images/sprite-star.png)
+Can you add code to your star sprite to make the star repeatedly grow and shrink?
 
-\--- hints \--- \--- hint \--- Pan fo'r faner werdd **wedi ei glicio**, fe ddylai dy gorlun seren **newid maint** i fynd yn fwy ychydig o weithiau yna **newid maint** i leihau ychydig o weithiau. Fe ddylai wneud hyn fel ei fod yn mynd yn fwy yna yn llai **am byth** ac yn edrych fel golau sy'n disgleirio. \--- /hint \--- \--- hint \--- Dyma'r blociau côd rwyt ti eu hangen:
+![Testing a shining star](images/sprite-star.png)
+
+\--- hints \--- \--- hint \---
+
+When the green **flag is clicked**, your star sprite should **change size** to get bigger a few times, and then **change size** to get smaller a few times. It should do this so that it gets bigger and then smaller **forever** and looks like it's shining light.
+
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
 
 ```blocks3
 ailadrodd (10)
@@ -31,7 +41,11 @@ am byth
 end
 ```
 
--- /hint \--- \--- hint \--- Dyma'r côd i wneud dy seren i dyfu a lleihau: ![Corlun seren](images/sprite-star.png)
+\--- /hint \--- \--- hint \---
+
+Here's the code to make your star grow and shrink:
+
+![Star sprite](images/sprite-star.png)
 
 ```blocks3
 pan fo'r flag werdd yn cael ei glicio
