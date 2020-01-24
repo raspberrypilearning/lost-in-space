@@ -2,9 +2,11 @@
 
 අභ්‍යවකාශ යානය(spaceship එකක්) සජීවිකරණය(animate) කිරීමේ තවත් ක්‍රමයක් නම්, එයට කුඩා(small) දුර ප්‍රමාණයක්(amount) බොහෝ(many) වාරයක්(times) ඉදිරියට යාමට පැවසීමයි
 
-\--- task \--- ඔබේ කේතයෙන්(code එකෙන්) `ග්ලයිඩය(glide)`{:class="block3motion"} කට්ටිය(block එක) මකන්න. මෙය සිදු කිරීම සඳහා, කේත(code) ප්‍රදේශයෙන්(area එකෙන්) කට්ටිය(block එක) ඉවතට ඇද(drag කර), අනෙක් තනි(single) කේත(code) කට්ටිය(block එක) ඇති තැනට එය ආපසු දමන්න.
+\--- task \---
 
-![අභ්‍යවකාශ යානා(spaceship) sprite එක](images/sprite-spaceship.png)
+Delete the `glide`{:class="block3motion"} block from your code. To do this, drag the block off the Code area and drop it back where the other single code blocks are.
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -17,11 +19,13 @@ point towards (Earth v)
 
 \--- /task \---
 
-\--- task \--- දැන් `පුනරාවර්තනයක්(repeat)`{:class="block3control"} කට්ටියක්(block එකක්) භාවිතා කර, ඔබේ අභ්‍යවකාශ යානය(spaceship එක) පෘථිවිය(earth) දෙසට ගෙනයාමට සලස්වන්න?
+\--- task \---
 
-![අභ්‍යවකාශ යානා(spaceship) සජීවිකරණයක්(animation එකක්) පරීක්ෂා(test) කිරීම](images/space-animate-stage.png)
+Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
 
-![අභ්‍යවකාශ යානා(spaceship) sprite එක](images/sprite-spaceship.png)
+![Testing a spaceship animation](images/space-animate-stage.png)
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -34,15 +38,17 @@ point towards (Earth v)
      move (2) steps
 ```
 
-ඔබේ කේතය(code එක) පරීක්ෂා(test) කර සුරකින්න(save කරන්න). ඔබේ අභ්‍යවකාශ යානය(spaceship) පෙර මෙන් හරියටම පෘථිවිය දෙසට ගමන් කළ යුතුය, නමුත් මෙවර එය `පුනරාවර්තනයක්(repeat)`{:class="block3control"} කට්ටියක්(block එකක්) භාවිතා කරයි.
+Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
 
 \--- /task \---
 
-\--- task \--- ඊළඟට ඔබේ අභ්‍යවකාශ යානා(spaceship) sprite කේතයට, අභ්‍යවකාශ යානය(spaceship එක) පෘථිවිය(earth) දෙසට ගමන් කරන විට එහි වර්ණය වෙනස් වන පරිදි කේතයක්(code එකක්) එක් කරන්න?
+\--- task \---
 
-මෙම කට්ටිය(block එක) භාවිතා කරන්න:
+Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
 
-![අභ්‍යවකාශ යානා(spaceship) sprite එක](images/sprite-spaceship.png)
+Use this block:
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -56,25 +62,27 @@ repeat (200)
 + change [color v] effect by (25)
 ```
 
-ඔබේ කේතය(code එක) පරීක්ෂා(test) කර සුරකින්න(save කරන්න).
+Test and save your code.
 
-![වර්ණ වෙනස් කරන අභ්‍යවකාශ යානයක්(spaceship එකක්) පරීක්ෂා(test) කිරීම](images/space-colour-test.png)
+![Testing a colour-changing spaceship](images/space-colour-test.png)
 
 \--- /task \---
 
-\--- task \--- ඔබේ අභ්‍යවකාශ යානය(spaceship) පෘථිවිය(earth) දෙසට ගමන් කරන විට කුඩා වන පරිදි සැකසිය හැකිද?
+\--- task \---
+
+Can you make your spaceship get smaller as it moves towards Earth?
 
 \--- hints \---
 
-\--- hints \---
+\--- hint \---
 
-ඔබගේ අභ්‍යවකාශ යානය(spaceship එක) `100% ප්‍රමාණයෙන්(size)`{:class="blocklooks"} ආරම්භ විය යුතුය, පසුව එය චලනය වන සෑම අවස්ථාවකම කුඩා ප්‍රමාණයකින් එහි `ප්‍රමාණය වෙනස්(change size)`{:class="blocklooks"} කරන්න.
+Your spaceship should start at `100% size`{:class="blocklooks"}, and then `change size`{:class="blocklooks"} by a small amount each time it moves.
 
 \--- /hint \---
 
 \--- hints \---
 
-ඔබේ කේතයට(code එකට) මෙම කට්ටිය(block එක) එකතු කිරීමට ඔබට සිදුවේ:
+You will need to add these blocks to your code:
 
 ![අභ්‍යවකාශ යානා(spaceship) sprite එක](images/sprite-spaceship.png)
 
@@ -86,11 +94,11 @@ set size to (100) %
 
 \--- /hint \---
 
-\--- hints \---
+\--- hint \---
 
-ඔබේ කේතය(code එක) මේ ආකාරයේ එකක් විය යුතුය:
+Your code should look like this:
 
-![අභ්‍යවකාශ යානා(spaceship) sprite එක](images/sprite-spaceship.png)
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -106,10 +114,10 @@ repeat (200)
 
 \--- /hint \---
 
-\--- /hint \---
+\--- /hints \---
 
 \--- /task \---
 
-ඔබේ කේතය(code එක) පරීක්ෂා(test) කර සුරකින්න(save කරන්න). දැන් ඔබේ අභ්‍යවකාශ යානය(spaceship එක) චලනය වන විට කුඩා විය යුතුය. ඔබගේ අභ්‍යවකාශ යානය(spaceship එක) එය ආරම්භ වන විට එය නිවැරදි ප්‍රමාණයදැයි? **දෙවන වර(second time)** පරීක්ෂා(test) කරන්න.
+Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
 
-![හැකිලෙන(shrinking) අභ්‍යවකාශ යානයක්(spaceship එකක්) පරීක්ෂා(test) කිරීම](images/space-size-test.png)
+![Testing a shrinking spaceship](images/space-size-test.png)
