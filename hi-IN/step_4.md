@@ -2,9 +2,11 @@
 
 स्पेसशिप को एनिमेट करने का अन्य तरीका है कि इसे कई बार छोटी मात्रा में स्थानांतरित किया जाए।
 
-\---task\--- अपने कोड में से पर `फिसलें`{:class="block3motion"} ब्लॉक को delete (हटाएँ) कर दीजिये। इस कोड को हटाने के लिए, इस ब्लॉक को कोड क्षेत्र से खींचे और दुसरे कोड ब्लॉक के पास लजाईये।
+\--- task \---
 
-![स्पेसशिप स्प्राइट](images/sprite-spaceship.png)
+Delete the `glide`{:class="block3motion"} block from your code. To do this, drag the block off the Code area and drop it back where the other single code blocks are.
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -18,11 +20,13 @@ point towards (Earth v)
 
 \--- /task \---
 
-\--- task \--- अब `रिपीट`{:class="block3control"} ब्लॉक का उपयोग करके अपने अंतरिक्ष यान को पृथिवी के तरफ लाईये?
+\--- task \---
 
-![एक अंतरिक्ष यान एनीमेशन का परीक्षण](images/space-animate-stage.png)
+Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
 
-![स्पेसशिप स्प्राइट](images/sprite-spaceship.png)
+![Testing a spaceship animation](images/space-animate-stage.png)
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -35,15 +39,17 @@ point towards (Earth v)
     move (2) steps
 ```
 
-अपनी कोड को जाँच कर लीजिये और अपने कोड को बचा लीजिये। पिछली बार की तरह, आपकी अंतरिक्ष यान पृथ्वी की तरफ बढ़ना चाहिए पर इस बार एक `रिपीट`{:class="block3control"} ब्लॉक का उपयोग करके वही कार्य कर रहा है।
+Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
 
 \--- /task \---
 
-\--- task \--- फिर अपने स्पेसशिप स्प्राइट में कोड जोड़िये ताकि आपकी अंतरिक्ष यान खुदकी रंग बदले जैसे वह पृथ्वी की तरफ बढ़ रहा है?
+\--- task \---
 
-इस ब्लॉक का उपयोग करे:
+Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
 
-![स्पेसशिप स्प्राइट](images/sprite-spaceship.png)
+Use this block:
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -57,25 +63,27 @@ repeat (200)
 +    change [color v] effect by (25)
 ```
 
-आपकी को कोड को जाँच करे और आगे बढिये।
+Test and save your code.
 
-![रंग बदलने वाले अंतरिक्ष यान का परीक्षण करना](images/space-colour-test.png)
+![Testing a colour-changing spaceship](images/space-colour-test.png)
 
 \--- /task \---
 
-\--- task \--- क्या आप अपनी अंतरिक्ष यान को छोटा बना सकते है जैसे वह पृथ्वी की तरफ आये?
+\--- task \---
+
+Can you make your spaceship get smaller as it moves towards Earth?
 
 \--- hints \---
 
 \--- hint \---
 
-आपकी अंतरिक्ष यान `100% size`{:class="blocklooks"} से शुरू होनी चाहिए, उसके बाद `साइज`{:class="blocklooks"} तोड़ी तोड़ी करके बदले जब तक आपकी अंतरिक्ष यान चल रही हैं।
+Your spaceship should start at `100% size`{:class="blocklooks"}, and then `change size`{:class="blocklooks"} by a small amount each time it moves.
 
 \--- /hint \---
 
 \--- hint \---
 
-आपको अपनी कोड में यह ब्लॉक जोड़ना हैं:
+You will need to add these blocks to your code:
 
 ![स्पेसशिप स्प्राइट](images/sprite-spaceship.png)
 
@@ -85,13 +93,13 @@ change size by (10)
 set size to (100) %
 ```
 
-\--- /hint \---
+-- /hint \---
 
 \--- hint \---
 
-आपकी कोड कुछ इस तरह दिखनी चाहिए:
+Your code should look like this:
 
-![स्पेसशिप स्प्राइट](images/sprite-spaceship.png)
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -107,12 +115,12 @@ repeat (200)
 +   change size by (-3)
 ```
 
--- /hint \---
+\--- /hint \---
 
 \--- /hints \---
 
 \--- /task \---
 
-परीक्षण करें और सहेजें। आपकी स्पेसशिप स्थानांतरित होने पर छोटी दिखाई देनी चाहिए। **दूसरी बार** अपनी स्पेसशिप का परीक्षण करें। क्या आरंभ में इसका आकार उचित है?
+Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
 
-![एक सिकुड़ते अंतरिक्ष यान का परीक्षण](images/space-size-test.png)
+![Testing a shrinking spaceship](images/space-size-test.png)
