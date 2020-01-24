@@ -2,17 +2,27 @@
 
 Тепер ти додаси до своєї анімації літаючий астероїд.
 
-\--- task \--- Додай до своєї анімації спрайт "Rocks".
+\--- task \---
 
-![Додавання спрайту астероїда](images/space-rock-sprite.png)
+Add a 'rock' sprite to your animation.
+
+![Adding a rock sprite](images/space-rock-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Чи можеш ти додати код для того, щоб твій астероїд літав по сцені, відбиваючись від її країв?
+\--- task \---
 
-![Тестування астероїда, що відбивається](images/space-bounce-test.png)
+Can you add code for your rock sprite so that the rock bounces around the stage?
 
-\--- hints \--- \--- hint \--- Коли на зелений **прапор натиснуто**, спрайт астероїда повинен **рухатися** по сцені і **відбиватися** **завжди**. \--- /hint \--- \--- hint \--- Тобі знадобляться наступні блоки коду:
+![Testing a bouncing rock](images/space-bounce-test.png)
+
+\--- hints \--- \--- hint \---
+
+When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**.
+
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
 
 ```blocks3
 перемістити на (10) кроків
@@ -24,7 +34,7 @@
 завжди
 ```
 
-Також ти можеш задати цікавіший початковий напрямок для астероїда за допомогою одного з наступних блоків:
+You can also set a more interesting starting direction for the rock sprite with one of these blocks:
 
 ```blocks3
 поворот ↻ на (15) градусів
@@ -34,9 +44,9 @@
 
 \--- /hint \--- \--- hint \---
 
-Наступний код змусить астероїд літати по сцені, відбаваючись від її країв:
+Here's the code for making your rock bounce around the stage:
 
-![Спрайт астероїда](images/sprite-rock.png)
+![Rock sprite](images/sprite-rock.png)
 
 ```blocks3
 коли ⚑ натиснуто
