@@ -2,17 +2,27 @@
 
 አሁን ወደ ተንቀሳቃሽ ህዋዎ ውስጥ ተንሳፋፊ የድንጋይ ድንጋይ ያክላሉ.
 
-\--- ተግባር \--- ወደ አኒሜሽንዎ 'የሮክ' ስፔይት ይጨምሩ.
+\--- task \---
 
-![የሮክ ስፔይት መጨመር](images/space-rock-sprite.png)
+Add a 'rock' sprite to your animation.
 
-\--- / task \---
+![Adding a rock sprite](images/space-rock-sprite.png)
 
-\--- ተግባር \--- የሮክ ስፔሪክ ኮዱ እንዲፈጠር ማድረግ ይቻላል?
+\--- /task \---
 
-![ቦምብ ድንጋይ በመሞከር ላይ](images/space-bounce-test.png)
+\--- task \---
 
-\--- ፍንጮች \--- \--- ፍንጭ \--- አረንጓዴ ጊዜ **ባንዲራ ጠቅ ነው**, የእርስዎ ዓለት sprite ይገባል **እንቅስቃሴ** እና **ነጥሮ** ወደ መድረክ ዙሪያ **ለዘላለም**. \--- / hint \--- \--- ትርጓሜ \--- እነዚህ የሚያስፈልጉዎት የቁጥር አይነቶች ናቸው.
+Can you add code for your rock sprite so that the rock bounces around the stage?
+
+![Testing a bouncing rock](images/space-bounce-test.png)
+
+\--- hints \--- \--- hint \---
+
+When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**.
+
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
 
 ```blocks3
 ደረጃዎች (10) ማንቀሳቀስ
@@ -24,7 +34,7 @@
 ለዘላለም
 ```
 
-በተጨማሪም ከነዚህ ጥቁሮች ውስጥ ከአንዱ የጀርባ ስሪት ጋር የበለጠ አጓጊ አቅጣጫ መጀመር ይችላሉ.
+You can also set a more interesting starting direction for the rock sprite with one of these blocks:
 
 ```blocks3
 ወደ (15) ዲግሪ ዎች (
@@ -32,11 +42,11 @@
 ነጥብ ወደ (ቫ)
 ```
 
-\--- / hint \--- \--- እእስ \---
+\--- /hint \--- \--- hint \---
 
-የእርስዎ ድንካር በመድረክ ላይ ብቅ እንዲል የሚያደርግ ኮድ ይኸውና:
+Here's the code for making your rock bounce around the stage:
 
-![የሮክ ስፔሪ](images/sprite-rock.png)
+![Rock sprite](images/sprite-rock.png)
 
 ```blocks3
 አውድ በ
@@ -46,4 +56,4 @@
     ከፍቼ ላይ ቢቀይር
 ```
 
-\--- / hint \--- \--- / prine \--- \--- / task \---
+\--- /hint \--- \--- /hints \--- \--- /task \---
