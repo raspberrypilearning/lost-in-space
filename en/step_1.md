@@ -11,6 +11,7 @@ You are going to learn how to program your own animation!
 ### What you will make
 
 --- no-print ---
+
 Click on the green flag to see the animation.
 
 <div class="scratch-preview">
@@ -30,6 +31,7 @@ Click on the green flag to see the animation.
 ---
 title: What you will need
 ---
+
 ### Hardware
 
 + A computer capable of running Scratch 3
@@ -54,6 +56,7 @@ title: What you will learn
 - Understand that loops can be nested within each other
 
 --- /collapse ---
+
 --- collapse ---
 ---
 title: Additional information for educators
