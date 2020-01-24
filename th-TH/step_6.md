@@ -2,17 +2,27 @@
 
 ตอนนี้คุณจะเพิ่มหินลอยอวกาศในภาพเคลื่อนไหวของคุณ
 
-\--- task \--- เพิ่ม sprite 'rock' ให้แอนิเมชั่นของคุณ
+\--- task \---
 
-![เพิ่มสไปรต์หิน](images/space-rock-sprite.png)
+Add a 'rock' sprite to your animation.
 
-\--- / task \---
+![Adding a rock sprite](images/space-rock-sprite.png)
 
-\--- task \--- คุณสามารถเพิ่มรหัสสำหรับสไปรต์ร็อคของคุณเพื่อให้ก้อนหินกระเด้งรอบเวทีได้หรือไม่?
+\--- /task \---
 
-![ทดสอบหินที่กระดอน](images/space-bounce-test.png)
+\--- task \---
 
-\--- คำใบ้ \--- \--- คำใบ้ \--- เมื่อคลิก **ธงสีเขียว**สไปรต์หินของคุณควรเคลื่อนที่ **** และ **เด้ง** รอบเวที **ตลอดไป** \--- / hint \--- \--- hint \--- นี่คือบล็อคโค้ดที่คุณต้องการ:
+Can you add code for your rock sprite so that the rock bounces around the stage?
+
+![Testing a bouncing rock](images/space-bounce-test.png)
+
+\--- hints \--- \--- hint \---
+
+When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**.
+
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
 
 ```blocks3
 ย้าย (10) ขั้นตอน
@@ -24,7 +34,7 @@
 ตลอดไป
 ```
 
-นอกจากนี้คุณยังสามารถกำหนดทิศทางเริ่มต้นที่น่าสนใจยิ่งขึ้นสำหรับสไปรต์หินด้วยบล็อกเหล่านี้:
+You can also set a more interesting starting direction for the rock sprite with one of these blocks:
 
 ```blocks3
 เลี้ยว cw (15) องศา
@@ -32,11 +42,11 @@
 ชี้ไปทาง (Earth v)
 ```
 
-\--- / hint \--- \--- hint \---
+\--- /hint \--- \--- hint \---
 
-นี่คือรหัสสำหรับการทำให้หินของคุณเด้งไปรอบ ๆ เวที:
+Here's the code for making your rock bounce around the stage:
 
-![ร็อคสไปรท์](images/sprite-rock.png)
+![Rock sprite](images/sprite-rock.png)
 
 ```blocks3
 เมื่อธงคลิก
@@ -46,4 +56,4 @@
     หากอยู่บนขอบเด้ง
 ```
 
-\--- / hint \--- \--- / hints \--- \--- / task \---
+\--- /hint \--- \--- /hints \--- \--- /task \---
