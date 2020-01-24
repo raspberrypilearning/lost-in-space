@@ -2,17 +2,27 @@
 
 Maintenant, tu vas combiner les boucles pour faire une étoile brillante.
 
-\--- task \--- Ajoute un sprite 'étoile' à ta scène.
+\--- task \---
 
-![Ajouter une sprite étoile](images/space-star-sprite.png)
+Add a 'star' sprite to your stage.
+
+![Adding a star sprite](images/space-star-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Peux-tu ajouter du code à ton sprite étoile pour faire croître et rétrécir l'étoile de façon répétée?
+\--- task \---
 
-![Tester une étoile brillante](images/sprite-star.png)
+Can you add code to your star sprite to make the star repeatedly grow and shrink?
 
-\--- hints \--- \--- hint \--- Lorsque le drapeau vert ** est cliqué ** , ton sprite étoile devrait ** changer de taille ** pour grossir plusieurs fois, puis ** changer de taille ** pour devenir plus petit plusieurs fois. Il devrait le faire pour qu'il soit plus grand et ensuite plus petit **pour toujours** et que cela le fasse comme briller. \--- /hint \--- \--- hint \--- Voici les blocs de code dont tu auras besoin:
+![Testing a shining star](images/sprite-star.png)
+
+\--- hints \--- \--- hint \---
+
+When the green **flag is clicked**, your star sprite should **change size** to get bigger a few times, and then **change size** to get smaller a few times. It should do this so that it gets bigger and then smaller **forever** and looks like it's shining light.
+
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
 
 ```blocks3
 répéter (10) fois
@@ -30,7 +40,11 @@ ajouter (10) à la taille
 répéter indéfiniment
 ```
 
-\--- /hint \--- \--- hint \--- Voici le code pour faire grossir et réduire ton étoile: ![Sprite Étoile](images/sprite-star.png)
+\--- /hint \--- \--- hint \---
+
+Here's the code to make your star grow and shrink:
+
+![Star sprite](images/sprite-star.png)
 
 ```blocks3
 quand le drapeau vert pressé
