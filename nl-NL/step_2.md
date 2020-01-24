@@ -14,7 +14,9 @@ Als je de Scratch offline editor wilt downloaden en installeren dan kun je die v
 
 \--- /task \---
 
-\--- task \--- Voeg de 'Rocketship' en 'Earth' sprites toe aan je speelveld.
+\--- task \---
+
+Add 'rocketship' and 'Earth' sprites to your Stage.
 
 ![Spaceship and Earth sprites](images/space-sprites.png)
 
@@ -22,27 +24,35 @@ Als je de Scratch offline editor wilt downloaden en installeren dan kun je die v
 
 \--- /task \---
 
-\--- task \--- Voeg de achtergrond 'Stars' toe aan je speelveld.
+\--- task \---
 
-![De ruimte als achtergrond](images/space-backdrop.png)
+Add the 'Stars' backdrop to your Stage.
 
-\--- /task \---
-
-\--- task\--- Klik eerst op de sprite van je ruimteschip en klik vervolgens op de tab **Uiterlijken**.
-
-![Sprite uiterlijk](images/space-costume.png)
+![A space backdrop](images/space-backdrop.png)
 
 \--- /task \---
 
-\--- task \--- Gebruik het **pijl**-gereedschap om het ruimteschip in zijn geheel te selecteren. Doe dit door te klikken en een rechthoek te slepen rond het ruimteschip. Klik daarna op het ronde **draai**-handvat en draai de afbeelding tot die op zijn kant ligt.
+\--- task \---
 
-![Een uiterlijk draaien](images/space-rotate.png)
+Click on your spaceship sprite, and click on the **Costumes** tab.
+
+![Sprite costume](images/space-costume.png)
 
 \--- /task \---
 
-\--- task \--- Voeg deze code toe aan de sprite van je ruimteschip:
+\--- task \---
 
-![Ruimteschip sprite](images/sprite-spaceship.png)
+Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+
+![Rotating a costume](images/space-rotate.png)
+
+\--- /task \---
+
+\--- task \---
+
+Add this code to your spaceship sprite:
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 wanneer groene vlag wordt aangeklikt
@@ -53,10 +63,10 @@ richt naar (Earth v)
 schuif in (1) sec. naar x: (0) y: (0)
 ```
 
-Wijzig de getallen in de codeblokken die je hebt toevoegd, zodat de code precies hetzelfde is als hierboven.
+Change the numbers in the code blocks you've added so that the code is exactly the same as above.
 
 \--- /task \---
 
-Als je op de groene vlag klikt zie je het ruimteschip praten, draaien en naar het midden van het speelveld zweven.
+If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
 
-![Een ruimteschip-animatie testen](images/space-animate-stage.png)
+![Testing a spaceship animation](images/space-animate-stage.png)
