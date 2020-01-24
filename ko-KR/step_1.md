@@ -10,7 +10,9 @@
 
 ### 만들게 될 것
 
-\--- no-print \--- 녹색 깃발을 클릭하면 애니메이션을 볼 수 있습니다.
+\--- no-print \---
+
+Click on the green flag to see the animation.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -21,7 +23,7 @@
 
 \--- print-only \---
 
-![완료 된 프로젝트](images/showcase_static.png)
+![Complete project](images/showcase_static.png)
 
 \--- /print-only \---
 
@@ -41,7 +43,7 @@
 
 - 없음
 
-\--- / collapse \---
+\--- /collapse \---
 
 ## \--- collapse \---
 
@@ -57,8 +59,8 @@
 
 ## title: 교육자를 위한 추가 정보
 
-이 프로젝트를 인쇄하려면, [프린트용 버전](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}을 사용하십시오.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
-여기서 [완료된 프로젝트를 확인할 수 있습니다](http://rpf.io/p/en/lost-in-space-get)"}.
+You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
--- /collapse \---
+\--- /collapse \---
