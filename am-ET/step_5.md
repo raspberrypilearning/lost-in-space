@@ -2,33 +2,43 @@
 
 አሁን በአኒሜሽንዎ ውስጥ የጠፈርን አንድ ጠፍጣፋ አክል!
 
-\--- task \--- '' ዝንጀሮ '' sprite from the library.
+\--- task \---
 
-![አንድ ጦጣ ስፔር ላይ ማከል](images/space-monkey-sprite.png)
+Start by adding the 'monkey' sprite from the library.
+
+![Adding a monkey sprite](images/space-monkey-sprite.png)
+
+\--- /task \---
+
+Click on your new monkey sprite and then click on **Costumes** so that you can edit how the monkey looks.
+
+\--- task \---
+
+Set the fill to be transparent by selecting the red line. For the outline, set a white colour by moving the Saturation slider to `0`.
+
+![Make white colour](images/make-white.png)
 
 \--- / task \---
 
-አዳዲስ ዝንጀሮዎችዎ ላይ ጠቅ ያድርጉና ከዚያ **ጦጣዎች** ጠቅ ያድርጉ በዚህም ጦጣ እንዴት እንደሚመስል ማስተካከል ይችላሉ.
+\--- task \---
 
-\--- ተግባር \--- ቀዩን መስመር በመምረጥ ሙሌቱን ሇማስተዋሌ ያዘጋጁ. ለሥርጫው ቅዳ የ Saturation ስላይን ወደ `0`በማንቀሳቀስ ነጭ ቀለም ያዘጋጁ.
+Click on the **circle** tool and then use it to draw a white space helmet around the monkey's head.
 
-![ነጭ ቀለም አድርግ](images/make-white.png) \--- / task \---
+![Monkey space helmet](images/space-monkey-edit.png)
 
-\--- ተግባር \--- በ **ክበብ** መሳሪያ ላይ ጠቅ አድርግና ከዛም የጦጣው ራስ ዙሪያ ያለውን የነጭ መከላከያ ራስ ለማዘጋጀት ተጠቀምበት.
+\--- /task \---
 
-![የዝንጀይ ርቀት ራስ ቁር](images/space-monkey-edit.png)
+\--- task \---
 
-\--- / task \---
+Can you add code to your monkey sprite so that it spins slowly in a circle forever?
 
-\--- ተግባር \--- ለዘለዓለም ክበብ ውስጥ ቀስ ብለው እንዲሽከረከሩ ወደ ጦጣዎ ስዕላትን መጨመር ይችላሉ?
+\--- hints \--- \--- hint \---
 
-\--- hints \--- \--- እእስ \---
+When the green **flag is clicked**, your monkey sprite should **turn** in a circle **forever**.
 
-አረንጓዴ መቼ **ባንዲራ ጠቅ**, የእርስዎ ጦጣ sprite ይገባል **በተራው** ክበብ ውስጥ **ለዘላለም**.
+\--- /hint \--- \--- hint \---
 
-\--- / hint \--- \--- እእስ \---
-
-የሚያስፈልገዎትን የሚያግድ ኮድ እነሆ:
+Here are the code blocks you need:
 
 ```blocks3
 ጠቋሚ ሲጫወት ለዘለዓለም
@@ -39,11 +49,11 @@
 )
 ```
 
-\--- / hint \--- \--- እእስ \---
+\--- /hint \--- \--- hint \---
 
-ጦጣዎ እንዲሽከረከር ለማድረግ ኮዱ ይኸውና:
+Here's the code to make your monkey spin:
 
-![ጦጣ](images/sprite-monkey.png)
+![Monkey sprite](images/sprite-monkey.png)
 
 ```blocks3
 ባንዲራ ጠቅ ጊዜ
@@ -51,10 +61,10 @@
     በተራው CW (1) ዲግሪ
 ```
 
-\--- / hint \--- \--- / prinements \---
+\--- /hint \--- \--- /hints \---
 
-\--- / task \---
+\--- /task \---
 
-ፕሮጀክትዎን ይፈትሹ እና ያስቀምጡ. ይህንን በቀለበተለጭ ለመጨረስ በቀይ **መቆም** አዝራር ላይ ጠቅ ማድረግ አለብዎት.
+Test and save your project. You'll have to click on the red **stop** button to end this animation, as it runs forever!
 
-![የሚጣፍጥ ጦጣ ይፈትኑት](images/space-spin-test.png)
+![Test the spinning monkey](images/space-spin-test.png)
