@@ -14,35 +14,45 @@ Jika Anda perlu mengunduh dan menginstal editor Scratch offline, Anda dapat mene
 
 \--- /task \---
 
-\--- task \--- Tambahkan sprite 'rocketship' dan 'Earth' ke Stage Anda.
+\--- task \---
 
-![Sprite Pesawat luar angkasa dan Bumi](images/space-sprites.png)
+Add 'rocketship' and 'Earth' sprites to your Stage.
+
+![Spaceship and Earth sprites](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
-\--- /tugas \---
+\--- /task \---
 
-\--- task \--- Tambahkan latar belakang 'Stars' ke Stage Anda.
+\--- task \---
 
-![Latar belakang luar angkasa](images/space-backdrop.png)
+Add the 'Stars' backdrop to your Stage.
+
+![A space backdrop](images/space-backdrop.png)
 
 \--- /task \---
 
-\--- tugas \--- Klik sprite pesawat ruang angkasa Anda, dan klik pada tab **Kostum**
+\--- task \---
 
-![Kostum sprite](images/space-costume.png)
+Click on your spaceship sprite, and click on the **Costumes** tab.
 
-\--- /task \---
-
-\--- task \--- Gunakan alat panah **** untuk mengklik dan menyeret sebuah kotak di sekitar seluruh gambar pesawat ruang angkasa. Kemudian klik pada pegangan melingkar **putar** , dan putar gambar sampai berada di sisinya.
-
-![Memutar kostum](images/space-rotate.png)
+![Sprite costume](images/space-costume.png)
 
 \--- /task \---
 
-\--- task \--- Tambahkan kode ini ke sprite spaceship Anda:
+\--- task \---
 
-![Sprite pesawat ruang angkasa](images/sprite-spaceship.png)
+Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+
+![Rotating a costume](images/space-rotate.png)
+
+\--- /task \---
+
+\--- task \---
+
+Add this code to your spaceship sprite:
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 ketika bendera diklik
@@ -53,10 +63,10 @@ titik menuju (Bumi v)
 meluncur (1) dtk x: (0) y: (0)
 ```
 
-Ubah angka dalam blok kode yang telah Anda tambahkan sehingga kode persis sama seperti di atas.
+Change the numbers in the code blocks you've added so that the code is exactly the same as above.
 
 \--- /task \---
 
-Jika Anda mengklik bendera hijau, Anda akan melihat pesawat ruang angkasa berbicara, berputar, dan meluncur menuju pusat panggung.
+If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
 
-![Menguji animasi pesawat luar angkasa](images/space-animate-stage.png)
+![Testing a spaceship animation](images/space-animate-stage.png)
