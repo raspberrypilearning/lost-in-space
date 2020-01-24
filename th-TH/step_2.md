@@ -14,35 +14,45 @@
 
 \--- / task \---
 
-\--- task \--- เพิ่ม 'rocketship' และ 'Earth' สไปรต์บนเวทีของคุณ
+\--- task \---
 
-![ยานอวกาศและโลกสไปรต์](images/space-sprites.png)
+Add 'rocketship' and 'Earth' sprites to your Stage.
+
+![Spaceship and Earth sprites](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
-\--- / task \---
+\--- /task \---
 
-\--- task \--- เพิ่มฉากหลัง 'Stars' ลงใน Stage ของคุณ
+\--- task \---
 
-![ฉากหลังอวกาศ](images/space-backdrop.png)
+Add the 'Stars' backdrop to your Stage.
 
-\--- / task \---
+![A space backdrop](images/space-backdrop.png)
 
-\--- task \--- คลิกที่สไปรต์ยานอวกาศของคุณและคลิกที่แท็บ **Costumes**
+\--- /task \---
 
-![เทพดาอาภรณ์](images/space-costume.png)
+\--- task \---
 
-\--- / task \---
+Click on your spaceship sprite, and click on the **Costumes** tab.
 
-\--- task \--- ใช้เครื่องมือ **arrow** เพื่อคลิกและลากกล่องล้อมรอบรูปยานอวกาศ จากนั้นคลิกที่หมายเลขวงกลม **หมุน** และหมุนรูปภาพจนกระทั่งอยู่ด้านข้าง
-
-![หมุนชุด](images/space-rotate.png)
+![Sprite costume](images/space-costume.png)
 
 \--- / task \---
 
-\--- task \--- เพิ่มรหัสนี้ในยานอวกาศของคุณสไปรต์:
+\--- task \---
 
-![ยานอวกาศเทพดา](images/sprite-spaceship.png)
+Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+
+![Rotating a costume](images/space-rotate.png)
+
+\--- / task \---
+
+\--- task \---
+
+Add this code to your spaceship sprite:
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 เมื่อธงคลิก
@@ -53,10 +63,10 @@
 glide (1) วินาทีถึง x: (0) y: (0)
 ```
 
-เปลี่ยนตัวเลขในบล็อครหัสที่คุณเพิ่มเพื่อให้รหัสตรงกับข้างบน
+Change the numbers in the code blocks you've added so that the code is exactly the same as above.
 
-\--- / task \---
+\--- /task \---
 
-หากคุณคลิกที่ธงสีเขียวคุณจะเห็นยานอวกาศพูดเลี้ยวและเหินไปทางกลางเวที
+If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
 
-![ทดสอบภาพเคลื่อนไหวยานอวกาศ](images/space-animate-stage.png)
+![Testing a spaceship animation](images/space-animate-stage.png)
