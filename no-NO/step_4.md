@@ -2,7 +2,9 @@
 
 Another way to animate the spaceship is to tell it to move a small amount many times
 
-\--- task \--- Delete the `glide`{:class="block3motion"} block from your code. To do this, drag the block off the Code area and drop it back where the other single code blocks are.
+\--- task \---
+
+Delete the `glide`{:class="block3motion"} block from your code. To do this, drag the block off the Code area and drop it back where the other single code blocks are.
 
 ![Spaceship sprite](images/sprite-spaceship.png)
 
@@ -18,7 +20,9 @@ point towards (Earth v)
 
 \--- /task \---
 
-\--- task \--- Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
+\--- task \---
+
+Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
 
 ![Testing a spaceship animation](images/space-animate-stage.png)
 
@@ -39,7 +43,9 @@ Test and save your code. Your spaceship should move towards the Earth exactly as
 
 \--- /task \---
 
-\--- task \--- Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
+\--- task \---
+
+Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
 
 Use this block:
 
@@ -63,7 +69,9 @@ Test and save your code.
 
 \--- /task \---
 
-\--- task \--- Can you make your spaceship get smaller as it moves towards Earth?
+\--- task \---
+
+Can you make your spaceship get smaller as it moves towards Earth?
 
 \--- hints \---
 
