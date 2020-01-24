@@ -2,17 +2,27 @@
 
 Maintenant tu vas ajouter une météore flottante à ton animation.
 
-\--- task \--- Ajoute un sprite 'météore' à ton animation.
+\--- task \---
 
-![Ajout d'un sprite météore](images/space-rock-sprite.png)
+Add a 'rock' sprite to your animation.
+
+![Adding a rock sprite](images/space-rock-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Peux-tu ajouter du code pour ton sprite météore afin qu'elle rebondisse sur la scène?
+\--- task \---
 
-![Tester une météore rebondissante](images/space-bounce-test.png)
+Can you add code for your rock sprite so that the rock bounces around the stage?
 
-\--- hints \--- \--- hint \--- quand le **drapeau vert pressé**, ton sprite météore doit **déplacer** et **rebondir** autour de la scène **indéfiniment**. \--- /hint \--- \--- hint \--- Voici les blocs de code dont tu auras besoin:
+![Testing a bouncing rock](images/space-bounce-test.png)
+
+\--- hints \--- \--- hint \---
+
+When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**.
+
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
 
 ```blocks3
 avancer de (10) pas
@@ -24,7 +34,7 @@ quand le drapeau vert pressé
 répéter indéfiniment
 ```
 
-Tu peux également définir une direction de départ plus intéressante pour le sprite météore avec l'un de ces blocs:
+You can also set a more interesting starting direction for the rock sprite with one of these blocks:
 
 ```blocks3
 tourner droite de (15) degrés
@@ -34,9 +44,9 @@ s'orienter vers (Terre v)
 
 \--- /hint \--- \--- hint \---
 
-Voici le code pour faire rebondir ta météore sur la scène:
+Here's the code for making your rock bounce around the stage:
 
-![Sprite Météore](images/sprite-rock.png)
+![Rock sprite](images/sprite-rock.png)
 
 ```blocks3
 quand le drapeau vert pressé
