@@ -2,33 +2,43 @@
 
 宇宙で迷子（まいご）になっているサルをアニメーションに追加しましょう！
 
-\--- task \--- ライブラリから「サル」スプライトを追加することから始めます。
+\--- task \---
+
+Start by adding the 'monkey' sprite from the library.
 
 ![Adding a monkey sprite](images/space-monkey-sprite.png)
 
 \--- /task \---
 
-新しいサルのスプライトをクリックし、**コスチューム**をクリックすると、サルの見えを編集できます。
+Click on your new monkey sprite and then click on **Costumes** so that you can edit how the monkey looks.
 
-\--- task \--- 赤い線を選択して、塗りつぶしを透明に設定します。アウトラインは、彩度スライダーを`0`に動かして白色に設定します 。
+\--- task \---
 
-![白い色にする](images/make-white.png) \--- /task \---
+Set the fill to be transparent by selecting the red line. For the outline, set a white colour by moving the Saturation slider to `0`.
 
-\--- task \--- **円**ツールをクリックして、サルの頭の周りに白いスペースヘルメットを描きます。
+![Make white colour](images/make-white.png)
+
+\--- /task \---
+
+\--- task \---
+
+Click on the **circle** tool and then use it to draw a white space helmet around the monkey's head.
 
 ![Monkey space helmet](images/space-monkey-edit.png)
 
 \--- /task \---
 
-\--- task \--- サルのスプライトにコードを追加して、ずっとゆっくりと円を描くように回転するようにできますか？
+\--- task \---
+
+Can you add code to your monkey sprite so that it spins slowly in a circle forever?
 
 \--- hints \--- \--- hint \---
 
-緑の**フラグがクリックされた**とき 、サルのスプライトは**ずっと**円を描くように**回転する**はずです 。
+When the green **flag is clicked**, your monkey sprite should **turn** in a circle **forever**.
 
 \--- /hint \--- \--- hint \---
 
-必要なコードブロックは次のとおりです。
+Here are the code blocks you need:
 
 ```blocks3
 ずっと
@@ -41,9 +51,9 @@ end
 
 \--- /hint \--- \--- hint \---
 
-サルを回転させるコードは次のとおりです:
+Here's the code to make your monkey spin:
 
-![サルのスプライト](images/sprite-monkey.png)
+![Monkey sprite](images/sprite-monkey.png)
 
 ```blocks3
 ⚑ が押されたとき
@@ -56,6 +66,6 @@ end
 
 \--- /task \---
 
-プロジェクトをテストして保存します。ずっと実行されるので、このアニメーションを終了させるために赤い**ストップ**ボタンをクリックする必要があります。
+Test and save your project. You'll have to click on the red **stop** button to end this animation, as it runs forever!
 
-![回転するサルをテストする](images/space-spin-test.png)
+![Test the spinning monkey](images/space-spin-test.png)
