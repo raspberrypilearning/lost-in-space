@@ -2,17 +2,27 @@
 
 Ora aggiungerai una roccia spaziale galleggiante alla tua animazione.
 
-\--- task \--- Aggiungi uno sprite 'Rocks' alla tua animazione.
+\--- task \---
 
-![Aggiungere la sprite di una roccia](images/space-rock-sprite.png)
+Add a 'rock' sprite to your animation.
+
+![Adding a rock sprite](images/space-rock-sprite.png)
 
 \--- /task \---
 
-\--- attività \--- Puoi aggiungere il codice per lo sprite della roccia in modo che rimbalzi tutto attorno?
+\--- task \---
 
-![Testare una roccia che rimbalza](images/space-bounce-test.png)
+Can you add code for your rock sprite so that the rock bounces around the stage?
 
-\--- hints \--- \--- hint \--- Dopo aver **cliccato su ⚑**, la tua roccia dovrebbe **muoversi** e **rimbalzare** nello spazio **per sempre**. \--- /hint \--- \--- hint \--- Ecco i blocchi di codice che ti serviranno:
+![Testing a bouncing rock](images/space-bounce-test.png)
+
+\--- hints \--- \--- hint \---
+
+When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**.
+
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
 
 ```blocks3
 fai (10) passi
@@ -25,7 +35,7 @@ per sempre
 end
 ```
 
-Puoi anche impostare una direzione di partenza più interessante per lo sprite roccia con uno di questi blocchi:
+You can also set a more interesting starting direction for the rock sprite with one of these blocks:
 
 ```blocks3
 ruota in senso orario di (15) gradi
@@ -35,9 +45,9 @@ punta verso (Earth v)
 
 \--- /hint \--- \--- hint \---
 
-Ecco il codice per fare sì che la tua roccia rimbalzi tutto attorno:
+Here's the code for making your rock bounce around the stage:
 
-![Sprite roccia](images/sprite-rock.png)
+![Rock sprite](images/sprite-rock.png)
 
 ```blocks3
 quando si clicca sulla bandiera verde
