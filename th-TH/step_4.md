@@ -2,9 +2,11 @@
 
 อีกวิธีหนึ่งในการทำให้ยานอวกาศเคลื่อนไหวคือการบอกให้มันเคลื่อนที่ในปริมาณเล็กน้อยหลายครั้ง
 
-\--- task \--- ลบบล็อค `glide`{: class = "block3motion"} จากโค้ดของคุณ ในการดำเนินการนี้ให้ลากบล็อกออกจากพื้นที่รหัสและวางกลับไปที่จุดบล็อกรหัสอื่น ๆ
+\--- task \---
 
-![ยานอวกาศเทพดา](images/sprite-spaceship.png)
+Delete the `glide`{:class="block3motion"} block from your code. To do this, drag the block off the Code area and drop it back where the other single code blocks are.
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 เมื่อธงคลิก
@@ -16,13 +18,15 @@
 - ร่อน (1) วินาที ถึง x: (0) y: (0)
 ```
 
-\--- / task \---
+\--- /task \---
 
-\--- task \--- ทีนี้ใช้บล็อค `ซ้ำ`{: class = "block3control"} เพื่อย้ายยานอวกาศของคุณไปยังโลก?
+\--- task \---
 
-![ทดสอบภาพเคลื่อนไหวยานอวกาศ](images/space-animate-stage.png)
+Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
 
-![ยานอวกาศเทพดา](images/sprite-spaceship.png)
+![Testing a spaceship animation](images/space-animate-stage.png)
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 เมื่อธงคลิก
@@ -35,15 +39,17 @@
     ย้าย (2) ขั้นตอน
 ```
 
-ทดสอบและบันทึกรหัสของคุณ ยานอวกาศของคุณควรเคลื่อนที่ไปสู่โลกอย่างที่เคยเป็นมา แต่คราวนี้มันใช้บล็อก `ซ้ำ`{: class = "block3control"}
+Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
 
-\--- / task \---
+\--- /task \---
 
-\--- ภารกิจ \--- จากนั้นเพิ่มรหัสลงในยานอวกาศของคุณเพื่อให้ยานอวกาศเปลี่ยนสีเมื่อมันเคลื่อนเข้าหาโลก
+\--- task \---
 
-ใช้บล็อกนี้:
+Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
 
-![ยานอวกาศเทพดา](images/sprite-spaceship.png)
+Use this block:
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 เมื่อธงคลิก
@@ -57,25 +63,27 @@
 + เปลี่ยนเอฟเฟกต์ [color v] โดย (25)
 ```
 
-ทดสอบและบันทึกรหัสของคุณ
+Test and save your code.
 
-![ทดสอบยานอวกาศที่เปลี่ยนสี](images/space-colour-test.png)
+![Testing a colour-changing spaceship](images/space-colour-test.png)
 
-\--- / task \---
+\--- /task \---
 
-\--- task \--- คุณช่วยให้ยานอวกาศของคุณเล็กลงเมื่อมันเคลื่อนไปสู่โลกได้หรือไม่?
+\--- task \---
 
-\--- คำแนะนำ \---
+Can you make your spaceship get smaller as it moves towards Earth?
 
-\--- คำใบ้ \---
+\--- hints \---
 
-ยานอวกาศของคุณควรเริ่มต้นที่ `100% ขนาด`{: class = "blocklooks"} จากนั้น `เปลี่ยนขนาด`{: class = "blocklooks"} ด้วยจำนวนเล็กน้อยในแต่ละครั้งที่มันเคลื่อนที่
+\--- hint \---
+
+Your spaceship should start at `100% size`{:class="blocklooks"}, and then `change size`{:class="blocklooks"} by a small amount each time it moves.
 
 \--- / คำใบ้ \---
 
 \--- คำใบ้ \---
 
-คุณจะต้องเพิ่มบล็อคเหล่านี้ในรหัสของคุณ:
+You will need to add these blocks to your code:
 
 ![ยานอวกาศเทพดา](images/sprite-spaceship.png)
 
@@ -87,11 +95,11 @@
 
 \--- / คำใบ้ \---
 
-\--- คำใบ้ \---
+\--- hint \---
 
-รหัสของคุณควรมีลักษณะเช่นนี้:
+Your code should look like this:
 
-![ยานอวกาศเทพดา](images/sprite-spaceship.png)
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 เมื่อตั้งค่าสถานะให้คลิก
@@ -107,12 +115,12 @@
 + เปลี่ยนขนาดโดย (-3)
 ```
 
-\--- / คำใบ้ \---
+\--- /hint \---
 
-\--- / คำใบ้ \---
+\--- /hints \---
 
-\--- / task \---
+\--- /task \---
 
-ทดสอบและบันทึกรหัสของคุณ ยานอวกาศของคุณควรมีขนาดเล็กลงเมื่อมันเคลื่อนที่ ทดสอบยานอวกาศของคุณ **ครั้งที่สอง**มันขนาดที่เหมาะสมเมื่อมันเริ่ม?
+Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
 
-![ทดสอบยานอวกาศที่กำลังหดตัว](images/space-size-test.png)
+![Testing a shrinking spaceship](images/space-size-test.png)
