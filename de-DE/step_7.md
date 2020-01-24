@@ -2,17 +2,27 @@
 
 Lass' uns Schleifen kombinieren, um einen strahlenden Stern zu machen.
 
-\--- task \--- Füge deiner Animation eine "star"- (Sternen-) Figur hinzu.
+\--- task \---
 
-![Hinzufügen einer Stern-Figur](images/space-star-sprite.png)
+Add a 'star' sprite to your stage.
+
+![Adding a star sprite](images/space-star-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Kannst du Code zu deiner Stern-Figur hinzufügen, um den Stern immer wieder wachsen und schrumpfen zu lassen?
+\--- task \---
 
-![Test eines glänzenden Sterns](images/sprite-star.png)
+Can you add code to your star sprite to make the star repeatedly grow and shrink?
 
-\--- hints \--- \--- hint \--- Wenn die grüne **Flagge angeklickt ** wird, sollte dein Stern ein paar mal die **Größe ändern** und dabei wachsen, und dann wieder ein paar mal **die Größe ändern** und dabei kleiner werden. Das soll er tun, damit er **fortlaufend** größer und kleiner wird und dadurch so aussieht als würde er leuchten. \--- /hint \--- \--- hint \--- Hier sind die Codeblöcke die du brauchst:
+![Testing a shining star](images/sprite-star.png)
+
+\--- hints \--- \--- hint \---
+
+When the green **flag is clicked**, your star sprite should **change size** to get bigger a few times, and then **change size** to get smaller a few times. It should do this so that it gets bigger and then smaller **forever** and looks like it's shining light.
+
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
 
 ```blocks3
 wiederhole (10) mal
@@ -30,7 +40,11 @@ ende
 wiederhole fortlaufend
 ```
 
-\--- /hint \--- \--- hint \--- Hier ist der Code, um deinen Stern wachsen und schrumpfen zu lassen: ![Stern Figur](images/sprite-star.png)
+\--- /hint \--- \--- hint \---
+
+Here's the code to make your star grow and shrink:
+
+![Star sprite](images/sprite-star.png)
 
 ```blocks3
 Wenn die Flagge angeklickt wird
