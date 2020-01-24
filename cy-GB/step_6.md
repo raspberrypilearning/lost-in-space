@@ -2,17 +2,27 @@
 
 Rwyt ti nawr am ychwanegu craig sydd yn arnofio i dy animeiddiad.
 
--- task \---Ychwanegu corlun ‘craig’ i dy animeiddiad.
+\--- task \---
 
-![Ychwanegu corlun craig](images/space-rock-sprite.png)
+Add a 'rock' sprite to your animation.
+
+![Adding a rock sprite](images/space-rock-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Alli di ychwanegu côd i gorlun dy graig fel ei fod yn bownsio o gwmpas y llwyfan?
+\--- task \---
 
-![Profi craig bownsio](images/space-bounce-test.png)
+Can you add code for your rock sprite so that the rock bounces around the stage?
 
-\--- hints \--- \--- hint \--- Pan for faner werdd **wedi ei glicio**, fe ddylai'r corlun craig **symud** a **bownsio** o gwmpas y llwyfan **am byth**. \--- /hint \--- \--- hint \--- Dyma'r blociau côd rwyt ti eu hangen:
+![Testing a bouncing rock](images/space-bounce-test.png)
+
+\--- hints \--- \--- hint \---
+
+When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**.
+
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
 
 ```blocks3
 symud (10) cam
@@ -25,7 +35,7 @@ am byth
 end
 ```
 
-Mae modd i ti hefyd osod cyfeiriad cychwyn mwy diddorol i'r corlun craig gydag un o'r blociau yma:
+You can also set a more interesting starting direction for the rock sprite with one of these blocks:
 
 ```blocks3
 troi (15) gradd i'r dde
@@ -35,9 +45,9 @@ pwyntio tuag at (Earth v)
 
 \--- /hint \--- \--- hint \---
 
-Dyma'r côd ar gyfer gwneud dy graig i fownsio o gwmpas y llwyfan:
+Here's the code for making your rock bounce around the stage:
 
-![Corlun craig](images/sprite-rock.png)
+![Rock sprite](images/sprite-rock.png)
 
 ```blocks3
 pan fo'r flag werdd yn cael ei glicio
