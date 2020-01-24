@@ -2,17 +2,27 @@
 
 Most ismétlődéseket fogsz kombinálni, hogy egy ragyogó csillagot készíts.
 
-\--- task \--- Adj hozzá egy 'star' szereplőt a játéktérhez.
+\--- task \---
 
-![Csillag szereplő hozzáadása](images/space-star-sprite.png)
+Add a 'star' sprite to your stage.
+
+![Adding a star sprite](images/space-star-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Hozzá tudod adni a kódhoz a csillag szereplőt úgy, hogy a csillag folyamatosan növekedjen és zsugorodjon?
+\--- task \---
 
-![Ragyogó csillag tesztelése](images/sprite-star.png)
+Can you add code to your star sprite to make the star repeatedly grow and shrink?
 
-\--- hints \--- \--- hint \--- Amikor a zöld **zászlóra kattintasz**, a csillag szereplő **méretének változnia kell**, hogy megnövekedjen párszor, majd a **méretének változnia kell**, hogy zsugorodjon párszor. Így **folyamatosan** nagyobbá, majd kisebbé kell változnia, és ezért úgy kinéznie, mintha egy ragyogó fény lenne. \--- /hint \--- \--- hint \--- Íme a szükséges kódblokkok:
+![Testing a shining star](images/sprite-star.png)
+
+\--- hints \--- \--- hint \---
+
+When the green **flag is clicked**, your star sprite should **change size** to get bigger a few times, and then **change size** to get smaller a few times. It should do this so that it gets bigger and then smaller **forever** and looks like it's shining light.
+
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
 
 ```blocks3
 ismételd (10)
@@ -30,7 +40,11 @@ méret változzon (10)
 mindig
 ```
 
-\--- /hint \--- \--- hint \--- Itt van a kód, ami megnöveli és zsugorítja a csillagod: ![Csillag szereplő](images/sprite-star.png)
+\--- /hint \--- \--- hint \---
+
+Here's the code to make your star grow and shrink:
+
+![Star sprite](images/sprite-star.png)
 
 ```blocks3
 ⚑ -ra kattintáskor
