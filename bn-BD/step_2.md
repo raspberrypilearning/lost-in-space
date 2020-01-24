@@ -14,35 +14,45 @@
 
 \--- task \---
 
-\--- task \--- মঞ্চে'রকেটশিপ' এবং 'আর্থ স্পিরিত" যোগ করুন.
+\--- task \---
 
-![স্পেসশিপ এবং আর্থ স্প্রাইট](images/space-sprites.png)
+Add 'rocketship' and 'Earth' sprites to your Stage.
+
+![Spaceship and Earth sprites](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
 \--- /task \---
 
-\--- task \--- মঞ্চে 'তারার' পরিপ্রেক্ষিত যুক্ত করো।.
+\--- task \---
 
-![একটি স্পেস ব্যাকড্রপ](images/space-backdrop.png)
+Add the 'Stars' backdrop to your Stage.
 
-\--- /task \---
-
-\--- task \--- আপনার স্পেসশিপ স্প্রাইটে ক্লিক করুন এবং **Costumes** এ ক্লিক করুন।.
-
-![স্প্রাইট পোশাক](images/space-costume.png)
+![A space backdrop](images/space-backdrop.png)
 
 \--- /task \---
 
-\--- task \--- **arrow** ব্যবহার করে টেনে আনার সরঞ্জাম দিয়ে পুরো স্পেসশিপ চিত্রের চারপাশে একটি বক্স আনুন. তারপরে বৃত্তাকার **rotate** এ ক্লিক করে চিত্রটি তার পাশ না হওয়া পর্যন্ত পরিচালনা করুন এবং ঘোরান।.
+\--- task \---
 
-![একটি পোশাক ঘোরানো](images/space-rotate.png)
+Click on your spaceship sprite, and click on the **Costumes** tab.
+
+![Sprite costume](images/space-costume.png)
 
 \--- /task \---
 
-\--- task \--- আপনার মহাকাশযান স্প্রাইটে এই কোড যোগ করুন:
+\--- task \---
 
-![স্পেসশিপ স্প্রাইট](images/sprite-spaceship.png)
+Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+
+![Rotating a costume](images/space-rotate.png)
+
+\--- /task \---
+
+\--- task \---
+
+Add this code to your spaceship sprite:
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -53,10 +63,10 @@ point towards (Earth v)
 glide (1) secs to x:(0) y:(0)
 ```
 
-আপনি যে কোড ব্লকগুলি যুক্ত করেছেন তাতে নম্বরগুলি পরিবর্তন করুন যাতে কোডটি ঠিক উপরের মতই হয়।.
+Change the numbers in the code blocks you've added so that the code is exactly the same as above.
 
 \--- /task \---
 
-আপনি যদি সবুজ পতাকাটিতে ক্লিক করেন তবে আপনার স্পেসশিপটি কথা বলা, ঘুরিয়ে দেওয়া এবং মঞ্চের কেন্দ্রের দিকে গ্লাইড হওয়া উচিত।.
+If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
 
-![একটি স্পেসশিপ অ্যানিমেশন পরীক্ষা করা](images/space-animate-stage.png)
+![Testing a spaceship animation](images/space-animate-stage.png)
