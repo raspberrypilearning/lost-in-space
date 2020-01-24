@@ -2,17 +2,27 @@
 
 आता आपण आपल्या अॅनिमेशनमध्ये एक फ्लोटिंग स्पेस रॉक जोडेल.
 
-\--- कार्य \--- आपल्या अॅनिमेशनमध्ये 'रॉक' स्प्राइट जोडा.
+\--- task \---
 
-![एक रॉक sprite जोडत आहे](images/space-rock-sprite.png)
+Add a 'rock' sprite to your animation.
 
-\--- / कार्य \---
+![Adding a rock sprite](images/space-rock-sprite.png)
 
-\--- कार्य \--- आपण आपल्या रॉक स्प्राइटसाठी कोड जोडू शकता जेणेकरून खडकाची चोच उभी होईल?
+\--- /task \---
 
-![एक बाउंसिंग रॉक चाचणी](images/space-bounce-test.png)
+\--- task \---
 
-\--- इशारे \--- \--- इशारा \--- हिरव्या तेव्हा **ध्वज क्लिक केले आहे**, आपल्या रॉक परी पाहिजे **हलवा** आणि **बाऊन्स** टप्प्यात सुमारे **कायमचे**. \--- / संकेत \--- \--- इशारा \--- येथे आपल्याला आवश्यक असलेले कोड अवरोध आहेत:
+Can you add code for your rock sprite so that the rock bounces around the stage?
+
+![Testing a bouncing rock](images/space-bounce-test.png)
+
+\--- hints \--- \--- hint \---
+
+When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**.
+
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
 
 ```blocks3
 हलवा (10) चरणांची
@@ -24,7 +34,7 @@
 कायमचे
 ```
 
-रॉक स्प्राइटसाठी आपण या ब्लॉक्समधील एक अधिक मनोरंजक प्रारंभ दिशा देखील सेट करु शकता:
+You can also set a more interesting starting direction for the rock sprite with one of these blocks:
 
 ```blocks3
 सीडब्ल्यू (15) अंश
@@ -32,11 +42,11 @@
 पॉइंट दिशेने (पृथ्वी विरुद्ध)
 ```
 
-\--- / इशारा \--- \--- इशारा \---
+\--- /hint \--- \--- hint \---
 
-स्टेजच्या आसपास आपला रॉक उंचावण्यासाठी कोड येथे आहे:
+Here's the code for making your rock bounce around the stage:
 
-![रॉक sprite](images/sprite-rock.png)
+![Rock sprite](images/sprite-rock.png)
 
 ```blocks3
 जेव्हा ध्वज
@@ -46,4 +56,4 @@
 
 ```
 
-\--- / संकेत \--- \--- / संकेत \--- \--- / कार्य \---
+\--- /hint \--- \--- /hints \--- \--- /task \---
