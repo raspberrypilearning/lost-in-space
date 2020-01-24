@@ -2,17 +2,27 @@
 
 Sekarang anda akan menggabungkan gelung untuk membuat bintang bersinar.
 
-\--- tugas \--- Tambahkan sprite 'bintang' ke panggung anda.
+\--- task \---
 
-![Menambahkan sprit bintang](images/space-star-sprite.png)
+Add a 'star' sprite to your stage.
 
-\--- / tugas \---
+![Adding a star sprite](images/space-star-sprite.png)
 
-\--- task \--- Bolehkah anda menambahkan kod ke sprite bintang anda untuk membuat bintang berulang kali tumbuh dan mengecut?
+\--- /task \---
 
-![Menguji bintang bersinar](images/sprite-star.png)
+\--- task \---
 
-\--- petunjuk \--- \--- petunjuk \--- Apabila bendera hijau **diklik**, sprite bintang anda harus **menukar saiz** untuk mendapatkan lebih besar beberapa kali, dan kemudian **mengubah saiz** untuk mendapatkan yang lebih kecil beberapa kali. Ia harus melakukan ini supaya ia menjadi lebih besar dan kemudian lebih kecil **selamanya** dan kelihatan seperti cahaya bersinar. \--- / petunjuk \--- \--- petunjuk \--- Berikut adalah blok kode yang anda perlukan:
+Can you add code to your star sprite to make the star repeatedly grow and shrink?
+
+![Testing a shining star](images/sprite-star.png)
+
+\--- hints \--- \--- hint \---
+
+When the green **flag is clicked**, your star sprite should **change size** to get bigger a few times, and then **change size** to get smaller a few times. It should do this so that it gets bigger and then smaller **forever** and looks like it's shining light.
+
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
 
 ```blocks3
 ulangi (10)
@@ -30,7 +40,11 @@ menukar saiz oleh (10)
 selamanya
 ```
 
-\--- / petunjuk \--- \--- petunjuk \--- Berikut ialah kod untuk membuat bintang anda tumbuh dan mengecut: ![Sprite bintang](images/sprite-star.png)
+\--- /hint \--- \--- hint \---
+
+Here's the code to make your star grow and shrink:
+
+![Star sprite](images/sprite-star.png)
 
 ```blocks3
 apabila bendera diklik
@@ -44,4 +58,4 @@ selamanya
 
 ```
 
-\--- / petunjuk \--- \--- / petunjuk \--- \--- / tugas \---
+\--- /hint \--- \--- /hints \--- \--- /task \---
