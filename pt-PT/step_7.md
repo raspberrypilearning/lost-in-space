@@ -2,17 +2,27 @@
 
 Agora vais combinar ciclos para fazer uma estrela brilhante.
 
-\--- task \--- Acrescenta um ator 'rock' à sua animação.
+\--- task \---
 
-![Acrescentar um ator de estrela](images/space-star-sprite.png)
+Add a 'star' sprite to your stage.
+
+![Adding a star sprite](images/space-star-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Consegues adicionar código ao seu ator de estrela para fazer com que a estrela cresça e encolha repetidamente?
+\--- task \---
 
-![Testar uma estrela brilhante](images/sprite-star.png)
+Can you add code to your star sprite to make the star repeatedly grow and shrink?
 
-\--- hints \--- \--- hint \--- Quando ** a bandeira é clicada **, o teu ator em estrela deve ** mudar de tamanho ** aumentar algumas vezes e depois ** mudar de tamanho ** para diminuir algumas vezes. Isso deve ser feito para que fique maior e menor ** para sempre ** e pareça que está a brilhar. \--- /hint \--- \--- hint \--- Aqui estão os blocos de que precisas:
+![Testing a shining star](images/sprite-star.png)
+
+\--- hints \--- \--- hint \---
+
+When the green **flag is clicked**, your star sprite should **change size** to get bigger a few times, and then **change size** to get smaller a few times. It should do this so that it gets bigger and then smaller **forever** and looks like it's shining light.
+
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
 
 ```blocks3
 repete (10) vezes
@@ -31,7 +41,11 @@ repete para sempre
 end
 ```
 
-\--- /hint \--- \--- hint \--- Aqui está o código para fazer a tua estrela crescer e encolher: ![Ator de estrela](images/sprite-star.png)
+\--- /hint \--- \--- hint \---
+
+Here's the code to make your star grow and shrink:
+
+![Star sprite](images/sprite-star.png)
 
 ```blocks3
 quando alguém clicar na bandeira verde
