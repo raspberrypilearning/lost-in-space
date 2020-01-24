@@ -2,7 +2,9 @@
 
 Now you will add a monkey who's lost in space to your animation!
 
-\--- task \--- Start by adding the 'monkey' sprite from the library.
+\--- task \---
+
+Start by adding the 'monkey' sprite from the library.
 
 ![Adding a monkey sprite](images/space-monkey-sprite.png)
 
@@ -10,17 +12,25 @@ Now you will add a monkey who's lost in space to your animation!
 
 Click on your new monkey sprite and then click on **Costumes** so that you can edit how the monkey looks.
 
-\--- task \--- Set the fill to be transparent by selecting the red line. For the outline, set a white colour by moving the Saturation slider to `0`.
+\--- task \---
 
-![Make white colour](images/make-white.png) \--- /task \---
+Set the fill to be transparent by selecting the red line. For the outline, set a white colour by moving the Saturation slider to `0`.
 
-\--- task \--- Click on the **circle** tool and then use it to draw a white space helmet around the monkey's head.
+![Make white colour](images/make-white.png)
+
+\--- /task \---
+
+\--- task \---
+
+Click on the **circle** tool and then use it to draw a white space helmet around the monkey's head.
 
 ![Monkey space helmet](images/space-monkey-edit.png)
 
 \--- /task \---
 
-\--- task \--- Can you add code to your monkey sprite so that it spins slowly in a circle forever?
+\--- task \---
+
+Can you add code to your monkey sprite so that it spins slowly in a circle forever?
 
 \--- hints \--- \--- hint \---
 
