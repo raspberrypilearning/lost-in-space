@@ -2,33 +2,43 @@
 
 Acum vei adăuga o maimuță care s-a pierdut în spațiu la animația ta!
 
-\--- task \--- Începe prin a adăuga personajul maimuță din bibliotecă.
+\--- task \---
 
-![Adăugarea unui personaj maimuță](images/space-monkey-sprite.png)
+Start by adding the 'monkey' sprite from the library.
 
-\--- /task \---
-
-Dă clic pe maimuță și apoi clic pe **Costume** astfel încât să poți edita cum arată maimuța.
-
-\--- task \--- Pentru umplere selectează linia roșie iar pentru contur, setează o culoare albă mutând glisorul Saturație la `0`.
-
-![Creează culoarea albă](images/make-white.png) \--- /task \---
-
-\--- task \--- dă clic pe instrumentul **cerc** și apoi utilizează-l pentru a desena o casetă de culoare albă în jurul capului maimuței.
-
-![Casca spațială a maimuței](images/space-monkey-edit.png)
+![Adding a monkey sprite](images/space-monkey-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Puteți adăuga un cod la maimuță, astfel încât să se rotească încet într-un cerc pentru totdeauna?
+Click on your new monkey sprite and then click on **Costumes** so that you can edit how the monkey looks.
 
-\--- Sugestii \--- \--- Indicație \---
+\--- task \---
 
-În cazul în care verde **pavilion este apasat**, maimuță sprite ar trebui **rândul său ,** într - un cerc de **pentru totdeauna**.
+Set the fill to be transparent by selecting the red line. For the outline, set a white colour by moving the Saturation slider to `0`.
 
-\--- / indiciu \--- \--- indiciu \---
+![Make white colour](images/make-white.png)
 
-Iată care sunt blocurile de care ai nevoie:
+\--- /task \---
+
+\--- task \---
+
+Click on the **circle** tool and then use it to draw a white space helmet around the monkey's head.
+
+![Monkey space helmet](images/space-monkey-edit.png)
+
+\--- /task \---
+
+\--- task \---
+
+Can you add code to your monkey sprite so that it spins slowly in a circle forever?
+
+\--- hints \--- \--- hint \---
+
+When the green **flag is clicked**, your monkey sprite should **turn** in a circle **forever**.
+
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
 
 ```blocks3
 pentru totdeauna
@@ -39,11 +49,11 @@ rândul său, cw (15) grade
 atunci când pavilion clic
 ```
 
-\--- / indiciu \--- \--- indiciu \---
+\--- /hint \--- \--- hint \---
 
-Iată codul pentru a face maimuța sa se rotească:
+Here's the code to make your monkey spin:
 
-![Personaj maimuță](images/sprite-monkey.png)
+![Monkey sprite](images/sprite-monkey.png)
 
 ```blocks3
 când pavilionul a dat clic pe
@@ -55,6 +65,6 @@ pentru
 
 \--- /task \---
 
-Testează și salvează proiectul. Va trebui să dai clic pe butonul roșu **stop** pentru a opri animația, deoarece aceasta rulează continuu!
+Test and save your project. You'll have to click on the red **stop** button to end this animation, as it runs forever!
 
-![Testați maimuța care se învârte](images/space-spin-test.png)
+![Test the spinning monkey](images/space-spin-test.png)
