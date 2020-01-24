@@ -2,17 +2,27 @@
 
 Ahora combinarás bucles para hacer una estrella brillante.
 
-\--- tarea \--- Agrega un objeto 'estrella' a tu escenario.
+\--- task \---
 
-![Agregar el objeto de una estrella](images/space-star-sprite.png)
+Add a 'star' sprite to your stage.
+
+![Adding a star sprite](images/space-star-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Can you add code to your star sprite to make the star repeatedly grow and shrink?
+\--- task \---
 
-![Probando una estrella brillante](images/sprite-star.png)
+Can you add code to your star sprite to make the star repeatedly grow and shrink?
 
-\--- hints \--- \--- hint \--- Cuando **se hace clic en la bandera** verde, tu figura estrella debería **cambiar de tamaño** para hacerse más grande unas cuantas veces, y luego **cambiar de tamaño** para hacerse más pequeña unas cuantas veces. Deberías hacer esto para que se haga más grande y luego más pequeño ** para siempre. ** y parece que está brillando la luz. \--- /hint \--- \--- hint \--- Los bloqueos de código que necesitará se encuentran a continuación:
+![Testing a shining star](images/sprite-star.png)
+
+\--- hints \--- \--- hint \---
+
+When the green **flag is clicked**, your star sprite should **change size** to get bigger a few times, and then **change size** to get smaller a few times. It should do this so that it gets bigger and then smaller **forever** and looks like it's shining light.
+
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
 
 ```blocks3
 repeat (10)
@@ -30,7 +40,11 @@ change size by (10)
 forever
 ```
 
-\--- / hint \--- \--- hint \--- Aquí está el código para animar tu nave espacial: ![Objeto estrella](images/sprite-star.png)
+\--- /hint \--- \--- hint \---
+
+Here's the code to make your star grow and shrink:
+
+![Star sprite](images/sprite-star.png)
 
 ```blocks3
 when flag clicked
