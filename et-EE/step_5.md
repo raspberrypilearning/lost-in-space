@@ -2,33 +2,43 @@
 
 Nüüd lisad oma animatsioonile ahvi, kes on kosmosesse ära eksinud!
 
-\--- task \--- Alusta, lisades teegist 'ahvi' sprait.
+\--- task \---
 
-![Ahvi spraidi lisamine](images/space-monkey-sprite.png)
+Start by adding the 'monkey' sprite from the library.
 
-\--- /task \---
-
-Klõpsa oma uuel ahvi spraidil, seejärel klõpsa **Kostüümidel**, et saaksid muuta ahvi välimust.
-
-\--- task \--- Määra täide läbipaistvaks, valides punane joon. Piirjoone jaoks määra valge värv, liigutades küllastuse liugurit asendisse `0`.
-
-![Tee valge värv](images/make-white.png) \--- /task \---
-
-\--- task \--- Klõpsa **ringi** tööriiistal ja seejärel kasuta seda ahvi pea ümber valge kosmosekiivri joonistamiseks.
-
-![Ahvi kosmosekiiver](images/space-monkey-edit.png)
+![Adding a monkey sprite](images/space-monkey-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Kas oskad oma ahvi spraidile koodi lisada, nii et see alati aeglaselt ringis pöörleks?
+Click on your new monkey sprite and then click on **Costumes** so that you can edit how the monkey looks.
+
+\--- task \---
+
+Set the fill to be transparent by selecting the red line. For the outline, set a white colour by moving the Saturation slider to `0`.
+
+![Make white colour](images/make-white.png)
+
+\--- /task \---
+
+\--- task \---
+
+Click on the **circle** tool and then use it to draw a white space helmet around the monkey's head.
+
+![Monkey space helmet](images/space-monkey-edit.png)
+
+\--- /task \---
+
+\--- task \---
+
+Can you add code to your monkey sprite so that it spins slowly in a circle forever?
 
 \--- hints \--- \--- hint \---
 
-Kui rohelisele **lipule klõpsata**, peaks sinu ahvi sprait **igavesti** **pöörlema**.
+When the green **flag is clicked**, your monkey sprite should **turn** in a circle **forever**.
 
 \--- /hint \--- \--- hint \---
 
-Siin on vajalikud koodiplokid:
+Here are the code blocks you need:
 
 ```blocks3
 korda lõputult
@@ -41,9 +51,9 @@ kui klõpsata ⚑
 
 \--- /hint \--- \--- hint \---
 
-Siin on kood, mis paneb sinu ahvi pöörlema:
+Here's the code to make your monkey spin:
 
-![Ahvi sprait](images/sprite-monkey.png)
+![Monkey sprite](images/sprite-monkey.png)
 
 ```blocks3
 kui klõpsata ⚑
@@ -55,6 +65,6 @@ pööra ↻ (1) kraadi
 
 \--- /task \---
 
-Testi ja salvesta oma projekt. Selle animatsiooni lõpetamiseks pead klõpsama punasel **stop** nupul, sest see kestab igavesti!
+Test and save your project. You'll have to click on the red **stop** button to end this animation, as it runs forever!
 
-![Testi pöörlevat ahvi](images/space-spin-test.png)
+![Test the spinning monkey](images/space-spin-test.png)
