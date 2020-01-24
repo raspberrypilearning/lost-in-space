@@ -2,33 +2,43 @@
 
 Maintenant tu vas ajouter un singe perdu dans l'espace à ton animation!
 
-\--- task \--- Commence par ajouter le sprite 'singe' à partir de la bibliothèque.
+\--- task \---
 
-![Ajout d'un sprite singe](images/space-monkey-sprite.png)
+Start by adding the 'monkey' sprite from the library.
 
-\--- /task \---
-
-Clique sur ton nouveau sprite singe, puis sur **Costumes** pour pouvoir changer l'apparence du singe.
-
-\--- task \--- Définis la transparence en sélectionnant la ligne rouge. Pour le contour, définis une couleur blanche en déplaçant le curseur de saturation à `0`.
-
-![Faire la couleur blanche](images/make-white.png) \--- /task \---
-
-\--- task \--- Clique sur l'outil **cercle** , puis utilise-le pour dessiner un casque blanc autour de la tête du singe.
-
-![Casque de cosmonaute de singe](images/space-monkey-edit.png)
+![Adding a monkey sprite](images/space-monkey-sprite.png)
 
 \--- /task \---
 
-\--- Peux-tu ajouter du code à ton singe afin qu'il tourne lentement indéfiniment?
+Click on your new monkey sprite and then click on **Costumes** so that you can edit how the monkey looks.
+
+\--- task \---
+
+Set the fill to be transparent by selecting the red line. For the outline, set a white colour by moving the Saturation slider to `0`.
+
+![Make white colour](images/make-white.png)
+
+\--- /task \---
+
+\--- task \---
+
+Click on the **circle** tool and then use it to draw a white space helmet around the monkey's head.
+
+![Monkey space helmet](images/space-monkey-edit.png)
+
+\--- /task \---
+
+\--- task \---
+
+Can you add code to your monkey sprite so that it spins slowly in a circle forever?
 
 \--- hints \--- \--- hint \---
 
-Lorsque le drapeau vert **est cliqué** , ton sprite singe devrait **tourner** dans un cercle **indéfiniment** .
+When the green **flag is clicked**, your monkey sprite should **turn** in a circle **forever**.
 
 \--- /hint \--- \--- hint \---
 
-Voici les blocs dont tu as besoin:
+Here are the code blocks you need:
 
 ```blocks3
 répéter indéfiniment
@@ -40,9 +50,9 @@ quand le drapeau vert pressé
 
 \--- /hint \--- \--- hint \---
 
-Voici le code pour faire tourner ton singe:
+Here's the code to make your monkey spin:
 
-![Sprite singe](images/sprite-monkey.png)
+![Monkey sprite](images/sprite-monkey.png)
 
 ```blocks3
 quand le drapeau vert pressé
@@ -53,6 +63,6 @@ répéter (1) indéfiniment
 
 \--- /task \---
 
-Teste et enregistre ton projet. Tu devras cliquer sur le bouton rouge **arrêt** pour terminer cette animation, car elle tourne pour toujours!
+Test and save your project. You'll have to click on the red **stop** button to end this animation, as it runs forever!
 
-![Teste le singe qui tourne](images/space-spin-test.png)
+![Test the spinning monkey](images/space-spin-test.png)
