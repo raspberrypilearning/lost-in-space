@@ -10,7 +10,9 @@
 
 ### ما الذي ستصنعه
 
-\--- no-print \--- انقر على العلم الأخضر لرؤية الرسوم المتحركة.
+\--- no-print \---
+
+Click on the green flag to see the animation.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -21,7 +23,7 @@
 
 \--- print-only \---
 
-![المشروع كامل](images/showcase_static.png)
+![Complete project](images/showcase_static.png)
 
 \--- /print-only \---
 
@@ -57,8 +59,8 @@
 
 ## title: معلومات إضافية للمعلمين
 
-إذا كنت بحاجة إلى طباعة هذا المشروع ، فالرجاء استخدام الإصدار [الملائم للطابعة](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
-يمكنك الحصول على [المشروع كاملاً من هنا](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
 \--- /collapse \---
