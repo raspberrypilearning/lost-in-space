@@ -2,17 +2,27 @@
 
 Jetzt wirst du einen schwebenden Weltraumstein zu deiner Animation hinzufügen.
 
-\--- task \--- Füge deiner Animation eine "Rocks"- (Felsen-) Figur hinzu.
+\--- task \---
 
-![Hinzufügen der Rocks-Figur](images/space-rock-sprite.png)
+Add a 'rock' sprite to your animation.
+
+![Adding a rock sprite](images/space-rock-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Kannst du Code für deine Felsen-Figur hinzufügen, damit der Stein über die Bühne springt?
+\--- task \---
+
+Can you add code for your rock sprite so that the rock bounces around the stage?
 
 ![Testing a bouncing rock](images/space-bounce-test.png)
 
-\--- hints \--- \--- hint \--- Wenn die grüne **Flagge angeklickt** wird, sollte sich deine Felsen-Figur **bewegen** und quer über die Bühne hüpfen, indem sie **fortlaufend** **vom Rand abprallt**. \--- /hint \--- \--- hint \--- Hier sind die Codeblöcke die du brauchst:
+\--- hints \--- \--- hint \---
+
+When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**.
+
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
 
 ```blocks3
 gehe (10) er Schritt
@@ -24,7 +34,7 @@ Wenn Flagge angeklickt wird
 wiederhole fortlaufend
 ```
 
-Du kannst auch eine interessantere Startrichtung für deine Felsen-Figur festlegen, indem du einen dieser Blöcke verwendest:
+You can also set a more interesting starting direction for the rock sprite with one of these blocks:
 
 ```blocks3
 drehe dich im Uhrzeigersinn um (15) Grad
@@ -34,9 +44,9 @@ drehe dich zu (Erde v)
 
 \--- /hint \--- \--- hint \---
 
-Hier ist der Code, mit dem du deinen Felsen über die Bühne springen lässt:
+Here's the code for making your rock bounce around the stage:
 
-![Felsen Figur](images/sprite-rock.png)
+![Rock sprite](images/sprite-rock.png)
 
 ```blocks3
 Wenn Flagge angeklickt wird
