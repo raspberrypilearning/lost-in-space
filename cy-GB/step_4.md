@@ -2,9 +2,11 @@
 
 Ffordd arall o animeiddio’r llong ofod yw dweud wrtho i symud ychydig bach, nifer o weithiau.
 
-\--- task \--- Dileua'r bloc `llithro`{:class="block3motion"} o dy gôd. I wneud hyn, llusga'r bloc o'r ardal Côd a'i ollwng yn ôl lle mae'r blociau côd arall.
+\--- task \---
 
-![Corlun llong ofod](images/sprite-spaceship.png)
+Delete the `glide`{:class="block3motion"} block from your code. To do this, drag the block off the Code area and drop it back where the other single code blocks are.
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 pan fo'r flag werdd yn cael ei glicio
@@ -18,11 +20,13 @@ llithro (1) eiliad i x: (0) y: (0)
 
 \--- /task \---
 
-Nawr, defnyddiwch bloc `ailadrodd`{:class="block3control"} i symud dy long ofod tuag at y Ddaear.
+\--- task \---
 
-![Profi animeiddiad llong ofod](images/space-animate-stage.png)
+Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
 
-![Corlun llong ofod](images/sprite-spaceship.png)
+![Testing a spaceship animation](images/space-animate-stage.png)
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 pan fo'r flag werdd yn cael ei glicio
@@ -36,15 +40,17 @@ pwyntio tuag at (Earth v)
 end
 ```
 
-Profa ac arbed dy gôd. Fe ddylai dy long ofod symud tuag at y Ddaear yn union fel y tro o'r blaen, dim ond ei fod yn defnyddio y bloc `ailadrodd`{:class="block3control"} y tro hwn.
+Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
 
 \--- /task \---
 
-Nesaf, ychwanegwch gôd at eich corlun llong ofod fel bod y llong ofod yn newid lliw wrth iddi symud tuag at y Ddaear.
+\--- task \---
 
-Defnyddia'r bloc yma:
+Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
 
-![Corlun llong ofod](images/sprite-spaceship.png)
+Use this block:
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 pan fo'r flag werdd yn cael ei glicio
@@ -59,25 +65,27 @@ end
 +    newid effaith [lliw v] gan (25)
 ```
 
-Profa ac arbed dy gôd.
+Test and save your code.
 
-![Profi llong ofod sy'n newid lliw](images/space-colour-test.png)
+![Testing a colour-changing spaceship](images/space-colour-test.png)
 
 \--- /task \---
 
-\--- task \--- Alli di wneud dy long ofod yn llai wrth iddo symud tuag at y Ddaear?
+\--- task \---
+
+Can you make your spaceship get smaller as it moves towards Earth?
 
 \--- hints \---
 
 \--- hint \---
 
-Dylai eich llong ofod ddechrau ar maint `100%`{:class="blocklooks"}, ac yna `newid maint`{:class="blocklooks"} ychydig bach ar y tro, bob tro mae’n symud.
+Your spaceship should start at `100% size`{:class="blocklooks"}, and then `change size`{:class="blocklooks"} by a small amount each time it moves.
 
 \--- /hint \---
 
 \--- hint \---
 
-Mae angen ychwanegu'r blociau yma i dy gôd:
+You will need to add these blocks to your code:
 
 ![Corlun llong ofod](images/sprite-spaceship.png)
 
@@ -91,9 +99,9 @@ gosod maint i (100) %
 
 \--- hint \---
 
-Fe ddylai dy gôd edrych fel hyn:
+Your code should look like this:
 
-![Corlun llong ofod](images/sprite-spaceship.png)
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 pan fo'r flag werdd yn cael ei glicio
@@ -116,6 +124,6 @@ end
 
 \--- /task \---
 
-Profa ac arbed dy gôd. Fe ddylai dy long ofod leihau wrth iddo symud. Profa dy long ofod am yr **ail dro**. Ydy e y maint cywir pan mae'n cychwyn?
+Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
 
-![Profi llong ofod sy'n lleihau](images/space-size-test.png)
+![Testing a shrinking spaceship](images/space-size-test.png)
