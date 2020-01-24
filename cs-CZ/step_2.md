@@ -14,35 +14,45 @@ Scratch offline editor si můžete stáhnout na [rpf.io/scratchoff](http://rpf.i
 
 \--- /task \---
 
-\--- task \--- Přidejte obrázky 'rocketship' a 'Earth' do Vaší scény.
+\--- task \---
 
-![Obrázky kosmické lodi a Země](images/space-sprites.png)
+Add 'rocketship' and 'Earth' sprites to your Stage.
+
+![Spaceship and Earth sprites](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
 \--- /task \---
 
-\--- task \--- Přidejte pozadí 'Stars' na Vaší scénu.
+\--- task \---
 
-![Vesmírné pozadí](images/space-backdrop.png)
+Add the 'Stars' backdrop to your Stage.
 
-\--- /task \---
-
-\--- task \--- Klikněte na obrázek vesmírné lodě, a vyberte záložku **Kostýmy**.
-
-![Obrázkový kostým](images/space-costume.png)
+![A space backdrop](images/space-backdrop.png)
 
 \--- /task \---
 
-\--- task \--- Použijte **šipku** a přetáhněte rámeček přes celý obrázek vesmírné lodě. Poté klikněte na **otočit** a otáčejte obrázek do té doby, než nebude na boku.
+\--- task \---
 
-![Otočit kostým](images/space-rotate.png)
+Click on your spaceship sprite, and click on the **Costumes** tab.
+
+![Sprite costume](images/space-costume.png)
 
 \--- /task \---
 
-\--- task \--- Přidejte tento kód do obrázku raketové lodě:
+\--- task \---
 
-![Obrázek vesmírné lodi](images/sprite-spaceship.png)
+Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+
+![Rotating a costume](images/space-rotate.png)
+
+\--- /task \---
+
+\--- task \---
+
+Add this code to your spaceship sprite:
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -53,10 +63,10 @@ point towards (Earth v)
 glide (1) secs to x:(0) y:(0)
 ```
 
-Pozměňte čísla v blocích které jste přidali tak, aby byl kód stejný jako kód výše.
+Change the numbers in the code blocks you've added so that the code is exactly the same as above.
 
 \--- /task \---
 
-Pokud kliknete na zelenou vlajku, měli byste vidět raketovou loď mluvit, otočit se, a letět ke středu scény.
+If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
 
-![Testování animace vesmírné lodi](images/space-animate-stage.png)
+![Testing a spaceship animation](images/space-animate-stage.png)
