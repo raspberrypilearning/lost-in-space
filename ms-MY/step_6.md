@@ -2,17 +2,27 @@
 
 Kini anda akan menambah batu ruang terapung untuk animasi anda.
 
-\--- tugas \--- Tambahkan 'rock' sprite ke animasi anda.
+\--- task \---
 
-![Menambahkan sprit batu](images/space-rock-sprite.png)
+Add a 'rock' sprite to your animation.
 
-\--- / tugas \---
+![Adding a rock sprite](images/space-rock-sprite.png)
 
-\--- task \--- Bolehkah anda menambah kod untuk sprite batu anda sehingga rock melantun di sekitar panggung?
+\--- /task \---
 
-![Menguji batu yang melantun](images/space-bounce-test.png)
+\--- task \---
 
-\--- petunjuk \--- \--- petunjuk \--- Apabila bendera hijau **diklik**, sprite batu anda harus **bergerak** dan **melantun** sekitar panggung **selamanya**. \--- / petunjuk \--- \--- petunjuk \--- Berikut adalah blok kode yang anda perlukan:
+Can you add code for your rock sprite so that the rock bounces around the stage?
+
+![Testing a bouncing rock](images/space-bounce-test.png)
+
+\--- hints \--- \--- hint \---
+
+When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**.
+
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
 
 ```blocks3
 gerakkan (10) langkah
@@ -24,7 +34,7 @@ apabila bendera diklik
 selama-lamanya
 ```
 
-Anda juga boleh menetapkan arah permulaan yang lebih menarik untuk sprite batu dengan salah satu blok:
+You can also set a more interesting starting direction for the rock sprite with one of these blocks:
 
 ```blocks3
 putar cw (15) darjah
@@ -32,11 +42,11 @@ putar cw (15) darjah
 titik ke arah (Bumi v)
 ```
 
-\--- / petunjuk \--- \--- petunjuk \---
+\--- /hint \--- \--- hint \---
 
-Berikut adalah kod untuk membuat batu anda melantun di sekitar pentas:
+Here's the code for making your rock bounce around the stage:
 
-![Sprit rock](images/sprite-rock.png)
+![Rock sprite](images/sprite-rock.png)
 
 ```blocks3
 apabila bendera mengklik
@@ -46,4 +56,4 @@ selama-lamanya
     jika di tepi, melantun
 ```
 
-\--- / petunjuk \--- \--- / petunjuk \--- \--- / tugas \---
+\--- /hint \--- \--- /hints \--- \--- /task \---
