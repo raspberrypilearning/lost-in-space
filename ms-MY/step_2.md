@@ -14,35 +14,45 @@ Sekiranya anda perlu memuat turun dan memasang editor luar talian Scratch, anda 
 
 \--- / tugas \---
 
-\--- tugas \--- Tambahkan 'rocketship' dan 'Earth' sprites ke Peringkat anda.
+\--- task \---
 
-![Spaceship dan sprite Earth](images/space-sprites.png)
+Add 'rocketship' and 'Earth' sprites to your Stage.
+
+![Spaceship and Earth sprites](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
-\--- / tugas \---
+\--- /task \---
 
-\--- tugas \--- Tambahkan latar belakang 'Bintang' ke Tahap anda.
+\--- task \---
 
-![Latar belakang ruang](images/space-backdrop.png)
+Add the 'Stars' backdrop to your Stage.
 
-\--- / tugas \---
+![A space backdrop](images/space-backdrop.png)
 
-\--- task \--- Klik pada sprites kapal angkasa anda, dan klik pada **Kostum** tab.
+\--- /task \---
 
-![Kostum Sprite](images/space-costume.png)
+\--- task \---
 
-\--- / tugas \---
+Click on your spaceship sprite, and click on the **Costumes** tab.
 
-\--- task \--- Gunakan tool **panah** untuk mengklik dan seret kotak di sekeliling seluruh imej kapal angkasa. Kemudian klik pada pekeliling **berputar** pegangan, dan putar imej sehingga ia berada di sisinya.
-
-![Memusing pakaian](images/space-rotate.png)
+![Sprite costume](images/space-costume.png)
 
 \--- / tugas \---
 
-\--- tugas \--- Tambah kod ini ke sprite kapal angkasa anda:
+\--- task \---
 
-![Sprite kapal angkasa](images/sprite-spaceship.png)
+Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+
+![Rotating a costume](images/space-rotate.png)
+
+\--- / tugas \---
+
+\--- task \---
+
+Add this code to your spaceship sprite:
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 apabila bendera mengklik
@@ -53,10 +63,10 @@ titik ke arah (Bumi v)
 meluncur (1) x: (0) y: (0)
 ```
 
-Ubah nombor dalam blok kod yang telah anda tambahkan supaya kod tersebut sama persis seperti di atas.
+Change the numbers in the code blocks you've added so that the code is exactly the same as above.
 
-\--- / tugas \---
+\--- /task \---
 
-Jika anda mengklik bendera hijau, anda akan melihat ruang angkasa bercakap, berpaling, dan meluncur ke arah pusat pentas.
+If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
 
-![Menguji animasi kapal angkasa](images/space-animate-stage.png)
+![Testing a spaceship animation](images/space-animate-stage.png)
