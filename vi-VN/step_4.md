@@ -2,9 +2,11 @@
 
 Một cách khác để làm sống động tàu vũ trụ là bảo nó di chuyển một lượng nhỏ nhiều lần
 
-\--- task \--- Xóa khối `glide`{: class = "block3motion"} khỏi mã của bạn. Để thực hiện việc này, hãy kéo khối ra khỏi vùng Mã và thả nó trở lại nơi có các khối mã đơn lẻ khác.
+\--- task \---
 
-![Tàu vũ trụ](images/sprite-spaceship.png)
+Delete the `glide`{:class="block3motion"} block from your code. To do this, drag the block off the Code area and drop it back where the other single code blocks are.
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 khi cờ nhấp
@@ -16,13 +18,15 @@ nói [Hãy đi] trong (2) giây
 - lướt (1) giây đến x: (0) y: (0)
 ```
 
-\--- /bài tập \---
+\--- /task \---
 
-\--- task \--- Bây giờ sử dụng khối `lặp lại`{: class = "block3control"} để di chuyển tàu vũ trụ của bạn về Trái đất?
+\--- task \---
 
-![Thử nghiệm hoạt hình tàu vũ trụ](images/space-animate-stage.png)
+Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
 
-![Tàu vũ trụ](images/sprite-spaceship.png)
+![Testing a spaceship animation](images/space-animate-stage.png)
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 khi cờ nhấp
@@ -35,15 +39,17 @@ nói [Hãy đi] trong (2) giây
     di chuyển (2) bước
 ```
 
-Kiểm tra và lưu mã của bạn. Tàu vũ trụ của bạn sẽ di chuyển về Trái đất chính xác như trước đây, nhưng lần này nó sử dụng khối `lặp lại`{: class = "block3control"}.
+Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
 
 \--- /task \---
 
-\--- task \--- Tiếp theo thêm mã vào sprite tàu vũ trụ của bạn để tàu vũ trụ thay đổi màu sắc khi nó di chuyển về phía Trái đất?
+\--- task \---
 
-Sử dụng khối này:
+Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
 
-![Tàu vũ trụ](images/sprite-spaceship.png)
+Use this block:
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 khi cờ nhấp
@@ -57,25 +63,27 @@ lặp lại (200)
 + thay đổi hiệu ứng [màu v] bằng (25)
 ```
 
-Kiểm tra và lưu mã của bạn.
+Test and save your code.
 
-![Kiểm tra tàu vũ trụ đổi màu](images/space-colour-test.png)
+![Testing a colour-changing spaceship](images/space-colour-test.png)
 
 \--- /task \---
 
-\--- nhiệm vụ \--- Bạn có thể làm cho tàu vũ trụ của mình nhỏ hơn khi nó di chuyển về Trái đất không?
+\--- task \---
 
-\--- gợi ý \---
+Can you make your spaceship get smaller as it moves towards Earth?
+
+\--- hints \---
 
 \--- hint \---
 
-Tàu vũ trụ của bạn sẽ bắt đầu ở `100% kích thước`{: class = "blocklooks"}, và sau đó `thay đổi kích thước`{: class = "blocklooks"} một lượng nhỏ mỗi lần nó di chuyển.
+Your spaceship should start at `100% size`{:class="blocklooks"}, and then `change size`{:class="blocklooks"} by a small amount each time it moves.
 
 \--- /hint \---
 
 \--- hint \---
 
-Bạn sẽ cần thêm các khối này vào mã của mình:
+You will need to add these blocks to your code:
 
 ![Tàu vũ trụ](images/sprite-spaceship.png)
 
@@ -89,9 +97,9 @@ thay đổi kích thước theo (10)
 
 \--- hint \---
 
-Mã của bạn sẽ trông như thế này:
+Your code should look like this:
 
-![Tàu vũ trụ](images/sprite-spaceship.png)
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 khi cờ nhấp
@@ -109,10 +117,10 @@ lặp lại (200)
 
 \--- /hint \---
 
-\--- / gợi ý \---
+\--- /hints \---
 
 \--- /task \---
 
-Kiểm tra và lưu mã của bạn. Tàu vũ trụ của bạn bây giờ sẽ nhỏ hơn khi nó di chuyển. Kiểm tra tàu vũ trụ của bạn **giây lần**. Có phải là kích thước phù hợp khi nó bắt đầu?
+Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
 
-![Kiểm tra một tàu vũ trụ thu nhỏ](images/space-size-test.png)
+![Testing a shrinking spaceship](images/space-size-test.png)
