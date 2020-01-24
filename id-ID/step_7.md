@@ -2,17 +2,27 @@
 
 Sekarang Anda akan menggabungkan loop untuk membuat bintang yang bersinar.
 
-\--- task \--- Tambahkan sprite 'bintang' ke panggung Anda.
+\--- task \---
 
-![Menambahkan sprite bintang](images/space-star-sprite.png)
+Add a 'star' sprite to your stage.
+
+![Adding a star sprite](images/space-star-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Bisakah Anda menambahkan kode ke sprite bintang Anda untuk membuat bintang berulang kali tumbuh dan menyusut?
+\--- task \---
 
-![Menguji bintang yang bersinar](images/sprite-star.png)
+Can you add code to your star sprite to make the star repeatedly grow and shrink?
 
-\--- hints \--- \--- hint\--- Ketika bendera hijau **diklik**, sprite bintang Anda harusnya **mengubah ukurannya** untuk menjadi beberapa kali lebih besar, lalu **mengubah ukurannya** untuk menjadi beberapa kali lebih kecil. Ini harus melakukan ini sehingga menjadi lebih besar dan kemudian lebih kecil **selamanya** dan sepertinya itu bersinar terang. \--- / hint \--- \--- hint \--- Ini adalah blok kode yang Anda butuhkan:
+![Testing a shining star](images/sprite-star.png)
+
+\--- hints \--- \--- hint \---
+
+When the green **flag is clicked**, your star sprite should **change size** to get bigger a few times, and then **change size** to get smaller a few times. It should do this so that it gets bigger and then smaller **forever** and looks like it's shining light.
+
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
 
 ```blocks3
 repeat (10)
@@ -30,7 +40,11 @@ ubah ukuran oleh (10)
 selamanya
 ```
 
-\--- / hint \--- \--- hint \--- Ini kode untuk membuat bintangmu tumbuh dan menyusut: ![Sprite bintang](images/sprite-star.png)
+\--- /hint \--- \--- hint \---
+
+Here's the code to make your star grow and shrink:
+
+![Star sprite](images/sprite-star.png)
 
 ```blocks3
 ketika flag diklik
@@ -44,4 +58,4 @@ selamanya
 
 ```
 
-\--- / hint \--- \--- / hints \--- \--- / task \---
+\--- /hint \--- \--- /hints \--- \--- /task \---
