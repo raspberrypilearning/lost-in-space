@@ -2,17 +2,27 @@
 
 Acum veți combina buclele pentru a crea o stea strălucitoare.
 
-\--- task \--- Adaugă o stea strălucitoare la animație.
+\--- task \---
 
-![Adăugarea unei stele](images/space-star-sprite.png)
+Add a 'star' sprite to your stage.
+
+![Adding a star sprite](images/space-star-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Puteți adăuga un cod la starul dvs. sprite pentru a face ca steaua să crească în mod repetat și să se micsoreze?
+\--- task \---
 
-![Testarea unei stele strălucitoare](images/sprite-star.png)
+Can you add code to your star sprite to make the star repeatedly grow and shrink?
 
-\--- indicii \--- \--- indiciu \--- Când verde **pavilion este apasat**, sprite - ul ar trebui să stea **schimbare dimensiune** pentru a obține mai mari de câteva ori, iar apoi **schimbe dimensiunea** pentru a obține o mai mică de câteva ori. Ar trebui să facă acest lucru astfel încât să devină mai mare și apoi să fie mai mic **pentru totdeauna** și arată ca lumina strălucitoare. \--- / hint \--- \--- sugestie \--- Aici sunt blocurile de cod de care aveți nevoie:
+![Testing a shining star](images/sprite-star.png)
+
+\--- hints \--- \--- hint \---
+
+When the green **flag is clicked**, your star sprite should **change size** to get bigger a few times, and then **change size** to get smaller a few times. It should do this so that it gets bigger and then smaller **forever** and looks like it's shining light.
+
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
 
 ```blocks3
 repetati (10)
@@ -30,7 +40,11 @@ schimbati marimea cu (10)
 pentru totdeauna
 ```
 
-\--- / indiciu \--- \--- indiciu \--- Iată codul pentru a face ca steaua să crească și să se micșoreze: ![Personajul stea](images/sprite-star.png)
+\--- /hint \--- \--- hint \---
+
+Here's the code to make your star grow and shrink:
+
+![Star sprite](images/sprite-star.png)
 
 ```blocks3
 când pavilionul a făcut clic
@@ -44,4 +58,4 @@ pentru totdeauna
 
 ```
 
-\--- / indiciu \--- \--- / sugestii \--- \--- / sarcina \---
+\--- /hint \--- \--- /hints \--- \--- /task \---
