@@ -2,9 +2,11 @@
 
 Еще один способ сделать так, чтобы космический корабль полетел - сказать ему, чтобы он перемещался малыми шагами много раз
 
-\--- task \--- Удали блок `плыть`{:class="block3motion"} из своего кода. Для этого перетащи блок из области «Код» обратно туда, где находятся остальные отдельные блоки кода.
+\--- task \---
 
-![Спрайт Космический корабль](images/sprite-spaceship.png)
+Delete the `glide`{:class="block3motion"} block from your code. To do this, drag the block off the Code area and drop it back where the other single code blocks are.
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 когда щёлкнут по зелёному флагу
@@ -17,11 +19,13 @@
 
 \--- /task \---
 
-\--- task \--- Теперь используй блок `повторить`{:class="block3control"} для перемещения своего космического корабля к Земле?
+\--- task \---
 
-![Тестирование анимации космического корабля](images/space-animate-stage.png)
+Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
 
-![Спрайт Космический корабль](images/sprite-spaceship.png)
+![Testing a spaceship animation](images/space-animate-stage.png)
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 когда щёлкнут по зелёному флагу
@@ -35,15 +39,17 @@
 end
 ```
 
-Протестируй и сохрани свой код. Твой космический корабль должен двигаться к Земле точно также, как и раньше, только в этот раз он использует блок `повторить`{:class="block3control"}.
+Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
 
 \--- /task \---
 
-\--- task\--- Затем добавь код к своему спрайту Космический корабль, чтобы Космический корабль менял цвет при движении к Земле?
+\--- task \---
 
-Используй этот блок:
+Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
 
-![Спрайт Космический корабль](images/sprite-spaceship.png)
+Use this block:
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 когда щёлкнут по зелёному флагу
@@ -57,25 +63,27 @@ end
 end
 ```
 
-Протестируй и сохрани свой код.
+Test and save your code.
 
-![Тестирование космического корабля, изменяющего цвет](images/space-colour-test.png)
+![Testing a colour-changing spaceship](images/space-colour-test.png)
 
 \--- /task \---
 
-\--- task \--- Можешь ли ты сделать свой космический корабль меньше по мере его движения к Земле?
+\--- task \---
+
+Can you make your spaceship get smaller as it moves towards Earth?
 
 \--- hints \---
 
 \--- hint \---
 
-Твой космический корабль должен начинать двигаться со `100% размера`{:class="blocklooks"}, а затем немного `изменить размер`{:class="blocklooks"} каждый раз, пока он движется.
+Your spaceship should start at `100% size`{:class="blocklooks"}, and then `change size`{:class="blocklooks"} by a small amount each time it moves.
 
 \--- /hint \---
 
 \--- hint \---
 
-Тебе нужно будет добавить эти блоки в свой код:
+You will need to add these blocks to your code:
 
 ![Спрайт Космический корабль](images/sprite-spaceship.png)
 
@@ -89,9 +97,9 @@ end
 
 \--- hint \---
 
-Твой код должен выглядеть, как этот:
+Your code should look like this:
 
-![Спрайт Космический корабль](images/sprite-spaceship.png)
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 когда щёлкнут по зелёному флагу
@@ -113,6 +121,6 @@ end
 
 \--- /task \---
 
-Протестируй и сохрани свой код. Твой космический корабль должен уменьшаться по мере движения. Проверь свой космический корабль **второй раз**. Правильный ли у него размер, когда он стартует?
+Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
 
-![Тестирование уменьшающегося космического корабля](images/space-size-test.png)
+![Testing a shrinking spaceship](images/space-size-test.png)
