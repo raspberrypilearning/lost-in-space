@@ -2,33 +2,43 @@
 
 Bây giờ bạn sẽ thêm một con khỉ bị lạc trong không gian vào hoạt hình của bạn!
 
-\--- task \--- Bắt đầu bằng cách thêm sprite 'khỉ' từ thư viện.
+\--- task \---
 
-![Thêm một con khỉ](images/space-monkey-sprite.png)
+Start by adding the 'monkey' sprite from the library.
+
+![Adding a monkey sprite](images/space-monkey-sprite.png)
+
+\--- /task \---
+
+Click on your new monkey sprite and then click on **Costumes** so that you can edit how the monkey looks.
+
+\--- task \---
+
+Set the fill to be transparent by selecting the red line. For the outline, set a white colour by moving the Saturation slider to `0`.
+
+![Make white colour](images/make-white.png)
 
 \--- /bài tập \---
 
-Nhấp vào sprite khỉ mới của bạn và sau đó nhấp vào **Trang phục** để bạn có thể chỉnh sửa hình dạng của con khỉ.
+\--- task \---
 
-\--- task \--- Đặt điền vào trong suốt bằng cách chọn dòng màu đỏ. Đối với phác thảo, đặt màu trắng bằng cách di chuyển thanh trượt Saturation thành `0`.
+Click on the **circle** tool and then use it to draw a white space helmet around the monkey's head.
 
-![Tạo màu trắng](images/make-white.png) \--- /bài tập \---
+![Monkey space helmet](images/space-monkey-edit.png)
 
-\--- task \--- Nhấp vào công cụ **circle** và sau đó sử dụng nó để vẽ một chiếc mũ bảo hiểm không gian màu trắng xung quanh đầu của con khỉ.
+\--- /task \---
 
-![Khỉ không gian](images/space-monkey-edit.png)
+\--- task \---
 
-\--- /bài tập \---
+Can you add code to your monkey sprite so that it spins slowly in a circle forever?
 
-\--- task \--- Bạn có thể thêm mã vào sprite khỉ của mình để nó quay chậm trong một vòng tròn mãi mãi không?
+\--- hints \--- \--- hint \---
 
-\--- gợi ý \--- \--- gợi ý \---
+When the green **flag is clicked**, your monkey sprite should **turn** in a circle **forever**.
 
-Khi cờ **màu xanh lá cây được nhấp vào**, sprite khỉ của bạn sẽ **lượt** trong vòng tròn **mãi mãi**.
+\--- /hint \--- \--- hint \---
 
-\--- / gợi ý \--- \--- gợi ý \---
-
-Dưới đây là các khối mã bạn cần:
+Here are the code blocks you need:
 
 ```blocks3
 mãi mãi
@@ -39,11 +49,11 @@ lượt cw (15) độ
 khi cờ được nhấp
 ```
 
-\--- / gợi ý \--- \--- gợi ý \---
+\--- /hint \--- \--- hint \---
 
-Đây là mã để làm cho con khỉ của bạn quay tròn:
+Here's the code to make your monkey spin:
 
-![Khỉ sprite](images/sprite-monkey.png)
+![Monkey sprite](images/sprite-monkey.png)
 
 ```blocks3
 khi cờ nhấp
@@ -51,10 +61,10 @@ mãi mãi
     lượt cw (1) độ
 ```
 
-\--- / gợi ý \--- \--- / gợi ý \---
+\--- /hint \--- \--- /hints \---
 
-\--- /bài tập \---
+\--- /task \---
 
-Kiểm tra và lưu dự án của bạn. Bạn sẽ phải nhấp vào nút **stop** màu đỏ để kết thúc hoạt hình này, vì nó chạy mãi mãi!
+Test and save your project. You'll have to click on the red **stop** button to end this animation, as it runs forever!
 
-![Kiểm tra khỉ quay](images/space-spin-test.png)
+![Test the spinning monkey](images/space-spin-test.png)
