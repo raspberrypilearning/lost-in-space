@@ -2,17 +2,27 @@
 
 Ahora añadirás una roca espacial flotante a tu animación.
 
-\--- task \--- Añade un objeto 'roca' a tu animación.
+\--- task \---
 
-![Agregar la figura de una roca](images/space-rock-sprite.png)
+Add a 'rock' sprite to your animation.
+
+![Adding a rock sprite](images/space-rock-sprite.png)
 
 \--- /task \---
 
-\--- task \--- ¿Puedes añadir código para tu objeto de una roca para que la roca rebote alrededor del escenario?
+\--- task \---
 
-![Probando una roca que rebota](images/space-bounce-test.png)
+Can you add code for your rock sprite so that the rock bounces around the stage?
 
-\--- hints \--- \--- hint \--- Cuando **se hace clic en la bandera** verde, tu figura de la roca se debería **mover** y **rebotar** alrededor del escenario **para siempre **. \--- /hint \--- \--- hint \--- Aquí están los bloques de código que necesitas:
+![Testing a bouncing rock](images/space-bounce-test.png)
+
+\--- hints \--- \--- hint \---
+
+When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**.
+
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
 
 ```blocks3
 mover (10) pasos
@@ -24,7 +34,7 @@ cuando la bandera es pulsada
 por siempre
 ```
 
-También puedes establecer una dirección de inicio más interesante para el objeto de una roca con uno de estos bloques:
+You can also set a more interesting starting direction for the rock sprite with one of these blocks:
 
 ```blocks3
 girar cw (15) grados
@@ -34,9 +44,9 @@ apuntar hacia (Tierra v)
 
 \--- /hint \--- \--- hint \---
 
-Aquí está el código para hacer que tu roca rebote alrededor del escenario:
+Here's the code for making your rock bounce around the stage:
 
-![Objeto de una roca](images/sprite-rock.png)
+![Rock sprite](images/sprite-rock.png)
 
 ```blocks3
 cuando la bandera es pulsada
