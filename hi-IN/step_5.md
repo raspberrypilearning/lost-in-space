@@ -2,33 +2,43 @@
 
 चलिए आपकी एनिमेशन में बंदर बनाएँ, जो अन्तरिक्ष में खो गया है!
 
-\---task\--- लाइब्रेरी से ‘बंदर’ स्प्राइट जोड़कर शुरू करें।
+\--- task \---
 
-![एक बंदर स्प्राइट जोड़ना](images/space-monkey-sprite.png)
+Start by adding the 'monkey' sprite from the library.
 
-\--- /task \---
-
-अगर आप अपने बंदर का रूप बदलना चाहते हैं, तोह आप बंडुए स्प्राइट पर क्लीक करके **पौशाक ** पर क्लिक करे।
-
-\---task\--- लाल रेखा का चयन करके पारदर्शी होने के लिए भरण सेट करें। रूपरेखा के लिए, संतृप्ति स्लाइडर को ` 0` पर ले जाकर एक सफेद रंग सेट करें ।
-
-![सफेद रंग बनाएं](images/make-white.png) \--- /task \---
-
-\---task\--- **वृत्त** टूल पर क्लिक करे और उसके साथ एक सफ़ेद अंतरिक्ष टोपी अपने बंदर के सीर के चरों ओर बनिए।
-
-![बंदर अंतरिक्ष हेलमेट](images/space-monkey-edit.png)
+![Adding a monkey sprite](images/space-monkey-sprite.png)
 
 \--- /task \---
 
-\---task\--- क्या आप ऐसी कोड जोड़ सकते हैं ताकि आपका बंदर स्प्राइट हमेशा के लिए एक वृत्त के आकर में घूमता हैं?
+Click on your new monkey sprite and then click on **Costumes** so that you can edit how the monkey looks.
+
+\--- task \---
+
+Set the fill to be transparent by selecting the red line. For the outline, set a white colour by moving the Saturation slider to `0`.
+
+![Make white colour](images/make-white.png)
+
+\--- /task \---
+
+\--- task \---
+
+Click on the **circle** tool and then use it to draw a white space helmet around the monkey's head.
+
+![Monkey space helmet](images/space-monkey-edit.png)
+
+\--- /task \---
+
+\--- task \---
+
+Can you add code to your monkey sprite so that it spins slowly in a circle forever?
 
 \--- hints \--- \--- hint \---
 
-जब आप हरे रंग का **झंडा के ऊपर क्लिक करेंगे**, तोह आपका बंदर **हमेशा के लिए** **घूमना** चालू करना चाहिए।
+When the green **flag is clicked**, your monkey sprite should **turn** in a circle **forever**.
 
 \--- /hint \--- \--- hint \---
 
-आपको इस कोड ब्लॉक की ज़रुरत पड़ेगी:
+Here are the code blocks you need:
 
 ```blocks3
 forever
@@ -41,9 +51,9 @@ when flag clicked
 
 \--- /hint \--- \--- hint \---
 
-बंदर घूमने की कोड इधर दी गयी हैं:
+Here's the code to make your monkey spin:
 
-![बंदर स्प्राइट](images/sprite-monkey.png)
+![Monkey sprite](images/sprite-monkey.png)
 
 ```blocks3
 when flag clicked
@@ -55,6 +65,6 @@ forever
 
 \--- /task \---
 
-अपने प्रोजेक्ट का परीक्षण करें और सहेजें। इस एनिमेशन को समाप्त करने के लिए आपको लाल **रोक** दें बटन पर क्लिक करना होगा, क्योंकि यह हमेशा चलता रहता है!
+Test and save your project. You'll have to click on the red **stop** button to end this animation, as it runs forever!
 
-![कताई बंदर का परीक्षण करें](images/space-spin-test.png)
+![Test the spinning monkey](images/space-spin-test.png)
