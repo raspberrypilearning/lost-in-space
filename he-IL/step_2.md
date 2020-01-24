@@ -14,44 +14,54 @@
 
 \--- /task \---
 
-\--- task \--- הוסף דמויות "חללית" ו "כדור הארץ" לבמה שלך.
+\--- task \---
 
-![דמויות חללית וכדור הארץ](images/space-sprites.png)
+Add 'rocketship' and 'Earth' sprites to your Stage.
+
+![Spaceship and Earth sprites](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
 \--- /task \---
 
-\--- task \--- הוסף רקע 'כוכבים' לבמה שלך.
+\--- task \---
 
-![רקע חלל](images/space-backdrop.png)
+Add the 'Stars' backdrop to your Stage.
 
-\--- /task \---
-
-\--- task \--- לחץ על החללית שלך, ולחץ על לשונית ** תלבושות **.
-
-![תלבושת לדמות](images/space-costume.png)
+![A space backdrop](images/space-backdrop.png)
 
 \--- /task \---
 
-\--- task \--- השתמש ** בחץ ** כלי ללחוץ וגרור תיבה סביב תמונת החללית כולה. לאחר מכן לחץ על סמן ** הסיבוב **, לסובב את תמונת החללית עד שהיא על צדה.
+\--- task \---
 
-![סיבוב תלבושת](images/space-rotate.png)
+Click on your spaceship sprite, and click on the **Costumes** tab.
+
+![Sprite costume](images/space-costume.png)
 
 \--- /task \---
 
-\--- task \--- הוסף את הקוד הבא לדממות החללית שלך:
+\--- task \---
 
-![דמות חללית](images/sprite-spaceship.png)
+Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+
+![Rotating a costume](images/space-rotate.png)
+
+\--- /task \---
+
+\--- task \---
+
+Add this code to your spaceship sprite:
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked point in direction (0) go to x:(-150) y:(-150) say [Let's go] for (2) seconds point towards (Earth v) glide (1) secs to x:(0) y:(0)
 ```
 
-שנה את המספרים בקטעי הקוד שהוספת, כך שהקוד הוא בדיוק אותו הדבר.
+Change the numbers in the code blocks you've added so that the code is exactly the same as above.
 
 \--- /task \---
 
-כאשר תלחץ על הדגל הירוק, אתה אמור לראות את החללית מכריזה, מסתובבת, ונעה לכיוון מרכז הבמה.
+If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
 
-![בדיקת אנימצית חללית](images/space-animate-stage.png)
+![Testing a spaceship animation](images/space-animate-stage.png)
