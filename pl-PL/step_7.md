@@ -2,17 +2,27 @@
 
 Teraz wykorzystasz połączenie różnych pętli, żeby stworzyć świecącą gwiazdę.
 
-\--- task \--- Dodaj duszka gwiazda (ang. star) do swojej sceny.
+\--- task \---
 
-![Dodawanie duszka gwiazdy](images/space-star-sprite.png)
+Add a 'star' sprite to your stage.
+
+![Adding a star sprite](images/space-star-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Czy umiesz dodać kod do swojego duszka gwiazdy, aby gwiazda nieustannie rosła i kurczyła się?
+\--- task \---
 
-![Testowanie świecącej gwiazdy](images/sprite-star.png)
+Can you add code to your star sprite to make the star repeatedly grow and shrink?
 
-\--- wskazówki \--- \--- podpowiedź \--- Gdy zielona **flaga zostanie kliknięta**, twój duszek gwiazdy powinien **zmienić rozmiar** tak, aby powiększyć się kilkukrotnie, a następnie **zmienić rozmiar** tak, aby zmniejszyć się kilka razy. To powinno spowodować, że gwiazda **zawsze** powiększa się, a następnie zmniejsza, co powoduje, że wygląda jakby gwiazda świeciła. \--- / wskazówka \--- \--- podpowiedź \--- Oto potrzebne bloki kodu:
+![Testing a shining star](images/sprite-star.png)
+
+\--- hints \--- \--- hint \---
+
+When the green **flag is clicked**, your star sprite should **change size** to get bigger a few times, and then **change size** to get smaller a few times. It should do this so that it gets bigger and then smaller **forever** and looks like it's shining light.
+
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
 
 ```blocks3
 powtarzaj (10)
@@ -30,7 +40,11 @@ zmień rozmiar o (10)
 zawsze
 ```
 
-\--- / wskazówka \--- \--- podpowiedź \--- Oto kod, dzięki któremu twoja gwiazda rośnie i zmniejsza się: ![Duszek gwiazdy](images/sprite-star.png)
+\--- /hint \--- \--- hint \---
+
+Here's the code to make your star grow and shrink:
+
+![Star sprite](images/sprite-star.png)
 
 ```blocks3
 kiedy flaga kliknięta
