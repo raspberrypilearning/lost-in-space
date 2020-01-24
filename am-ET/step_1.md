@@ -10,20 +10,22 @@
 
 ### የምትሰራው/ሪው ነገር
 
-\--- no-print \--- አኒሜሽኑን ለማየት አረንጓዴ ሰንደቁ ላይ ጠቅ ያድርጉ.
+\--- no-print \---
+
+Click on the green flag to see the animation.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
   <img src="images/space-final.png">
 </div>
 
-\--- / no-print \---
+\--- /no-print \---
 
-\--- እታተም ብቻ \---
+\--- print-only \---
 
-![የተሟላ ፕሮጀክት](images/showcase_static.png)
+![Complete project](images/showcase_static.png)
 
-\--- / print-only \---
+\--- /print-only \---
 
 ## \--- collapse \---
 
@@ -57,8 +59,8 @@
 
 ## title: ለአስተማሪዎች የሚሆን ተጨማሪ መረጃ
 
-ይህንን ፕሮጀክት ማተም የሚያስፈልግ/ጊ ከሆነ, [ለህት-ምቹ የሆነውን ስሪት](https://projects.raspberrypi.org/en/projects/lost-in-space/print){: target = "_ blank"} ይጠቀሙ.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
-[ሙሉ ለሙሉ የተጠናቀውን ፕሮጀችት](http://rpf.io/p/en/lost-in-space-get) እዚ ማግኝት ትችላለህ/ሽ {:target="_black"}.
+You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
 \--- /collapse \---
