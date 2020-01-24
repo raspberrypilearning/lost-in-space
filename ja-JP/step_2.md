@@ -14,7 +14,9 @@ Scratchオフラインエディタをダウンロードしてインストール�
 
 \--- /task \---
 
-\--- task \--- 「宇宙船」と「地球」のスプライトをステージに追加してください。
+\--- task \---
+
+Add 'rocketship' and 'Earth' sprites to your Stage.
 
 ![Spaceship and Earth sprites](images/space-sprites.png)
 
@@ -22,27 +24,35 @@ Scratchオフラインエディタをダウンロードしてインストール�
 
 \--- /task \---
 
-\--- task \--- ステージに「Stars」の背景を追加します。
+\--- task \---
+
+Add the 'Stars' backdrop to your Stage.
 
 ![A space backdrop](images/space-backdrop.png)
 
 \--- /task \---
 
-\--- task \--- 宇宙船のスプライトをクリックし、**コスチューム**タブをクリックします。
+\--- task \---
+
+Click on your spaceship sprite, and click on the **Costumes** tab.
 
 ![Sprite costume](images/space-costume.png)
 
 \--- /task \---
 
-\--- task \--- **矢印**ツール使って、宇宙船の画像全体を囲むボックスをクリックしてドラッグします。 次に、円状に**回転する**ハンドルをクリックして、画像が横になるまで回転します。
+\--- task \---
+
+Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
 
 ![Rotating a costume](images/space-rotate.png)
 
 \--- /task \---
 
-\--- task \--- このコードを宇宙船のスプライトに追加します。
+\--- task \---
 
-![宇宙船のスプライト](images/sprite-spaceship.png)
+Add this code to your spaceship sprite:
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 ⚑ が押されたとき
@@ -53,10 +63,10 @@ x座標を (-150) 、y座標を (-150) にする
 (1) 秒でx座標を (0) に、y座標を (0) に変える
 ```
 
-追加したコードブロックの数字を変更して、コードが上記とまったく同じになるようにします。
+Change the numbers in the code blocks you've added so that the code is exactly the same as above.
 
 \--- /task \---
 
-緑の旗をクリックすると、宇宙船がしゃべり、回転し、ステージの中央に向かって進んでいきます。
+If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
 
 ![Testing a spaceship animation](images/space-animate-stage.png)
