@@ -1,6 +1,6 @@
 \--- no-print \---
 
-これは、このプロジェクトの**スクラッチ3**バージョンです。このプロジェクトの[ Scratch 2](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2) バージョンもあります。
+これは、**Scratch 3**バージョンのプロジェクトです。[ Scratch 2バージョンのプロジェクト](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2)もあります。
 
 \--- /no-print \---
 
@@ -10,7 +10,9 @@
 
 ### 作るもの
 
-\--- no-print \--- 緑色のフラグをクリックして、アニメーションを表示します。
+\--- no-print \---
+
+Click on the green flag to see the animation.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -21,7 +23,7 @@
 
 \--- print-only \---
 
-![完成したプロジェクト](images/showcase_static.png)
+![Complete project](images/showcase_static.png)
 
 \--- /print-only \---
 
@@ -31,11 +33,11 @@
 
 ### ハードウェア
 
-- スクラッチ3を実行できるコンピュータ
+- Scratch 3を実行できるコンピュータ
 
 ### ソフトウェア
 
-- スクラッチ3 ([オンライン](http://rpf.io/scratchon){:target="_blank"}または[オフライン](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 ([オンライン](http://rpf.io/scratchon){:target="_blank"}または[オフライン](http://rpf.io/scratchoff){:target="_blank"})
 
 ### ダウンロード
 
@@ -48,8 +50,8 @@
 ## title: 学習すること
 
 - スクラッチで繰り返しループを使用して、スプライトをアニメーションにする
-- 無限ループを使用して、アニメーションを無期限に繰り返す
-- ループを相互にネストできることを理解する
+- ずっとループを使用して、アニメーションをいつまでも繰り返す
+- ループをお互いにネストできることを理解する
 
 \--- /collapse \---
 
@@ -57,8 +59,8 @@
 
 ## title：教育者向けの追加情報
 
-このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_ blank"}を使用してください。
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
-[ここで完成したプロジェクト](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}を見ることができます 。
+You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
 \--- /collapse \---
