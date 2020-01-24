@@ -2,7 +2,9 @@
 
 የቦታውን መንቀሳቀስ የሚችልበት ሌላኛው መንገድ አነስተኛውን መጠን ብዙ ጊዜ እንዲወስድ መንገር ነው
 
-\--- ተግባር \--- ኮዱን `አግድም`{: class = "block3motion"} ከደብዳቤህ አግድ. ይህንን ለማድረግ, ከኮድ ቦታ ላይ ጥቆማውን ይጎትቱ እና ሌሎች ነጠላ የቁልፍ እገዳዎች በሚገኙበት ቦታ ላይ ይጣሉት.
+\--- task \---
+
+Delete the `glide`{:class="block3motion"} block from your code. To do this, drag the block off the Code area and drop it back where the other single code blocks are.
 
 ![Spaceship sprite](images/sprite-spaceship.png)
 
@@ -16,13 +18,15 @@ x ሂድ: (- 150) y: (- 150)
 - (1) ሰከንድ ተንሸራትቶ ወደ x: (0) y: (0)
 ```
 
-\--- / task \---
+\--- /task \---
 
-\--- task \--- አሁን ` ድገም/ሚ ` {: class = "block3control"} ብሎክ በመጥቀም የጠፍር መጓጓዣ አውሮፕላኑን ወደ መሬት አንቀሳቅስ/ሺ?
+\--- task \---
 
-![የ spacecraft እንቅስቃሴን መሞከር](images/space-animate-stage.png)
+Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
 
-![የጠፍር መጓጓዣ አውሮፕላን ስፕራይት](images/sprite-spaceship.png)
+![Testing a spaceship animation](images/space-animate-stage.png)
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -39,7 +43,9 @@ Test and save your code. Your spaceship should move towards the Earth exactly as
 
 \--- /task \---
 
-\--- task \--- Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
+\--- task \---
+
+Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
 
 Use this block:
 
@@ -63,7 +69,9 @@ Test and save your code.
 
 \--- /task \---
 
-\--- task \--- Can you make your spaceship get smaller as it moves towards Earth?
+\--- task \---
+
+Can you make your spaceship get smaller as it moves towards Earth?
 
 \--- hints \---
 
