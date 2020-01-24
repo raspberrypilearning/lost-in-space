@@ -14,35 +14,45 @@ Wenn du den Scratch-Offline-Editor herunterladen und installieren möchtest, fin
 
 \--- /task \---
 
-\--- task \--- Füge deiner Bühne die Figuren "Rocketship" (Raumschiff) und "Earth" (Erde) hinzu.
+\--- task \---
 
-![Die Figuren Raumschiff und Erde](images/space-sprites.png)
+Add 'rocketship' and 'Earth' sprites to your Stage.
+
+![Spaceship and Earth sprites](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
 \--- /task \---
 
-\--- task \--- Füge deiner Bühne das Bühnenbild "stars" (Sterne) hinzu.
+\--- task \---
 
-![Ein Weltraum-Bühnenbild](images/space-backdrop.png)
+Add the 'Stars' backdrop to your Stage.
+
+![A space backdrop](images/space-backdrop.png)
 
 \--- /task \---
 
-\--- task \--- Klicke auf das Raumschiff, und öffne den Reiter **Kostüme**.
+\--- task \---
+
+Click on your spaceship sprite, and click on the **Costumes** tab.
 
 ![Sprite costume](images/space-costume.png)
 
 \--- /task \---
 
-\--- task \--- Verwende das **Pfeil**-Werkzeug indem du klickst und eine Box um das gesamte Raumshiff-Bild ziehst. Klicke dann auf das **Drehen**-Symbol und drehe das Bild, bis es auf der Seite liegt.
+\--- task \---
 
-![Eine Figur drehen](images/space-rotate.png)
+Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+
+![Rotating a costume](images/space-rotate.png)
 
 \--- /task \---
 
-\--- task \--- Füge deiner Raumschiff-Figur diesen Code hinzu:
+\--- task \---
 
-![Raumschiff-Figur](images/sprite-spaceship.png)
+Add this code to your spaceship sprite:
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 Wenn die Flagge angeklickt wird
@@ -53,10 +63,10 @@ drehe dich zu (Earth v)
 gleite in (1) Sek. zu x:(0) y:(0)
 ```
 
-Ändere die Zahlen in den Blöcken, die du hinzugefügt hast, damit der Code exakt dem obigen entspricht.
+Change the numbers in the code blocks you've added so that the code is exactly the same as above.
 
 \--- /task \---
 
-Wenn du auf die grüne Flagge klickst, sollten Sie sehen, wie das Raumschiff "spricht", sich dreht und zur Mitte der Bühne gleitet.
+If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
 
-![Test einer Raumschiff-Animation](images/space-animate-stage.png)
+![Testing a spaceship animation](images/space-animate-stage.png)
