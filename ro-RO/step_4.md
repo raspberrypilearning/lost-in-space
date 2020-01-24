@@ -2,9 +2,11 @@
 
 O altă modalitate de a anima nava spațială este să-i spui să se miște puțin de mai multe ori
 
-\--- Sarcina \--- Șterge acest rând de cod `alunecare`{: class = "block3motion"}. Pentru a face acest lucru, trage blocul din zona Cod și du-l înapoi acolo unde sunt celelalte blocuri.
+\--- task \---
 
-![Personajul nava spațială](images/sprite-spaceship.png)
+Delete the `glide`{:class="block3motion"} block from your code. To do this, drag the block off the Code area and drop it back where the other single code blocks are.
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 atunci când pavilion făcut clic
@@ -18,11 +20,13 @@ punctul spre (Pământ v)
 
 \--- /task \---
 
-\--- task \--- Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
+\--- task \---
 
-![Testarea unei animații pentru nava spațială](images/space-animate-stage.png)
+Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
 
-![Personajul nava spațială](images/sprite-spaceship.png)
+![Testing a spaceship animation](images/space-animate-stage.png)
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -35,15 +39,17 @@ point towards (Earth v)
     move (2) steps
 ```
 
-Testează și salvează: Nava ta spațială trebuie să se deplaseze spre Pământ exact ca mai înainte, dar de data aceasta utilizând un bloc `repetă`.
+Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
 
 \--- /task \---
 
-\--- sarcină \--- Apoi, adaugă cod la nava ta spațială, astfel încât își va schimba culoarea pe măsură ce se deplasează spre Pământ?
+\--- task \---
 
-Folosește acest cod:
+Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
 
-![Personajul nava spațială](images/sprite-spaceship.png)
+Use this block:
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -57,17 +63,19 @@ repeat (200)
 +    change [color v] effect by (25)
 ```
 
-Testează și salvează codul tău.
+Test and save your code.
 
-![Testarea unei nave spațiale care își schimbă culoarea](images/space-colour-test.png)
+![Testing a colour-changing spaceship](images/space-colour-test.png)
 
 \--- /task \---
 
-\--- Poți face ca nava ta să devină mai mică pe măsură ce ajunge pe Pământ?
+\--- task \---
+
+Can you make your spaceship get smaller as it moves towards Earth?
 
 \--- hints \---
 
-\--- indiciu \---
+\--- hint \---
 
 Your spaceship should start at `100% size`{:class="blocklooks"}, and then `change size`{:class="blocklooks"} by a small amount each time it moves.
 
@@ -75,7 +83,7 @@ Your spaceship should start at `100% size`{:class="blocklooks"}, and then `chang
 
 \--- indiciu \---
 
-Trebuie să adaugi aceste blocuri la codul tău:
+You will need to add these blocks to your code:
 
 ![Personajul nava spațială](images/sprite-spaceship.png)
 
@@ -87,11 +95,11 @@ set size to (100) %
 
 \--- / indiciu \---
 
-\--- indiciu \---
+\--- hint \---
 
-Codul tău ar trebui să arate astfel:
+Your code should look like this:
 
-![Personajul nava spațială](images/sprite-spaceship.png)
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -107,12 +115,12 @@ repeat (200)
 +   change size by (-3)
 ```
 
-\--- / indiciu \---
+\--- /hint \---
 
-\--- / sugestii \---
+\--- /hints \---
 
 \--- /task \---
 
-Testează și salvează codul. Nava spațială ar trebui să se micșoreze acum pe măsură ce se mișcă. Testează nava spațială a ** a doua oară ** . Este dimensiunea potrivită când începe?
+Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
 
-![Testarea unei nave spațiale în cădere](images/space-size-test.png)
+![Testing a shrinking spaceship](images/space-size-test.png)
