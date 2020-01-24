@@ -14,35 +14,45 @@ Si tu dois télécharger et installer l'éditeur hors ligne Scratch, tu peux le 
 
 \--- /task \---
 
-\--- task \--- Ajoute des sprites 'fusée' et 'Terre' à votre scène.
+\--- task \---
 
-![Les sprites Vaisseau Spatial et Terre](images/space-sprites.png)
+Add 'rocketship' and 'Earth' sprites to your Stage.
+
+![Spaceship and Earth sprites](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
 \--- /task \---
 
-\--- Ajoute l'arrière plan "Étoiles" à la scène.
+\--- task \---
 
-![Un arrière plan spatial](images/space-backdrop.png)
+Add the 'Stars' backdrop to your Stage.
 
-\--- /task \---
-
-\--- task \--- Clique sur ton sprite vaisseau spatial, et clique sur l'onglet **Costumes** .
-
-![Costume de Sprite](images/space-costume.png)
+![A space backdrop](images/space-backdrop.png)
 
 \--- /task \---
 
-\--- task \--- Utilise l'outil **flèche** pour cliquer et faire glisser une boîte autour de l'image du vaisseau spatial. Puis clique sur la circulaire **faire pivoter** manipuler et faire pivoter l’image jusqu’à ce qu’elle soit sur le côté.
+\--- task \---
 
-![Faire pivoter un costume](images/space-rotate.png)
+Click on your spaceship sprite, and click on the **Costumes** tab.
+
+![Sprite costume](images/space-costume.png)
 
 \--- /task \---
 
-\--- task \--- Ajoute ce code à ton sprite vaisseau spatial :
+\--- task \---
 
-![Sprite de vaisseau spatial](images/sprite-spaceship.png)
+Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+
+![Rotating a costume](images/space-rotate.png)
+
+\--- /task \---
+
+\--- task \---
+
+Add this code to your spaceship sprite:
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 quand le drapeau vert pressé
@@ -53,10 +63,10 @@ s'orienter vers (Earth v)
 glisser en (1) secondes à x: (0) y: (0)
 ```
 
-Change les nombres dans les blocs de code pour que le code soit exactement le même que dans l'image ci-dessus.
+Change the numbers in the code blocks you've added so that the code is exactly the same as above.
 
 \--- /task \---
 
-Si tu cliques sur le drapeau vert, tu dois voir le vaisseau parler, tourner et glisser vers le centre de la scène.
+If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
 
-![Test d'une animation de vaisseau spatial](images/space-animate-stage.png)
+![Testing a spaceship animation](images/space-animate-stage.png)
