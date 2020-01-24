@@ -10,7 +10,9 @@ See on projekti **Scratch 3** versioon. On ka [projekti Scratch 2 versioon](http
 
 ### Mida sa teed
 
-\--- no-print \--- Animatsiooni vaatamiseks klõpsa rohelisel lipul.
+\--- no-print \---
+
+Click on the green flag to see the animation.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -21,7 +23,7 @@ See on projekti **Scratch 3** versioon. On ka [projekti Scratch 2 versioon](http
 
 \--- print-only \---
 
-![Lõpeta projekt](images/showcase_static.png)
+![Complete project](images/showcase_static.png)
 
 \--- /print-only \---
 
@@ -57,8 +59,8 @@ See on projekti **Scratch 3** versioon. On ka [projekti Scratch 2 versioon](http
 
 ## title: Lisainfo õpetajatele
 
-Kui sul on vaja see projekt välja printida, siis kasuta [printerisõbralikku versiooni](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
-Leiad [lõpetatud projekti siit](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
 \--- /collapse \---
