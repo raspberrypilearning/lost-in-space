@@ -2,33 +2,43 @@
 
 Sekarang anda akan menambah monyet yang hilang dalam ruang untuk animasi anda!
 
-\--- task \--- Mula dengan menambah 'monyet' sprite dari perpustakaan.
+\--- task \---
 
-![Menambahkan sprite monyet](images/space-monkey-sprite.png)
+Start by adding the 'monkey' sprite from the library.
+
+![Adding a monkey sprite](images/space-monkey-sprite.png)
+
+\--- /task \---
+
+Click on your new monkey sprite and then click on **Costumes** so that you can edit how the monkey looks.
+
+\--- task \---
+
+Set the fill to be transparent by selecting the red line. For the outline, set a white colour by moving the Saturation slider to `0`.
+
+![Make white colour](images/make-white.png)
 
 \--- / tugas \---
 
-Klik pada sprite monyet baru anda dan kemudian klik pada **Kostum** sehingga anda dapat mengedit bagaimana monyet itu terlihat.
+\--- task \---
 
-\--- task \--- Tetapkan mengisi menjadi telus dengan memilih garis merah. Untuk garis besar, tetapkan warna putih dengan menggerakkan slider Saturasi kepada `0`.
+Click on the **circle** tool and then use it to draw a white space helmet around the monkey's head.
 
-![Buat warna putih](images/make-white.png) \--- / tugas \---
+![Monkey space helmet](images/space-monkey-edit.png)
 
-\--- task \--- Klik pada alat **lingkaran** dan kemudian gunakannya untuk menggambar topi keledar ruang putih di sekitar kepala monyet.
+\--- /task \---
 
-![Topi keledar monyet](images/space-monkey-edit.png)
+\--- task \---
 
-\--- / tugas \---
+Can you add code to your monkey sprite so that it spins slowly in a circle forever?
 
-\--- task \--- Bolehkah anda menambah kod ke sprite monyet anda supaya berputar perlahan dalam lingkaran selama-lamanya?
+\--- hints \--- \--- hint \---
 
-\--- petunjuk \--- \--- petunjuk \---
+When the green **flag is clicked**, your monkey sprite should **turn** in a circle **forever**.
 
-Apabila hijau **bendera diklik**, monyet bidadari anda perlu **seterusnya** dalam bulatan **selama-lamanya**.
+\--- /hint \--- \--- hint \---
 
-\--- / petunjuk \--- \--- petunjuk \---
-
-Berikut adalah blok kod yang anda perlukan:
+Here are the code blocks you need:
 
 ```blocks3
 selamanya
@@ -39,11 +49,11 @@ putar cw (15) darjah
 apabila bendera diklik
 ```
 
-\--- / petunjuk \--- \--- petunjuk \---
+\--- /hint \--- \--- hint \---
 
-Berikut adalah kod untuk membuat putaran monyet anda:
+Here's the code to make your monkey spin:
 
-![Sprite monyet](images/sprite-monkey.png)
+![Monkey sprite](images/sprite-monkey.png)
 
 ```blocks3
 apabila bendera mengklik
@@ -51,10 +61,10 @@ selamanya
     putar cw (1) darjah
 ```
 
-\--- / petunjuk \--- \--- / petunjuk \---
+\--- /hint \--- \--- /hints \---
 
-\--- / tugas \---
+\--- /task \---
 
-Uji dan simpan projek anda. Anda perlu klik butang merah **stop** untuk mengakhiri animasi ini, kerana ia berjalan selama-lamanya!
+Test and save your project. You'll have to click on the red **stop** button to end this animation, as it runs forever!
 
-![Uji monyet berputar](images/space-spin-test.png)
+![Test the spinning monkey](images/space-spin-test.png)
