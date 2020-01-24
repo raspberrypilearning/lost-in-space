@@ -2,7 +2,9 @@
 
 Another way to animate the spaceship is to tell it to move a small amount many times
 
-\--- task \--- Delete the `glide`{:class="block3motion"} block from your code. To do this, drag the block off the Code area and drop it back where the other single code blocks are.
+\--- task \---
+
+Delete the `glide`{:class="block3motion"} block from your code. To do this, drag the block off the Code area and drop it back where the other single code blocks are.
 
 ![Spaceship sprite](images/sprite-spaceship.png)
 
@@ -18,9 +20,11 @@ point towards (Earth v)
 
 \--- /task \---
 
-\--- task \--- Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
+\--- task \---
 
-![Isprobavanje animacije svemirskog broda](images/space-animate-stage.png)
+Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
+
+![Testing a spaceship animation](images/space-animate-stage.png)
 
 ![Spaceship sprite](images/sprite-spaceship.png)
 
@@ -39,7 +43,9 @@ Test and save your code. Your spaceship should move towards the Earth exactly as
 
 \--- /task \---
 
-\--- task \--- Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
+\--- task \---
+
+Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
 
 Use this block:
 
@@ -59,15 +65,17 @@ repeat (200)
 
 Test and save your code.
 
-![Isprobavanje svemirskog broda koji mijenja boju](images/space-colour-test.png)
+![Testing a colour-changing spaceship](images/space-colour-test.png)
 
 \--- /task \---
 
-\--- task \--- Can you make your spaceship get smaller as it moves towards Earth?
+\--- task \---
 
-\--- pomoć \---
+Can you make your spaceship get smaller as it moves towards Earth?
 
-\--- pomoć \---
+\--- hints \---
+
+\--- hint \---
 
 Your spaceship should start at `100% size`{:class="blocklooks"}, and then `change size`{:class="blocklooks"} by a small amount each time it moves.
 
@@ -87,9 +95,9 @@ set size to (100) %
 
 \--- /hint \---
 
-\--- pomoć \---
+\--- hint \---
 
-Tvoj kôd treba da izgleda ovako:
+Your code should look like this:
 
 ![Spaceship sprite](images/sprite-spaceship.png)
 
@@ -115,4 +123,4 @@ repeat (200)
 
 Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
 
-![Isprobavanje smanjivanja svemirskog broda](images/space-size-test.png)
+![Testing a shrinking spaceship](images/space-size-test.png)
