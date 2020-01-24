@@ -14,35 +14,45 @@ Os oes angen i ti lawrlwytho a gosod golygydd Scratch all-lein, mae modd dod o h
 
 \--- /task \---
 
-\--- task \--- Ychwanegu cipluniau 'llong ofod' a 'Daear' i dy Lwyfan.
+\--- task \---
 
-![Cipluniau llong ofod a Daear](images/space-sprites.png)
+Add 'rocketship' and 'Earth' sprites to your Stage.
+
+![Spaceship and Earth sprites](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
 \--- /task \---
 
-\--- task \--- Ychwanegu cefnlen 'Sêr' i dy Lwyfan.
+\--- task \---
 
-![Cefnlen gofod](images/space-backdrop.png)
+Add the 'Stars' backdrop to your Stage.
 
-\--- /task \---
-
-\--- task \--- Clicia'r ciplun llong ofod, a chlicia'r tab **Gwisgoedd**.
-
-![Gwisg corlun](images/space-costume.png)
+![A space backdrop](images/space-backdrop.png)
 
 \--- /task \---
 
-\--- task \--- Defnyddia'r teclyn **dewis** i glicio a llusgo bocs o amgylch y llong ofod. Yna clicia ar y teclyn **cylchdroi**, i droi y llun tan ei fod ar ei ochr.
+\--- task \---
 
-![Troi gwisg](images/space-rotate.png)
+Click on your spaceship sprite, and click on the **Costumes** tab.
+
+![Sprite costume](images/space-costume.png)
 
 \--- /task \---
 
-\--- task \--- Ychwanega'r côd yma i gorlun dy long ofod:
+\--- task \---
 
-![Corlun llong ofod](images/sprite-spaceship.png)
+Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+
+![Rotating a costume](images/space-rotate.png)
+
+\--- /task \---
+
+\--- task \---
+
+Add this code to your spaceship sprite:
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 pan fo'r flag werdd yn cael ei glicio
@@ -53,10 +63,10 @@ pwyntio tuag at (Earth v)
 llithro (1) eiliad i x: (0) y: (0)
 ```
 
-Newida y rhifau yn y blociau côd fel bod y côd union yr un peth â’r llun uchod.
+Change the numbers in the code blocks you've added so that the code is exactly the same as above.
 
 \--- /task \---
 
-Clicia ar y faner werdd ac fe ddylset ti weld y llong ofod yn siarad, troi a symud tuag at ganol y llwyfan.
+If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
 
-![Profi animeiddiad llong ofod](images/space-animate-stage.png)
+![Testing a spaceship animation](images/space-animate-stage.png)
