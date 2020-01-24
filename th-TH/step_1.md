@@ -10,20 +10,22 @@
 
 ### คุณจะทำอะไร
 
-\--- no-print \--- คลิกที่ธงสีเขียวเพื่อดูภาพเคลื่อนไหว
+\--- no-print \---
+
+Click on the green flag to see the animation.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
   <img src="images/space-final.png">
 </div>
 
-\--- / ไม่มีการพิมพ์ \---
+\--- /no-print \---
 
-\--- พิมพ์เท่านั้น \---
+\--- print-only \---
 
-![เสร็จสิ้นโครงการ](images/showcase_static.png)
+![Complete project](images/showcase_static.png)
 
-\--- / พิมพ์อย่างเดียว \---
+\--- /print-only \---
 
 ## \--- ยุบ \---
 
@@ -51,14 +53,14 @@
 - Use a forever loop to repeat an animation indefinitely
 - เข้าใจว่าลูปสามารถซ้อนกันได้
 
-\--- / ยุบ \---
+\--- /collapse \---
 
 ## \--- ยุบ \---
 
 ## หัวข้อ: ข้อมูลเพิ่มเติมสำหรับนักการศึกษา
 
-หากคุณต้องการพิมพ์โครงการนี้โปรดใช้ [รุ่นที่เหมาะกับเครื่องพิมพ์](https://projects.raspberrypi.org/en/projects/lost-in-space/print){: target = "_ blank"}
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
 You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
-\--- / ยุบ \---
+\--- /collapse \---
