@@ -2,9 +2,11 @@
 
 स्पेसशिप चे चेतना करण्याचा आणखी एक मार्ग म्हणजे तो एक लहान रक्कम अनेक वेळा हलवण्यास सांगतो
 
-\--- कार्य \--- आपल्या कोडमधून `ग्लाइड`{: class = "block3motion"} हटवा. हे करण्यासाठी, कोड क्षेत्रावरील ब्लॉक ड्रॅग करा आणि इतर एकल कोड अवरोध जेथे ते परत करा.
+\--- task \---
 
-![स्पेसशिप स्प्राइट](images/sprite-spaceship.png)
+Delete the `glide`{:class="block3motion"} block from your code. To do this, drag the block off the Code area and drop it back where the other single code blocks are.
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 जेव्हा ध्वज
@@ -16,11 +18,13 @@ x वर जा: (- 150) y: (- 150)
 - गळ (1) सेकंद x: (0) y: (0)
 ```
 
-\--- / कार्य \---
+\--- /task \---
 
-\--- task \--- Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
+\--- task \---
 
-![स्पेसशिप अॅनिमेशन तपासत आहे](images/space-animate-stage.png)
+Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
+
+![Testing a spaceship animation](images/space-animate-stage.png)
 
 ![Spaceship sprite](images/sprite-spaceship.png)
 
@@ -39,7 +43,9 @@ Test and save your code. Your spaceship should move towards the Earth exactly as
 
 \--- /task \---
 
-\--- task \--- Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
+\--- task \---
+
+Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
 
 Use this block:
 
@@ -63,7 +69,9 @@ Test and save your code.
 
 \--- /task \---
 
-\--- task \--- Can you make your spaceship get smaller as it moves towards Earth?
+\--- task \---
+
+Can you make your spaceship get smaller as it moves towards Earth?
 
 \--- hints \---
 
@@ -77,7 +85,7 @@ Your spaceship should start at `100% size`{:class="blocklooks"}, and then `chang
 
 You will need to add these blocks to your code:
 
-![स्पेसशिप स्प्राइट](images/sprite-spaceship.png)
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 change size by (10)
