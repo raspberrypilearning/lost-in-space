@@ -14,35 +14,45 @@
 
 \--- /task \---
 
-\--- task \--- Добавь спрайты 'ракета' и 'Земля' на свою Сцену.
+\--- task \---
 
-![Спрайты Космический корабль и Земля](images/space-sprites.png)
+Add 'rocketship' and 'Earth' sprites to your Stage.
+
+![Spaceship and Earth sprites](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
 \--- /task \---
 
-\--- task \--- Добавь фон «Звёзды» на свою Сцену.
+\--- task \---
 
-![Космический фон](images/space-backdrop.png)
+Add the 'Stars' backdrop to your Stage.
 
-\--- /task \---
-
-\--- task \--- Нажми на спрайт своего космического корабля и перейди на вкладку **Костюмы**.
-
-![Спрайт костюм](images/space-costume.png)
+![A space backdrop](images/space-backdrop.png)
 
 \--- /task \---
 
-\--- task \--- С помощью инструмента **стрелка** щелкни и перетащи рамку вокруг всего изображения космического корабля. Затем нажми на закругленную ручку **поворот** и поверни изображение, пока оно не будет в нужном направлении.
+\--- task \---
 
-![Вращение костюма](images/space-rotate.png)
+Click on your spaceship sprite, and click on the **Costumes** tab.
+
+![Sprite costume](images/space-costume.png)
 
 \--- /task \---
 
-\--- task \--- Добавь этот код к своему спрайту космический корабль:
+\--- task \---
 
-![Спрайт Космический корабль](images/sprite-spaceship.png)
+Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+
+![Rotating a costume](images/space-rotate.png)
+
+\--- /task \---
+
+\--- task \---
+
+Add this code to your spaceship sprite:
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 когда щёлкнут по зелёному флагу
@@ -53,10 +63,10 @@
 плыть (1) секунд в точку x: (0) y: (0)
 ```
 
-Измени числа в блоках кода, которые ты добавил, чтобы код был точно таким же, как указано выше.
+Change the numbers in the code blocks you've added so that the code is exactly the same as above.
 
 \--- /task \---
 
-Если ты нажмешь на зеленый флаг, то увидишь, что космический корабль говорит, поворачивается и плывёт к центру сцены.
+If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
 
-![Тестирование анимации космического корабля](images/space-animate-stage.png)
+![Testing a spaceship animation](images/space-animate-stage.png)
