@@ -2,17 +2,27 @@
 
 ตอนนี้คุณจะรวมลูปเพื่อสร้างดาวส่องแสง
 
-\--- task \--- เพิ่ม sprite 'star' ให้สเตจของคุณ
+\--- task \---
 
-![เพิ่มดาวสไปรท์](images/space-star-sprite.png)
+Add a 'star' sprite to your stage.
 
-\--- / task \---
+![Adding a star sprite](images/space-star-sprite.png)
 
-\--- task \--- คุณสามารถเพิ่มรหัสลงในสไปรต์ดาวของคุณเพื่อให้ดาวเติบโตและหดตัวซ้ำ ๆ ได้หรือไม่?
+\--- /task \---
 
-![ทดสอบดาวที่ส่องแสง](images/sprite-star.png)
+\--- task \---
 
-\--- คำแนะนำ \--- \--- \--- คำใบ้ เมื่อสีเขียว **ธงมีการคลิก**, ผีสางดาวของคุณควร **เปลี่ยนขนาด** ได้รับใหญ่ไม่กี่ครั้งแล้ว **เปลี่ยนขนาด** ที่จะได้รับมีขนาดเล็กลง ไม่กี่ครั้ง ควรทำเช่นนี้เพื่อให้ใหญ่ขึ้นและเล็กลงเรื่อย ๆ **ตลอดกาล** และดูเหมือนว่ามันส่องแสง \--- / hint \--- \--- hint \--- นี่คือบล็อคโค้ดที่คุณต้องการ:
+Can you add code to your star sprite to make the star repeatedly grow and shrink?
+
+![Testing a shining star](images/sprite-star.png)
+
+\--- hints \--- \--- hint \---
+
+When the green **flag is clicked**, your star sprite should **change size** to get bigger a few times, and then **change size** to get smaller a few times. It should do this so that it gets bigger and then smaller **forever** and looks like it's shining light.
+
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
 
 ```blocks3
 ทำซ้ำ (10)
@@ -30,7 +40,11 @@
 ตลอดไป
 ```
 
-\--- / hint \--- \--- hint \--- นี่คือรหัสที่จะทำให้ดาวของคุณเติบโตและหดตัว: ![สไปรท์ดาว](images/sprite-star.png)
+\--- /hint \--- \--- hint \---
+
+Here's the code to make your star grow and shrink:
+
+![Star sprite](images/sprite-star.png)
 
 ```blocks3
 เมื่อแฟล็กคลิก
@@ -44,4 +58,4 @@
 
 ```
 
-\--- / hint \--- \--- / hints \--- \--- / task \---
+\--- /hint \--- \--- /hints \--- \--- /task \---
