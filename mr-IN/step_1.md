@@ -10,20 +10,22 @@
 
 ### आपण काय करीन
 
-\--- no-print \--- अॅनिमेशन पाहण्यासाठी हिरव्या ध्वज वर क्लिक करा.
+\--- no-print \---
+
+Click on the green flag to see the animation.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
   <img src="images/space-final.png">
 </div>
 
-\--- / नाही-प्रिंट \---
+\--- /no-print \---
 
-\--- केवळ प्रिंट \---
+\--- print-only \---
 
-![पूर्ण प्रकल्प](images/showcase_static.png)
+![Complete project](images/showcase_static.png)
 
-\--- / केवळ प्रिंट \---
+\--- /print-only \---
 
 ## \--- पडणे \---
 
@@ -51,14 +53,14 @@
 - Use a forever loop to repeat an animation indefinitely
 - Understand that loops can be nested within each other
 
-\--- / संकुचित \---
+\--- /collapse \---
 
 ## \--- पडणे \---
 
 ## शीर्षक: शिक्षकांसाठी अतिरिक्त माहिती
 
-आपल्याला हे प्रोजेक्ट मुद्रित करण्याची आवश्यकता असल्यास, कृपया [प्रिंटर-फ्रेंडली आवृत्ती](https://projects.raspberrypi.org/en/projects/lost-in-space/print){: लक्ष्य = "_ blank"} वापरा.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
 You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
-\--- / संकुचित \---
+\--- /collapse \---
