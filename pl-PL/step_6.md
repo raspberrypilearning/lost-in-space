@@ -2,17 +2,27 @@
 
 Teraz dodasz latającą asteroidę do swojej animacji.
 
-\--- task \--- Dodaj duszka "skała" (ang. Rock) do swojej animacji.
+\--- task \---
 
-![Dodanie duszka skały](images/space-rock-sprite.png)
+Add a 'rock' sprite to your animation.
+
+![Adding a rock sprite](images/space-rock-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Czy umiesz dodać kod do swojego duszka skały, żeby skała odbijała się wokół sceny?
+\--- task \---
 
-![Testowanie odbijającej się skały](images/space-bounce-test.png)
+Can you add code for your rock sprite so that the rock bounces around the stage?
 
-\--- wskazówki \--- \--- podpowiedź \--- Po kliknięciu zielonej **flagi**, twój duszek skały powinien **przesuwać** i **odbijać się** wokół sceny **zawsze**. \--- / wskazówka \--- \--- podpowiedź \--- Oto potrzebne bloki kodu:
+![Testing a bouncing rock](images/space-bounce-test.png)
+
+\--- hints \--- \--- hint \---
+
+When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**.
+
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
 
 ```blocks3
 przesuń o (10) kroków
@@ -24,7 +34,7 @@ kiedy flaga kliknięta
 zawsze
 ```
 
-Możesz również ustawić bardziej interesujący kierunek początkowy dla sprite'a skalnego za pomocą jednego z tych bloków:
+You can also set a more interesting starting direction for the rock sprite with one of these blocks:
 
 ```blocks3
 obróć cw o (15) stopni
@@ -32,11 +42,11 @@ obróć cw o (15) stopni
 ustaw w kierunku duszka (Ziemia v)
 ```
 
--- /hint \--- \--- hint \---
+\--- /hint \--- \--- hint \---
 
-Oto kod, dzięki któremu Twoja skała odbija się od sceny:
+Here's the code for making your rock bounce around the stage:
 
-![Duszek skały](images/sprite-rock.png)
+![Rock sprite](images/sprite-rock.png)
 
 ```blocks3
 kiedy flaga kliknięta
