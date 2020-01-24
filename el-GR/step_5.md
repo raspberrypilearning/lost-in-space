@@ -2,33 +2,43 @@
 
 Τώρα θα προσθέσεις μία μαϊμού που χάθηκε στο διάστημα στο κινούμενο σχέδιο!
 
-\--- task \--- Άρχισε με την προσθήκη του αντικειμένου "monkey" από τη βιβλιοθήκη.
+\--- task \---
 
-![Προσθέτοντας ένα αντικείμενο μαϊμού](images/space-monkey-sprite.png)
+Start by adding the 'monkey' sprite from the library.
 
-\--- /task \---
-
-Κάνε κλικ στο νέο αντικείμενο monkey και ξανά κλικ στην καρτέλα **Ενδυμασίες**, έτσι ώστε να επεξεργαστείς τον τρόπο εμφάνισης της μαϊμούς.
-
-\--- task \--- Κάνε το γέμισμα διαφανές επιλέγοντας την κόκκινη γραμμή. Για το περίγραμμα, επίλεξε ένα άσπρο χρώμα μετακινώντας τον Κορεσμό στο `0`.
-
-![Δημιούργησε άσπρο χρώμα](images/make-white.png) \--- /task \---
-
-\--- Κάνε κλικ στο εργαλείο **κύκλος** και χρησιμοποίησέ το για να σχεδιάσεις ένα λευκό διαστημικό κράνος γύρω από το κεφάλι της μαϊμούς.
-
-![Διαστημικό κράνος μαϊμούς](images/space-monkey-edit.png)
+![Adding a monkey sprite](images/space-monkey-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Μπορείς να προσθέσεις κώδικα στο αντικείμενο monkey έτσι ώστε να περιστρέφεται αργά σε έναν κύκλο για πάντα;
+Click on your new monkey sprite and then click on **Costumes** so that you can edit how the monkey looks.
+
+\--- task \---
+
+Set the fill to be transparent by selecting the red line. For the outline, set a white colour by moving the Saturation slider to `0`.
+
+![Make white colour](images/make-white.png)
+
+\--- /task \---
+
+\--- task \---
+
+Click on the **circle** tool and then use it to draw a white space helmet around the monkey's head.
+
+![Monkey space helmet](images/space-monkey-edit.png)
+
+\--- /task \---
+
+\--- task \---
+
+Can you add code to your monkey sprite so that it spins slowly in a circle forever?
 
 \--- hints \--- \--- hint \---
 
-Όταν η πράσινη **σημαία πατηθεί**, η μαϊμού πρέπει **να γυρίζει** σε έναν κύκλο **για πάντα**.
+When the green **flag is clicked**, your monkey sprite should **turn** in a circle **forever**.
 
 \--- /hint \--- \--- hint \---
 
-Εδώ είναι τα μπλοκ κώδικα που χρειάζεσαι:
+Here are the code blocks you need:
 
 ```blocks3
 για πάντα
@@ -41,9 +51,9 @@ end
 
 \--- /hint \--- \--- hint \---
 
-Εδώ είναι ο κώδικας για να κάνεις τη μαϊμού σου να περιστρέφεται:
+Here's the code to make your monkey spin:
 
-![Αντικείμενο μαϊμού](images/sprite-monkey.png)
+![Monkey sprite](images/sprite-monkey.png)
 
 ```blocks3
 Όταν στην πράσινη σημαία γίνει κλικ
@@ -56,6 +66,6 @@ end
 
 \--- /task \---
 
-Δοκίμασε και αποθήκευσε το έργο σου. Θα πρέπει να κάνεις κλικ στο κόκκινο κουμπί **τερματισμού** για να τερματίσεις το κινούμενο σχέδιο, καθώς κινείται για πάντα!
+Test and save your project. You'll have to click on the red **stop** button to end this animation, as it runs forever!
 
-![Δοκίμασε την περιστρεφόμενη μαϊμού](images/space-spin-test.png)
+![Test the spinning monkey](images/space-spin-test.png)
