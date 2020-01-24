@@ -10,7 +10,9 @@ W tym projekcie nauczysz się jak programować własne animacje!
 
 ### Co będziesz robił
 
-\--- no-print \--- Kliknij zieloną flagę, aby zobaczyć animację.
+\--- no-print \---
+
+Click on the green flag to see the animation.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -21,7 +23,7 @@ W tym projekcie nauczysz się jak programować własne animacje!
 
 \--- print-only \---
 
-![Skończony projekt](images/showcase_static.png)
+![Complete project](images/showcase_static.png)
 
 \--- /print-only \---
 
@@ -57,8 +59,8 @@ W tym projekcie nauczysz się jak programować własne animacje!
 
 ## title: Dodatkowe informacje dla nauczycieli
 
-Jeśli chcesz wydrukować ten projekt, użyj [wersji gotowej do druku](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
-Tutaj znajdziesz [ukończony projekt](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
 \--- /collapse \---
