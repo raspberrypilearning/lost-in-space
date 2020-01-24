@@ -2,17 +2,27 @@
 
 Acum veți adăuga o piatră spațială plutitoare în animația dvs.
 
-\--- task \--- Adauga o piatră spațială la animație.
+\--- task \---
 
-![Adăugarea unei pietre spațiale](images/space-rock-sprite.png)
+Add a 'rock' sprite to your animation.
+
+![Adding a rock sprite](images/space-rock-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Poți să adaugi un cod pentru piatra ta spațială, astfel încât să sară în jurul scenei?
+\--- task \---
 
-![Încercarea unei pietre care sare](images/space-bounce-test.png)
+Can you add code for your rock sprite so that the rock bounces around the stage?
 
-\--- indicii \--- \--- indiciu \--- Când verde **pavilion este apasat**, roca sprite - ul ar trebui să **muta** și **Bounce** în jurul scenei **pentru totdeauna**. \--- / hint \--- \--- sugestie \--- Aici sunt blocurile de cod de care aveți nevoie:
+![Testing a bouncing rock](images/space-bounce-test.png)
+
+\--- hints \--- \--- hint \---
+
+When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**.
+
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
 
 ```blocks3
 mișcați (10) pașii
@@ -24,7 +34,7 @@ atunci când steagul a dat clic pe
 pentru totdeauna
 ```
 
-De asemenea, poți seta o direcție de pornire mai interesantă pentru piatra spațială cu unul dintre aceste blocuri:
+You can also set a more interesting starting direction for the rock sprite with one of these blocks:
 
 ```blocks3
 rotiți cw (15) grade
@@ -32,11 +42,11 @@ rotiți cw (15) grade
 punct spre (Pamant v)
 ```
 
-\--- / indiciu \--- \--- indiciu \---
+\--- /hint \--- \--- hint \---
 
-Iată codul pentru a face piatra spațială să sară în jurul scenei:
+Here's the code for making your rock bounce around the stage:
 
-![Piatra spațială](images/sprite-rock.png)
+![Rock sprite](images/sprite-rock.png)
 
 ```blocks3
 când pavilionul a dat clic
@@ -46,4 +56,4 @@ pentru totdeauna
     dacă pe margine, săriți
 ```
 
-\--- / indiciu \--- \--- / sugestii \--- \--- / sarcina \---
+\--- /hint \--- \--- /hints \--- \--- /task \---
