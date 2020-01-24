@@ -2,17 +2,27 @@
 
 Теперь ты сможешь добавить плавающий космический камень в свою анимацию.
 
-\--- task \--- Добавь спрайт «камень» в свою анимацию.
+\--- task \---
 
-![Добавление спрайта камень](images/space-rock-sprite.png)
+Add a 'rock' sprite to your animation.
+
+![Adding a rock sprite](images/space-rock-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Можешь ли ты добавить код для своего спрайта, чтобы он отскакивал от края сцены?
+\--- task \---
 
-![Тестирование отскакивающего камня](images/space-bounce-test.png)
+Can you add code for your rock sprite so that the rock bounces around the stage?
 
-\--- hints \--- \--- hint \--- Когда **нажат зеленый флаг**, твой спрайт камень должен **всегда** **идти** и **отталкиваться от** края сцены. \--- /hint \--- \--- hint \--- Вот нужные тебе блоки кода:
+![Testing a bouncing rock](images/space-bounce-test.png)
+
+\--- hints \--- \--- hint \---
+
+When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**.
+
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
 
 ```blocks3
 идти (10) шагов
@@ -25,7 +35,7 @@
 end
 ```
 
-Ты также можешь установить более интересное начальное направление для спрайта с одним из следующих блоков:
+You can also set a more interesting starting direction for the rock sprite with one of these blocks:
 
 ```blocks3
 повернуть вправо на (15) градусов
@@ -35,9 +45,9 @@ end
 
 \--- /hint \--- \--- hint \---
 
-Вот код, который сделает отскок твоего камня от края сцены:
+Here's the code for making your rock bounce around the stage:
 
-![Спрайт камень](images/sprite-rock.png)
+![Rock sprite](images/sprite-rock.png)
 
 ```blocks3
 когда щёлкнут по зелёному флагу
