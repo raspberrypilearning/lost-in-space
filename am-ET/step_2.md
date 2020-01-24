@@ -14,33 +14,43 @@
 
 \--- / task \---
 
-\--- task \--- 'መንኮራኩር' እና 'መሬት' ስፕሪይቶችን ወደ ደረጃህ/ሽ ጨምር/ሪ.
+\--- task \---
 
-![የመርከብ ቦታዎች እና የመሬት ፍርዶች](images/space-sprites.png)
+Add 'rocketship' and 'Earth' sprites to your Stage.
+
+![Spaceship and Earth sprites](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
-\--- / task \---
+\--- /task \---
 
-\--- task \--- የ "ኮከቦች" ባችክድሮፕ ወደ ደልጃህ/ሽ ጨምር/ሪ.
+\--- task \---
 
-![ባዶ backdrop](images/space-backdrop.png)
+Add the 'Stars' backdrop to your Stage.
 
-\--- / task \---
+![A space backdrop](images/space-backdrop.png)
 
-\--- ተግባር \--- በራስዎ የቦታ ስፒር ስፔይት ላይ ጠቅ ያድርጉ እና በ **Costume** ትር ላይ ጠቅ ያድርጉ.
+\--- /task \---
+
+\--- task \---
+
+Click on your spaceship sprite, and click on the **Costumes** tab.
 
 ![Sprite costume](images/space-costume.png)
 
 \--- / task \---
 
-\--- ተግባር \--- በጠቅላላው የመኪናው ምስል ዙሪያ አንድ ሳጥን ለመጫን እና ለመጎተት **ቀስት** መሣሪያን ይጠቀሙ. ከዚያም ክብ ላይ ጠቅ **አሽከርክር** እጀታ, እና በውስጡ ጎን ላይ ነው ድረስ ያለውን ምስል ይሽከረከራሉ.
+\--- task \---
 
-![አንድ ቀሚስ ማሽከርከር](images/space-rotate.png)
+Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+
+![Rotating a costume](images/space-rotate.png)
 
 \--- / task \---
 
-\--- ተግባር \--- ይህን ኮድ ወደ spacecraft sprite ያክሉ
+\--- task \---
+
+Add this code to your spaceship sprite:
 
 ![Spaceship sprite](images/sprite-spaceship.png)
 
@@ -53,10 +63,10 @@ x ሂድ: (- 150) y: (- 150)
 ላይ ማንዣበብ (1) ሰከንድ x: (0) y: (0)
 ```
 
-ኮዱ ከዚህ በላይ እንደተጠቀሰው ተመሳሳይ እንዲሆን ከላይ በተዘረዘሩት የኮድ እገዳዎች ውስጥ ያሉትን ቁጥሮች ይቀይሩ.
+Change the numbers in the code blocks you've added so that the code is exactly the same as above.
 
-\--- / task \---
+\--- /task \---
 
-አረንጓዴውን ባንዲራ ላይ ጠቅ ካደረጉበት, የቦታውን መንሸራተቻ መንካት, መዞር እና ወደ መድረክ ማእከል መካከል ማለፍ አለብዎት.
+If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
 
-![የ spacecraft እንቅስቃሴን መሞከር](images/space-animate-stage.png)
+![Testing a spaceship animation](images/space-animate-stage.png)
