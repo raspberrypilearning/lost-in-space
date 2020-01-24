@@ -2,17 +2,27 @@
 
 चलिए आपकी एनिमेशन में कुछ अन्तरिक्ष में उड़ने वाली पत्थर बनाएँ।
 
-\---task\--- अपनी एनिमेशन में ‘पत्थर’ स्प्राइट जोड़ें।
+\--- task \---
 
-![एक पत्थर स्प्राइट जोड़ना](images/space-rock-sprite.png)
+Add a 'rock' sprite to your animation.
+
+![Adding a rock sprite](images/space-rock-sprite.png)
 
 \--- /task \---
 
-\---task\--- क्या आप आपकी पत्थर स्प्राइट पर ऐसी कोड जोड़ सकते हैं ताकि आपकी पत्थर आपके स्टेज पे उछलता हैं?
+\--- task \---
 
-![एक उछलती पत्थर का परीक्षण](images/space-bounce-test.png)
+Can you add code for your rock sprite so that the rock bounces around the stage?
 
-\---hints\--- \---hint\--- जब आप हरा **झंडा पर क्लिक** करते हैं, तब आपकी पत्थर स्प्राइट **हिलकर** आपकी स्टेज पर **हमेशा** के लिए **उछलना** चाहिए। \--- /hint \--- \--- hint \--- ये वे कोड ब्लॉक हैं जिनकी आपको आवश्यकता है:
+![Testing a bouncing rock](images/space-bounce-test.png)
+
+\--- hints \--- \--- hint \---
+
+When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**.
+
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
 
 ```blocks3
 move (10) steps
@@ -24,7 +34,7 @@ when flag clicked
 forever
 ```
 
-आप इन ब्लॉकों में से एक के साथ पत्थर स्प्राइट के लिए एक और अधिक दिलचस्प प्रारंभिक दिशा निर्धारित कर सकते हैं:
+You can also set a more interesting starting direction for the rock sprite with one of these blocks:
 
 ```blocks3
 turn cw (15) degrees
@@ -34,9 +44,9 @@ point towards (Earth v)
 
 \--- /hint \--- \--- hint \---
 
-इस कोड के साथ आप पत्थर को उछाल सकते हैं:
+Here's the code for making your rock bounce around the stage:
 
-![पत्थर स्प्राइट](images/sprite-rock.png)
+![Rock sprite](images/sprite-rock.png)
 
 ```blocks3
 when flag clicked
