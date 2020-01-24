@@ -14,35 +14,45 @@
 
 \--- /task \---
 
-अपनी स्टेज में 'अनतरिक्ष यान' और 'पृथ्वी' स्प्राइट जोड़ें।
+\--- task \---
 
-![स्पेसशिप और अर्थ स्प्राइट्स](images/space-sprites.png)
+Add 'rocketship' and 'Earth' sprites to your Stage.
+
+![Spaceship and Earth sprites](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
 \--- /task \---
 
-अपनी स्टेज में 'सितारे' पृष्ठभूमि जोड़ें।
+\--- task \---
 
-![एक अंतरिक्ष पृष्ठभूमि](images/space-backdrop.png)
+Add the 'Stars' backdrop to your Stage.
 
-\--- /task \---
-
-अपने अनतरिक्ष-यान स्प्राइट पर क्लिक करें, और **पोशाक** टैब पर क्लिक करें।
-
-![स्प्रिट पोशाक](images/space-costume.png)
+![A space backdrop](images/space-backdrop.png)
 
 \--- /task \---
 
-\--- task\--- संपूर्ण स्पेसशिप के चित्र पर बॉक्स बनाने के लिए **एरो** टूल को क्लिक करे और चारो ओर खींचे। फिर चक्राकार **घुमाएँ** हैंडल पर क्लिक करें, और छवि को तब तक घुमाएँ जब तक यह इसकी बगल में न आ जाए
+\--- task \---
 
-![एक पोशाक को घुमाते हुए](images/space-rotate.png)
+Click on your spaceship sprite, and click on the **Costumes** tab.
+
+![Sprite costume](images/space-costume.png)
 
 \--- /task \---
 
-अपने स्पेसशिप स्प्राइट में यह कोड जोड़ें:
+\--- task \---
 
-![स्पेसशिप स्प्राइट](images/sprite-spaceship.png)
+Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+
+![Rotating a costume](images/space-rotate.png)
+
+\--- /task \---
+
+\--- task \---
+
+Add this code to your spaceship sprite:
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -53,10 +63,10 @@ point towards (Earth v)
 glide (1) secs to x:(0) y:(0)
 ```
 
-कोड ब्लॉक्स में संख्याओं को बदलें ताकि कोड सटीक रूप से उपर्युक्त छवि जैसा दिखाई दे।
+Change the numbers in the code blocks you've added so that the code is exactly the same as above.
 
 \--- /task \---
 
-यदि आप हरे फ्लैग पर क्लिक करते हैं, तो आप देखेंगे कि स्पेसशिप बोलता है, मुड़ता है, और स्टेज के केंद्र की ओर बढ़ता है।
+If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
 
-![एक अंतरिक्ष यान एनीमेशन का परीक्षण](images/space-animate-stage.png)
+![Testing a spaceship animation](images/space-animate-stage.png)
