@@ -2,33 +2,43 @@
 
 Şimdi animasyonunuza uzayda kaybolmuş bir maymun ekleyeceksiniz!
 
-\--- task \--- Kütüphaneden 'maymun' kuklasını ekleyerek başlayın.
+\--- task \---
 
-![Bir maymun kukla ekleme](images/space-monkey-sprite.png)
+Start by adding the 'monkey' sprite from the library.
 
-\--- /task \---
-
-Yeni maymun kuklanıza tıklayın, ardından maymunun görünüşünü düzenleyebilmek için **Kostümler** seçeneğine tıklayın.
-
-\--- task \--- Dolguyu kırmızı çizgiyi seçerek saydam olacak şekilde ayarlayın. Ana hat için, doygunluk değerini `0`'a getirerek beyaz renge ayarlayın.
-
-![Beyaz renk yapma](images/make-white.png) \--- /task \---
-
-\--- task \--- **Daire** aracına tıklayın ve maymunun kafasının etrafına beyaz bir uzay kaskı çizmek için kullanın.
-
-![Maymun uzay kaskı](images/space-monkey-edit.png)
+![Adding a monkey sprite](images/space-monkey-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Maymun kuklanıza sonsuza dek bir daire içinde yavaşça dönmesi için bir kod ekleyebilir misiniz?
+Click on your new monkey sprite and then click on **Costumes** so that you can edit how the monkey looks.
+
+\--- task \---
+
+Set the fill to be transparent by selecting the red line. For the outline, set a white colour by moving the Saturation slider to `0`.
+
+![Make white colour](images/make-white.png)
+
+\--- /task \---
+
+\--- task \---
+
+Click on the **circle** tool and then use it to draw a white space helmet around the monkey's head.
+
+![Monkey space helmet](images/space-monkey-edit.png)
+
+\--- /task \---
+
+\--- task \---
+
+Can you add code to your monkey sprite so that it spins slowly in a circle forever?
 
 \--- hints \--- \--- hint \---
 
-Yeşil **bayrak tıklandığında**, maymun kuklanız **sonsuza dek** bir daire içinde **dönmeli**.
+When the green **flag is clicked**, your monkey sprite should **turn** in a circle **forever**.
 
 \--- /hint \--- \--- hint \---
 
-İhtiyacınız olan kod blokları:
+Here are the code blocks you need:
 
 ```blocks3
 forever
@@ -41,9 +51,9 @@ when flag clicked
 
 \--- /hint \--- \--- hint \---
 
-İşte maymunun dönmesini sağlayacak kod:
+Here's the code to make your monkey spin:
 
-![Maymun kukla](images/sprite-monkey.png)
+![Monkey sprite](images/sprite-monkey.png)
 
 ```blocks3
 when flag clicked
@@ -55,6 +65,6 @@ forever
 
 \--- /task \---
 
-Projenizi test edin ve kaydedin. Bu animasyon sonsuza kadar devam edeceğinden onu sonlandırmak için kırmızı **durdur** butonuna tıklamanız gerekecek!
+Test and save your project. You'll have to click on the red **stop** button to end this animation, as it runs forever!
 
-![Dönen maymunu test et](images/space-spin-test.png)
+![Test the spinning monkey](images/space-spin-test.png)
