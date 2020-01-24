@@ -14,7 +14,9 @@ Se você precisar baixar e instalar o editor offline do Scratch, poderá encontr
 
 \--- /task \---
 
-\--- task \--- Adicione os sprites 'nave espacial' e 'Terra' para o seu Cenário.
+\--- task \---
+
+Add 'rocketship' and 'Earth' sprites to your Stage.
 
 ![Spaceship and Earth sprites](images/space-sprites.png)
 
@@ -22,27 +24,35 @@ Se você precisar baixar e instalar o editor offline do Scratch, poderá encontr
 
 \--- /task \---
 
-\--- task \--- Adiciona a imagem de fundo 'Estrelas' ao seu Cenário.
+\--- task \---
+
+Add the 'Stars' backdrop to your Stage.
 
 ![A space backdrop](images/space-backdrop.png)
 
 \--- /task \---
 
-\--- task \--- Clique no seu sprite da nave espacial e clique na aba **Costumes**.
+\--- task \---
+
+Click on your spaceship sprite, and click on the **Costumes** tab.
 
 ![Sprite costume](images/space-costume.png)
 
 \--- /task \---
 
-\--- task \--- Use a **seta** para clicar e arrastar uma caixa ao redor de toda a imagem da nave espacial. Em seguida clique no círculo de **rotação** e rotacione a imagem até que ela esteja de lado.
+\--- task \---
+
+Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
 
 ![Rotating a costume](images/space-rotate.png)
 
 \--- /task \---
 
-\--- task \--- Adicione esse código ao sprite da sua nave espacial:
+\--- task \---
 
-![Sprite da nave espacial](images/sprite-spaceship.png)
+Add this code to your spaceship sprite:
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -53,10 +63,10 @@ point towards (Earth v)
 glide (1) secs to x:(0) y:(0)
 ```
 
-Altere os números nos blocos de código que você adicionou para que o código seja exatamente o mesmo que acima.
+Change the numbers in the code blocks you've added so that the code is exactly the same as above.
 
 \--- /task \---
 
-Se você clicar na bandeira verde, você deve ver a nave espacial falar "Vamos lá!", virar e deslizar em direção ao centro do palco.
+If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
 
 ![Testing a spaceship animation](images/space-animate-stage.png)
