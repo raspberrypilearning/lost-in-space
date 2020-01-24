@@ -2,9 +2,11 @@
 
 Une autre façon d'animer le vaisseau spatial est de lui dire d'avancer un petit peu beaucoup de fois
 
-\--- task \--- Supprime le bloc `glisser` {: class = "block3motion"} de ton code. Pour ce faire, fais glisser le bloc de la zone de code et dépose-le là où se trouvent les autres blocs de code.
+\--- task \---
 
-![Sprite de vaisseau spatial](images/sprite-spaceship.png)
+Delete the `glide`{:class="block3motion"} block from your code. To do this, drag the block off the Code area and drop it back where the other single code blocks are.
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 quand le drapeau vert pressé
@@ -18,11 +20,13 @@ glisser en (1) secondes à x: (0) y: (0)
 
 \--- /task \---
 
-\--- task \--- Maintenant, utilise un bloc `répéter`{:class="block3control"} pour déplacer ton vaisseau spatial vers la Terre?
+\--- task \---
 
-![Test d'une animation de vaisseau spatial](images/space-animate-stage.png)
+Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
 
-![Sprite de vaisseau spatial](images/sprite-spaceship.png)
+![Testing a spaceship animation](images/space-animate-stage.png)
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 lorsque le drapeau est cliqué
@@ -35,15 +39,17 @@ s'orienter vers (Terre v)
     déplacer de (2) pas
 ```
 
-Teste et enregistre ton code. Ton vaisseau spatial devrait se déplacer exactement comme avant vers la Terre, mais cette fois-ci il utilise un bloc `répéter`{:class="block3control"}.
+Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
 
 \--- /task \---
 
-\--- task \--- Ensuite, ajoute du code à ton sprite vaisseau spatial afin que le vaisseau spatial change de couleur lorsqu'il se déplace vers la Terre?
+\--- task \---
 
-Utilise ce bloc:
+Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
 
-![Sprite de vaisseau spatial](images/sprite-spaceship.png)
+Use this block:
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 lorsque le drapeau est cliqué
@@ -57,25 +63,27 @@ répéter (200)
 + ajouter (25) à l'effet [couleur v]
 ```
 
-Teste et enregistre ton code.
+Test and save your code.
 
-![Test d'un vaisseau spatial changeant de couleur](images/space-colour-test.png)
+![Testing a colour-changing spaceship](images/space-colour-test.png)
 
 \--- /task \---
 
-\--- task \--- Peux-tu faire en sorte que la taille de ton vaisseau spatial diminue au fur et à mesure qu'il arrive sur Terre?
+\--- task \---
+
+Can you make your spaceship get smaller as it moves towards Earth?
 
 \--- hints \---
 
 \--- hint \---
 
-Ton vaisseau spatial devrait commencer à `100% de taille`{:class="blocklooks"}, puis `changer la taille`{:class="blocklooks"} d'une petite quantité chaque fois qu'il se déplace.
+Your spaceship should start at `100% size`{:class="blocklooks"}, and then `change size`{:class="blocklooks"} by a small amount each time it moves.
 
 \--- /hint \---
 
 \--- hint \---
 
-Tu devras ajouter ces blocs à ton code:
+You will need to add these blocks to your code:
 
 ![Sprite de vaisseau spatial](images/sprite-spaceship.png)
 
@@ -89,9 +97,9 @@ mettre la taille à (100) % de la taille initiale
 
 \--- hint \---
 
-Ton code devrait ressembler à ceci:
+Your code should look like this:
 
-![Sprite de vaisseau spatial](images/sprite-spaceship.png)
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 lorsque le drapeau est cliqué
@@ -113,6 +121,6 @@ ajouter (25) à l'effet [couleur v]
 
 \--- /task \---
 
-Teste et enregistre ton code. Ton vaisseau devrait maintenant être plus petit au fur et à mesure qu'il bouge. Teste ton vaisseau spatial une **seconde fois**. Est-ce la bonne taille quand il démarre ?
+Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
 
-![Tester le rétrécissement d'un vaisseau spatial](images/space-size-test.png)
+![Testing a shrinking spaceship](images/space-size-test.png)
