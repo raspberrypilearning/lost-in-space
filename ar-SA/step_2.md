@@ -14,35 +14,45 @@
 
 \--- /task \---
 
-\--- task \--- قم بإضافة الكائنين "rocketship" و "الارض" الى المنصة خاصتك.
+\--- task \---
 
-![الكائنين سفينة الفضاء و كوكب الأرض](images/space-sprites.png)
+Add 'rocketship' and 'Earth' sprites to your Stage.
+
+![Spaceship and Earth sprites](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
 \--- /task \---
 
-\--- task \--- أضف خلفية "Stars" إلى المنصة خاصتك.
+\--- task \---
 
-![خلفية الفضاء](images/space-backdrop.png)
+Add the 'Stars' backdrop to your Stage.
 
-\--- /task \---
-
-\--- task \--- انقر فوق كائن سفينة الفضاء، ثم انقر فوق علامة التبويب **المظاهر**.
-
-![مظهر الكائن](images/space-costume.png)
+![A space backdrop](images/space-backdrop.png)
 
 \--- /task \---
 
-\--- task \--- استخدم أداة **السهم** لنقر وسحب مربع حول صورة سفينة الفضاء بأكملها. ثم انقر على المقبض الدائري ** تدوير** وقم بتدوير الصورة حتى تكون على جانبها.
+\--- task \---
 
-![تدوير المظهر](images/space-rotate.png)
+Click on your spaceship sprite, and click on the **Costumes** tab.
+
+![Sprite costume](images/space-costume.png)
 
 \--- /task \---
 
-\--- task \--- أضف هذه التعليمة البرمجية إلى كائن سفينة الفضاء:
+\--- task \---
 
-![كائن سفينة الفضاء](images/sprite-spaceship.png)
+Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+
+![Rotating a costume](images/space-rotate.png)
+
+\--- /task \---
+
+\--- task \---
+
+Add this code to your spaceship sprite:
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 عند نقر ⚑
@@ -53,10 +63,10 @@
 انزلق خلال (1) ثانية إلى الموضع س: (0) ص: (0)
 ```
 
-غيِّر الأرقام الموجودة في قوالب التعليمات البرمجية بحيث تكون التعليمات البرمجية مماثلة لتلك الموضحة في الصورة أعلاه.
+Change the numbers in the code blocks you've added so that the code is exactly the same as above.
 
 \--- /task \---
 
-إذا نقرتَ على العلم الأخضر، فستجد أن سفينة الفضاء تتكلم ثم تستدير ثم تسبح نحو كوكب الأرض.
+If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
 
-![اختبار تحرك سفينة الفضاء](images/space-animate-stage.png)
+![Testing a spaceship animation](images/space-animate-stage.png)
