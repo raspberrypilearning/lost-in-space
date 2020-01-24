@@ -10,7 +10,9 @@ Imparerai a programmare la tua animazione!
 
 ### Cosa creerai
 
-\--- no-print \--- Fare clic sulla bandiera verde per vedere l'animazione.
+\--- no-print \---
+
+Click on the green flag to see the animation.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -21,7 +23,7 @@ Imparerai a programmare la tua animazione!
 
 \--- print-only \---
 
-![Progetto completo](images/showcase_static.png)
+![Complete project](images/showcase_static.png)
 
 \--- /print-only \---
 
@@ -57,8 +59,8 @@ Imparerai a programmare la tua animazione!
 
 ## title: Informazioni aggiuntive per gli educatori
 
-Se intendete stampare questo progetto, cliccate su [Versione stampabile](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target = "_ blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
-Puoi trovare il [progetto completo qui](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
 \--- /collapse \---
