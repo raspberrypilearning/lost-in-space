@@ -12,20 +12,20 @@ steps:
   - 
     title: Stratený vo vesmíre
   - 
-    title: Animating a spaceship
+    title: Animácia vesmírnej lode
   - 
-    title: 'Challenge: improve your animation'
+    title: 'Výzva: vylepšite svoju animáciu'
     challenge: true
   - 
-    title: Animation using loops
+    title: Animácia pomocou slučiek
   - 
-    title: Floating monkey
+    title: Vznášajúca sa opica
   - 
-    title: Bouncing asteroid
+    title: Skákací asteroid
   - 
-    title: Shining star
+    title: Žiariaca hviezda
   - 
-    title: 'Challenge: make your own animation'
+    title: 'Výzva: vytvorte si vlastnú animáciu'
     challenge: true
   - 
-    title: What next?
+    title: Kam ďalej?
