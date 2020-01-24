@@ -14,35 +14,45 @@
 
 \--- / कार्य \---
 
-\--- कार्य \--- आपल्या स्टेजवर 'रॉकेटशिप' आणि 'अर्थ' स्पिरिट्स जोडा.
+\--- task \---
 
-![स्पेसशिप आणि पृथ्वी sprites](images/space-sprites.png)
+Add 'rocketship' and 'Earth' sprites to your Stage.
+
+![Spaceship and Earth sprites](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
-\--- / कार्य \---
+\--- /task \---
 
-\--- कार्य \--- आपल्या स्टेजवर 'तारे' पार्श्वभूमी जोडा.
+\--- task \---
 
-![एक जागा पार्श्वभूमी](images/space-backdrop.png)
+Add the 'Stars' backdrop to your Stage.
 
-\--- / कार्य \---
+![A space backdrop](images/space-backdrop.png)
 
-\--- कार्य \--- आपल्या स्पेसशिप स्प्राइटवर क्लिक करा आणि **कॉस्ट्यूम्स** टॅबवर क्लिक करा.
+\--- /task \---
 
-![स्प्राइट पोशाख](images/space-costume.png)
+\--- task \---
 
-\--- / कार्य \---
+Click on your spaceship sprite, and click on the **Costumes** tab.
 
-\--- task \--- संपूर्ण स्पेसशिप प्रतिमेच्या चौकटीवर क्लिक करुन ड्रॅग करण्यासाठी **एरो** टूल वापरा. त्यानंतर गोलाकार **फिरवा** हँडलवर क्लिक करा आणि इमेज त्याच्या बाजूला होईपर्यंत फिरवा.
-
-![पोशाख फिरवत आहे](images/space-rotate.png)
+![Sprite costume](images/space-costume.png)
 
 \--- / कार्य \---
 
-\--- कार्य \--- हा कोड आपल्या स्पेसशिप स्प्राइटमध्ये जोडा:
+\--- task \---
 
-![स्पेसशिप स्प्राइट](images/sprite-spaceship.png)
+Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+
+![Rotating a costume](images/space-rotate.png)
+
+\--- / कार्य \---
+
+\--- task \---
+
+Add this code to your spaceship sprite:
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 जेव्हा ध्वज
@@ -53,10 +63,10 @@ x वर जा: (- 150) y: (- 150)
 ग्लाइड (1) से सेकंद एक्स: (0) यु: (0)
 ```
 
-आपण जोडलेल्या कोड ब्लॉक्समध्ये नंबर बदला जेणेकरून कोड वरीलप्रमाणेच असेल.
+Change the numbers in the code blocks you've added so that the code is exactly the same as above.
 
-\--- / कार्य \---
+\--- /task \---
 
-जर आपण हिरव्या ध्वजांवर क्लिक केले तर आपल्याला स्पेसशिप स्टेजच्या मध्यभागी बोलण्यासाठी, फिरवा आणि गती दिसावी.
+If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
 
-![स्पेसशिप अॅनिमेशन तपासत आहे](images/space-animate-stage.png)
+![Testing a spaceship animation](images/space-animate-stage.png)
