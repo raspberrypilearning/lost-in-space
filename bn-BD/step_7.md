@@ -2,17 +2,27 @@
 
 এখন আপনি একটি চকচকে তারকা তৈরি করতে লুপগুলি একত্রিত করবেন।.
 
-\--- task \--- মঞ্চে একটি শিলা স্প্রাইট যোগ করুন।.
+\--- task \---
 
-![একটি বানরের স্প্রিট যুক্ত করা হচ্ছে](images/space-star-sprite.png)
+Add a 'star' sprite to your stage.
+
+![Adding a star sprite](images/space-star-sprite.png)
 
 \--- /task \---
 
-\--- task \--- তারার বারবার বৃদ্ধি এবং সঙ্কুচিত করার জন্য আপনি কি আপনার তারার স্প্রিটে কোড যুক্ত করতে পারেন?
+\--- task \---
 
-![একটি জ্বলজ্বল নক্ষত্রের পরীক্ষা করা হচ্ছে](images/sprite-star.png)
+Can you add code to your star sprite to make the star repeatedly grow and shrink?
 
-\--- hints \--- \--- hint \--- যখন সবুজ ** পতাকা ক্লিক করা হয় **, আপনার তারকা স্প্রাইটের ** আকার পরিবর্তন করা উচিত ** কয়েকবার বড় হতে এবং তারপরে কয়েকবার ** আকার পরিবর্তন করুন ** ছোট হতে।. এটি এমনটি করা উচিত যাতে এটি আরও বড় হয় এবং তারপরে চিরকালের জন্য ** ছোট হয় ** এবং দেখে মনে হচ্ছে এটি জ্বলজ্বল করছে।. \--- /hint \--- \--- hint \--- আপনার প্রয়োজনীয় কোডগুলি এখানে রইল:
+![Testing a shining star](images/sprite-star.png)
+
+\--- hints \--- \--- hint \---
+
+When the green **flag is clicked**, your star sprite should **change size** to get bigger a few times, and then **change size** to get smaller a few times. It should do this so that it gets bigger and then smaller **forever** and looks like it's shining light.
+
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
 
 ```blocks3
 repeat (10)
@@ -30,7 +40,11 @@ change size by (10)
 forever
 ```
 
-\--- /hint \--- \--- hint \--- আপনার তারকা বৃদ্ধি এবং সংকুচিত করতে কোড এখানে: ![স্টার স্প্রাইট](images/sprite-star.png)
+\--- /hint \--- \--- hint \---
+
+Here's the code to make your star grow and shrink:
+
+![Star sprite](images/sprite-star.png)
 
 ```blocks3
 when flag clicked
