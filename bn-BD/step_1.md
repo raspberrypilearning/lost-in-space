@@ -10,18 +10,20 @@
 
 ### যা তৈরি করতে হবে
 
-\--- no-print \--- অ্যানিমেশন দেখতে সবুজ পতাকাটিতে ক্লিক করুন।.
+\--- no-print \---
+
+Click on the green flag to see the animation.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
   <img src="images/space-final.png">
 </div>
 
-\--- no-print \---
+\--- /no-print \---
 
 \--- print-only \---
 
-![সমাপ্ত প্রকল্প](images/showcase_static.png)
+![Complete project](images/showcase_static.png)
 
 \--- /print-only \---
 
@@ -51,14 +53,14 @@
 - একটি অ্যানিমেশন অনির্দিষ্টকালের জন্য পুনরাবৃত্তি করতে চিরকালের লুপ ব্যবহার করুন
 - বুঝতে হবে যে লুপগুলি একে অপরের মধ্যে কাজ করতে পারে
 
--- /collapse \---
+\--- /collapse \---
 
 ## \--- collapse \---
 
 ## title: শিক্ষাবিদদের জন্য অতিরিক্ত তথ্য
 
-আপনি যদি এই প্রজেক্টটি প্রিন্ট করতে চান তবে [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"} ব্যবহার করুন।.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
-আপনি এখানে <0সমাপ্ত প্রকল্প সমূহ </a>{:target="_blank"} সন্ধান করতে পারেন।.
+You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
--- /collapse \---
+\--- /collapse \---
