@@ -14,35 +14,45 @@ Dacă trebuie să descărci și să instalezi editorul Scratch offline, îl poț
 
 \--- /task \---
 
-\--- Adaugă personajele "Navă Spațială" și "Pământ".
+\--- task \---
 
-![Personajele Nava Spațială și Pământ](images/space-sprites.png)
+Add 'rocketship' and 'Earth' sprites to your Stage.
+
+![Spaceship and Earth sprites](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
 \--- /task \---
 
-\--- task \--- Adaugă fundalul Stele.
+\--- task \---
 
-![Un fundal cu spațiu](images/space-backdrop.png)
+Add the 'Stars' backdrop to your Stage.
 
-\--- /task \---
-
-\--- task \--- Dă click pe nava spațială apoi click pe fila **Costumes**.
-
-![Costume personaje](images/space-costume.png)
+![A space backdrop](images/space-backdrop.png)
 
 \--- /task \---
 
-\--- task \--- Cu ajutorul instrumentului **săgeată** vei da clic pentru a trasa o cutie în jurul întregii imagini a navei spațiale. Apoi, clic pe **rotire** mâner și rotiți imaginea până când aceasta este de partea sa.
+\--- task \---
 
-![Rotirea unui costum](images/space-rotate.png)
+Click on your spaceship sprite, and click on the **Costumes** tab.
+
+![Sprite costume](images/space-costume.png)
 
 \--- /task \---
 
-\--- task \--- Adaugă acest cod pentru nava spațială:
+\--- task \---
 
-![Personajul nava spațială](images/sprite-spaceship.png)
+Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+
+![Rotating a costume](images/space-rotate.png)
+
+\--- /task \---
+
+\--- task \---
+
+Add this code to your spaceship sprite:
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 atunci când pavilion făcut clic
@@ -53,10 +63,10 @@ punctul spre (Pământ v)
 alunecare (1) secunde până la x: (0) y: (0)
 ```
 
-Modifică numerele din blocurile de cod astfel încât codul să fie exact același ca în imaginea de mai sus.
+Change the numbers in the code blocks you've added so that the code is exactly the same as above.
 
 \--- /task \---
 
-Dacă dai clic pe steagul verde, ar trebui să vezi că nava spațială vorbește, se rotește și se aliniază spre centru.
+If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
 
-![Testarea unei animații pentru nava spațială](images/space-animate-stage.png)
+![Testing a spaceship animation](images/space-animate-stage.png)
