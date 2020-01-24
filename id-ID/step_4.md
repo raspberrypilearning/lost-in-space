@@ -2,9 +2,11 @@
 
 Cara lain untuk menghidupkan pesawat ruang angkasa adalah dengan memerintahkannya untuk memindahkan sejumlah kecil kali
 
-\--- task \--- Hapus blok `glide`{: class = "block3motion"} dari kode Anda. Untuk melakukan ini, seret blok dari area Kode dan letakkan kembali di tempat blok kode tunggal lainnya.
+\--- task \---
 
-![Sprite pesawat ruang angkasa](images/sprite-spaceship.png)
+Delete the `glide`{:class="block3motion"} block from your code. To do this, drag the block off the Code area and drop it back where the other single code blocks are.
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 ketika bendera diklik
@@ -18,9 +20,11 @@ titik menuju (Earth v)
 
 \--- /task \---
 
-\--- task \--- Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
+\--- task \---
 
-![Menguji animasi pesawat luar angkasa](images/space-animate-stage.png)
+Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
+
+![Testing a spaceship animation](images/space-animate-stage.png)
 
 ![Spaceship sprite](images/sprite-spaceship.png)
 
@@ -39,7 +43,9 @@ Test and save your code. Your spaceship should move towards the Earth exactly as
 
 \--- /task \---
 
-\--- task \--- Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
+\--- task \---
+
+Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
 
 Use this block:
 
@@ -63,7 +69,9 @@ Test and save your code.
 
 \--- /task \---
 
-\--- task \--- Can you make your spaceship get smaller as it moves towards Earth?
+\--- task \---
+
+Can you make your spaceship get smaller as it moves towards Earth?
 
 \--- hints \---
 
@@ -77,7 +85,7 @@ Your spaceship should start at `100% size`{:class="blocklooks"}, and then `chang
 
 You will need to add these blocks to your code:
 
-![Sprite pesawat ruang angkasa](images/sprite-spaceship.png)
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 change size by (10)
