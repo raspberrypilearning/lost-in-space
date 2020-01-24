@@ -10,7 +10,9 @@ Naučil-a se boš, kako sprogramirati svojo lastno animacijo!
 
 ### Kaj boš ustvaril?
 
-\--- no-print \--- Za prikaz animacije klikni na zeleno zastavico.
+\--- no-print \---
+
+Click on the green flag to see the animation.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -21,7 +23,7 @@ Naučil-a se boš, kako sprogramirati svojo lastno animacijo!
 
 \--- print-only \---
 
-![Dokončan projekt](images/showcase_static.png)
+![Complete project](images/showcase_static.png)
 
 \--- /print-only \---
 
@@ -57,8 +59,8 @@ Naučil-a se boš, kako sprogramirati svojo lastno animacijo!
 
 ## title: Dodatne informacije za izobraževalce
 
-Če želite natisniti ta projekt, uporabite [tiskalniku prijazno različico](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
-Zaključen projekt lahko najdete [tukaj](http://rpf.io/p/en/lost-in-space-get)"}{:target="_blank"}.
+You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
 \--- /collapse \---
