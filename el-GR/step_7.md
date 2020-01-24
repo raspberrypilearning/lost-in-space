@@ -2,17 +2,27 @@
 
 Τώρα θα συνδυάσεις βρόχους για να κάνεις ένα λαμπερό αστέρι.
 
-\--- task \--- Πρόσθεσε ένα αντικείμενο "star" στο κινούμενο σχέδιο.
+\--- task \---
 
-![Προσθέτοντας ένα αντικείμενο αστέρι](images/space-star-sprite.png)
+Add a 'star' sprite to your stage.
+
+![Adding a star sprite](images/space-star-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Μπορείς να προσθέσεις κώδικα στο αστέρι για να το κάνεις να μεγαλώνει και να μικραίνει συνέχεια;
+\--- task \---
 
-![Δοκιμάζοντας ένα φωτεινό αστέρι](images/sprite-star.png)
+Can you add code to your star sprite to make the star repeatedly grow and shrink?
 
-\--- hints \--- \--- hint \--- Όταν η πράσινη **σημαία πατηθεί**, το αντικείμενο αστέρι θα πρέπει **να αλλάζει το μέγεθος** για να γίνει μεγαλύτερο μερικές φορές και στη συνέχεια **να αλλάζει μέγεθος** για να γίνει μικρότερο μερικές φορές. Θα το κάνει έτσι ώστε να μεγαλώνει και να μικραινρι **για πάντα** δίνοντας την εντύπωση ότι σπινθιρίζει. \--- /hint \--- \--- hint \--- Εδώ είναι τα μπλοκ κώδικα που θα χρειαστείς:
+![Testing a shining star](images/sprite-star.png)
+
+\--- hints \--- \--- hint \---
+
+When the green **flag is clicked**, your star sprite should **change size** to get bigger a few times, and then **change size** to get smaller a few times. It should do this so that it gets bigger and then smaller **forever** and looks like it's shining light.
+
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
 
 ```blocks3
 επανάλαβε (10)
@@ -31,7 +41,11 @@ end
 end
 ```
 
-\--- /hint \--- \--- hint \--- Εδώ είναι ο κώδικας για να κάνεις το αστέρι να μεγαλώνει και να μικραίνει: ![Αντικείμενο αστέρι](images/sprite-star.png)
+\--- /hint \--- \--- hint \---
+
+Here's the code to make your star grow and shrink:
+
+![Star sprite](images/sprite-star.png)
 
 ```blocks3
 Όταν στην πράσινη σημαία γίνει κλικ
