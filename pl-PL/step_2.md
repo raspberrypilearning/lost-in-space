@@ -14,35 +14,45 @@ Jeśli musisz pobrać i zainstalować edytor Scratcha, znajdziesz go na stronie 
 
 \--- /task \---
 
-\--- task \--- Dodaj duszki "Rakieta" (ang. Rocketship) i "Ziemia" (ang. Earth) do swojej Sceny.
+\--- task \---
 
-![Duszki Rakieta i Ziemia](images/space-sprites.png)
+Add 'rocketship' and 'Earth' sprites to your Stage.
+
+![Spaceship and Earth sprites](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
 \--- /task \---
 
-\--- task \--- Dodaj tło "Stars" do swojej Sceny.
+\--- task \---
 
-![Tło kosmosu](images/space-backdrop.png)
+Add the 'Stars' backdrop to your Stage.
 
-\--- /task \---
-
-\--- task \--- Kliknij na duszka statku kosmicznego i kliknij na zakładkę **Kostiumy**.
-
-![Kostium duszka](images/space-costume.png)
+![A space backdrop](images/space-backdrop.png)
 
 \--- /task \---
 
-\--- task \--- Użyj narzędzia **strzałka**, aby kliknąć i przeciągnąć okno wokół całego obrazu statku kosmicznego. Następnie kliknij okrągły uchwyt **obróć** i obróć obraz, aż znajdzie się na boku.
+\--- task \---
 
-![Obracanie kostiumu](images/space-rotate.png)
+Click on your spaceship sprite, and click on the **Costumes** tab.
+
+![Sprite costume](images/space-costume.png)
 
 \--- /task \---
 
-\--- task \--- Dodaj ten kod do swojego duszka statku kosmicznego:
+\--- task \---
 
-![Duszek Statku kosmicznego](images/sprite-spaceship.png)
+Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+
+![Rotating a costume](images/space-rotate.png)
+
+\--- /task \---
+
+\--- task \---
+
+Add this code to your spaceship sprite:
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 kiedy flaga kliknięta
@@ -53,10 +63,10 @@ ustaw w kierunku duszka (Ziemia v)
 leć przez (1) sekund do x: (0) y: (0)
 ```
 
-Zmień liczby w dodanych blokach kodu, aby kod był dokładnie taki sam jak powyżej.
+Change the numbers in the code blocks you've added so that the code is exactly the same as above.
 
 \--- /task \---
 
-Jeśli klikniesz zieloną flagę, powinieneś zobaczyć, jak statek kosmiczny mówi, skręca i leci w kierunku środka sceny.
+If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
 
-![Testowanie animacji statku kosmicznego](images/space-animate-stage.png)
+![Testing a spaceship animation](images/space-animate-stage.png)
