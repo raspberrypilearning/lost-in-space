@@ -2,17 +2,27 @@
 
 Bây giờ bạn sẽ kết hợp các vòng lặp để tạo thành một ngôi sao sáng.
 
-\--- task \--- Thêm một sprite 'star' vào sân khấu của bạn.
+\--- task \---
 
-![Thêm một ngôi sao](images/space-star-sprite.png)
+Add a 'star' sprite to your stage.
 
-\--- /bài tập \---
+![Adding a star sprite](images/space-star-sprite.png)
 
-\--- task \--- Bạn có thể thêm mã vào sprite sao của mình để làm cho ngôi sao liên tục phát triển và co lại không?
+\--- /task \---
 
-![Thử nghiệm một ngôi sao sáng](images/sprite-star.png)
+\--- task \---
 
-\--- gợi ý \--- \--- gợi ý \--- Khi màu xanh lá cây **lá cờ được nhấp**, ma sao bạn nên **thay đổi kích thước** để có được lớn hơn một vài lần, và sau đó **thay đổi kích thước** để có được một nhỏ vài lần. Nó nên làm điều này để nó lớn hơn và nhỏ hơn **mãi mãi** và trông giống như nó đang phát sáng. \--- / gợi ý \--- \--- gợi ý \--- Đây là các khối mã bạn cần:
+Can you add code to your star sprite to make the star repeatedly grow and shrink?
+
+![Testing a shining star](images/sprite-star.png)
+
+\--- hints \--- \--- hint \---
+
+When the green **flag is clicked**, your star sprite should **change size** to get bigger a few times, and then **change size** to get smaller a few times. It should do this so that it gets bigger and then smaller **forever** and looks like it's shining light.
+
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
 
 ```blocks3
 lặp lại (10)
@@ -30,7 +40,11 @@ thay đổi kích thước theo (10)
 mãi mãi
 ```
 
-\--- / gợi ý \--- \--- gợi ý \--- Đây là mã để làm cho ngôi sao của bạn phát triển và co lại: ![Ngôi sao](images/sprite-star.png)
+\--- /hint \--- \--- hint \---
+
+Here's the code to make your star grow and shrink:
+
+![Star sprite](images/sprite-star.png)
 
 ```blocks3
 khi cờ nhấp
@@ -44,4 +58,4 @@ mãi mãi
 
 ```
 
-\--- / gợi ý \--- \--- / gợi ý \--- \--- / nhiệm vụ \---
+\--- /hint \--- \--- /hints \--- \--- /task \---
