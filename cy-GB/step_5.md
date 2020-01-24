@@ -2,33 +2,43 @@
 
 Fe fyddi di nawr yn ychwanegu mwnci sydd ar goll yn y gofod i dy animeiddiad!
 
-\--- task \--- Ychwanega gorlun mwnci o’r llyfrgell.
+\--- task \---
 
-![Ychwanegu corlun mwnci](images/space-monkey-sprite.png)
+Start by adding the 'monkey' sprite from the library.
 
-\--- /task \---
-
-Clicia ar gorlun dy fwnci newydd yna clicia **Gwisgoedd** fel bod modd golygu sut mae'r mwnci yn edrych.
-
-\--- task \--- Dewisa'r llenwad i fod yn un tryloyw gan ddewis y llinell goch. Ar gyfer yr amlinelliad, gosoda lliw gwyn gan symud y llithrydd i `0`.
-
-![Gwneud lliw gwyn](images/make-white.png) \--- /task \---
-
-\--- task \--- Clicia'r teclyn **cylch** a'i ddefnyddio i dynnu llun helmet gofod gwyn o gwmpas pen y mwnci.
-
-![Helmet mwnci i'r gofod](images/space-monkey-edit.png)
+![Adding a monkey sprite](images/space-monkey-sprite.png)
 
 \--- /task \---
 
-\--- task \--- Alli di ychwanegu côd i gorlun dy fwnci fel ei fod yn troi'n araf mewn cylch am byth?
+Click on your new monkey sprite and then click on **Costumes** so that you can edit how the monkey looks.
+
+\--- task \---
+
+Set the fill to be transparent by selecting the red line. For the outline, set a white colour by moving the Saturation slider to `0`.
+
+![Make white colour](images/make-white.png)
+
+\--- /task \---
+
+\--- task \---
+
+Click on the **circle** tool and then use it to draw a white space helmet around the monkey's head.
+
+![Monkey space helmet](images/space-monkey-edit.png)
+
+\--- /task \---
+
+\--- task \---
+
+Can you add code to your monkey sprite so that it spins slowly in a circle forever?
 
 \--- hints \--- \--- hint \---
 
-Pan fo'r faner werdd **wedi ei glicio**, fe ddylai corlun dy fwnci **droi** mewn cylch **am byth**.
+When the green **flag is clicked**, your monkey sprite should **turn** in a circle **forever**.
 
 \--- /hint \--- \--- hint \---
 
-Dyma'r blociau côd rwyt ti eu hangen:
+Here are the code blocks you need:
 
 ```blocks3
 am byth
@@ -41,9 +51,9 @@ pan fo'r flag werdd yn cael ei glicio
 
 \--- /hint \--- \--- hint \---
 
-Dyma'r côd i wneud i dy fwnci droi:
+Here's the code to make your monkey spin:
 
-![Corlun mwnci](images/sprite-monkey.png)
+![Monkey sprite](images/sprite-monkey.png)
 
 ```blocks3
 pan fo'r flag werdd yn cael ei glicio
@@ -56,6 +66,6 @@ end
 
 \--- /task \---
 
-Profa ac arbed dy brosiect. Bydd angen i ti glicio'r botwm coch **stop** i orffen yr animeiddiad gan ei fod yn para am byth!
+Test and save your project. You'll have to click on the red **stop** button to end this animation, as it runs forever!
 
-![Profia'r mwnci sy'n troi](images/space-spin-test.png)
+![Test the spinning monkey](images/space-spin-test.png)
