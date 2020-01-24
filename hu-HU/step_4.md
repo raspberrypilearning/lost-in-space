@@ -2,9 +2,11 @@
 
 Úgy is animálhatod az űrhajót, hogy megadod, hogy sokszor, de kicsi távolságot mozogjon
 
-\--- task \--- Töröld a kódból az `csússz`{:class = "block3motion"} blokkot. Ehhez húzd le a blokkot a Kód területről, és húzd vissza oda, ahol a többi egyedi kódblokk van.
+\--- task \---
 
-![Űrhajó szereplő](images/sprite-spaceship.png)
+Delete the `glide`{:class="block3motion"} block from your code. To do this, drag the block off the Code area and drop it back where the other single code blocks are.
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 ⚑-ra kattintáskor
@@ -18,11 +20,13 @@ nézz (Earth) felé
 
 \--- /task \---
 
-\--- task \--- Most használd az `ismételd`{:class="block3control"} blokkot, hogy az űrhajót a Föld felé mozgasd.
+\--- task \---
 
-![Űrhajó animáció tesztelése](images/space-animate-stage.png)
+Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
 
-![Űrhajó szereplő](images/sprite-spaceship.png)
+![Testing a spaceship animation](images/space-animate-stage.png)
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 ⚑-ra kattintáskor
@@ -35,15 +39,17 @@ nézz (Earth v) felé
     menj (2) lépést
 ```
 
-Teszteld és mentsd le a kódot. Az űrhajónak pontosan úgy kell mozognia a Föld felé, mint korábban, de ezúttal `ismételd`{:class="block3control"} blokkot használ.
+Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
 
 \--- /task \---
 
-\--- task \--- Következő lépésként adj hozzá egy kódot az űrhajó szereplőhöz, amely megváltoztatja a színét, amikor a Föld felé mozog.
+\--- task \---
 
-Használd ezt a blokkot:
+Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
 
-![Űrhajó szereplő](images/sprite-spaceship.png)
+Use this block:
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 ⚑-ra kattintáskor
@@ -57,25 +63,27 @@ ismételd (200)
 +    [szín v] hatás változzon (25)
 ```
 
-Teszteld és mentsd le a kódot.
+Test and save your code.
 
-![Színváltó űrhajó tesztelése](images/space-colour-test.png)
+![Testing a colour-changing spaceship](images/space-colour-test.png)
 
 \--- /task \---
 
-\--- task \--- Meg tudod csinálni, hogy az űrhajó kisebb legyen, ahogy a Föld felé mozog?
+\--- task \---
+
+Can you make your spaceship get smaller as it moves towards Earth?
 
 \--- hints \---
 
 \--- hint \---
 
-Az űrhajód mérete az elején `100%`{:class="blocklooks"}, majd `változtass a méretén`{:class="blocklooks"} egy kicsivel minden egyes alkalommal, amikor mozog.
+Your spaceship should start at `100% size`{:class="blocklooks"}, and then `change size`{:class="blocklooks"} by a small amount each time it moves.
 
 \--- /hint \---
 
 \--- hint \---
 
-Ezeket a blokkokat kell hozzáadnod a kódodhoz:
+You will need to add these blocks to your code:
 
 ![Űrhajó szereplő](images/sprite-spaceship.png)
 
@@ -89,9 +97,9 @@ méret legyen (100)%
 
 \--- hint \---
 
-A kódodnak így kell kinéznie:
+Your code should look like this:
 
-![Űrhajó szereplő](images/sprite-spaceship.png)
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 ⚑-ra kattintáskor
@@ -113,6 +121,6 @@ ismételd (200)
 
 \--- /task \---
 
-Teszteld és mentsd le a kódot. Az űrhajó most kisebb lesz, ahogy mozog. Teszteld az űrhajót **mégegyszer**. Ez a megfelelő méret, amikor elindul?
+Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
 
-![Zsugorodó űrhajó tesztelése](images/space-size-test.png)
+![Testing a shrinking spaceship](images/space-size-test.png)
