@@ -2,17 +2,27 @@
 
 Bây giờ bạn sẽ thêm một tảng đá không gian nổi vào hoạt hình của bạn.
 
-\--- task \--- Thêm một sprite 'rock' vào hoạt hình của bạn.
+\--- task \---
 
-![Thêm một sprite đá](images/space-rock-sprite.png)
+Add a 'rock' sprite to your animation.
 
-\--- /bài tập \---
+![Adding a rock sprite](images/space-rock-sprite.png)
 
-\--- task \--- Bạn có thể thêm mã cho rock sprite của mình để rock nảy xung quanh sân khấu không?
+\--- /task \---
 
-![Kiểm tra một tảng đá nảy](images/space-bounce-test.png)
+\--- task \---
 
-\--- gợi ý \--- \--- gợi ý \--- Khi màu xanh lá cây **lá cờ được nhấp**, sprite đá bạn nên **di chuyển** và **bị trả lại** vòng quanh sân khấu **mãi mãi**. \--- / gợi ý \--- \--- gợi ý \--- Đây là các khối mã bạn cần:
+Can you add code for your rock sprite so that the rock bounces around the stage?
+
+![Testing a bouncing rock](images/space-bounce-test.png)
+
+\--- hints \--- \--- hint \---
+
+When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**.
+
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
 
 ```blocks3
 di chuyển (10) bước
@@ -24,7 +34,7 @@ khi cờ nhấp
 mãi mãi
 ```
 
-Bạn cũng có thể đặt hướng bắt đầu thú vị hơn cho sprite rock với một trong các khối sau:
+You can also set a more interesting starting direction for the rock sprite with one of these blocks:
 
 ```blocks3
 quay cw (15) độ
@@ -32,11 +42,11 @@ quay cw (15) độ
 điểm về phía (Trái đất v)
 ```
 
-\--- / gợi ý \--- \--- gợi ý \---
+\--- /hint \--- \--- hint \---
 
-Đây là mã để làm cho rock của bạn nảy xung quanh sân khấu:
+Here's the code for making your rock bounce around the stage:
 
-![Đá sprite](images/sprite-rock.png)
+![Rock sprite](images/sprite-rock.png)
 
 ```blocks3
 khi cờ nhấp
@@ -46,4 +56,4 @@ mãi mãi
     nếu trên cạnh, nảy
 ```
 
-\--- / gợi ý \--- \--- / gợi ý \--- \--- / nhiệm vụ \---
+\--- /hint \--- \--- /hints \--- \--- /task \---
