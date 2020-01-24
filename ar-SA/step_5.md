@@ -2,33 +2,43 @@
 
 الآن سوف تضيف قردًا تائهاً في الفضاء إلى الرسوم المتحركة الخاصة بك!
 
-\--- task \--- ابدأ بإضافة الكائن "monkey" من المكتبة.
+\--- task \---
 
-![إضافة كائن القرد](images/space-monkey-sprite.png)
+Start by adding the 'monkey' sprite from the library.
 
-\---/task--
+![Adding a monkey sprite](images/space-monkey-sprite.png)
 
-إذا نقرتَ على كائن القرد الجديد ثم نقرتَ على علامة التبويب **المظاهر**، فسيمكنك تحرير/تعديل الشكل الذي سيظهر به القرد.
+\--- /task \---
 
-\--- task \--- قم بتعيين التعبئة لتكون شفافة من خلال تحديد الخط الأحمر. بالنسبة إلى الحدود الخارجية، قم بتعيين لون أبيض عن طريق تحريك منزلق تشبع اللون إلى `0`.
+Click on your new monkey sprite and then click on **Costumes** so that you can edit how the monkey looks.
 
-![صنع لون أبيض](images/make-white.png) \--- /task \---
+\--- task \---
 
-\--- task \--- انقر على أداة **الدائرة** ثم استخدمها لرسم خوذة بمساحة بيضاء حول رأس القرد.
+Set the fill to be transparent by selecting the red line. For the outline, set a white colour by moving the Saturation slider to `0`.
 
-![خوذة فضائية للقرد](images/space-monkey-edit.png)
+![Make white colour](images/make-white.png)
 
 \---/task\---
 
-\--- task \--- هل يمكنك إضافة تعليمة برمجية إلى كائن القرد بحيث يدور ببطء في دائرة بشكل مستمر؟
+\--- task \---
+
+Click on the **circle** tool and then use it to draw a white space helmet around the monkey's head.
+
+![Monkey space helmet](images/space-monkey-edit.png)
+
+\--- /task \---
+
+\--- task \---
+
+Can you add code to your monkey sprite so that it spins slowly in a circle forever?
 
 \--- hints \--- \--- hint \---
 
-**عند نقر العلم الأخضر**، يجب أن **يدور** كائن القرد في دائرة **باستمرار**.
+When the green **flag is clicked**, your monkey sprite should **turn** in a circle **forever**.
 
 \--- /hint \--- \--- hint \---
 
-هنا التعليمات البرمجية التي ستحتاج اليها:
+Here are the code blocks you need:
 
 ```blocks3
 كرِّر باستمرار
@@ -41,9 +51,9 @@ end
 
 \--- /hint \--- \--- hint \---
 
-إليك الكود لجعل قردك يدور:
+Here's the code to make your monkey spin:
 
-![كائن القرد](images/sprite-monkey.png)
+![Monkey sprite](images/sprite-monkey.png)
 
 ```blocks3
 عند نقر ⚑
@@ -56,6 +66,6 @@ end
 
 \--- /task \---
 
-اختبر مشروعك وقم بحفظه. ستحتاج إلى النقر فوق الزر الأحمر **إيقاف** لإنهاء هذه الحركة، لأنها ستتكرَّر باستمرار!
+Test and save your project. You'll have to click on the red **stop** button to end this animation, as it runs forever!
 
-![اختبار القرد الذي يدور](images/space-spin-test.png)
+![Test the spinning monkey](images/space-spin-test.png)
