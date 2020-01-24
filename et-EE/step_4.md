@@ -2,9 +2,11 @@
 
 Teine võimalus kosmoselaeva animeerimiseks on anda sellele käsk mõned korrad liikuda
 
-\--- task \--- Kustuta `liugle`{:class="block3motion" plokk oma koodist. Selleks lohista plokk Koodi väljalt minema ja kukuta see tagasi sinna, kus on teised üksikud koodiplokid.
+\--- task \---
 
-![Kosmoselaeva sprait](images/sprite-spaceship.png)
+Delete the `glide`{:class="block3motion"} block from your code. To do this, drag the block off the Code area and drop it back where the other single code blocks are.
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 kui klõpsata ⚑
@@ -18,11 +20,13 @@ osuta (Maa v) -le
 
 \--- /task \---
 
-\--- task \--- Nüüd kasuta `korda`{:class="block3control"} plokki, et liigutada oma kosmoselaev Maa poole?
+\--- task \---
 
-![Kosmoselaeva animatsiooni katsetamine](images/space-animate-stage.png)
+Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
 
-![Kosmoselaeva sprait](images/sprite-spaceship.png)
+![Testing a spaceship animation](images/space-animate-stage.png)
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 kui klõpsata ⚑
@@ -35,15 +39,17 @@ osuta (Maa v) -le
    liigu (2) punkti
 ```
 
-Testi ja salvesta oma kood. Sinu kosmoselaev peaks liikuma Maa poole täpselt samamoodi nagu enne, aga seekorda kasutab see `korda`{:class="block3control"} plokki.
+Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
 
 \--- /task \---
 
-\--- task \--- Järgmisena lisa oma kosmoselaeva spraidile kood nii, et kosmoselaev muudab värvi, kui Maa poole liigub?
+\--- task \---
 
-Kasuta seda plokki:
+Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
 
-![Kosmoselaeva sprait](images/sprite-spaceship.png)
+Use this block:
+
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 kui klõpsata ⚑
@@ -57,25 +63,27 @@ korda (200) korda
 +    muuda efekti [värv v] (25) võrra
 ```
 
-Testi ja salvesta oma kood.
+Test and save your code.
 
-![Värvimuutva kosmoselaeva testimine](images/space-colour-test.png)
+![Testing a colour-changing spaceship](images/space-colour-test.png)
 
 \--- /task \---
 
-\--- task \--- Kas oskad nii teha, et sinu kosmoselaev muutuks Maa poole liikudes väiksemaks?
+\--- task \---
+
+Can you make your spaceship get smaller as it moves towards Earth?
 
 \--- hints \---
 
 \--- hint \---
 
-Sinu kosmoselaev peaks algama `suurusest 100%`{:class="blocklooks"} ja siis `muutma suurust`{:class="blocklooks"} vähehaaval iga kord, kui see liigub.
+Your spaceship should start at `100% size`{:class="blocklooks"}, and then `change size`{:class="blocklooks"} by a small amount each time it moves.
 
 \--- /hint \---
 
 \--- hint \---
 
-Pead need plokid oma koodile lisama:
+You will need to add these blocks to your code:
 
 ![Kosmoselaeva sprait](images/sprite-spaceship.png)
 
@@ -89,9 +97,9 @@ võta suuruseks (100) %
 
 \--- hint \---
 
-Sinu kood peaks välja nägema selline:
+Your code should look like this:
 
-![Kosmoselaeva sprait](images/sprite-spaceship.png)
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 kui klõpsata ⚑
@@ -113,6 +121,6 @@ korda (200) korda
 
 \--- /task \---
 
-Testi ja salvesta oma kood. Sinu kosmoselaev peaks nüüd liikudes väiksemaks muutuma. Testi oma kosmoselaeva **teist korda**. On see õige suurusega. kui liikumist alustab?
+Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
 
-![Kahaneva kosmoselaeva testimine](images/space-size-test.png)
+![Testing a shrinking spaceship](images/space-size-test.png)
