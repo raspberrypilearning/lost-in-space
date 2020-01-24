@@ -10,7 +10,9 @@ Esta es la versión ** Scratch 3 ** del proyecto. También hay una versión [ Sc
 
 ### Lo que crearás
 
-\--- no-print \--- Haz clic en la bandera verde para ver la animación.
+\--- no-print \---
+
+Click on the green flag to see the animation.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -21,7 +23,7 @@ Esta es la versión ** Scratch 3 ** del proyecto. También hay una versión [ Sc
 
 \--- print-only \---
 
-![Proyecto completo](images/showcase_static.png)
+![Complete project](images/showcase_static.png)
 
 \--- /print-only \---
 
@@ -57,8 +59,8 @@ Esta es la versión ** Scratch 3 ** del proyecto. También hay una versión [ Sc
 
 ## title: Información adicional para educadores
 
-Si necesitas imprimir este proyecto, usa la [versión para imprimir](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
-Puedes [encontrar el proyecto completo aquí](http://rpf.io/p/en/lost-in-space-get){:target ="_blank"}.
+You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
 \--- /collapse \---
