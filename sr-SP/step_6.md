@@ -2,17 +2,27 @@
 
 Сада ћете својој анимацији додати плутајућу свемирску стијену.
 
-\--- задатак \--- Додајте 'роцк' сприте својој анимацији.
+\--- task \---
 
-![Додавање каменог духова](images/space-rock-sprite.png)
+Add a 'rock' sprite to your animation.
 
-\--- /задатак \---
+![Adding a rock sprite](images/space-rock-sprite.png)
 
-\--- задатак \--- Можете ли додати код за ваш роцк сприте тако да се роцк боунцес око позорнице?
+\--- /task \---
 
-![Тестирање одскочног камена](images/space-bounce-test.png)
+\--- task \---
 
-\--- савети \--- \--- наговештај \--- Када је зелени **застава се кликне**, ваш рок дух треба **потез** и **Боунце** око бине **заувек**. \--- / хинт \--- \--- хинт \--- Овде су кодни блокови који су вам потребни:
+Can you add code for your rock sprite so that the rock bounces around the stage?
+
+![Testing a bouncing rock](images/space-bounce-test.png)
+
+\--- hints \--- \--- hint \---
+
+When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**.
+
+\--- /hint \--- \--- hint \---
+
+Here are the code blocks you need:
 
 ```blocks3
 преместите (10) кораке
@@ -24,7 +34,7 @@
 заувек
 ```
 
-Такође можете да поставите занимљивији правац покретања за роцк сприте са једним од ових блокова:
+You can also set a more interesting starting direction for the rock sprite with one of these blocks:
 
 ```blocks3
 окренути цв (15) степени
@@ -32,11 +42,11 @@
 према (Еартх в)
 ```
 
-\--- / хинт \--- \--- хинт \---
+\--- /hint \--- \--- hint \---
 
-Ево шифре за израду одскочне даске на стази:
+Here's the code for making your rock bounce around the stage:
 
-![Роцк сприте](images/sprite-rock.png)
+![Rock sprite](images/sprite-rock.png)
 
 ```blocks3
 када је заставица кликнула
@@ -46,4 +56,4 @@
     ако су на ивици, одбили
 ```
 
-\--- / хинт \--- \--- / хинтс \--- \--- / таск \---
+\--- /hint \--- \--- /hints \--- \--- /task \---
