@@ -2,33 +2,43 @@
 
 עכשיו תוסיף לאנימציה שלך קוף שאבד בחלל!
 
-\--- task \--- התחל על ידי הוספת דמות של "קוף" מהספריה.
+\--- task \---
 
-![הוספת דמות קוף](images/space-monkey-sprite.png)
+Start by adding the 'monkey' sprite from the library.
 
-\--- /task \---
-
-לחץ על דמות הקוף החדש שלך ולאחר מכן לחץ על ** תלבושות ** כך שתוכל לערוך את איך הקוף נראה.
-
-\--- task \--- הגדר את המילוי לשקוף על ידי בחירת הקו האדום. עבור קווי המתאר, הגדר צבע לבן על-ידי הזזת מחוון הרוויה ל- ` 0 `.
-
-![הפוך את הצבע ללבן](images/make-white.png) \--- /task \---
-
-\--- task \--- לחץ על **המעגל ** ולאחר מכן השתמש בו כדי לצייר קסדת חלל לבנה סביב הראש של הקוף.
-
-![קסדת חלל לקוף](images/space-monkey-edit.png)
+![Adding a monkey sprite](images/space-monkey-sprite.png)
 
 \--- /task \---
 
-\--- task \--- האם תוכל להוסיף קוד לדמות הקוף שלך כך שהוא יסתובב לאט במעגל לנצח?
+Click on your new monkey sprite and then click on **Costumes** so that you can edit how the monkey looks.
+
+\--- task \---
+
+Set the fill to be transparent by selecting the red line. For the outline, set a white colour by moving the Saturation slider to `0`.
+
+![Make white colour](images/make-white.png)
+
+\--- /task \---
+
+\--- task \---
+
+Click on the **circle** tool and then use it to draw a white space helmet around the monkey's head.
+
+![Monkey space helmet](images/space-monkey-edit.png)
+
+\--- /task \---
+
+\--- task \---
+
+Can you add code to your monkey sprite so that it spins slowly in a circle forever?
 
 \--- hints \--- \--- hint \---
 
-כאשר נלחץ על** הדגל הירוק **, דמות הקוף שלך צריכה ** להסתובב ** במעגל ** לנצח **.
+When the green **flag is clicked**, your monkey sprite should **turn** in a circle **forever**.
 
 \--- /hint \--- \--- hint \---
 
-הנה קטעי הקוד להם תזדקק:
+Here are the code blocks you need:
 
 ```blocks3
 forever end turn cw (15) degrees when flag clicked
@@ -36,9 +46,9 @@ forever end turn cw (15) degrees when flag clicked
 
 \--- /hint \--- \--- hint \---
 
-הנה הקוד שיגרום לקוף שלך להסתובב:
+Here's the code to make your monkey spin:
 
-![דמות קוף](images/sprite-monkey.png)
+![Monkey sprite](images/sprite-monkey.png)
 
 ```blocks3
 when flag clicked forever     turn cw (1) degrees
@@ -48,6 +58,6 @@ when flag clicked forever     turn cw (1) degrees
 
 \--- /task \---
 
-בדוק ושמור את הפרוייקט. יהיה עליך ללחוץ על הכפתור האדום ** לעצור ** כדי לסיים את האנימציה, בגלל שהוא פועל לנצח!
+Test and save your project. You'll have to click on the red **stop** button to end this animation, as it runs forever!
 
-![בדוק את הקוף המסתובב](images/space-spin-test.png)
+![Test the spinning monkey](images/space-spin-test.png)
