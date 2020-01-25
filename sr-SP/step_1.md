@@ -49,7 +49,7 @@
 
 ## title: Шта ћеш научити
 
-- Use a repeat loop to animate a sprite in Scratch
+- Користити петљу за анимацију лика у Скречу
 - Use a forever loop to repeat an animation indefinitely
 - Understand that loops can be nested within each other
 
