@@ -12,7 +12,7 @@
 
 \--- no-print \---
 
-Click on the green flag to see the animation.
+Кликни на зелену заставицу да видиш анимацију.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -23,7 +23,7 @@ Click on the green flag to see the animation.
 
 \--- print-only \---
 
-![Complete project](images/showcase_static.png)
+![Завршени пројекат](images/showcase_static.png)
 
 \--- /print-only \---
 
@@ -59,8 +59,8 @@ Click on the green flag to see the animation.
 
 ## title: Додатне информације за наставнике
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
+Уколико желите да одштампате овај пројекат, молимо Вас користите [верзију за штампање](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
-You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+Завршени пројекат можете пронаћи [овде](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
 \--- /collapse \---
