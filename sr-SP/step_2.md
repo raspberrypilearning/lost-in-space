@@ -16,7 +16,7 @@
 
 \--- task \---
 
-Add 'rocketship' and 'Earth' sprites to your Stage.
+Додај ликове 'свемирски брод' и 'Земља' на Позорницу.
 
 ![Spaceship and Earth sprites](images/space-sprites.png)
 
@@ -26,7 +26,7 @@ Add 'rocketship' and 'Earth' sprites to your Stage.
 
 \--- task \---
 
-Add the 'Stars' backdrop to your Stage.
+Додај позадину 'Звезде' на своју Позорницу.
 
 ![A space backdrop](images/space-backdrop.png)
 
@@ -34,7 +34,7 @@ Add the 'Stars' backdrop to your Stage.
 
 \--- task \---
 
-Click on your spaceship sprite, and click on the **Costumes** tab.
+Кликни на лик свемирског брода, а затим кликни на картицу **Костими**.
 
 ![Sprite costume](images/space-costume.png)
 
