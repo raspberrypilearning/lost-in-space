@@ -6,7 +6,7 @@
 
 Обриши блок `клизи`{:class="block3motion"} из свог кода. Да то урадиш, превуци блок ван поља за код и остави га на месту са осталим неупотребљеним блоковима.
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Лик свемирског брода](images/sprite-spaceship.png)
 
 ```blocks3
 када је кликнуто на ⚑
@@ -24,9 +24,9 @@
 
 Сада употреби блок `понови`{:class="block3control"} за кретање свемирског брода ка Земљи?
 
-![Testing a spaceship animation](images/space-animate-stage.png)
+![Тестирање анимације свемирског брода](images/space-animate-stage.png)
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Лик свемирског брода](images/sprite-spaceship.png)
 
 ```blocks3
 када је кликнуто на ⚑
@@ -40,7 +40,7 @@
 end
 ```
 
-Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
+Испробај и сачувај свој код. Твој свемирски брод требао би се кретати ка Земљи као и пре, али овај пут користећи блок `понови`{:class="block3control"}.
 
 \--- /task \---
 
@@ -48,23 +48,24 @@ Test and save your code. Your spaceship should move towards the Earth exactly as
 
 Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
 
-Use this block:
+Употреби овај блок:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Лик свемирског брода](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-repeat (200)
-    move (2) steps
+када је кликнуто на ⚑
+усмери се ка (0)
+иди до x: (-150) y: (-150)
+изговори [Кренимо] током (2) секунде
+усмери се ка (Земља v)
+понови (200) 
+  иди (2) корака
 
-+    change [color v] effect by (25)
++    промени ефекат [боја v] за (25)
+end
 ```
 
-Test and save your code.
+Испробај и сачувај свој код.
 
 ![Testing a colour-changing spaceship](images/space-colour-test.png)
 
@@ -86,21 +87,21 @@ Your spaceship should start at `100% size`{:class="blocklooks"}, and then `chang
 
 You will need to add these blocks to your code:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Лик свемирског брода](images/sprite-spaceship.png)
 
 ```blocks3
-change size by (10)
+промени величину за (10)
 
-set size to (100) %
+нека величина буде (100) %
 ```
 
 \--- /hint \---
 
 \--- hint \---
 
-Your code should look like this:
+Твој код би требао да изгледа овако:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Лик свемирског брода](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
