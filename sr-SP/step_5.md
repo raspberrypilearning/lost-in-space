@@ -6,7 +6,7 @@
 
 Start by adding the 'monkey' sprite from the library.
 
-![Adding a monkey sprite](images/space-monkey-sprite.png)
+![Додавање лика мајмуна](images/space-monkey-sprite.png)
 
 \--- /task \---
 
@@ -16,7 +16,7 @@ Click on your new monkey sprite and then click on **Costumes** so that you can e
 
 Set the fill to be transparent by selecting the red line. For the outline, set a white colour by moving the Saturation slider to `0`.
 
-![Make white colour](images/make-white.png)
+![Направи белу боју](images/make-white.png)
 
 \--- /задатак \---
 
@@ -24,7 +24,7 @@ Set the fill to be transparent by selecting the red line. For the outline, set a
 
 Click on the **circle** tool and then use it to draw a white space helmet around the monkey's head.
 
-![Monkey space helmet](images/space-monkey-edit.png)
+![Кацига свемирског мајмуна](images/space-monkey-edit.png)
 
 \--- /task \---
 
@@ -53,7 +53,7 @@ Here are the code blocks you need:
 
 Here's the code to make your monkey spin:
 
-![Monkey sprite](images/sprite-monkey.png)
+![Лик мајмуна](images/sprite-monkey.png)
 
 ```blocks3
 када је заставица кликнула
