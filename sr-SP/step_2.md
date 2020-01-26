@@ -63,7 +63,7 @@ Use the **arrow** tool to click and drag a box around the whole spaceship image.
 клизи (1) секунди до x: (0) y: (0)
 ```
 
-Change the numbers in the code blocks you've added so that the code is exactly the same as above.
+Промени бројеве у додатим блоковима, тако да је код исти као у примеру изнад.
 
 \--- /task \---
 
