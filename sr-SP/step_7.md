@@ -14,7 +14,7 @@ Add a 'star' sprite to your stage.
 
 Can you add code to your star sprite to make the star repeatedly grow and shrink?
 
-![Testing a shining star](images/sprite-star.png)
+![Тестирање светлуцаве звезде](images/sprite-star.png)
 
 \--- hints \--- \--- hint \---
 
@@ -45,7 +45,7 @@ end
 
 Ево кода који ће направити да се твоја звезда скупља и расте:
 
-![Star sprite](images/sprite-star.png)
+![Лик звезде](images/sprite-star.png)
 
 ```blocks3
 када је кликнуто на ⚑
