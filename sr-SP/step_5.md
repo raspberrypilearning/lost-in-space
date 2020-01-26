@@ -4,7 +4,7 @@
 
 \--- task \---
 
-Start by adding the 'monkey' sprite from the library.
+Почни тако што ћеш додати лик 'мајмуна' из библиотеке.
 
 ![Додавање лика мајмуна](images/space-monkey-sprite.png)
 
@@ -22,7 +22,7 @@ Set the fill to be transparent by selecting the red line. For the outline, set a
 
 \--- task \---
 
-Click on the **circle** tool and then use it to draw a white space helmet around the monkey's head.
+Кликни на алат **круг**, а затим га употреби да нацрташ белу свемирску кацигу око мајмунове главе.
 
 ![Кацига свемирског мајмуна](images/space-monkey-edit.png)
 
