@@ -18,7 +18,7 @@
 
 Додај ликове 'свемирски брод' и 'Земља' на Позорницу.
 
-![Spaceship and Earth sprites](images/space-sprites.png)
+![Ликови Свемирског брода и Земље](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -28,7 +28,7 @@
 
 Додај позадину 'Звезде' на своју Позорницу.
 
-![A space backdrop](images/space-backdrop.png)
+![Свемирска позадина](images/space-backdrop.png)
 
 \--- /task \---
 
@@ -36,7 +36,7 @@
 
 Кликни на лик свемирског брода, а затим кликни на картицу **Костими**.
 
-![Sprite costume](images/space-costume.png)
+![Костим Лика](images/space-costume.png)
 
 \--- /задатак \---
 
@@ -50,17 +50,17 @@ Use the **arrow** tool to click and drag a box around the whole spaceship image.
 
 \--- task \---
 
-Add this code to your spaceship sprite:
+Додај овај код лику свемирског брода:
 
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-када је заставица кликнула
-у правцу (0)
-идите на к: (- 150) и: (- 150)
-реците [Идемо] на (2) секунде
-бода према (Еартх в)
-глиде (1) сек. к: (0) и: (0)
+када је кликнуто на ⚑
+усмери се ка (0)
+иди до x: (-150) y: (-150)
+изговори [Кренимо!] током (2) секунде
+усмери се ка (Земља v)
+клизи (1) секунди до x: (0) y: (0)
 ```
 
 Change the numbers in the code blocks you've added so that the code is exactly the same as above.
