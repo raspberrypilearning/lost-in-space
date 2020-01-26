@@ -38,27 +38,28 @@ When the green **flag is clicked**, your monkey sprite should **turn** in a circ
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+Ево блокова кода који су ти потребни:
 
 ```blocks3
-заувек
-крај
+понављај заувек
+end
 
-окрени цв (15) степени
+окрет ↻ за (15) степени
 
-када се кликне
+када је кликнуто на ⚑
 ```
 
 \--- /hint \--- \--- hint \---
 
-Here's the code to make your monkey spin:
+Ево кода који ће направити да се твој мајмун окреће:
 
 ![Лик мајмуна](images/sprite-monkey.png)
 
 ```blocks3
-када је заставица кликнула
-заувек
-    скретање цв (1) степени
+када је кликнуто на ⚑
+понављај заувек 
+  окрет ↻ за (1) степени
+end
 ```
 
 \--- /hint \--- \--- /hints \---
@@ -67,4 +68,4 @@ Here's the code to make your monkey spin:
 
 Test and save your project. You'll have to click on the red **stop** button to end this animation, as it runs forever!
 
-![Test the spinning monkey](images/space-spin-test.png)
+![Испробај мајмуна који се врти](images/space-spin-test.png)
