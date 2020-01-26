@@ -50,8 +50,8 @@
 ## title: Шта ћеш научити
 
 - Користити петљу за анимацију лика у Скречу
-- Use a forever loop to repeat an animation indefinitely
-- Understand that loops can be nested within each other
+- Користити петљу понови заувек за бесконачно понављање анимације
+- Схватити да се петље могу угњездити једна у другу
 
 \--- /collapse \---
 
