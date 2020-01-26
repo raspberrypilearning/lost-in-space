@@ -22,21 +22,22 @@
 
 \--- task \---
 
-Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
+Сада употреби блок `понови`{:class="block3control"} за кретање свемирског брода ка Земљи?
 
 ![Testing a spaceship animation](images/space-animate-stage.png)
 
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
+када је кликнуто на ⚑
+усмери се ка (0)
+иди до x: (-150) y: (-150)
+изговори [Кренимо] током (2) секунде
+усмери се ка (Земља v)
 
-+ repeat (200)
-    move (2) steps
++ понови (200) 
+    иди (2) корака
+end
 ```
 
 Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
