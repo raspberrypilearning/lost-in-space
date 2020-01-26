@@ -79,7 +79,7 @@ end
 
 \--- hint \---
 
-Your spaceship should start at `100% size`{:class="blocklooks"}, and then `change size`{:class="blocklooks"} by a small amount each time it moves.
+Твој свемирски брод би требао да крене са `100% величине`{:class="blocklooks"}, а затим `промени величину`{:class="blocklooks"} сваки пут када се помери.
 
 \--- /hint \---
 
