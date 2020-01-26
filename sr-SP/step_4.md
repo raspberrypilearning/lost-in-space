@@ -67,7 +67,7 @@ end
 
 Испробај и сачувај свој код.
 
-![Testing a colour-changing spaceship](images/space-colour-test.png)
+![Тестирање свемирског брода који мења боју](images/space-colour-test.png)
 
 \--- /task \---
 
@@ -124,6 +124,6 @@ end
 
 \--- /task \---
 
-Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
+Испробај и сачувај свој код. Твој свемирски брод би сада требао да се смањује док се креће. **Поново** испробај свој свемирски брод. Да ли креће са правом величином?
 
-![Testing a shrinking spaceship](images/space-size-test.png)
+![Тестирање свемирског брода који се смањује](images/space-size-test.png)
