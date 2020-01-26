@@ -22,7 +22,7 @@ When the green **flag is clicked**, your rock sprite should **move** and **bounc
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+Ево блокова кода који су ти потребни:
 
 ```blocks3
 преместите (10) кораке
