@@ -4,18 +4,18 @@
 
 \--- task \---
 
-Delete the `glide`{:class="block3motion"} block from your code. To do this, drag the block off the Code area and drop it back where the other single code blocks are.
+Обриши блок `клизи`{:class="block3motion"} из свог кода. Да то урадиш, превуци блок ван поља за код и остави га на месту са осталим неупотребљеним блоковима.
 
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-када застава кликне
-тачку у смеру (0)
-иди на к: (- 150) и: (- 150)
-рећи [Идемо] за (2) секунде
-тачке ка (Еартх в)
+када је кликнуто на ⚑
+усмери се ка (0)
+иди до x: (-150) y: (-150)
+изговори [Кренимо] током (2) секунде
+усмери се ка (Земља v)
 
-- клизи (1) сецс до к: (0) и: (0)
+- клизи (1) секунди до x: (0) y: (0)
 ```
 
 \--- /task \---
