@@ -44,7 +44,7 @@
 
 Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
 
-![Rotating a costume](images/space-rotate.png)
+![Ротација костима](images/space-rotate.png)
 
 \--- /задатак \---
 
@@ -52,7 +52,7 @@ Use the **arrow** tool to click and drag a box around the whole spaceship image.
 
 Додај овај код лику свемирског брода:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Лик свемирског брода](images/sprite-spaceship.png)
 
 ```blocks3
 када је кликнуто на ⚑
@@ -69,4 +69,4 @@ Change the numbers in the code blocks you've added so that the code is exactly t
 
 If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
 
-![Testing a spaceship animation](images/space-animate-stage.png)
+![Тестирање анимације свемирског брода](images/space-animate-stage.png)
