@@ -73,7 +73,7 @@ end
 
 \--- task \---
 
-Can you make your spaceship get smaller as it moves towards Earth?
+Можеш ли направити да се свемирски брод смањује док се креће ка Земљи?
 
 \--- hints \---
 
@@ -104,17 +104,18 @@ You will need to add these blocks to your code:
 ![Лик свемирског брода](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-set size to (100) %
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-repeat (200)
-    move (2) steps
-    change [color v] effect by (25)
+када је кликнуто на ⚑
+нека величина буде (100) %
+усмери се ка (0)
+иди до x: (-150) y: (-150)
+изговори [Кренимо] током (2) секунде
+усмери се ка (Земља v)
+понови (200) 
+  иди (2) корака
+  промени ефекат [боја v] за (25)
 
-+   change size by (-3)
++    промени величину за (-3)
+end
 ```
 
 \--- /hint \---
