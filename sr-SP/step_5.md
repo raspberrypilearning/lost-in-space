@@ -34,7 +34,7 @@ Can you add code to your monkey sprite so that it spins slowly in a circle forev
 
 \--- hints \--- \--- hint \---
 
-When the green **flag is clicked**, your monkey sprite should **turn** in a circle **forever**.
+Када је кликнуто на **зелену заставицу**, твој мајмун би требао да се **заувек** **окреће** у круг.
 
 \--- /hint \--- \--- hint \---
 
@@ -66,6 +66,6 @@ end
 
 \--- /task \---
 
-Test and save your project. You'll have to click on the red **stop** button to end this animation, as it runs forever!
+Испробај и сачувај свој пројекат. Мораћеш да кликнеш на црвено **заустави** дугме да зауставиш ову анимацију, јер се понавља заувек!
 
 ![Испробај мајмуна који се врти](images/space-spin-test.png)
