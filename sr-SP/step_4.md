@@ -85,7 +85,7 @@ Your spaceship should start at `100% size`{:class="blocklooks"}, and then `chang
 
 \--- hint \---
 
-You will need to add these blocks to your code:
+Мораћеш да додаш ове блокове у свој код:
 
 ![Лик свемирског брода](images/sprite-spaceship.png)
 
