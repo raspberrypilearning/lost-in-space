@@ -6,7 +6,7 @@
 
 Додај својој анимацији лика 'стена'.
 
-![Adding a rock sprite](images/space-rock-sprite.png)
+![Додавање лика стене](images/space-rock-sprite.png)
 
 \--- /task \---
 
@@ -14,7 +14,7 @@
 
 Can you add code for your rock sprite so that the rock bounces around the stage?
 
-![Testing a bouncing rock](images/space-bounce-test.png)
+![Тестирање одскакајуће стене](images/space-bounce-test.png)
 
 \--- hints \--- \--- hint \---
 
@@ -46,7 +46,7 @@ You can also set a more interesting starting direction for the rock sprite with 
 
 Here's the code for making your rock bounce around the stage:
 
-![Rock sprite](images/sprite-rock.png)
+![Лик стене](images/sprite-rock.png)
 
 ```blocks3
 када је заставица кликнула
