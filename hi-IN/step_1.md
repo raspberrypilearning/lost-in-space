@@ -1,6 +1,6 @@
 \--- no-print \---
 
-यह प्रोजेक्ट का **स्क्रैच 3** संस्करण है। इस प्रोजेक्ट का [स्क्रैच 2](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2) संस्करण भी है।
+यह प्रोजेक्ट का **Scratch 3** संस्करण है। इस प्रोजेक्ट का [Scratch 2](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2) संस्करण भी है।
 
 \--- /no-print \---
 
@@ -29,7 +29,7 @@ Click on the green flag to see the animation.
 
 ## \--- collapse \---
 
-## title: आपको किन चीजों की आवश्यकता होगी
+## शीर्षक: आपको किन चीजों की आवश्यकता होगी
 
 ### हार्डवेयर
 
@@ -37,7 +37,7 @@ Click on the green flag to see the animation.
 
 ### सॉफ्टवेयर
 
-- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (या तो [ऑनलाइन](http://rpf.io/scratchon){:target="_blank"} या [ऑफ़लाइन](http://rpf.io/scratchoff){:target="_blank"})
 
 ### डाउनलोड
 
