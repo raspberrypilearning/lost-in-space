@@ -44,7 +44,7 @@ You can also set a more interesting starting direction for the rock sprite with 
 
 \--- /hint \--- \--- hint \---
 
-Here's the code for making your rock bounce around the stage:
+Ево кода који ће направити да твоја стена одскаче около по позорници:
 
 ![Лик стене](images/sprite-rock.png)
 
