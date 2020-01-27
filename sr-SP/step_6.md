@@ -12,13 +12,13 @@
 
 \--- task \---
 
-Can you add code for your rock sprite so that the rock bounces around the stage?
+Можеш ли свом лику стене додати код, тако да стена скакуће около по позорници?
 
 ![Тестирање одскакајуће стене](images/space-bounce-test.png)
 
 \--- hints \--- \--- hint \---
 
-When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**.
+Када је кликнуто на **зелену заставицу**, твоја стена би требала да **заувек** **иде** и **окреће се** около по позорници.
 
 \--- /hint \--- \--- hint \---
 
