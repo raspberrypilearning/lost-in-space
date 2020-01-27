@@ -34,7 +34,7 @@
 заувек
 ```
 
-You can also set a more interesting starting direction for the rock sprite with one of these blocks:
+Можеш и да подесиш занимљивији почетни правац за лика стене помоћу једног од ових блокова:
 
 ```blocks3
 окренути цв (15) степени
