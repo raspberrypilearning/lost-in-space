@@ -1,6 +1,6 @@
-## Плутајући мајмун
+## Мајмун који плута
 
-Сада ћете додати мајмуна који је изгубљен у простору за вашу анимацију!
+Сада ћеш својој анимацији додати мајмуна који се изгубио у свемиру!
 
 \--- task \---
 
@@ -10,11 +10,11 @@
 
 \--- /task \---
 
-Click on your new monkey sprite and then click on **Costumes** so that you can edit how the monkey looks.
+Кликни на новог лика мајмуна, а затим кликни на **Костими**, тако да можеш променити изглед мајмуна.
 
 \--- task \---
 
-Set the fill to be transparent by selecting the red line. For the outline, set a white colour by moving the Saturation slider to `0`.
+Постави опцију 'Попуни' на транспарентно, тако што ћеш одабрати црвену линију. За контуру, постави белу боју, тако што ћеш померити клизач за Засићење на `0`.
 
 ![Направи белу боју](images/make-white.png)
 
