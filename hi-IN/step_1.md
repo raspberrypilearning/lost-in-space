@@ -23,7 +23,7 @@
 
 \--- print-only \---
 
-![Complete project](images/showcase_static.png)
+![पूरा प्रोजेक्ट](images/showcase_static.png)
 
 \--- /print-only \---
 
