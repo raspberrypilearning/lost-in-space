@@ -12,7 +12,7 @@
 
 \--- no-print \---
 
-Click on the green flag to see the animation.
+एनीमेशन को देखने के लिए हरे झंडे पर क्लिक करें।
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -59,8 +59,8 @@ Click on the green flag to see the animation.
 
 ## शीर्षक: शिक्षकों के लिए अतिरिक्त जानकारी
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
+अगर आपको इस प्रोजेक्ट को प्रिंट करने की आवश्यकता है, तो कृप्या [प्रिंटर-अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/lost-in-space/print){: target = "_ blank"} का उपयोग करें।
 
-You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+आप [पुरे किये हुए प्रोजेक्ट का यहाँ](http://rpf.io/p/en/lost-in-space-get){:target="_blank"} देख सकते है।
 
 \--- /collapse \---
