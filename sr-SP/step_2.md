@@ -42,7 +42,7 @@
 
 \--- task \---
 
-Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+Употреби алат са **стрелицом** да кликнеш и превучеш кутију око слике целог свемирског брода. Затим, кликни на ручицу за **окретање** и окрећи слику док је не поставиш на њену бочну страну.
 
 ![Ротација костима](images/space-rotate.png)
 
