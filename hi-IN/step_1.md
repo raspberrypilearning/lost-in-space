@@ -39,7 +39,7 @@ Click on the green flag to see the animation.
 
 - Scratch 3 (या तो [ऑनलाइन](http://rpf.io/scratchon){:target="_blank"} या [ऑफ़लाइन](http://rpf.io/scratchoff){:target="_blank"})
 
-### डाउनलोड
+### डाउनलोड्स
 
 - कोई नहीं
 
@@ -47,9 +47,9 @@ Click on the green flag to see the animation.
 
 ## \--- collapse \---
 
-## title: आप क्या सीखेंगे
+## शीर्षक: आप क्या सीखेंगे
 
-- स्क्रैच में स्प्राइट को एनिमेट करने के लिए रिपीट लूप का प्रयोग
+- Scratch में Sprite को एनिमेट करने के लिए रिपीट लूप का प्रयोग
 - एनीमेशन को हमेशा के लिए चालू करने के लिए एक फॉरएवर लूप का प्रयोग
 - यह समझे की लूप एक दुसरे के अंदर लिखा जा सकता है
 
@@ -57,7 +57,7 @@ Click on the green flag to see the animation.
 
 ## \--- collapse \---
 
-## title: शिक्षकों के लिए अतिरिक्त जानकारी
+## शीर्षक: शिक्षकों के लिए अतिरिक्त जानकारी
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
