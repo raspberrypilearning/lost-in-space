@@ -18,7 +18,7 @@ Can you add code to your star sprite to make the star repeatedly grow and shrink
 
 \--- hints \--- \--- hint \---
 
-When the green **flag is clicked**, your star sprite should **change size** to get bigger a few times, and then **change size** to get smaller a few times. It should do this so that it gets bigger and then smaller **forever** and looks like it's shining light.
+Када је кликнуто на **зелену заставицу**, твоја звезда би требала да неколико пута **промени величину** у већу, а затим неколико пута **промени величину** у мању. То би требала да ради **заувек**, како би се повећавала и смањивала и изгледала као да је светлуцава.
 
 \--- /hint \--- \--- hint \---
 
