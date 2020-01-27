@@ -4,7 +4,7 @@
 
 \--- task \---
 
-Add a 'star' sprite to your stage.
+Додај лик 'звезда' на позорницу.
 
 ![Додавање лика звезде](images/space-star-sprite.png)
 
