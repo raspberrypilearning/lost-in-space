@@ -67,6 +67,6 @@ Use the **arrow** tool to click and drag a box around the whole spaceship image.
 
 \--- /task \---
 
-If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
+Ако кликнеш на зелену заставицу, твој свемирски брод би требао да говори, окреће се и клизи ка центру позорнице.
 
 ![Тестирање анимације свемирског брода](images/space-animate-stage.png)
