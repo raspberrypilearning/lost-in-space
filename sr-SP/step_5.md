@@ -30,7 +30,7 @@ Set the fill to be transparent by selecting the red line. For the outline, set a
 
 \--- task \---
 
-Can you add code to your monkey sprite so that it spins slowly in a circle forever?
+Можеш ли да додаш код лику мајмуна, тако да се заувек полако врти у круг?
 
 \--- hints \--- \--- hint \---
 
