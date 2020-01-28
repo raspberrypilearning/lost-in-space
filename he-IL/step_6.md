@@ -1,6 +1,6 @@
-## אסטרואיד קופצני
+## Bouncing asteroid
 
-עכשיו תוסיף להנפשה סלע שנע בחלל.
+Now you will add a floating space rock to your animation.
 
 \--- task \---
 
