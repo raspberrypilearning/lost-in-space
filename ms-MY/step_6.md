@@ -1,6 +1,6 @@
-## Memantul asteroid
+## Bouncing asteroid
 
-Kini anda akan menambah batu ruang terapung untuk animasi anda.
+Now you will add a floating space rock to your animation.
 
 \--- task \---
 
@@ -25,21 +25,21 @@ When the green **flag is clicked**, your rock sprite should **move** and **bounc
 Here are the code blocks you need:
 
 ```blocks3
-gerakkan (10) langkah
+move (10) steps
 
-jika pada lantungan tepi
+if on edge bounce
 
-apabila bendera diklik
+when flag clicked
 
-selama-lamanya
+forever
 ```
 
 You can also set a more interesting starting direction for the rock sprite with one of these blocks:
 
 ```blocks3
-putar cw (15) darjah
+turn cw (15) degrees
 
-titik ke arah (Bumi v)
+point towards (Earth v)
 ```
 
 \--- /hint \--- \--- hint \---
@@ -49,11 +49,11 @@ Here's the code for making your rock bounce around the stage:
 ![Rock sprite](images/sprite-rock.png)
 
 ```blocks3
-apabila bendera mengklik
-titik ke arah (Bumi v)
-selama-lamanya
-    bergerak (2) langkah
-    jika di tepi, melantun
+when flag clicked
+point towards (Earth v)
+forever
+    move (2) steps
+    if on edge, bounce
 ```
 
 \--- /hint \--- \--- /hints \--- \--- /task \---
