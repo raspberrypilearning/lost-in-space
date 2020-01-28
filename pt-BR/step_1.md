@@ -33,15 +33,15 @@ Click on the green flag to see the animation.
 
 ### Hardware
 
-- Um computador capaz de executar o Scratch 3
+- Um computador com capacidade para executar o Scratch 3
 
 ### Software
 
-- Scratch 3 ([online](http://rpf.io/scratchon){:target="_blank"} ou [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (ou [online](http://rpf.io/scratchon){:target="_ blank"} ou [offline](http://rpf.io/scratchoff){:target="_ blank"})
 
 ### Downloads
 
-- Nada
+- Nenhum
 
 \--- /collapse \---
 
@@ -49,9 +49,9 @@ Click on the green flag to see the animation.
 
 ## title: O que você vai aprender
 
-- Use um loop de repetição para animar um sprite no Scratch
-- Use um loop infinito para repetir uma animação indefinidamente
-- Entenda que os loops podem ser encaixados um dentro do outro
+- Usa um ciclo de repetição para animar um actor no Scratch
+- Usa um ciclo para sempre para repetir uma animação indefinidamente
+- Entende que os ciclos podem ser encaixados uns nos outros
 
 \--- /collapse \---
 
