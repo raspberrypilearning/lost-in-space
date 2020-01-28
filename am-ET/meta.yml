@@ -1,31 +1,31 @@
 ---
-title: በጠፈር ውስጥ መጠፋት
-hero_image: images / lost-in-space.png
-description: የራስዎን ተንቀሳቃሽ ምስል እንዴት እንደሚሰራ ይወቁ!
+title: Lost in space
+hero_image: images/lost-in-space.png
+description: Learn how to program your own animation!
 original_url: https://www.codeclubprojects.org/en-GB/scratch/lost-in-space
 listed: true
 copyedit: true
-technologies: እስክራች
+technologies: scratch
 version: 4.1.3
 last_tested: 2018-09-26
 steps:
   - 
-    title: መግቢያ
+    title: Introduction
   - 
-    title: ካርታዎችን መንዳት
+    title: Animating a spaceship
   - 
-    title: 'ተፈታታኝ ሁኔታ: አኒሜሽንሽን ማሻሻል'
+    title: 'Challenge: improve your animation'
     challenge: true
   - 
-    title: አሻንጉሊቶችን በመጠቀም
+    title: Animation using loops
   - 
-    title: ተንሳፋፊ ዝንጀሮ
+    title: Floating monkey
   - 
-    title: ሊትር ኦቭ አስቴሪዶድ
+    title: Bouncing asteroid
   - 
-    title: የሚያበራ ኮከብ
+    title: Shining star
   - 
-    title: 'ተፈታታኝ ሁኔታ: የራስዎን እነማ ያድርጉ'
+    title: 'Challenge: make your own animation'
     challenge: true
   - 
     title: What next?
