@@ -1,6 +1,6 @@
-## ভাসমান বানর
+## Floating monkey
 
-এখন আপনি আপনার অ্যানিমেশনে মহাকাশে হারিয়ে যাওয়া একটি বানর যুক্ত করবেন!
+Now you will add a monkey who's lost in space to your animation!
 
 \--- task \---
 
