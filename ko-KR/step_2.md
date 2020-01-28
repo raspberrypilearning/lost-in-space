@@ -1,16 +1,16 @@
 ## 우주선 움직이기
 
-첫 번째 단계로 지구쪽으로 날아가는 우주선을 만들어 봅시다!
+Your first step will be to create a spaceship that flies towards the Earth!
 
 \--- task \---
 
-새 스크래치 프로젝트를 엽니다.
+Open a new Scratch project.
 
-** 온라인: ** [ rpf.io/scratch-new에서 새로운 온라인 스크래치 프로젝트 열기 ](http://rpf.io/scratchon) {: target = "_ blank"}
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
 
-** 오프라인: ** 오프라인 에디터에서 새 프로젝트를 엽니다.
+**Offline:** open a new project in the offline editor.
 
-스크래치 오프라인 에디터를 다운로드 받아야 하는 경우, [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}에서 다운 받을 수 있습니다.
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
@@ -55,12 +55,12 @@ Add this code to your spaceship sprite:
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-flag 클릭했을 때
-(0)도 방향 보기
-x:(-150) y:(-150)로 이동하기
-[Let's go]을(를) (2) 초 동안 말하기
-(Earth v) 쪽 보기
-(1)초 동안 x:(0) y:(0)로 이동하기
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+glide (1) secs to x:(0) y:(0)
 ```
 
 Change the numbers in the code blocks you've added so that the code is exactly the same as above.
