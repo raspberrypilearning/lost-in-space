@@ -1,16 +1,16 @@
-## הנפשת חללית
+## Animating a spaceship
 
-הצעד הראשון שלך יהיה ליצור חללית שנעה לעבר כדור הארץ!
+Your first step will be to create a spaceship that flies towards the Earth!
 
 \--- task \---
 
-פתח פרוייקט חדש של Scratch.
+Open a new Scratch project.
 
 **Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
 
-** לא מקוון: ** פתח פרוייקט חדש בעורך הלא מקוון.
+**Offline:** open a new project in the offline editor.
 
-אם עליך להוריד ולהתקין את העורך הלא מקוון של Scratch, תוכל למצוא אותו בכתובת [ rpf.io/scratchoff ](http://rpf.io/scratchoff) {:target="_blank"}.
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
@@ -55,7 +55,12 @@ Add this code to your spaceship sprite:
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked point in direction (0) go to x:(-150) y:(-150) say [Let's go] for (2) seconds point towards (Earth v) glide (1) secs to x:(0) y:(0)
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+glide (1) secs to x:(0) y:(0)
 ```
 
 Change the numbers in the code blocks you've added so that the code is exactly the same as above.
