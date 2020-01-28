@@ -1,4 +1,4 @@
-## Výzva: Vytvoř si svou vlastní animaci
+## Challenge: make your own animation
 
 Stop your space animation, save it, and start a new Scratch project.
 
