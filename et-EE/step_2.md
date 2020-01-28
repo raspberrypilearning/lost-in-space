@@ -1,16 +1,16 @@
-## Kosmoselaeva animeerimine
+## Animating a spaceship
 
-Esimese sammuna lood kosmoselaeva, mis lendab Maa poole!
+Your first step will be to create a spaceship that flies towards the Earth!
 
-\--- ülesanne \---
+\--- task \---
 
-Ava uus Scratch projekt.
+Open a new Scratch project.
 
-**Veebis:**ava uus Scratchi veebiprojekt aadressil [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
 
-**Võrguühenduse puudumisel:** ava uus projekt võrguvälises redaktoris.
+**Offline:** open a new project in the offline editor.
 
-Kui sul on vaja alla laadida ja installida Scratchi võrguväline redaktor, mine aadressile [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
@@ -55,12 +55,12 @@ Add this code to your spaceship sprite:
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-kui klõpsata ⚑
-osuta suunas (0)
-mine x: (-150) y: (-150)
-ütle [Lähme] (2) sek
-osuta (Maa) -le
-liugle (1) sekundiga x: (0) y: (0)
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+glide (1) secs to x:(0) y:(0)
 ```
 
 Change the numbers in the code blocks you've added so that the code is exactly the same as above.
