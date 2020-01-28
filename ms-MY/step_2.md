@@ -1,18 +1,18 @@
-## Menggayakan pesawat angkasa
+## Animating a spaceship
 
-Langkah pertama anda adalah untuk membuat kapal angkasa yang terbang ke Bumi!
+Your first step will be to create a spaceship that flies towards the Earth!
 
-\--- tugas \---
+\--- task \---
 
-Buka projek Scratch baru.
+Open a new Scratch project.
 
 **Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
 
-**Luar talian:** buka projek baru dalam editor luar talian.
+**Offline:** open a new project in the offline editor.
 
-Sekiranya anda perlu memuat turun dan memasang editor luar talian Scratch, anda boleh menemuinya di [rpf.io/scratchoff](http://rpf.io/scratchoff){: target = "_ blank"}.
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-\--- / tugas \---
+\--- /task \---
 
 \--- task \---
 
@@ -38,7 +38,7 @@ Click on your spaceship sprite, and click on the **Costumes** tab.
 
 ![Sprite costume](images/space-costume.png)
 
-\--- / tugas \---
+\--- /task \---
 
 \--- task \---
 
@@ -46,7 +46,7 @@ Use the **arrow** tool to click and drag a box around the whole spaceship image.
 
 ![Rotating a costume](images/space-rotate.png)
 
-\--- / tugas \---
+\--- /task \---
 
 \--- task \---
 
@@ -55,12 +55,12 @@ Add this code to your spaceship sprite:
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-apabila bendera mengklik
-poin ke arah (0)
-pergi ke x: (- 150) y: (- 150)
-katakan [Mari kita pergi] untuk (2) saat
-titik ke arah (Bumi v)
-meluncur (1) x: (0) y: (0)
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+glide (1) secs to x:(0) y:(0)
 ```
 
 Change the numbers in the code blocks you've added so that the code is exactly the same as above.
