@@ -1,4 +1,4 @@
-## Plovoucí opice
+## Floating monkey
 
 Now you will add a monkey who's lost in space to your animation!
 
