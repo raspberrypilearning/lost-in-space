@@ -1,13 +1,13 @@
-## Izazov: poboljšajte svoju animaciju
+## Challenge: improve your animation
 
-Možete li promijeniti brojeve svog koda animacije tako da:
+Can you change the numbers in your animation code so that:
 
-+ Svemirski se brod kreće dok ne dotakne Zemlju?
-+ Svemirski se brod polako kreće prema Zemlji?
++ The spaceship moves until it touches the Earth?
++ The spaceship moves more slowly towards the Earth?
 
-Morat ćete promijeniti brojeve u ovom bloku:
+You'll need to change the numbers in this block:
 
-![Lik rakete](images/sprite-spaceship.png)
+![Rocketship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 glide (1) secs to x:(0) y:(0)
