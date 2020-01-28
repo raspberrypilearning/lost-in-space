@@ -4,11 +4,11 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 \--- /no-print \---
 
-## esittely
+## Introduction
 
 You are going to learn how to program your own animation!
 
-### Mitä teet
+### What you will make
 
 \--- no-print \---
 
