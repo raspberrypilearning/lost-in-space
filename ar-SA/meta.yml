@@ -6,18 +6,18 @@ original_url: https://www.codeclubprojects.org/en-GB/scratch/lost-in-space
 listed: true
 copyedit: true
 technologies: scratch
-version: 4
+version: 4.1.3
 last_tested: 2018-09-26
 steps:
   - 
     title: المقدمة
   - 
-    title: تحريك سفينة فضاء
+    title: Animating a spaceship
   - 
-    title: 'تحريك سفينة فضاء'
+    title: 'Challenge: improve your animation'
     challenge: true
   - 
-    title: التحريك باستخدام حلقات التكرار
+    title: Animation using loops
   - 
     title: قرد سابح
   - 
@@ -28,4 +28,4 @@ steps:
     title: 'تحدي: اصنع رسمتك المتحركة'
     challenge: true
   - 
-    title: ما التالي؟
+    title: What next?
