@@ -1,6 +1,6 @@
-## Odbojni asteroid
+## Bouncing asteroid
 
-Zdaj boš v svojo animacijo dodal-a še potujoči skalnati asteroid.
+Now you will add a floating space rock to your animation.
 
 \--- task \---
 
@@ -25,21 +25,21 @@ When the green **flag is clicked**, your rock sprite should **move** and **bounc
 Here are the code blocks you need:
 
 ```blocks3
-pojdi (10) korakov
+move (10) steps
 
-odbij se, če si na robu
+if on edge bounce
 
-ko kliknemo na zastavico
+when flag clicked
 
-ponavljaj
+forever
 ```
 
 You can also set a more interesting starting direction for the rock sprite with one of these blocks:
 
 ```blocks3
-obrni se za (15) stopinj v desno
+turn cw (15) degrees
 
-obrni se proti (Zemlja v)
+point towards (Earth v)
 ```
 
 \--- /hint \--- \--- hint \---
@@ -49,11 +49,11 @@ Here's the code for making your rock bounce around the stage:
 ![Rock sprite](images/sprite-rock.png)
 
 ```blocks3
-ko kliknemo na zastavico
-obrni se proti (Zemlja v)
-ponavljaj
-  pojdi (2) korakov
-  odbij se, če si na robu
+when flag clicked
+point towards (Earth v)
+forever
+    move (2) steps
+    if on edge, bounce
 ```
 
 \--- /hint \--- \--- /hints \--- \--- /task \---
