@@ -1,6 +1,6 @@
 ## 반복하기를 사용한 움직임
 
-우주선을 움직이게하는 또 다른 방법은 조금씩 여러번 움직이는 것입니다
+Another way to animate the spaceship is to tell it to move a small amount many times
 
 \--- task \---
 
@@ -9,13 +9,13 @@ Delete the `glide`{:class="block3motion"} block from your code. To do this, drag
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-flag 클릭했을 때
-(0)도 방향 보기
-x:(-150) y:(-150)로 이동하기
-[Let's go]을(를) (2) 초 동안 말하기
-(Earth v) 쪽 보기
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
 
-- (1)초 동안 x:(0) y:(0)로 이동하기
+- glide (1) secs to x:(0) y:(0)
 ```
 
 \--- /task \---
@@ -29,14 +29,14 @@ Now use a `repeat`{:class="block3control"} block to move your spaceship towards 
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-flag 클릭했을 때
-(0)도 방향 보기
-x:(-150) y:(-150)로 이동하기
-[Let's go]을(를) (2) 초 동안 말하기
-(Earth v) 쪽 보기
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
 
-+ (200) 번 반복하기
-    (2) 만큼 움직이기
++ repeat (200)
+    move (2) steps
 ```
 
 Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
@@ -52,15 +52,15 @@ Use this block:
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-flag 클릭했을 때
-(0)도 방향 보기
-x:(-150) y:(-150)로 이동하기
-[Let's go]을(를) (2) 초 동안 말하기
-(Earth v) 쪽 보기
-(200) 번 반복하기
-    (2) 만큼 움직이기)
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
 
-+ [color v] 효과를 (25) 만큼 바꾸기
++    change [color v] effect by (25)
 ```
 
 Test and save your code.
@@ -85,12 +85,12 @@ Your spaceship should start at `100% size`{:class="blocklooks"}, and then `chang
 
 You will need to add these blocks to your code:
 
-![우주선 스프라이트](images/sprite-spaceship.png)
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-크기를 (10) 만큼 바꾸기
+change size by (10)
 
-크기를 (100) %로 정하기
+set size to (100) %
 ```
 
 \--- /hint \---
@@ -102,16 +102,17 @@ Your code should look like this:
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-flag 클릭했을 때
-(0)도 방향 보기
-x:(-150) y:(-150)로 이동하기
-[Let's go]을(를) (2) 초 동안 말하기
-(Earth v) 쪽 보기
-(200) 번 반복하기
-    (2) 만큼 움직이기)
-    [color v] 효과를 (25) 만큼 바꾸기
+when flag clicked
+set size to (100) %
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
+    change [color v] effect by (25)
 
-+   크기를 (-3) 만큼 바꾸기
++   change size by (-3)
 ```
 
 \--- /hint \---
