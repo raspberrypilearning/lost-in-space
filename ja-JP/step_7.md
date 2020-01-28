@@ -1,6 +1,6 @@
 ## 光る星
 
-次に、ループを組み合わせて光る星を作成します。
+Now you will combine loops to make a shining star.
 
 \--- task \---
 
@@ -25,20 +25,19 @@ When the green **flag is clicked**, your star sprite should **change size** to g
 Here are the code blocks you need:
 
 ```blocks3
-(10) 回繰り返す
+repeat (10)
 end
 
-⚑ が押されたとき
+when flag clicked
 
-(10) 回繰り返す
+repeat (10)
 end
 
-大きさを (10) ずつ変える
+change size by (10)
 
-大きさを (10) ずつ変える
+change size by (10)
 
-ずっと
-end
+forever
 ```
 
 \--- /hint \--- \--- hint \---
@@ -48,15 +47,14 @@ Here's the code to make your star grow and shrink:
 ![Star sprite](images/sprite-star.png)
 
 ```blocks3
-⚑ が押されたとき
-ずっと 
-  (20) 回繰り返す 
-    大きさを (2) ずつ変える
-  end
-  (20) 回繰り返す 
-    大きさを (-2) ずつ変える
-  end
-end
+when flag clicked
+forever
+    repeat (20)
+        change size by (2)
+    end
+    repeat (20)
+        change size by (-2)
+    end
 
 ```
 
