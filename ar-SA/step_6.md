@@ -1,6 +1,6 @@
 ## كويكب يرتدّ
 
-الآن سنقوم بإضافة صخرة عائمة في الفضاء إلى الرسم المتحرك.
+Now you will add a floating space rock to your animation.
 
 \--- task \---
 
@@ -25,22 +25,21 @@ When the green **flag is clicked**, your rock sprite should **move** and **bounc
 Here are the code blocks you need:
 
 ```blocks3
-تحرك (10) خطوة
+move (10) steps
 
-ارتد إذا كنت عند الحافة
+if on edge bounce
 
-عند نقر ⚑
+when flag clicked
 
-كرِّر باستمرار
-end
+forever
 ```
 
 You can also set a more interesting starting direction for the rock sprite with one of these blocks:
 
 ```blocks3
-استدر ↻ (15) درجة
+turn cw (15) degrees
 
-اتجه نحو (Earth v)
+point towards (Earth v)
 ```
 
 \--- /hint \--- \--- hint \---
@@ -50,12 +49,11 @@ Here's the code for making your rock bounce around the stage:
 ![Rock sprite](images/sprite-rock.png)
 
 ```blocks3
-عند نقر ⚑
-اتجه نحو (Earth v)
-كرِّر باستمرار 
-  تحرك (2) خطوة
-  ارتد إذا كنت عند الحافة
-end
+when flag clicked
+point towards (Earth v)
+forever
+    move (2) steps
+    if on edge, bounce
 ```
 
 \--- /hint \--- \--- /hints \--- \--- /task \---
