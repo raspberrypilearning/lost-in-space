@@ -1,6 +1,6 @@
-## জ্বলন্ত তারা
+## Shining star
 
-এখন আপনি একটি চকচকে তারকা তৈরি করতে লুপগুলি একত্রিত করবেন।.
+Now you will combine loops to make a shining star.
 
 \--- task \---
 
