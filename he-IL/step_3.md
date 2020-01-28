@@ -1,13 +1,13 @@
-## האתגר: שפר את האנימציה שלך
+## Challenge: improve your animation
 
-האם אתה יכול לשנות את המספרים בקוד האנימציה שלך כך ש:
+Can you change the numbers in your animation code so that:
 
-+ החללית תנוע עד שתיגע בכדור הארץ?
-+ החללית תנוע לאט יותר לעבר כדור הארץ?
++ The spaceship moves until it touches the Earth?
++ The spaceship moves more slowly towards the Earth?
 
-יהיה עליך לשנות את המספרים בבלוק זה:
+You'll need to change the numbers in this block:
 
-![דמות של חללית](images/sprite-spaceship.png)
+![Rocketship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 glide (1) secs to x:(0) y:(0)
