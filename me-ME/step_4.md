@@ -1,4 +1,4 @@
-## Animacija pomoću petlji
+## Animation using loops
 
 Another way to animate the spaceship is to tell it to move a small amount many times
 
@@ -81,7 +81,7 @@ Your spaceship should start at `100% size`{:class="blocklooks"}, and then `chang
 
 \--- /hint \---
 
-\--- pomoć \---
+\--- hint \---
 
 You will need to add these blocks to your code:
 
