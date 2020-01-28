@@ -1,6 +1,6 @@
 ## التحريك باستخدام حلقات التكرار
 
-توجد طريقة أخرى لتحريك سفينة الفضاء وهي أن تأمر السفينة بالتحرك مسافات صغيرة عدة مرّات
+Another way to animate the spaceship is to tell it to move a small amount many times
 
 \--- task \---
 
@@ -9,13 +9,13 @@ Delete the `glide`{:class="block3motion"} block from your code. To do this, drag
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-عند نقر ⚑
-اتجه نحو الاتجاه (0)
-اذهب إلى الموضع س: (-150) ص: (-150)
-قل [Let's go] لمدة (2) ثانية
-اتجه نحو (Earth v)
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
 
-انزلق خلال (1) ثانية إلى الموضع س: (0) ص: (0)
+- glide (1) secs to x:(0) y:(0)
 ```
 
 \--- /task \---
@@ -29,15 +29,14 @@ Now use a `repeat`{:class="block3control"} block to move your spaceship towards 
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-عند نقر ⚑
-اتجه نحو الاتجاه (0)
-اذهب إلى الموضع س: (-150) ص: (-150)
-قل [Let's go] لمدة (2) ثانية
-اتجه نحو (Earth v)
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
 
-+ كرِّر (200) مرة 
-  تحرك (2) خطوة
-end
++ repeat (200)
+    move (2) steps
 ```
 
 Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
@@ -53,15 +52,15 @@ Use this block:
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-عند نقر ⚑
-اتجه نحو الاتجاه (0)
-اذهب إلى الموضع س: (-150) ص: (-150)
-قل [Let's go] لمدة (2) ثانية
-اتجه نحو (Earth v)
-كرِّر (200) مرة 
-  تحرك (2) خطوة
-  + غيِّر مؤثر [color v] بمقدار (25)
-end
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
+
++    change [color v] effect by (25)
 ```
 
 Test and save your code.
@@ -86,12 +85,12 @@ Your spaceship should start at `100% size`{:class="blocklooks"}, and then `chang
 
 You will need to add these blocks to your code:
 
-![كائن سفينة الفضاء](images/sprite-spaceship.png)
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-غيِّر الحجم بمقدار (10)
+change size by (10)
 
-اجعل الحجم مساويًا (100) ٪
+set size to (100) %
 ```
 
 \--- /hint \---
@@ -103,17 +102,17 @@ Your code should look like this:
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-عند نقر ⚑
-اجعل الحجم مساويًا (100) ٪
-اتجه نحو الاتجاه (0)
-اذهب إلى الموضع س: (-150) ص: (-150)
-قل [Let's go] لمدة (2) ثانية
-اتجه نحو (Earth v)
-كرِّر (200) مرة 
-  تحرك (2) خطوة
-  غيِّر مؤثر [color v] بمقدار (25)
-  + غيِّر الحجم بمقدار (-3)
-end
+when flag clicked
+set size to (100) %
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
+    change [color v] effect by (25)
+
++   change size by (-3)
 ```
 
 \--- /hint \---
