@@ -1,6 +1,6 @@
-## Hoạt hình sử dụng các vòng lặp
+## Animation using loops
 
-Một cách khác để làm sống động tàu vũ trụ là bảo nó di chuyển một lượng nhỏ nhiều lần
+Another way to animate the spaceship is to tell it to move a small amount many times
 
 \--- task \---
 
@@ -9,13 +9,13 @@ Delete the `glide`{:class="block3motion"} block from your code. To do this, drag
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-khi cờ nhấp
-điểm theo hướng (0)
-đi đến x: (- 150) y: (- 150)
-nói [Hãy đi] trong (2) giây
-điểm về phía (Trái đất v)
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
 
-- lướt (1) giây đến x: (0) y: (0)
+- glide (1) secs to x:(0) y:(0)
 ```
 
 \--- /task \---
@@ -29,14 +29,14 @@ Now use a `repeat`{:class="block3control"} block to move your spaceship towards 
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-khi cờ nhấp
-điểm theo hướng (0)
-đi đến x: (- 150) y: (- 150)
-nói [Hãy đi] trong (2) giây
-điểm về phía (Trái đất v)
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
 
-+ lặp lại (200)
-    di chuyển (2) bước
++ repeat (200)
+    move (2) steps
 ```
 
 Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
@@ -52,15 +52,15 @@ Use this block:
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-khi cờ nhấp
-điểm theo hướng (0)
-hãy chuyển đến x: (- 150) y: (- 150)
-nói [Hãy đi] trong (2) giây
-điểm về phía (Trái đất v)
-lặp lại (200)
-    di chuyển (2) bước
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
 
-+ thay đổi hiệu ứng [màu v] bằng (25)
++    change [color v] effect by (25)
 ```
 
 Test and save your code.
@@ -85,12 +85,12 @@ Your spaceship should start at `100% size`{:class="blocklooks"}, and then `chang
 
 You will need to add these blocks to your code:
 
-![Tàu vũ trụ](images/sprite-spaceship.png)
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-thay đổi kích thước theo (10)
+change size by (10)
 
-đặt kích thước thành (100)%
+set size to (100) %
 ```
 
 \--- /hint \---
@@ -102,17 +102,17 @@ Your code should look like this:
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-khi cờ nhấp
-đặt kích thước thành (100)%
-điểm theo hướng (0)
-hãy chuyển đến x: (- 150) y: (- 150)
-nói [Hãy đi] trong (2) giây
-điểm về phía (Trái đất v )
-lặp lại (200)
-    di chuyển (2) bước
-    thay đổi hiệu ứng [màu v] bằng (25)
+when flag clicked
+set size to (100) %
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
+    change [color v] effect by (25)
 
-+ thay đổi kích thước theo (-3)
++   change size by (-3)
 ```
 
 \--- /hint \---
