@@ -7,17 +7,17 @@ listed: true
 copyedit: true
 technologies: scratch
 version: 4.1.3
-last_tested: 26-09-2018
+last_tested: 2018-09-26
 steps:
   - 
     title: Introdução
   - 
     title: Animando uma nave espacial
   - 
-    title: 'Desafio: Melhore a sua animação'
+    title: 'Desafio: melhorar a animação'
     challenge: true
   - 
-    title: Animando usando repetições
+    title: Animação utilizando ciclos
   - 
     title: Macaco flutuante
   - 
@@ -28,4 +28,4 @@ steps:
     title: 'Desafio: Faça a sua própria animação'
     challenge: true
   - 
-    title: O que vem depois?
+    title: O que se segue?
