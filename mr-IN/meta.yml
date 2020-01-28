@@ -1,31 +1,31 @@
 ---
-title: जागेत हरवले
-hero_image: प्रतिमा / गहाळ-इन-स्पेस.png
-description: 'आपल्या स्वत: च्या अॅनिमेशनवर कसे प्रोग्राम करावे ते जाणून घ्या!'
+title: Lost in space
+hero_image: images/lost-in-space.png
+description: Learn how to program your own animation!
 original_url: https://www.codeclubprojects.org/en-GB/scratch/lost-in-space
 listed: true
 copyedit: true
-technologies: सुरवातीपासून
+technologies: scratch
 version: 4.1.3
 last_tested: 2018-09-26
 steps:
   - 
-    title: परिचय
+    title: Introduction
   - 
-    title: एक स्पेसशिप एनीमेटिंग
+    title: Animating a spaceship
   - 
-    title: 'आव्हानः आपल्या अॅनिमेशनमध्ये सुधारणा करा'
+    title: 'Challenge: improve your animation'
     challenge: true
   - 
-    title: Loops वापरून अॅनिमेशन
+    title: Animation using loops
   - 
-    title: फ्लोटिंग म बंदर
+    title: Floating monkey
   - 
-    title: शेपूट लघुग्रह
+    title: Bouncing asteroid
   - 
-    title: चमकणारा तारा
+    title: Shining star
   - 
-    title: 'आव्हान: आपल्या स्वत: च्या अॅनिमेशन करा'
+    title: 'Challenge: make your own animation'
     challenge: true
   - 
     title: What next?
