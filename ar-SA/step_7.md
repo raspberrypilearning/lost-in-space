@@ -1,6 +1,6 @@
 ## نجم متلألئ
 
-والآن سنقوم بجمع الحلقات لنصنع نجمًا لامعًا.
+Now you will combine loops to make a shining star.
 
 \--- task \---
 
@@ -25,20 +25,19 @@ When the green **flag is clicked**, your star sprite should **change size** to g
 Here are the code blocks you need:
 
 ```blocks3
-كرِّر (10) مرة
+repeat (10)
 end
 
-عند نقر ⚑
+when flag clicked
 
-كرِّر (10) مرة
+repeat (10)
 end
 
-غيِّر الحجم بمقدار (10)
+change size by (10)
 
-غيِّر الحجم بمقدار (10)
+change size by (10)
 
-كرِّر باستمرار
-end
+forever
 ```
 
 \--- /hint \--- \--- hint \---
@@ -48,15 +47,14 @@ Here's the code to make your star grow and shrink:
 ![Star sprite](images/sprite-star.png)
 
 ```blocks3
-عند نقر ⚑
-كرِّر باستمرار 
-  كرِّر (20) مرة 
-    غيِّر الحجم بمقدار (2)
-  end
-  كرِّر (20) مرة 
-    غيِّر الحجم بمقدار (-2)
-  end
-end
+when flag clicked
+forever
+    repeat (20)
+        change size by (2)
+    end
+    repeat (20)
+        change size by (-2)
+    end
 
 ```
 
