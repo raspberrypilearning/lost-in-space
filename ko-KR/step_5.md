@@ -1,6 +1,6 @@
 ## 떠다니는 원숭이
 
-우주에서 길을 잃은 원숭이를 더해보도록 하겠습니다!
+Now you will add a monkey who's lost in space to your animation!
 
 \--- task \---
 
@@ -41,12 +41,12 @@ When the green **flag is clicked**, your monkey sprite should **turn** in a circ
 Here are the code blocks you need:
 
 ```blocks3
-무한 반복하기
-끝
+forever
+end
 
-cw 방향으로 (15) 도 회전하기
+turn cw (15) degrees
 
-flag 클릭했을 때
+when flag clicked
 ```
 
 \--- /hint \--- \--- hint \---
@@ -56,9 +56,9 @@ Here's the code to make your monkey spin:
 ![Monkey sprite](images/sprite-monkey.png)
 
 ```blocks3
-flag 클릭했을 때
-무한 반복하기
-    cw 방향으로 (1) 도 회전하기
+when flag clicked
+forever
+    turn cw (1) degrees
 ```
 
 \--- /hint \--- \--- /hints \---
