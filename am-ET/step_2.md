@@ -1,18 +1,18 @@
-## መንኮራኩረን አኒሜት ማድረግ
+## Animating a spaceship
 
-የመጀመሪያው ስራ የሚሆነው ወደ መሬት የሚበር የጠፈር መንኮራኮትን መስራት ይሆናል!
+Your first step will be to create a spaceship that flies towards the Earth!
 
 \--- task \---
 
-አዲስ Scratch ፕሮጀክት ይክፈት/ቺ።
+Open a new Scratch project.
 
-**ኦንላይን:** አዲስ የኦንላይን ስክራች ፕሮጀክት ከ [rpf.io/scratch-new](http://rpf.io/scratchon){: target = "_ blank"} ለይ ክፈት/ች።
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
 
-**ኦፍላይን:** የኦፍላይን አዲተር በመተቀም አዲስ ፕሮጀክት ክፈት/ቺ።
+**Offline:** open a new project in the offline editor.
 
-የስክራችን ኦፍላይን አዲተር ማውረድ እና መጫን ከፈለክ/ሽ ከ [rpf.io/scratchoff](http://rpf.io/scratchoff){: target = "_ blank"} ላይ ማግኜት ይቻላል።
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-\--- / task \---
+\--- /task \---
 
 \--- task \---
 
@@ -38,7 +38,7 @@ Click on your spaceship sprite, and click on the **Costumes** tab.
 
 ![Sprite costume](images/space-costume.png)
 
-\--- / task \---
+\--- /task \---
 
 \--- task \---
 
@@ -46,7 +46,7 @@ Use the **arrow** tool to click and drag a box around the whole spaceship image.
 
 ![Rotating a costume](images/space-rotate.png)
 
-\--- / task \---
+\--- /task \---
 
 \--- task \---
 
@@ -55,12 +55,12 @@ Add this code to your spaceship sprite:
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-ባንዲራ ጠቅ ጊዜ
-አቅጣጫ ነጥብ (0)
-x ሂድ: (- 150) y: (- 150)
-(2) ሰከንዶች [እንሂድ] ይላሉ
-(Earth v) አቅጣጫ ነጥብ
-ላይ ማንዣበብ (1) ሰከንድ x: (0) y: (0)
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+glide (1) secs to x:(0) y:(0)
 ```
 
 Change the numbers in the code blocks you've added so that the code is exactly the same as above.
