@@ -1,14 +1,14 @@
-\---نو-پرنٹ \---
+\--- no-print \---
 
-یہ **سکریچ 3** ورژن کا منصوبہ ہے ۔ یہاں ایک [ سکریچ 2 ورژن کا منصوبہ ](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2) بھی ہے ۔
+This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
 
-\---نو-پرنٹ \---
+\--- /no-print \---
 
-## تعارف
+## Introduction
 
-آپ سیکھنے کے لئے جا رہے ہیں کہ آپ اینیمیشن کیسے پروگرام کریں گے.
+You are going to learn how to program your own animation!
 
-### آپ کیا کریں گے
+### What you will make
 
 \--- no-print \---
 
@@ -27,27 +27,27 @@ Click on the green flag to see the animation.
 
 \--- /print-only \---
 
-## \---تفصیل غائب کریں--
+## \--- collapse \---
 
-## عنوان: آپ کو کس چیز کی ضرورت ہو گی
+## title: What you will need
 
-### ہارڈ ویئر
+### Hardware
 
-- ایک کمپیوٹر سکریچ 3 چلانے کے قابل
+- A computer capable of running Scratch 3
 
-### سافٹ ویئر
+### Software
 
-- سکریچ 3 (یا تو [ آن لائن ](http://rpf.io/scratchon) یا [ آف لائن ](http://rpf.io/scratchoff) )
+- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
-### ڈاؤن لوڈ
+### Downloads
 
-- کوئی بھی نہیں
+- None
 
 \--- /collapse \---
 
-## \---تفصیل غائب کریں--
+## \--- collapse \---
 
-## عنوان: آپ کیا سیکھیں گے
+## title: What you will learn
 
 - Use a repeat loop to animate a sprite in Scratch
 - Use a forever loop to repeat an animation indefinitely
