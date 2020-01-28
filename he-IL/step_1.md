@@ -1,14 +1,14 @@
 \--- no-print \---
 
-זוהי גרסה ** Scratch 3 **של הפרויקט. יש גם גרסה [ Scratch 2 של הפרויקט ](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
+This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
 
 \--- /no-print \---
 
-## הקדמה
+## Introduction
 
-אתם תלמדו איך לתכנת אנימציה משלכם!
+You are going to learn how to program your own animation!
 
-### מה תעשה
+### What you will make
 
 \--- no-print \---
 
@@ -29,35 +29,35 @@ Click on the green flag to see the animation.
 
 ## \--- collapse \---
 
-## title: למה תזדקק
+## title: What you will need
 
-### חומרה
+### Hardware
 
-- מחשב המסוגל להריץ סקראטץ 3
+- A computer capable of running Scratch 3
 
-### תוכנה
+### Software
 
-- Scratch 3 (או [ מקוון ](http://rpf.io/scratchon) {:target="_blank"} או [ במצב לא מקוון ](http://rpf.io/scratchoff) {:target="_blank"})
+- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
-### הורדות
+### Downloads
 
-- לא צריך
+- None
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: מה תלמד
+## title: What you will learn
 
-- השתמש בלולאה חוזרת להנפשת דמות ב- Scratch
+- Use a repeat loop to animate a sprite in Scratch
 - Use a forever loop to repeat an animation indefinitely
-- להבין שלולאות יכולות להיות מקוננות זו בזו
+- Understand that loops can be nested within each other
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: מידע נוסף למורי המועדון
+## title: Additional information for educators
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
