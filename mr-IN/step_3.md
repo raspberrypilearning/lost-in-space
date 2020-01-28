@@ -1,16 +1,16 @@
-## आव्हानः आपल्या अॅनिमेशनमध्ये सुधारणा करा
+## Challenge: improve your animation
 
-आपण आपल्या अॅनिमेशन कोडमध्ये नंबर बदलू शकता जेणेकरुन:
+Can you change the numbers in your animation code so that:
 
-+ पृथ्वीला स्पर्श होईपर्यंत तो फिरताच फिरतो?
-+ स्पेसशिप पृथ्वीच्या दिशेने अधिक हळूहळू फिरते?
++ The spaceship moves until it touches the Earth?
++ The spaceship moves more slowly towards the Earth?
 
-आपल्याला या विभागातील संख्या बदलण्याची आवश्यकता असेलः
+You'll need to change the numbers in this block:
 
-![रॉकेटस्पीट स्प्राइट](images/sprite-spaceship.png)
+![Rocketship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-ग्लाइड (1) सेकंद ते एक्स: (0) y: (0)
+glide (1) secs to x:(0) y:(0)
 ```
 
 [[[generic-scratch3-coordinates]]]
