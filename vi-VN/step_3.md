@@ -1,16 +1,16 @@
-## Thách thức: cải thiện hoạt hình của bạn
+## Challenge: improve your animation
 
-Bạn có thể thay đổi số trong mã hoạt hình của mình để:
+Can you change the numbers in your animation code so that:
 
-+ Tàu vũ trụ di chuyển cho đến khi chạm vào Trái đất?
-+ Tàu vũ trụ di chuyển chậm hơn về phía Trái đất?
++ The spaceship moves until it touches the Earth?
++ The spaceship moves more slowly towards the Earth?
 
-Bạn sẽ cần thay đổi số trong khối này:
+You'll need to change the numbers in this block:
 
-![Tên lửa](images/sprite-spaceship.png)
+![Rocketship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-lướt (1) giây đến x: (0) y: (0)
+glide (1) secs to x:(0) y:(0)
 ```
 
 [[[generic-scratch3-coordinates]]]
