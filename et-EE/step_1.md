@@ -1,14 +1,14 @@
 \--- no-print \---
 
-See on projekti **Scratch 3** versioon. On ka [projekti Scratch 2 versioon](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
+This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
 
 \--- /no-print \---
 
-## Sissejuhatus
+## Introduction
 
-Õpid, kuidas oma animatsiooni programmeerida!
+You are going to learn how to program your own animation!
 
-### Mida sa teed
+### What you will make
 
 \--- no-print \---
 
@@ -29,35 +29,35 @@ Click on the green flag to see the animation.
 
 ## \--- collapse \---
 
-## title: Mida sul vaja on
+## title: What you will need
 
-### Riistvara
+### Hardware
 
-- Arvuti, mis suudab käivitada Scratch 3
+- A computer capable of running Scratch 3
 
-### Tarkvara
+### Software
 
-- Scratch 3 (kas [võrguühendusega](http://rpf.io/scratchon){:target="_blank"} või [võrguväliselt](http://rpf.io/scratchoff){: target="_blank"})
+- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
-### Allalaadimised
+### Downloads
 
-- Mitte ühtegi
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: Mida sa õpid
-
-- Kasuta korduvat tsüklit (repeat loop) spraidi animeerimiseks Scratchis
-- Kasuta lõpmatut tsüklit (forever loop) animatsiooni kordamiseks määramata arv kordi
-- Mõista, et tsükleid (loops) saab pesastada (üksteise sisse paigutada)
+- None
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Lisainfo õpetajatele
+## title: What you will learn
+
+- Use a repeat loop to animate a sprite in Scratch
+- Use a forever loop to repeat an animation indefinitely
+- Understand that loops can be nested within each other
+
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: Additional information for educators
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
