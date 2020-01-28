@@ -1,14 +1,14 @@
-\--- không in \---
+\--- no-print \---
 
-Đây là phiên bản **Scratch 3** của dự án. Ngoài ra còn có một [phiên bản Scratch 2 của dự án](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
+This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
 
-\--- / không in \---
+\--- /no-print \---
 
-## Giới thiệu
+## Introduction
 
-Bạn sẽ học cách lập trình hoạt hình của riêng bạn!
+You are going to learn how to program your own animation!
 
-### Những gì bạn sẽ làm
+### What you will make
 
 \--- no-print \---
 
@@ -27,37 +27,37 @@ Click on the green flag to see the animation.
 
 \--- /print-only \---
 
-## \--- sự sụp đổ \---
+## \--- collapse \---
 
-## tiêu đề: Những gì bạn sẽ cần
+## title: What you will need
 
-### Phần cứng
+### Hardware
 
-- Một máy tính có khả năng chạy Scratch 3
+- A computer capable of running Scratch 3
 
-### Phần mềm
+### Software
 
-- Cào 3 ( [trực tuyến](http://rpf.io/scratchon){: target = "_ blank"} hoặc [ngoại tuyến](http://rpf.io/scratchoff){: target = "_ blank"})
+- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
-### Tải xuống
+### Downloads
 
-- không ai
-
-\--- /sự sụp đổ \---
-
-## \--- sự sụp đổ \---
-
-## tiêu đề: bạn sẽ học được gì
-
-- Sử dụng vòng lặp lặp để tạo hiệu ứng sprite trong Scratch
-- Use a forever loop to repeat an animation indefinitely
-- Hiểu rằng các vòng lặp có thể được lồng vào nhau
+- None
 
 \--- /collapse \---
 
-## \--- sự sụp đổ \---
+## \--- collapse \---
 
-## tiêu đề: Thông tin bổ sung cho các nhà giáo dục
+## title: What you will learn
+
+- Use a repeat loop to animate a sprite in Scratch
+- Use a forever loop to repeat an animation indefinitely
+- Understand that loops can be nested within each other
+
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: Additional information for educators
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
