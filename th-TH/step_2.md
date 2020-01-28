@@ -1,18 +1,18 @@
-## แอนิเมชั่นยานอวกาศ
+## Animating a spaceship
 
-ขั้นตอนแรกของคุณคือการสร้างยานอวกาศที่บินไปสู่โลก!
+Your first step will be to create a spaceship that flies towards the Earth!
 
-\--- งาน \---
+\--- task \---
 
-เปิดโครงการเริ่มต้นใหม่
+Open a new Scratch project.
 
-**ออนไลน์:** เปิดโครงการ Scratch ออนไลน์ใหม่ที่ [rpf.io/scratch-new](http://rpf.io/scratchon){: target = "_ blank"}
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
 
-**ออฟไลน์:** เปิดโครงการใหม่ในตัวแก้ไขออฟไลน์
+**Offline:** open a new project in the offline editor.
 
-หากคุณต้องการดาวน์โหลดและติดตั้งตัวแก้ไข Scratch ออฟไลน์คุณสามารถค้นหาได้ที่ [rpf.io/scratchoff](http://rpf.io/scratchoff){: target = "_ blank"}
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-\--- / task \---
+\--- /task \---
 
 \--- task \---
 
@@ -38,7 +38,7 @@ Click on your spaceship sprite, and click on the **Costumes** tab.
 
 ![Sprite costume](images/space-costume.png)
 
-\--- / task \---
+\--- /task \---
 
 \--- task \---
 
@@ -46,7 +46,7 @@ Use the **arrow** tool to click and drag a box around the whole spaceship image.
 
 ![Rotating a costume](images/space-rotate.png)
 
-\--- / task \---
+\--- /task \---
 
 \--- task \---
 
@@ -55,12 +55,12 @@ Add this code to your spaceship sprite:
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-เมื่อธงคลิก
-ทิศทาง (0)
-ไปที่ x: (- 150) y: (- 150)
-พูดว่า [Let's go] เป็นเวลา (2) วินาที
-ชี้ไปที่ (Earth v)
-glide (1) วินาทีถึง x: (0) y: (0)
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+glide (1) secs to x:(0) y:(0)
 ```
 
 Change the numbers in the code blocks you've added so that the code is exactly the same as above.
