@@ -1,13 +1,13 @@
-## අභියෝගය: ඔබේ සජීවිකරණය(animation එක) වැඩි දියුණු(improve) කරන්න
+## Challenge: improve your animation
 
-ඔබට ඔබේ සජීවිකරණ(animation) කේතයේ(code එකේ) සංඛ්‍යා(numbers) අගයන් වෙනස් කළ හැකිද?
+Can you change the numbers in your animation code so that:
 
-+ අභ්‍යවකාශ යානය(spaceship එක) පෘථිවිය(earth) ස්පර්ශ වන තුරු ගමන් කරයිද?
-+ අභ්‍යවකාශ යානය(spaceship එක) පෘථිවිය(earth) දෙසට වඩා සෙමින්(more slowly) ගමන් කරයිද?
++ The spaceship moves until it touches the Earth?
++ The spaceship moves more slowly towards the Earth?
 
-ඔබට මෙම කට්ටියෙහි(block එකේ) සංඛ්‍යා(numbers) අගයන් වෙනස් කිරීමට අවශ්‍ය වනු ඇත:
+You'll need to change the numbers in this block:
 
-![අභ්‍යවකාශ යානා(spaceship) sprite එක](images/sprite-spaceship.png)
+![Rocketship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 glide (1) secs to x:(0) y:(0)
