@@ -1,14 +1,14 @@
-\--- tidak mencetak \---
+\--- no-print \---
 
-Ini adalah versi **Scratch 3** projek. Terdapat juga [Scratch 2 versi projek](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
+This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
 
-\--- / tidak mencetak \---
+\--- /no-print \---
 
-## Pengenalan
+## Introduction
 
-Anda akan belajar bagaimana untuk memprogram animasi anda sendiri!
+You are going to learn how to program your own animation!
 
-### Apa yang anda akan buat
+### What you will make
 
 \--- no-print \---
 
@@ -27,27 +27,27 @@ Click on the green flag to see the animation.
 
 \--- /print-only \---
 
-## \--- runtuh \---
+## \--- collapse \---
 
-## tajuk: Apa yang anda perlukan
+## title: What you will need
 
-### Perkakasan
+### Hardware
 
-- Komputer yang mampu menjalankan Scratch 3
+- A computer capable of running Scratch 3
 
-### Perisian
+### Software
 
-- Scratch 3 (baik [talian](http://rpf.io/scratchon){: target = "_ blank"} atau [offline](http://rpf.io/scratchoff){: target = "_ blank"})
+- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
-### Muat turun
+### Downloads
 
-- Tiada
+- None
 
-\--- / runtuh \---
+\--- /collapse \---
 
-## \--- runtuh \---
+## \--- collapse \---
 
-## tajuk: Apa yang akan anda pelajari
+## title: What you will learn
 
 - Use a repeat loop to animate a sprite in Scratch
 - Use a forever loop to repeat an animation indefinitely
@@ -55,9 +55,9 @@ Click on the green flag to see the animation.
 
 \--- /collapse \---
 
-## \--- runtuh \---
+## \--- collapse \---
 
-## tajuk: Maklumat tambahan untuk pendidik
+## title: Additional information for educators
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
