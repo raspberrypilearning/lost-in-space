@@ -1,6 +1,6 @@
-## বাউন্সিং গ্রহাণু
+## Bouncing asteroid
 
-এখন আপনি আপনার অ্যানিমেশনে একটি ভাসমান স্পেস রক যুক্ত করবেন।.
+Now you will add a floating space rock to your animation.
 
 \--- task \---
 
