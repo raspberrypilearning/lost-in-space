@@ -1,16 +1,16 @@
-## Animacija vesoljske ladje
+## Animating a spaceship
 
-Tvoj prvi korak bo ustvarjanje rakete, ki leti proti Zemlji!
+Your first step will be to create a spaceship that flies towards the Earth!
 
 \--- task \---
 
-Ustvari nov Scratch projekt.
+Open a new Scratch project.
 
-**S povezavo:** ustvari nov spletni Scratch projekt na [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
 
-**Brez povezave:** ustvari nov projekt v namiznem Scratch urejevalniku.
+**Offline:** open a new project in the offline editor.
 
-Če želiš prenesti in namestiti Namizni Scratch, ga lahko najdeš na [rpf.io/scratchoff](http://rpf.io/scratchoff){: target = "_ blank"}.
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
@@ -55,12 +55,12 @@ Add this code to your spaceship sprite:
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-ko kliknemo na zastavico
-obrni se v smer (0)
-pojdi na x:(-150) y:(-150)
-reci [Pojdimo!] za (2) sekund
-obrni se proti (Zemlja)
-drsi (1) sekund do x:(0) y:(0)
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+glide (1) secs to x:(0) y:(0)
 ```
 
 Change the numbers in the code blocks you've added so that the code is exactly the same as above.
