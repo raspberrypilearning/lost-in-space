@@ -1,16 +1,16 @@
-## Desafio: melhorar a animação
+## Challenge: improve your animation
 
-Podes alterar os números no teu código de animação para que:
+Can you change the numbers in your animation code so that:
 
-+ A nave espacial se mova até tocar na Terra?
-+ A nave espacial se mova mais lentamente em direção à Terra?
++ The spaceship moves until it touches the Earth?
++ The spaceship moves more slowly towards the Earth?
 
-Vais necessitar de alterar os números neste bloco:
+You'll need to change the numbers in this block:
 
-![Ator de nave espacial](images/sprite-spaceship.png)
+![Rocketship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-desliza em (1) s para a posição x: (0) y: (0)
+glide (1) secs to x:(0) y:(0)
 ```
 
 [[[generic-scratch3-coordinates]]]
