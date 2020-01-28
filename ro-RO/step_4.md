@@ -1,6 +1,6 @@
-## Animație folosind bucle
+## Animation using loops
 
-O altă modalitate de a anima nava spațială este să-i spui să se miște puțin de mai multe ori
+Another way to animate the spaceship is to tell it to move a small amount many times
 
 \--- task \---
 
@@ -9,13 +9,13 @@ Delete the `glide`{:class="block3motion"} block from your code. To do this, drag
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-atunci când pavilion făcut clic
-punct în direcția (0)
-du - te la x: (- 150) y: (- 150)
-spun [Să mergem] pentru (2) secunde
-punctul spre (Pământ v)
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
 
-- culisa (1) secunde la x: (0) y: (0)
+- glide (1) secs to x:(0) y:(0)
 ```
 
 \--- /task \---
@@ -79,13 +79,13 @@ Can you make your spaceship get smaller as it moves towards Earth?
 
 Your spaceship should start at `100% size`{:class="blocklooks"}, and then `change size`{:class="blocklooks"} by a small amount each time it moves.
 
-\--- / indiciu \---
+\--- /hint \---
 
-\--- indiciu \---
+\--- hint \---
 
 You will need to add these blocks to your code:
 
-![Personajul nava spațială](images/sprite-spaceship.png)
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 change size by (10)
@@ -93,7 +93,7 @@ change size by (10)
 set size to (100) %
 ```
 
-\--- / indiciu \---
+\--- /hint \---
 
 \--- hint \---
 
