@@ -1,6 +1,6 @@
 ## आगे क्या?
 
-[घोस्टबस्टर्स](https://projects.raspberrypi.org/en/projects/ghostbusters?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) परियोजना कोशिश करें! इस प्रोजेक्ट में, आप एक भूतिया गेम बनाएंगे जिसमे भूत चारो ओर दिखाए देंगे और आपको इन्हे पकड़ना हैं। आप एक टाइमर ओर स्कोर आपके गेम में कैसे जोड़ना हैं भी सिखिंगे, ताकि आप देख सकते हैं की आप कितने भूतो को पकड़ पाए।
+Try the [Ghostbusters](https://projects.raspberrypi.org/en/projects/ghostbusters?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) project! In that project, you will learn how to create a game with ghosts that appear all over the place and that you need to catch. You will also learn how to add a timer and a score to the game, so that you can see how many ghosts you are able to catch.
 
 \--- no-print \---
 
