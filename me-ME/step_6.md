@@ -1,4 +1,4 @@
-## Asteroid koji poskakuje
+## Bouncing asteroid
 
 Now you will add a floating space rock to your animation.
 
