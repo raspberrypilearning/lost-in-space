@@ -1,6 +1,6 @@
-## Animiranje z uporabo zank
+## Animation using loops
 
-Drug način animiranja raket je, da se ji pove, da naj se velikokrat malo premakne
+Another way to animate the spaceship is to tell it to move a small amount many times
 
 \--- task \---
 
@@ -9,13 +9,13 @@ Delete the `glide`{:class="block3motion"} block from your code. To do this, drag
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-ko kliknemo na zastavico
-obrni se v smer (0)
-pojdi na x:(-150) y:(-150)
-reci [Pojdimo!] za (2) sekund
-obrni se proti (Zemlja)
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
 
-- drsi (1) sekund do x:(0) y:(0)
+- glide (1) secs to x:(0) y:(0)
 ```
 
 \--- /task \---
@@ -29,14 +29,14 @@ Now use a `repeat`{:class="block3control"} block to move your spaceship towards 
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-ko kliknemo na zastavico
-obrni se v smer (0)
-pojdi na x:(150) y:(150)
-reci [Pojdimo!] za (2) sekund
-obrni se proti (Zemlja)
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
 
-+ponovi (200) krat
-  pojdi (2) korakov
++ repeat (200)
+    move (2) steps
 ```
 
 Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
@@ -52,15 +52,15 @@ Use this block:
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-ko kliknemo na zastavico
-obrni se v smer (0)
-pojdi na x:(150) y:(150)
-reci [Pojdimo!] za (2) sekund
-obrni se proti (Zemlja)
-ponovi (200) krat
-  pojdi (2) korakov
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
 
-+  spremeni učinek [barva v] za (25)
++    change [color v] effect by (25)
 ```
 
 Test and save your code.
@@ -85,12 +85,12 @@ Your spaceship should start at `100% size`{:class="blocklooks"}, and then `chang
 
 You will need to add these blocks to your code:
 
-![Figura rakete](images/sprite-spaceship.png)
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-spremeni vellikost za (10)
+change size by (10)
 
-nastavi velikost na (100) %
+set size to (100) %
 ```
 
 \--- /hint \---
@@ -102,17 +102,17 @@ Your code should look like this:
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-ko kliknemo na zastavico
-nastavi velikost na (100)%
-obrni se v smer (0)
-pojdi na x:(150) y:(150)
-reci [Pojdimo!] za (2) sekund
-obrni se proti (Zemlja)
-ponovi (200) krat
-  pojdi (2) korakov
-  spremeni učinek [barva v] za (25)
+when flag clicked
+set size to (100) %
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
+    change [color v] effect by (25)
 
-+  spremeni velikost za (-0.3)
++   change size by (-3)
 ```
 
 \--- /hint \---
