@@ -1,16 +1,16 @@
-## Izziv: izboljšaj svojo animacijo
+## Challenge: improve your animation
 
-Ali lahko spremeniš številke v kodi animacije, tako da se:
+Can you change the numbers in your animation code so that:
 
-+ Vesoljska ladja premika, dokler se ne dotakne Zemlje?
-+ Vesoljska ladja počasi premika proti Zemlji?
++ The spaceship moves until it touches the Earth?
++ The spaceship moves more slowly towards the Earth?
 
-Spremeniti bo potrebno številke v tem bloku:
+You'll need to change the numbers in this block:
 
-![Figura rakete](images/sprite-spaceship.png)
+![Rocketship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-drsi (1) sekund do x: (0) y: (0)
+glide (1) secs to x:(0) y:(0)
 ```
 
 [[[generic-scratch3-coordinates]]]
