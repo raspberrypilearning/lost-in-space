@@ -1,16 +1,16 @@
 ---
-title: സ്പെയ്സിൽ നഷ്ടപ്പെട്ടു
-hero_image: images / lost-in-space.png
-description: നിങ്ങളുടെ സ്വന്തം ആനിമേഷൻ എങ്ങനെ പ്രോഗ്രാം ചെയ്യാമെന്ന് അറിയുക!
+title: Lost in space
+hero_image: images/lost-in-space.png
+description: Learn how to program your own animation!
 original_url: https://www.codeclubprojects.org/en-GB/scratch/lost-in-space
 listed: true
 copyedit: true
-technologies: സ്ക്രാച്ച്
+technologies: scratch
 version: 4.1.3
 last_tested: 2018-09-26
 steps:
   - 
-    title: ആമുഖം
+    title: Introduction
   - 
     title: Animating a spaceship
   - 
@@ -19,13 +19,13 @@ steps:
   - 
     title: Animation using loops
   - 
-    title: ഫ്ലോട്ടിംഗ് കോക്ക്
+    title: Floating monkey
   - 
-    title: പൊട്ടുന്ന ഛിന്നഗ്രഹം
+    title: Bouncing asteroid
   - 
-    title: തിളങ്ങുന്ന നക്ഷത്ര
+    title: Shining star
   - 
-    title: 'വെല്ലുവിളി: നിങ്ങളുടെ സ്വന്തം ആനിമേഷൻ ഉണ്ടാക്കുക'
+    title: 'Challenge: make your own animation'
     challenge: true
   - 
     title: What next?
