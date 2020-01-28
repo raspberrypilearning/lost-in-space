@@ -1,18 +1,18 @@
-## একটি স্পেসশিপ অ্যানিমেটিং করা
+## Animating a spaceship
 
-আপনার প্রথম পদক্ষেপটি একটি স্পেসশিপ তৈরি করা হবে যা পৃথিবীর দিকে উড়ে যায়!
-
-\--- task \---
-
-একটি নতুন Scratch প্রকল্প খুলুন।.
-
-** অনলাইন: ** এ একটি নতুন অনলাইন স্ক্র্যাচ প্রকল্প খুলুন [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
-
-** অফলাইন: ** অফলাইন সম্পাদকটিতে একটি নতুন প্রকল্প খুলুন।.
-
-আপনার যদি স্ক্র্যাচ অফলাইন সম্পাদক ডাউনলোড এবং ইনস্টল করতে হয় তবে আপনি এটি [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"} এ খুঁজে পেতে পারেন।.
+Your first step will be to create a spaceship that flies towards the Earth!
 
 \--- task \---
+
+Open a new Scratch project.
+
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
+
+**Offline:** open a new project in the offline editor.
+
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+
+\--- /task \---
 
 \--- task \---
 
