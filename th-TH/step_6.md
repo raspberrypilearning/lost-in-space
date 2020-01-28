@@ -1,6 +1,6 @@
-## ดาวเคราะห์น้อยใหญ่
+## Bouncing asteroid
 
-ตอนนี้คุณจะเพิ่มหินลอยอวกาศในภาพเคลื่อนไหวของคุณ
+Now you will add a floating space rock to your animation.
 
 \--- task \---
 
@@ -25,21 +25,21 @@ When the green **flag is clicked**, your rock sprite should **move** and **bounc
 Here are the code blocks you need:
 
 ```blocks3
-ย้าย (10) ขั้นตอน
+move (10) steps
 
-ถ้าอยู่ที่การเด้งขอบ
+if on edge bounce
 
-เมื่อตั้งค่าสถานะคลิก
+when flag clicked
 
-ตลอดไป
+forever
 ```
 
 You can also set a more interesting starting direction for the rock sprite with one of these blocks:
 
 ```blocks3
-เลี้ยว cw (15) องศา
+turn cw (15) degrees
 
-ชี้ไปทาง (Earth v)
+point towards (Earth v)
 ```
 
 \--- /hint \--- \--- hint \---
@@ -49,11 +49,11 @@ Here's the code for making your rock bounce around the stage:
 ![Rock sprite](images/sprite-rock.png)
 
 ```blocks3
-เมื่อธงคลิก
-จุดไปทาง (Earth v)
-ตลอดไป
-    ย้าย (2) ขั้นตอนที่
-    หากอยู่บนขอบเด้ง
+when flag clicked
+point towards (Earth v)
+forever
+    move (2) steps
+    if on edge, bounce
 ```
 
 \--- /hint \--- \--- /hints \--- \--- /task \---
