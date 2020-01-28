@@ -1,6 +1,6 @@
-## Ngôi sao sáng
+## Shining star
 
-Bây giờ bạn sẽ kết hợp các vòng lặp để tạo thành một ngôi sao sáng.
+Now you will combine loops to make a shining star.
 
 \--- task \---
 
@@ -25,19 +25,19 @@ When the green **flag is clicked**, your star sprite should **change size** to g
 Here are the code blocks you need:
 
 ```blocks3
-lặp lại (10)
-kết thúc
+repeat (10)
+end
 
-khi cờ nhấp
+when flag clicked
 
-lần lặp lại (10)
-kết thúc
+repeat (10)
+end
 
-thay đổi kích thước bằng (10)
+change size by (10)
 
-thay đổi kích thước theo (10)
+change size by (10)
 
-mãi mãi
+forever
 ```
 
 \--- /hint \--- \--- hint \---
@@ -47,14 +47,14 @@ Here's the code to make your star grow and shrink:
 ![Star sprite](images/sprite-star.png)
 
 ```blocks3
-khi cờ nhấp
-mãi mãi
-    lặp lại (20)
-        thay đổi kích thước bằng (2)
-    kết thúc
-    lặp lại (20)
-        thay đổi kích thước theo (-2)
-    kết thúc
+when flag clicked
+forever
+    repeat (20)
+        change size by (2)
+    end
+    repeat (20)
+        change size by (-2)
+    end
 
 ```
 
