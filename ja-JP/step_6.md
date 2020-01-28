@@ -1,6 +1,6 @@
 ## はずむ小惑星 (しょうわくせい)
 
-次に、アニメーションに浮かぶ宇宙の岩を追加します。
+Now you will add a floating space rock to your animation.
 
 \--- task \---
 
@@ -25,22 +25,21 @@ When the green **flag is clicked**, your rock sprite should **move** and **bounc
 Here are the code blocks you need:
 
 ```blocks3
-(10) 歩動かす
+move (10) steps
 
-もし端に着いたら、跳ね返る
+if on edge bounce
 
-⚑ が押されたとき
+when flag clicked
 
-ずっと
-end
+forever
 ```
 
 You can also set a more interesting starting direction for the rock sprite with one of these blocks:
 
 ```blocks3
-↻ (15) 度回す
+turn cw (15) degrees
 
-(地球 v) へ向ける
+point towards (Earth v)
 ```
 
 \--- /hint \--- \--- hint \---
@@ -50,12 +49,11 @@ Here's the code for making your rock bounce around the stage:
 ![Rock sprite](images/sprite-rock.png)
 
 ```blocks3
-⚑ が押されたとき
-(地球 v) へ向ける
-ずっと 
-  (2) 歩動かす
-  もし端に着いたら、跳ね返る
-end
+when flag clicked
+point towards (Earth v)
+forever
+    move (2) steps
+    if on edge, bounce
 ```
 
 \--- /hint \--- \--- /hints \--- \--- /task \---
