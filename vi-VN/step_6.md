@@ -1,6 +1,6 @@
-## Tiểu hành tinh nảy
+## Bouncing asteroid
 
-Bây giờ bạn sẽ thêm một tảng đá không gian nổi vào hoạt hình của bạn.
+Now you will add a floating space rock to your animation.
 
 \--- task \---
 
@@ -25,21 +25,21 @@ When the green **flag is clicked**, your rock sprite should **move** and **bounc
 Here are the code blocks you need:
 
 ```blocks3
-di chuyển (10) bước
+move (10) steps
 
-nếu trên cạnh nảy
+if on edge bounce
 
-khi cờ nhấp
+when flag clicked
 
-mãi mãi
+forever
 ```
 
 You can also set a more interesting starting direction for the rock sprite with one of these blocks:
 
 ```blocks3
-quay cw (15) độ
+turn cw (15) degrees
 
-điểm về phía (Trái đất v)
+point towards (Earth v)
 ```
 
 \--- /hint \--- \--- hint \---
@@ -49,11 +49,11 @@ Here's the code for making your rock bounce around the stage:
 ![Rock sprite](images/sprite-rock.png)
 
 ```blocks3
-khi cờ nhấp
-điểm về phía (Earth v)
-mãi mãi
-    di chuyển (2) bước
-    nếu trên cạnh, nảy
+when flag clicked
+point towards (Earth v)
+forever
+    move (2) steps
+    if on edge, bounce
 ```
 
 \--- /hint \--- \--- /hints \--- \--- /task \---
