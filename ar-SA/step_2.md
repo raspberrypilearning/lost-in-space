@@ -1,16 +1,16 @@
 ## تحريك سفينة فضاء
 
-ستكون خطوتك الأولى هي إنشاء سفينة فضائية تطير باتجاه الأرض!
+Your first step will be to create a spaceship that flies towards the Earth!
 
 \--- task \---
 
-افتح مشروع سكراتش (Scratch) جديدًا وفارغًا.
+Open a new Scratch project.
 
-**بالاتصال بالانترنت**: افتح المشروع المبدئي من هنا [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
 
-**من دون اتصال انترنيت:** افتح مشروع سكراتش Scratch جديد عبر برنامج المحرر الموجود على جهازك دون اتصال بالانترنيت.
+**Offline:** open a new project in the offline editor.
 
-اذا تحتاج تنزيل وتنصيب برنامج السكراتش Scratch على جهازك الشخصي، ستجده في [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
@@ -55,12 +55,12 @@ Add this code to your spaceship sprite:
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-عند نقر ⚑
-اتجه نحو الاتجاه (0)
-اذهب إلى الموضع س: (-150) ص: (-150)
-قل [Let's go] لمدة (2) ثانية
-اتجه نحو (Earth v)
-انزلق خلال (1) ثانية إلى الموضع س: (0) ص: (0)
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+glide (1) secs to x:(0) y:(0)
 ```
 
 Change the numbers in the code blocks you've added so that the code is exactly the same as above.
