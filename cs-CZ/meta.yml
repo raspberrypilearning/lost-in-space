@@ -1,16 +1,16 @@
 ---
-title: Ztraceni ve vesmíru
+title: Lost in space
 hero_image: images/lost-in-space.png
-description: V této lekci se naučíš, jak vytvářet vlastní animace!
+description: Learn how to program your own animation!
 original_url: https://www.codeclubprojects.org/en-GB/scratch/lost-in-space
 listed: true
 copyedit: true
 technologies: scratch
-version: 4
-last_tested: 2017-11-01
+version: 4.1.3
+last_tested: 2018-09-26
 steps:
   - 
-    title: Úvod
+    title: Introduction
   - 
     title: Animating a spaceship
   - 
@@ -19,13 +19,13 @@ steps:
   - 
     title: Animation using loops
   - 
-    title: Plovoucí opice
+    title: Floating monkey
   - 
-    title: Odrážející se asteroid
+    title: Bouncing asteroid
   - 
-    title: Zářící hvězda
+    title: Shining star
   - 
-    title: 'Výzva: Vytvoř si svou vlastní animaci'
+    title: 'Challenge: make your own animation'
     challenge: true
   - 
     title: What next?
