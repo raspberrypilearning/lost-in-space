@@ -2,6 +2,6 @@
 
 宇宙のアニメーションを止めます。保存し、新しいScratchプロジェクトを始めてください。
 
-このプロジェクトで学んだことを使用して、独自のアニメーションを作成します。好きなものを使用できますが、選んだ背景に合わせてアニメーションを作成してください。ここではいくつかの例を示します:
+Use what you've learned in this project to make your own animation. It can be anything you like, but try to make your animation match the background you choose. Here are some examples:
 
 ![スクリーンショット](images/space-egs.png)
