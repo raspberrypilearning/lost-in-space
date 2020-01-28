@@ -1,6 +1,6 @@
 ## 繰り返し (くりかえし) を使ったアニメーション
 
-宇宙船をアニメーション化するもう1つの方法は、少量の移動を何回も繰り返すことです。
+Another way to animate the spaceship is to tell it to move a small amount many times
 
 \--- task \---
 
@@ -9,13 +9,13 @@ Delete the `glide`{:class="block3motion"} block from your code. To do this, drag
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-⚑ が押されたとき
-(0) 度に向ける
-x座標を (-150) 、y座標を (-150) にする
-[レッツゴー] と (2) 秒言う
-(地球 v) へ向ける
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
 
-- (1) 秒でx座標を (0) に、y座標を (0) に変える
+- glide (1) secs to x:(0) y:(0)
 ```
 
 \--- /task \---
@@ -29,14 +29,14 @@ Now use a `repeat`{:class="block3control"} block to move your spaceship towards 
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-⚑ が押されたとき
-(0) 度に向ける
-x座標を (-150) 、y座標を (-150) にする
-[レッツゴー] と (2) 秒言う
-(地球 v) へ向ける
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
 
-+ (200) 回繰り返す 
-  (2) 歩動かす
++ repeat (200)
+    move (2) steps
 ```
 
 Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
@@ -52,15 +52,15 @@ Use this block:
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-⚑ が押されたとき
-(0) 度に向ける
-x座標を (-150) 、y座標を (-150) にする
-[レッツゴー] と (2) 秒言う
-(地球 v) へ向ける
-(200) 回繰り返す 
-  (2) 歩動かす
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
 
-+  [色 v] の効果を (25) ずつ変える
++    change [color v] effect by (25)
 ```
 
 Test and save your code.
@@ -85,12 +85,12 @@ Your spaceship should start at `100% size`{:class="blocklooks"}, and then `chang
 
 You will need to add these blocks to your code:
 
-![宇宙船のスプライト](images/sprite-spaceship.png)
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-大きさを (10) ずつ変える
+change size by (10)
 
-大きさを (100) %にする
+set size to (100) %
 ```
 
 \--- /hint \---
@@ -102,17 +102,17 @@ Your code should look like this:
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-⚑ が押されたとき
-大きさを (100) %にする
-(0) 度に向ける
-x座標を (-150) 、y座標を (-150) にする
-[レッツゴー] と (2) 秒言う
-(地球 v) へ向ける
-(200) 回繰り返す 
-  (2) 歩動かす
-  [色 v] の効果を (25) ずつ変える
+when flag clicked
+set size to (100) %
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
+    change [color v] effect by (25)
 
-+   大きさを (-3) ずつ変える
++   change size by (-3)
 ```
 
 \--- /hint \---
