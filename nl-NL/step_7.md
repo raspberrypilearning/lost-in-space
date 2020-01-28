@@ -1,6 +1,6 @@
 ## Flonkerende ster
 
-Nu ga je verschillende lussen combineren om een fonkelende ster te maken.
+Now you will combine loops to make a shining star.
 
 \--- task \---
 
