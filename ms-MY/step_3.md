@@ -1,16 +1,16 @@
-## Cabaran: meningkatkan animasi anda
+## Challenge: improve your animation
 
-Bolehkah anda menukar nombor dalam kod animasi anda supaya:
+Can you change the numbers in your animation code so that:
 
-+ Pesawat angkasa bergerak sehingga ia menyentuh bumi?
-+ Kapal angkasa bergerak perlahan ke arah Bumi?
++ The spaceship moves until it touches the Earth?
++ The spaceship moves more slowly towards the Earth?
 
-Anda perlu mengubah nombor dalam blok ini:
+You'll need to change the numbers in this block:
 
-![Sprite Rocketship](images/sprite-spaceship.png)
+![Rocketship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-luncurkan (1) secs ke x: (0) y: (0)
+glide (1) secs to x:(0) y:(0)
 ```
 
 [[[generic-scratch3-coordinates]]]
