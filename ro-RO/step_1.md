@@ -1,14 +1,14 @@
 \--- no-print \---
 
-Aceasta este versiunea **Scratch 3** a proiectului. Există, de asemenea, o [versiune Scratch 2 a proiectului](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
+This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
 
 \--- /no-print \---
 
-## Introducere
+## Introduction
 
-Vei învăța să programezi propria animație!
+You are going to learn how to program your own animation!
 
-### Ce trebuie să faci
+### What you will make
 
 \--- no-print \---
 
@@ -29,35 +29,35 @@ Click on the green flag to see the animation.
 
 ## \--- collapse \---
 
-## title: De ce vei avea nevoie
+## title: What you will need
 
 ### Hardware
 
-- Un computer capabil de a rula Scratch 3
+- A computer capable of running Scratch 3
 
-### Programe
+### Software
 
 - Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
-### Descărcări
+### Downloads
 
-- Nici unul
-
-\--- /restrange \---
-
-## \--- collapse \---
-
-## titlu: Ce vei învăța
-
-- Folosește o buclă de repetare pentru a anima un sprite în Scratch
-- Folosește o buclă eternă pentru a repeta o animație la nesfârșit
-- Înțelege că buclele pot fi grupate între ele
+- None
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## titlu: Informații suplimentare pentru educatori
+## title: What you will learn
+
+- Use a repeat loop to animate a sprite in Scratch
+- Use a forever loop to repeat an animation indefinitely
+- Understand that loops can be nested within each other
+
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: Additional information for educators
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
