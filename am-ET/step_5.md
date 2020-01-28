@@ -1,6 +1,6 @@
-## ተንሳፋፊ ዝንጀሮ
+## Floating monkey
 
-አሁን በአኒሜሽንዎ ውስጥ የጠፈርን አንድ ጠፍጣፋ አክል!
+Now you will add a monkey who's lost in space to your animation!
 
 \--- task \---
 
@@ -18,7 +18,7 @@ Set the fill to be transparent by selecting the red line. For the outline, set a
 
 ![Make white colour](images/make-white.png)
 
-\--- / task \---
+\--- /task \---
 
 \--- task \---
 
@@ -41,12 +41,12 @@ When the green **flag is clicked**, your monkey sprite should **turn** in a circ
 Here are the code blocks you need:
 
 ```blocks3
-ጠቋሚ ሲጫወት ለዘለዓለም
-መጨረሻ
+forever
+end
 
-ዞር (15 ዲግሪ
+turn cw (15) degrees
 
-)
+when flag clicked
 ```
 
 \--- /hint \--- \--- hint \---
@@ -56,9 +56,9 @@ Here's the code to make your monkey spin:
 ![Monkey sprite](images/sprite-monkey.png)
 
 ```blocks3
-ባንዲራ ጠቅ ጊዜ
-ለዘላለም
-    በተራው CW (1) ዲግሪ
+when flag clicked
+forever
+    turn cw (1) degrees
 ```
 
 \--- /hint \--- \--- /hints \---
