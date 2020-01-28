@@ -1,6 +1,6 @@
-## Plavajoča opica
+## Floating monkey
 
-Sedaj svoji animaciji dodaj še opico, ki je izgubljena v vesolju!
+Now you will add a monkey who's lost in space to your animation!
 
 \--- task \---
 
@@ -41,10 +41,12 @@ When the green **flag is clicked**, your monkey sprite should **turn** in a circ
 Here are the code blocks you need:
 
 ```blocks3
-ponavljaj
-konec
+forever
+end
 
-obrni se za (15) stopinj v desno
+turn cw (15) degrees
+
+when flag clicked
 ```
 
 \--- /hint \--- \--- hint \---
@@ -54,9 +56,9 @@ Here's the code to make your monkey spin:
 ![Monkey sprite](images/sprite-monkey.png)
 
 ```blocks3
-ko kliknemo na zastavico
-ponavljaj
-  obrni se za (1) stopinj v desno
+when flag clicked
+forever
+    turn cw (1) degrees
 ```
 
 \--- /hint \--- \--- /hints \---
