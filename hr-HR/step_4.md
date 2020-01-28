@@ -1,6 +1,6 @@
-## Animacija pomoću petlje
+## Animation using loops
 
-Drugi način na koji možeš animirati svemirski brod je tako da mu kažeš da se puno puta malo pomakne
+Another way to animate the spaceship is to tell it to move a small amount many times
 
 \--- task \---
 
@@ -85,7 +85,7 @@ Your spaceship should start at `100% size`{:class="blocklooks"}, and then `chang
 
 You will need to add these blocks to your code:
 
-![Lik svemirskog broda](images/sprite-spaceship.png)
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 change size by (10)
