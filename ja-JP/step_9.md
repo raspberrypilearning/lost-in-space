@@ -1,6 +1,6 @@
-## 次は何？
+## What next?
 
-[ゴーストバスターズ](https://projects.raspberrypi.org/en/projects/ghostbusters?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects)プロジェクトをお試しください！ このプロジェクトでは、ゴーストがあちこちに出現し、捕まえるゲームを作成する方法を学びます。 ゲームにタイマーとスコアを追加する方法も学習します。これにより、捕まえられるゴーストの数を確認できます。
+Try the [Ghostbusters](https://projects.raspberrypi.org/en/projects/ghostbusters?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) project! In that project, you will learn how to create a game with ghosts that appear all over the place and that you need to catch. You will also learn how to add a timer and a score to the game, so that you can see how many ghosts you are able to catch.
 
 \--- no-print \---
 
@@ -13,6 +13,6 @@
 
 \--- print-only \---
 
-![ショーケース](images/ghostbusters-static.png)
+![showcase](images/ghostbusters-static.png)
 
 \--- /print-only \---
