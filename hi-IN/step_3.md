@@ -1,13 +1,13 @@
-## चुनौती: अपनी एनिमेशन में सुधार करना
+## Challenge: improve your animation
 
-क्या आप अपने एनिमेशन कोड में संख्याओं को बदल सकते हैं, ताकि:
+Can you change the numbers in your animation code so that:
 
-+ स्पेसशिप तब तक गति करता रहे जब तक यह पृथ्वी को छू न ले?
-+ स्पेसशिप पृथ्वी की ओर अधिक धीमी गति से बढ़े?
++ The spaceship moves until it touches the Earth?
++ The spaceship moves more slowly towards the Earth?
 
-आपको इस ब्लॉक में संख्याओं को बदलना होगा:
+You'll need to change the numbers in this block:
 
-![रॉकेटशिप स्प्राइट](images/sprite-spaceship.png)
+![Rocketship sprite](images/sprite-spaceship.png)
 
 ```blocks3
 glide (1) secs to x:(0) y:(0)
