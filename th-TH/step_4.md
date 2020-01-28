@@ -1,6 +1,6 @@
-## ภาพเคลื่อนไหวโดยใช้ลูป
+## Animation using loops
 
-อีกวิธีหนึ่งในการทำให้ยานอวกาศเคลื่อนไหวคือการบอกให้มันเคลื่อนที่ในปริมาณเล็กน้อยหลายครั้ง
+Another way to animate the spaceship is to tell it to move a small amount many times
 
 \--- task \---
 
@@ -9,13 +9,13 @@ Delete the `glide`{:class="block3motion"} block from your code. To do this, drag
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-เมื่อธงคลิก
-ทิศทาง (0)
-ไปที่ x: (- 150) y: (- 150)
-พูดว่า [Let's go] เป็นเวลา (2) วินาที
-ชี้ไปทาง (Earth v)
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
 
-- ร่อน (1) วินาที ถึง x: (0) y: (0)
+- glide (1) secs to x:(0) y:(0)
 ```
 
 \--- /task \---
@@ -29,14 +29,14 @@ Now use a `repeat`{:class="block3control"} block to move your spaceship towards 
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-เมื่อธงคลิก
-ทิศทาง (0)
-ไปที่ x: (- 150) y: (- 150)
-พูดว่า [Let's go] เป็นเวลา (2) วินาที
-ชี้ไปทาง (Earth v)
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
 
-+ ทำซ้ำ (200)
-    ย้าย (2) ขั้นตอน
++ repeat (200)
+    move (2) steps
 ```
 
 Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
@@ -52,15 +52,15 @@ Use this block:
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-เมื่อธงคลิก
-ทิศทาง (0)
-ไปที่ x: (- 150) y: (- 150)
-พูดว่า [Let's go] เป็นเวลา (2) วินาที
-ชี้ไปทาง (Earth v)
-ซ้ำ (200)
-    ย้าย (2) ขั้นตอน
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
 
-+ เปลี่ยนเอฟเฟกต์ [color v] โดย (25)
++    change [color v] effect by (25)
 ```
 
 Test and save your code.
@@ -79,21 +79,21 @@ Can you make your spaceship get smaller as it moves towards Earth?
 
 Your spaceship should start at `100% size`{:class="blocklooks"}, and then `change size`{:class="blocklooks"} by a small amount each time it moves.
 
-\--- / คำใบ้ \---
+\--- /hint \---
 
-\--- คำใบ้ \---
+\--- hint \---
 
 You will need to add these blocks to your code:
 
-![ยานอวกาศเทพดา](images/sprite-spaceship.png)
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-เปลี่ยนขนาดโดย (10)
+change size by (10)
 
-กำหนดขนาดเป็น (100)%
+set size to (100) %
 ```
 
-\--- / คำใบ้ \---
+\--- /hint \---
 
 \--- hint \---
 
@@ -102,17 +102,17 @@ Your code should look like this:
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-เมื่อตั้งค่าสถานะให้คลิก
-ตั้งค่าเป็น (100)%
-จุดในทิศทาง (0)
-ไปที่ x: (- 150) y: (- 150)
-พูดว่า [Let's go] เป็นเวลา (2) วินาที
-ชี้ไปทาง (Earth v )
-ซ้ำ (200)
-    ย้าย (2) ขั้นตอนที่
-    เปลี่ยนเอฟเฟกต์ [color v] โดย (25)
+when flag clicked
+set size to (100) %
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
+    change [color v] effect by (25)
 
-+ เปลี่ยนขนาดโดย (-3)
++   change size by (-3)
 ```
 
 \--- /hint \---
