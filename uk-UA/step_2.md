@@ -1,16 +1,16 @@
-## Анімація космічного корабля
+## Animating a spaceship
 
-Твоїм першим кроком буде створення космічного корабля, що летить до Землі!
+Your first step will be to create a spaceship that flies towards the Earth!
 
 \--- task \---
 
-Відкрий новий проєкт Скретч.
+Open a new Scratch project.
 
-**Онлайн:** відкрий новий онлайн проєкт Скретч на [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
 
-**Офлайн:** відкрий новий проєкт в офлайн-редакторі.
+**Offline:** open a new project in the offline editor.
 
-Якщо тобі треба завантажити та встановити офлайн-редактор Скретч, то ти можеш його знайти на [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
@@ -55,12 +55,12 @@ Add this code to your spaceship sprite:
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-коли ⚑ натиснуто
-повернути в напрямку (0)
-перемістити в x: (-150) y: (-150)
-говорити [Поїхали!] (2) сек
-слідувати за (Earth v)
-ковзати (1) сек до x: (0) y: (0)
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+glide (1) secs to x:(0) y:(0)
 ```
 
 Change the numbers in the code blocks you've added so that the code is exactly the same as above.
