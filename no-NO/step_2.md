@@ -1,6 +1,6 @@
-## Animere et romskip
+## Animating a spaceship
 
-Det første steget ditt er å lage et romskip som flyr mot jorden!
+Your first step will be to create a spaceship that flies towards the Earth!
 
 \--- task \---
 
