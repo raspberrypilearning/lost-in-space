@@ -1,6 +1,6 @@
-## දිදුලන තරුව
+## Shining star
 
-දැන් ඔබ ලූප ඒකාබද්ධ(loops combine) කර දීප්තිමත්(shining) තාරකාවක් සාදනු ඇත.
+Now you will combine loops to make a shining star.
 
 \--- task \---
 
@@ -30,8 +30,8 @@ end
 
 when flag clicked
 
-repeat (10) 
-end 
+repeat (10)
+end
 
 change size by (10)
 
@@ -49,12 +49,12 @@ Here's the code to make your star grow and shrink:
 ```blocks3
 when flag clicked
 forever
-     repeat (20)
-         change size by (2)
-     end
-     repeat (20)
-         change size by (-2)
-     end
+    repeat (20)
+        change size by (2)
+    end
+    repeat (20)
+        change size by (-2)
+    end
 
 ```
 
