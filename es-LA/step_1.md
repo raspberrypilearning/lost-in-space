@@ -1,6 +1,6 @@
 \--- no-print \---
 
-Esta es la versión **Scratch 3** del proyecto. También existe una version [Scratch 2 del proyecto](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
+Esta es la versión ** Scratch 3 ** del proyecto. También hay una versión [ Scratch 2 del proyecto. ](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
 
 \--- /no-print \---
 
@@ -8,7 +8,7 @@ Esta es la versión **Scratch 3** del proyecto. También existe una version [Scr
 
 ¡Vas a aprender a programar tu propia animación!
 
-### Lo que vas a hacer
+### Lo que crearás
 
 \--- no-print \---
 
@@ -31,27 +31,27 @@ Click on the green flag to see the animation.
 
 ## title: Lo que necesitarás
 
-### Equipo
+### Hardware
 
-- Una computadora capáz de hacer funcionar el Scratch 3
+- Un ordenador capaz de ejecutar Scratch 3
 
-### Programas
+### Software
 
 - Scratch 3 (ya sea [online](http://rpf.io/scratchon){:target="_blank"} u [offline](http://rpf.io/scratchoff) {:target="_blank"})
 
 ### Descargas
 
-- Ninguna
+- Ninguno
 
 \--- /collapse \---
 
-## \--- colapso \---
+## \--- collapse \---
 
 ## title: Lo que aprenderás
 
-- Use a repeat loop to animate a sprite in Scratch
-- Use a forever loop to repeat an animation indefinitely
-- Understand that loops can be nested within each other
+- Usar un bucle de repetición para animar un objeto en Scratch
+- Usar un bucle infinito para repetir la animación indefinidamente
+- Entender que los bucles pueden estar anidados unos dentro de otros
 
 \--- /collapse \---
 
