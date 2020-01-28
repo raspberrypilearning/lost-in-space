@@ -1,6 +1,6 @@
-## Animasi menggunakan gelung
+## Animation using loops
 
-Satu lagi cara untuk menghidupkan kapal angkasa ialah menceritakannya untuk bergerak sedikit sebanyak
+Another way to animate the spaceship is to tell it to move a small amount many times
 
 \--- task \---
 
@@ -9,13 +9,13 @@ Delete the `glide`{:class="block3motion"} block from your code. To do this, drag
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-apabila bendera diklik
-titik ke arah (0)
-pergi ke x: (- 150) y: (- 150)
-katakan [Mari kita pergi] untuk (2) saat
-titik ke arah (Bumi v)
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
 
-- meluncur (1) untuk x: (0) y: (0)
+- glide (1) secs to x:(0) y:(0)
 ```
 
 \--- /task \---
