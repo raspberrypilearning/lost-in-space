@@ -1,6 +1,6 @@
-## Bomba asteroidului
+## Bouncing asteroid
 
-Acum veți adăuga o piatră spațială plutitoare în animația dvs.
+Now you will add a floating space rock to your animation.
 
 \--- task \---
 
@@ -25,21 +25,21 @@ When the green **flag is clicked**, your rock sprite should **move** and **bounc
 Here are the code blocks you need:
 
 ```blocks3
-mișcați (10) pașii
+move (10) steps
 
-dacă faceți saltul de margine
+if on edge bounce
 
-atunci când steagul a dat clic pe
+when flag clicked
 
-pentru totdeauna
+forever
 ```
 
 You can also set a more interesting starting direction for the rock sprite with one of these blocks:
 
 ```blocks3
-rotiți cw (15) grade
+turn cw (15) degrees
 
-punct spre (Pamant v)
+point towards (Earth v)
 ```
 
 \--- /hint \--- \--- hint \---
@@ -49,11 +49,11 @@ Here's the code for making your rock bounce around the stage:
 ![Rock sprite](images/sprite-rock.png)
 
 ```blocks3
-când pavilionul a dat clic
-spre (Pământ v)
-pentru totdeauna
-    mișcați (2) pași
-    dacă pe margine, săriți
+when flag clicked
+point towards (Earth v)
+forever
+    move (2) steps
+    if on edge, bounce
 ```
 
 \--- /hint \--- \--- /hints \--- \--- /task \---
