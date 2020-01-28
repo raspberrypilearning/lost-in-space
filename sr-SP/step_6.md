@@ -1,59 +1,59 @@
-## Одскакајући астероид
+## Bouncing asteroid
 
-Сада ћеш својој анимацији додати плутајућу свемирску стену.
+Now you will add a floating space rock to your animation.
 
 \--- task \---
 
-Додај својој анимацији лика 'стена'.
+Add a 'rock' sprite to your animation.
 
-![Додавање лика стене](images/space-rock-sprite.png)
+![Adding a rock sprite](images/space-rock-sprite.png)
 
 \--- /task \---
 
 \--- task \---
 
-Можеш ли свом лику стене додати код, тако да стена скакуће около по позорници?
+Can you add code for your rock sprite so that the rock bounces around the stage?
 
-![Тестирање одскакајуће стене](images/space-bounce-test.png)
+![Testing a bouncing rock](images/space-bounce-test.png)
 
 \--- hints \--- \--- hint \---
 
-Када је кликнуто на **зелену заставицу**, твоја стена би требала да **заувек** **иде** и **окреће се** около по позорници.
+When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**.
 
 \--- /hint \--- \--- hint \---
 
-Ево блокова кода који су ти потребни:
+Here are the code blocks you need:
 
 ```blocks3
-преместите (10) кораке
+move (10) steps
 
-ако се на ивици одбије
+if on edge bounce
 
-када је заставица кликнула
+when flag clicked
 
-заувек
+forever
 ```
 
-Можеш и да подесиш занимљивији почетни правац за лика стене помоћу једног од ових блокова:
+You can also set a more interesting starting direction for the rock sprite with one of these blocks:
 
 ```blocks3
-окренути цв (15) степени
+turn cw (15) degrees
 
-према (Еартх в)
+point towards (Earth v)
 ```
 
 \--- /hint \--- \--- hint \---
 
-Ево кода који ће направити да твоја стена одскаче около по позорници:
+Here's the code for making your rock bounce around the stage:
 
-![Лик стене](images/sprite-rock.png)
+![Rock sprite](images/sprite-rock.png)
 
 ```blocks3
-када је заставица кликнула
-правцу (Земља в)
-заувек
-    померила (2) кораке
-    ако су на ивици, одбили
+when flag clicked
+point towards (Earth v)
+forever
+    move (2) steps
+    if on edge, bounce
 ```
 
 \--- /hint \--- \--- /hints \--- \--- /task \---
