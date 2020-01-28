@@ -1,14 +1,14 @@
 \--- no-print \---
 
-මෙය **Scratch 3** අනුවාදයේ(version එකේ) ව්‍යාපෘතියකි. මෙම ව්යාපෘතියේ [Scratch 2 අනුවාදයක්(version එකක්)](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2) ද ඇත.
+This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
 
 \--- /no-print \---
 
-## හැදින්වීම
+## Introduction
 
-ඉගෙන ගැනීමට යන්නේ, ඔබේම සජීවිකරණ වැඩසටහනක් කරන්නේ කෙසේද කියායි!
+You are going to learn how to program your own animation!
 
-### ඔබ සාදන්නට යන දේ
+### What you will make
 
 \--- no-print \---
 
@@ -29,17 +29,17 @@ Click on the green flag to see the animation.
 
 ## \--- collapse \---
 
-## title: ඔබට අවශ්‍ය දේ
+## title: What you will need
 
-### දෘඩාංග(Hardware)
+### Hardware
 
-- Scratch 3 ධාවනය(run) කළ හැකි පරිගණකයක්
+- A computer capable of running Scratch 3
 
-### මෘදුකාංග(Software)
+### Software
 
-- Scratch 3 ([අන්තර්ජාල ගතව(online)](http://rpf.io/scratchon) {:target="_blank"} හෝ [අන්තර්ජාලයට නොබැඳිව(offline)](http://rpf.io/scratchoff) {:target="_blank"})
+- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
-### බාගන්න(Downloads)
+### Downloads
 
 - None
 
@@ -47,17 +47,17 @@ Click on the green flag to see the animation.
 
 ## \--- collapse \---
 
-## title: ඔබ ඉගෙන ගන්නා දේ
+## title: What you will learn
 
-- Scratch වල sprite එකක් සජීවිකරණය කිරීමට, පුනරාවර්තන(repeat) ලූපයක්(loop එකක්) භාවිතා කරන්න
-- සජීවිකරණයක් නොකඩවා(indefinately) පුනරාවර්තනය(repeat) කිරීමට සදාකාලික ලූපයක්(forever loop එකක්) භාවිතා කරන්න
-- ලූප(loops) එකිනෙකා තුළ කූඩු(nested within each other) කළ හැකි බව තේරුම් ගන්න
+- Use a repeat loop to animate a sprite in Scratch
+- Use a forever loop to repeat an animation indefinitely
+- Understand that loops can be nested within each other
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: අධ්‍යාපකයන්(educators) සඳහා අමතර තොරතුරු
+## title: Additional information for educators
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
