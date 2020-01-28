@@ -1,6 +1,6 @@
-## Estrela Brilhante
+## Shining star
 
-Agora vais combinar ciclos para fazer uma estrela brilhante.
+Now you will combine loops to make a shining star.
 
 \--- task \---
 
@@ -25,20 +25,19 @@ When the green **flag is clicked**, your star sprite should **change size** to g
 Here are the code blocks you need:
 
 ```blocks3
-repete (10) vezes
+repeat (10)
 end
 
-Quando alguém clicar na bandeira verde
+when flag clicked
 
-repete (10) vezes
+repeat (10)
 end
 
-adiciona (10) ao teu tamanho
+change size by (10)
 
-adiciona (10) ao teu tamanho
+change size by (10)
 
-repete para sempre
-end
+forever
 ```
 
 \--- /hint \--- \--- hint \---
@@ -48,15 +47,14 @@ Here's the code to make your star grow and shrink:
 ![Star sprite](images/sprite-star.png)
 
 ```blocks3
-quando alguém clicar na bandeira verde
-repete para sempre 
-  repete (20) vezes 
-    adiciona (2) ao teu tamanho
-  end
-  repete (20) vezes 
-    adiciona (-2) ao teu tamanho
-  end
-end
+when flag clicked
+forever
+    repeat (20)
+        change size by (2)
+    end
+    repeat (20)
+        change size by (-2)
+    end
 
 ```
 
