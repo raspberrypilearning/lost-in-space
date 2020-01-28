@@ -1,16 +1,16 @@
-## Väljakutse: täiusta oma animatsiooni
+## Challenge: improve your animation
 
-Kas oskad muuta oma animatsiooni koodi numbreid nii, et:
+Can you change the numbers in your animation code so that:
 
-+ Kosmoselaev liigub, kuni see puudutab Maad?
-+ Kosmoselaev liigub aeglasemalt Maa poole?
++ The spaceship moves until it touches the Earth?
++ The spaceship moves more slowly towards the Earth?
 
-Pead muutma selle ploki numbreid:
+You'll need to change the numbers in this block:
 
-![Kosmoselaeva sprait](images/sprite-spaceship.png)
+![Rocketship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-liugle (1) sekundiga x: (0) y: (0)
+glide (1) secs to x:(0) y:(0)
 ```
 
 [[[generic-scratch3-coordinates]]]
