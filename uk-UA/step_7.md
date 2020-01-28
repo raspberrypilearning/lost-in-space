@@ -1,6 +1,6 @@
 ## Сяюча зірка
 
-Тепер ти скомбінуєш цикли, щоб зробити сяючу зірку.
+Now you will combine loops to make a shining star.
 
 \--- task \---
 
@@ -25,20 +25,19 @@ When the green **flag is clicked**, your star sprite should **change size** to g
 Here are the code blocks you need:
 
 ```blocks3
-повторити (10)
+repeat (10)
 end
 
-коли ⚑ натиснуто
+when flag clicked
 
-повторити (10)
+repeat (10)
 end
 
-змінити розмір на (10)
+change size by (10)
 
-змінити розмір на (10)
+change size by (10)
 
-завжди
-end
+forever
 ```
 
 \--- /hint \--- \--- hint \---
@@ -48,15 +47,14 @@ Here's the code to make your star grow and shrink:
 ![Star sprite](images/sprite-star.png)
 
 ```blocks3
-коли ⚑ натиснуто
-завжди 
-  повторити (20) 
-    змінити розмір на (2)
-  end
-  повторити (20) 
-    змінити розмір на (-2)
-  end
-end
+when flag clicked
+forever
+    repeat (20)
+        change size by (2)
+    end
+    repeat (20)
+        change size by (-2)
+    end
 
 ```
 
