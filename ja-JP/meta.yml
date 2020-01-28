@@ -12,12 +12,12 @@ steps:
   - 
     title: はじめに
   - 
-    title: 宇宙船 (うちゅうせん) のアニメーション
+    title: Animating a spaceship
   - 
-    title: 'Challenge: アニメーションの改良（かいりょう）'
+    title: 'Challenge: improve your animation'
     challenge: true
   - 
-    title: 繰り返し (くりかえし) を使ったアニメーション
+    title: Animation using loops
   - 
     title: ういているサル
   - 
@@ -28,4 +28,4 @@ steps:
     title: 'チャレンジ: 自分のアニメーションを作ろう'
     challenge: true
   - 
-    title: 次は何をしますか？
+    title: What next?
