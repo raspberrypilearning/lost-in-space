@@ -1,4 +1,4 @@
-## Animasjon med løkker
+## Animation using loops
 
 Another way to animate the spaceship is to tell it to move a small amount many times
 
