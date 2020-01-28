@@ -1,6 +1,6 @@
-## Monyet terapung
+## Floating monkey
 
-Sekarang anda akan menambah monyet yang hilang dalam ruang untuk animasi anda!
+Now you will add a monkey who's lost in space to your animation!
 
 \--- task \---
 
@@ -18,7 +18,7 @@ Set the fill to be transparent by selecting the red line. For the outline, set a
 
 ![Make white colour](images/make-white.png)
 
-\--- / tugas \---
+\--- /task \---
 
 \--- task \---
 
@@ -41,12 +41,12 @@ When the green **flag is clicked**, your monkey sprite should **turn** in a circ
 Here are the code blocks you need:
 
 ```blocks3
-selamanya
-akhir
+forever
+end
 
-putar cw (15) darjah
+turn cw (15) degrees
 
-apabila bendera diklik
+when flag clicked
 ```
 
 \--- /hint \--- \--- hint \---
@@ -56,9 +56,9 @@ Here's the code to make your monkey spin:
 ![Monkey sprite](images/sprite-monkey.png)
 
 ```blocks3
-apabila bendera mengklik
-selamanya
-    putar cw (1) darjah
+when flag clicked
+forever
+    turn cw (1) degrees
 ```
 
 \--- /hint \--- \--- /hints \---
