@@ -1,7 +1,7 @@
-## ถาม: สร้างแอนิเมชันของคุณเอง
+## Challenge: make your own animation
 
-หยุดภาพเคลื่อนไหว Space ของคุณบันทึกและเริ่มต้นโครงการใหม่
+Stop your space animation, save it, and start a new Scratch project.
 
-ใช้สิ่งที่คุณเรียนรู้ในโครงการนี้เพื่อสร้างแอนิเมชันของคุณเอง มันสามารถเป็นอะไรก็ได้ที่คุณชอบ แต่พยายามทำให้แอนิเมชั่นของคุณตรงกับพื้นหลังที่คุณเลือก นี่คือตัวอย่างบางส่วน:
+Use what you've learned in this project to make your own animation. It can be anything you like, but try to make your animation match the background you choose. Here are some examples:
 
-![ภาพหน้าจอ](images/space-egs.png)
+![screenshot](images/space-egs.png)
