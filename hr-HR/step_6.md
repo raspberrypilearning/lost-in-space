@@ -1,6 +1,6 @@
-## Odskakanje asteroida
+## Bouncing asteroid
 
-Sada ćete dodati plutajući svemirski kamen svojoj animaciji.
+Now you will add a floating space rock to your animation.
 
 \--- task \---
 
