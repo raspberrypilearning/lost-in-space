@@ -1,31 +1,31 @@
 ---
-title: Izgubljeni u svemiru
+title: Lost in space
 hero_image: images/lost-in-space.png
-description: Nauči kako da programiraš sopstvenu animaciju!
+description: Learn how to program your own animation!
 original_url: https://www.codeclubprojects.org/en-GB/scratch/lost-in-space
 listed: true
 copyedit: true
 technologies: scratch
-version: 4
+version: 4.1.3
 last_tested: 2018-09-26
 steps:
   - 
-    title: Uvod
+    title: Introduction
   - 
-    title: Animacija svemirskog broda
+    title: Animating a spaceship
   - 
-    title: 'Animacija svemirskog broda'
+    title: 'Challenge: improve your animation'
     challenge: true
   - 
-    title: Animacija pomoću petlji
+    title: Animation using loops
   - 
-    title: Majmun koji pluta
+    title: Floating monkey
   - 
-    title: Asteroid koji poskakuje
+    title: Bouncing asteroid
   - 
-    title: Zvijezda koja sija
+    title: Shining star
   - 
-    title: 'Izazov: napravi sopstvenu animaciju'
+    title: 'Challenge: make your own animation'
     challenge: true
   - 
     title: What next?
