@@ -1,6 +1,6 @@
 ## ういているサル
 
-宇宙で迷子（まいご）になっているサルをアニメーションに追加しましょう！
+Now you will add a monkey who's lost in space to your animation!
 
 \--- task \---
 
@@ -41,12 +41,12 @@ When the green **flag is clicked**, your monkey sprite should **turn** in a circ
 Here are the code blocks you need:
 
 ```blocks3
-ずっと
+forever
 end
 
-↻ (15) 度回す
+turn cw (15) degrees
 
-⚑ が押されたとき
+when flag clicked
 ```
 
 \--- /hint \--- \--- hint \---
@@ -56,10 +56,9 @@ Here's the code to make your monkey spin:
 ![Monkey sprite](images/sprite-monkey.png)
 
 ```blocks3
-⚑ が押されたとき
-ずっと 
-  ↻ (1) 度回す
-end
+when flag clicked
+forever
+    turn cw (1) degrees
 ```
 
 \--- /hint \--- \--- /hints \---
