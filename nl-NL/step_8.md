@@ -1,7 +1,7 @@
-## Uitdaging: maak je eigen animatie
+## Challenge: make your own animation
 
-Stop je ruimte-animatie, sla hem op en start een nieuw Scratch-project.
+Stop your space animation, save it, and start a new Scratch project.
 
-Gebruik wat je in dit project hebt geleerd om je eigen animatie te maken. Het kan alles zijn wat je wilt, maar probeer er voor te zorgen dat de animatie past bij de achtergrond die je kiest. Hier zijn enkele voorbeelden:
+Use what you've learned in this project to make your own animation. It can be anything you like, but try to make your animation match the background you choose. Here are some examples:
 
 ![schermafdruk](images/space-egs.png)
