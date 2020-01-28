@@ -1,6 +1,6 @@
-## ดาวส่องแสง
+## Shining star
 
-ตอนนี้คุณจะรวมลูปเพื่อสร้างดาวส่องแสง
+Now you will combine loops to make a shining star.
 
 \--- task \---
 
@@ -25,19 +25,19 @@ When the green **flag is clicked**, your star sprite should **change size** to g
 Here are the code blocks you need:
 
 ```blocks3
-ทำซ้ำ (10)
-สิ้นสุด
+repeat (10)
+end
 
-เมื่อมีการคลิกธง
+when flag clicked
 
-ซ้ำ (10)
-สิ้นสุด
+repeat (10)
+end
 
-เปลี่ยนขนาดโดย (10)
+change size by (10)
 
-เปลี่ยนขนาดโดย (10)
+change size by (10)
 
-ตลอดไป
+forever
 ```
 
 \--- /hint \--- \--- hint \---
@@ -47,14 +47,14 @@ Here's the code to make your star grow and shrink:
 ![Star sprite](images/sprite-star.png)
 
 ```blocks3
-เมื่อแฟล็กคลิก
-ตลอดกาล
-    ซ้ำ (20)
-        เปลี่ยนขนาดโดย (2)
-    จบ
-    ซ้ำ (20)
-        เปลี่ยนขนาดโดย (-2)
-    จบ
+when flag clicked
+forever
+    repeat (20)
+        change size by (2)
+    end
+    repeat (20)
+        change size by (-2)
+    end
 
 ```
 
