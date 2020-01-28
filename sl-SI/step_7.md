@@ -1,6 +1,6 @@
-## Sijoča ​​zvezda
+## Shining star
 
-Sedaj boš kombiniral-a zanke, da ustvariš sijočo zvezdo.
+Now you will combine loops to make a shining star.
 
 \--- task \---
 
@@ -25,19 +25,19 @@ When the green **flag is clicked**, your star sprite should **change size** to g
 Here are the code blocks you need:
 
 ```blocks3
-ponovi (10) krat
-konec
+repeat (10)
+end
 
-ko kliknemo na zastavo
+when flag clicked
 
-ponovi (10) krat
-konec
+repeat (10)
+end
 
-spremeni velikost za (10)
+change size by (10)
 
-spremeni velikost za (10)
+change size by (10)
 
-ponavljaj
+forever
 ```
 
 \--- /hint \--- \--- hint \---
@@ -47,14 +47,14 @@ Here's the code to make your star grow and shrink:
 ![Star sprite](images/sprite-star.png)
 
 ```blocks3
-ko kliknemo na zastavo
-ponavljaj
-  ponovi (20) krat
-    spremeni velikost za (2)
-  konec
-  ponovi (20) krat
-    spremeni veliksot za (-2)
-  konec
+when flag clicked
+forever
+    repeat (20)
+        change size by (2)
+    end
+    repeat (20)
+        change size by (-2)
+    end
 
 ```
 
