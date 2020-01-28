@@ -1,18 +1,18 @@
-## एक स्पेसशिप एनीमेटिंग
+## Animating a spaceship
 
-पृथ्वीच्या दिशेने उडणारी एक स्पेसशिप तयार करणे ही आपली पहिली पायरी असेल!
+Your first step will be to create a spaceship that flies towards the Earth!
 
-\--- कार्य \---
+\--- task \---
 
-नवीन स्क्रॅच प्रकल्प उघडा.
+Open a new Scratch project.
 
 **Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
 
-**ऑफलाइन:** ऑफलाइन संपादकात नवीन प्रोजेक्ट उघडा.
+**Offline:** open a new project in the offline editor.
 
-आपल्याला स्क्रॅच ऑफलाइन संपादक डाउनलोड आणि स्थापित करणे आवश्यक असल्यास, आपण ते [rpf.io/scratchoff](http://rpf.io/scratchoff){: target = "blank"} वर शोधू शकता.
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-\--- / कार्य \---
+\--- /task \---
 
 \--- task \---
 
@@ -38,7 +38,7 @@ Click on your spaceship sprite, and click on the **Costumes** tab.
 
 ![Sprite costume](images/space-costume.png)
 
-\--- / कार्य \---
+\--- /task \---
 
 \--- task \---
 
@@ -46,7 +46,7 @@ Use the **arrow** tool to click and drag a box around the whole spaceship image.
 
 ![Rotating a costume](images/space-rotate.png)
 
-\--- / कार्य \---
+\--- /task \---
 
 \--- task \---
 
@@ -55,12 +55,12 @@ Add this code to your spaceship sprite:
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-जेव्हा ध्वज
-बिंदू दिशेने क्लिक केले (0)
-x वर जा: (- 150) y: (- 150)
-म्हणूया [चला जाऊ] साठी (2) सेकंदसाठी
-पॉईंट (पृथ्वी विरुद्ध)
-ग्लाइड (1) से सेकंद एक्स: (0) यु: (0)
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+glide (1) secs to x:(0) y:(0)
 ```
 
 Change the numbers in the code blocks you've added so that the code is exactly the same as above.
