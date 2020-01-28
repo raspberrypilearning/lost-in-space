@@ -2,6 +2,6 @@
 
 أوقف مشروع الرسم المتحرك للفضاء واحفظه، ثم ابدأ مشروعًا جديدًا على برنامج Scratch.
 
-استخدم ما تعلمتَه في هذا المشروع لابتكار رسم متحرك خاص بك. ويمكنك أن تبتكر أي رسم متحرك تريده، لكن حاول اختيار خلفية مناسبة لهذا الرسم. إليك بعض الأمثلة:
+Use what you've learned in this project to make your own animation. It can be anything you like, but try to make your animation match the background you choose. Here are some examples:
 
 ![لقطة شاشة](images/space-egs.png)
