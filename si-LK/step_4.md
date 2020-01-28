@@ -1,6 +1,6 @@
-## ලූප(loops) භාවිතා කරමින් සජීවිකරණය(animation)
+## Animation using loops
 
-අභ්‍යවකාශ යානය(spaceship එකක්) සජීවිකරණය(animate) කිරීමේ තවත් ක්‍රමයක් නම්, එයට කුඩා(small) දුර ප්‍රමාණයක්(amount) බොහෝ(many) වාරයක්(times) ඉදිරියට යාමට පැවසීමයි
+Another way to animate the spaceship is to tell it to move a small amount many times
 
 \--- task \---
 
@@ -14,6 +14,7 @@ point in direction (0)
 go to x:(-150) y:(-150)
 say [Let's go] for (2) seconds
 point towards (Earth v)
+
 - glide (1) secs to x:(0) y:(0)
 ```
 
@@ -35,7 +36,7 @@ say [Let's go] for (2) seconds
 point towards (Earth v)
 
 + repeat (200)
-     move (2) steps
+    move (2) steps
 ```
 
 Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
@@ -57,9 +58,9 @@ go to x:(-150) y:(-150)
 say [Let's go] for (2) seconds
 point towards (Earth v)
 repeat (200)
-     move (2) steps 
+    move (2) steps
 
-+ change [color v] effect by (25)
++    change [color v] effect by (25)
 ```
 
 Test and save your code.
@@ -80,14 +81,14 @@ Your spaceship should start at `100% size`{:class="blocklooks"}, and then `chang
 
 \--- /hint \---
 
-\--- hints \---
+\--- hint \---
 
 You will need to add these blocks to your code:
 
-![අභ්‍යවකාශ යානා(spaceship) sprite එක](images/sprite-spaceship.png)
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-change size by (10) 
+change size by (10)
 
 set size to (100) %
 ```
@@ -102,14 +103,16 @@ Your code should look like this:
 
 ```blocks3
 when flag clicked
+set size to (100) %
 point in direction (0)
 go to x:(-150) y:(-150)
 say [Let's go] for (2) seconds
 point towards (Earth v)
 repeat (200)
-     move (2) steps 
+    move (2) steps
+    change [color v] effect by (25)
 
-+ change [color v] effect by (25)
++   change size by (-3)
 ```
 
 \--- /hint \---
