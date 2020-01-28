@@ -1,6 +1,6 @@
-## लघुग्रह उंचावणे
+## Bouncing asteroid
 
-आता आपण आपल्या अॅनिमेशनमध्ये एक फ्लोटिंग स्पेस रॉक जोडेल.
+Now you will add a floating space rock to your animation.
 
 \--- task \---
 
@@ -25,21 +25,21 @@ When the green **flag is clicked**, your rock sprite should **move** and **bounc
 Here are the code blocks you need:
 
 ```blocks3
-हलवा (10) चरणांची
+move (10) steps
 
-धार बाऊन्स वर तर
+if on edge bounce
 
-ध्वज क्लिक केले तेव्हा
+when flag clicked
 
-कायमचे
+forever
 ```
 
 You can also set a more interesting starting direction for the rock sprite with one of these blocks:
 
 ```blocks3
-सीडब्ल्यू (15) अंश
+turn cw (15) degrees
 
-पॉइंट दिशेने (पृथ्वी विरुद्ध)
+point towards (Earth v)
 ```
 
 \--- /hint \--- \--- hint \---
@@ -49,11 +49,11 @@ Here's the code for making your rock bounce around the stage:
 ![Rock sprite](images/sprite-rock.png)
 
 ```blocks3
-जेव्हा ध्वज
-पॉइंटच्या दिशेने (पृथ्वी व्ही)
-कायमचे क्लिक करेल तेव्हा काठावर, बाउंसवर असल्यास
-    हल (2) चरण
-
+when flag clicked
+point towards (Earth v)
+forever
+    move (2) steps
+    if on edge, bounce
 ```
 
 \--- /hint \--- \--- /hints \--- \--- /task \---
