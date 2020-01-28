@@ -1,14 +1,14 @@
 \--- no-print \---
 
-To je **Scratch 3** različica projekta. Obstaja tudi [Scratch 2](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2) različica projekta.
+This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
 
 \--- /no-print \---
 
-## Uvod
+## Introduction
 
-Naučil-a se boš, kako sprogramirati svojo lastno animacijo!
+You are going to learn how to program your own animation!
 
-### Kaj boš ustvaril?
+### What you will make
 
 \--- no-print \---
 
@@ -29,35 +29,35 @@ Click on the green flag to see the animation.
 
 ## \--- collapse \---
 
-## title: Kaj boš potreboval?
+## title: What you will need
 
-### Strojna oprema
+### Hardware
 
-- Računalnik, ki lahko poganja Scratch 3
+- A computer capable of running Scratch 3
 
-### Programska oprema
+### Software
 
-- Scratch 3 (bodisi [na spletu](http://rpf.io/scratchon) {:target = "_blank"} ali [brez povezave](http://rpf.io/scratchoff){:target = "_blank"})
+- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
-### Prenosi
+### Downloads
 
-- Brez
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: Kaj se boš naučil-a?
-
-- Uporabiti ponavljajočo se zanko za animiranje figure v Scratchu
-- Uporabiti večno zanko za neskončno ponavljanje animacije
-- Razumeti, da lahko zanke vsebujejo druge zanke
+- None
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Dodatne informacije za izobraževalce
+## title: What you will learn
+
+- Use a repeat loop to animate a sprite in Scratch
+- Use a forever loop to repeat an animation indefinitely
+- Understand that loops can be nested within each other
+
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: Additional information for educators
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
