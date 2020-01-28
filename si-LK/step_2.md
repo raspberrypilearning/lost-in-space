@@ -1,16 +1,16 @@
-## අභ්‍යවකාශ යානයක්(spaceship) සජීවිකරණය(animation) කිරීම
+## Animating a spaceship
 
-ඔබේ පළමු පියවර වනුයේ පෘථිවිය දෙසට පියාසර කරන අභ්‍යවකාශ යානයක්(spaceship එකක්) නිර්මාණය කිරීමයි!
+Your first step will be to create a spaceship that flies towards the Earth!
 
 \--- task \---
 
-නව Scratch ව්යාපෘතියක්(project එකක්) විවෘත්ත කරන්න.
+Open a new Scratch project.
 
-**අන්තර්ජාල මාර්ගගත(Online):** [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"} හි අන්තර්ජාල මාර්ගගතව නව Scratch ව්‍යාපෘතියක් විවෘත කරන්න.
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
 
-**අන්තර්ජාලයට නොබැඳිව(Offline):** නොබැඳි සංස්කාරකයේ(offline editor එකේ) නව ව්‍යාපෘතියක්(new project එකක්) විවෘත කරන්න.
+**Offline:** open a new project in the offline editor.
 
-ඔබට Scratch නොබැඳි සංස්කාරකය(offline editor එක) බාගත(download) කර ස්ථාපනය(install) කිරීමට අවශ්‍ය නම්, ඔබට එය [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"} වෙතින් ලබාගත හැකිය.
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
@@ -55,9 +55,9 @@ Add this code to your spaceship sprite:
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked 
+when flag clicked
 point in direction (0)
-go to x:(-150) y:(-150) 
+go to x:(-150) y:(-150)
 say [Let's go] for (2) seconds
 point towards (Earth v)
 glide (1) secs to x:(0) y:(0)
