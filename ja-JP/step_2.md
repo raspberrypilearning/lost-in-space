@@ -1,16 +1,16 @@
 ## 宇宙船 (うちゅうせん) のアニメーション
 
-最初のステップは、地球に向かって飛ぶ宇宙船を作成することです！
+Your first step will be to create a spaceship that flies towards the Earth!
 
 \--- task \---
 
-新しいスクラッチプロジェクトを開きます。
+Open a new Scratch project.
 
-**Online: **新しいオンラインScratchプロジェクトを[rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}で開きます。
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
 
-**Offline:**オフラインエディターで新しいプロジェクトを開きます。
+**Offline:** open a new project in the offline editor.
 
-Scratchオフラインエディタをダウンロードしてインストールする必要がある場合は、[rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}で見つけることができます。:
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
@@ -55,12 +55,12 @@ Add this code to your spaceship sprite:
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-⚑ が押されたとき
-(0) 度に向ける
-x座標を (-150) 、y座標を (-150) にする
-[レッツゴー！] と (2) 秒言う
-(地球 v) へ向ける
-(1) 秒でx座標を (0) に、y座標を (0) に変える
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+glide (1) secs to x:(0) y:(0)
 ```
 
 Change the numbers in the code blocks you've added so that the code is exactly the same as above.
