@@ -1,6 +1,6 @@
-## ග‍්‍රහකයක්(asteroid) පැන්නවීම(bouncing)
+## Bouncing asteroid
 
-දැන් ඔබ ඔබේ සජීවිකරණයට(animation එකට) පාවෙන(floating) අභ්‍යවකාශ(space) පාෂාණයක්(rock එකක්) එක් කරනු ඇත.
+Now you will add a floating space rock to your animation.
 
 \--- task \---
 
@@ -52,8 +52,8 @@ Here's the code for making your rock bounce around the stage:
 when flag clicked
 point towards (Earth v)
 forever
-     move (2) steps
-     if on edge, bounce
+    move (2) steps
+    if on edge, bounce
 ```
 
 \--- /hint \--- \--- /hints \--- \--- /task \---
