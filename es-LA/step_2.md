@@ -1,14 +1,14 @@
 ## Animación de una nave espacial
 
-¡Tu primer paso será crear una nave espacial que vuele hacia la Tierra!
+¡Tu primer paso será crear una nave espacial que vuela hacia la Tierra!
 
 \--- task \---
 
-Abrir un nuevo proyecto de Scratch vacío.
+Abre un nuevo proyecto en Scratch.
 
-** Online **: abra un nuevo proyecto Scratch en línea en [ rpf.io/scratch-new ](http://rpf.io/scratchon)"}.
+**En línea:** abre un nuevo proyecto en [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
 
-** fuera de línea: ** Abre un nuevo proyecto en el editor offline.
+**Offline:** abre un nuevo proyecto en el editor offline.
 
 Si necesitas descargar e instalar el editor offline de Scratch, puedes encontrarlo en [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
@@ -55,12 +55,12 @@ Add this code to your spaceship sprite:
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-glide (1) secs to x:(0) y:(0)
+cuando la bandera es pulsada
+apuntar en dirección (0)
+ir a x:(-150) y:(-150)
+decir [Vamos] durante (2) segundos
+apuntar hacia (Tierra v)
+deslizar en (1) segs a x:(0) y:(0)
 ```
 
 Change the numbers in the code blocks you've added so that the code is exactly the same as above.
