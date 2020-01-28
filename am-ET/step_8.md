@@ -1,7 +1,7 @@
-## ተፈታታኝ ሁኔታ: የራስዎን እነማ ያድርጉ
+## Challenge: make your own animation
 
-የእርስዎን የቦታ እነማን ያቁሙ, ያስቀምጡት, እና አዲስ Scratch ፕሮጀክት ይጀምሩ.
+Stop your space animation, save it, and start a new Scratch project.
 
-የራስዎን እነማዎች ለመስራት በዚህ ፕሮጀክት የተማሩትን ይጠቀሙ. ይህ የሚወዱት ነገር ሊሆን ይችላል, ነገር ግን አኒሜሽዎ እርስዎ ከመረጡት ዳራ ጋር እንዲዛመድ ለማድረግ ይሞክሩ. አንዳንድ ምሳሌዎች እነሆ:
+Use what you've learned in this project to make your own animation. It can be anything you like, but try to make your animation match the background you choose. Here are some examples:
 
-![ቅጽበታዊ ገጽ እይታ](images/space-egs.png)
+![screenshot](images/space-egs.png)
