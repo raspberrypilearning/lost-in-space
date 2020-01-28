@@ -1,4 +1,4 @@
-## Haaste: tee oma animaatio
+## Challenge: make your own animation
 
 Stop your space animation, save it, and start a new Scratch project.
 
