@@ -1,6 +1,6 @@
 ## उछलने वाले क्षुद्रग्रह
 
-चलिए आपकी एनिमेशन में कुछ अन्तरिक्ष में उड़ने वाली पत्थर बनाएँ।
+Now you will add a floating space rock to your animation.
 
 \--- task \---
 
