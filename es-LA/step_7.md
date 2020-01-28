@@ -25,19 +25,19 @@ When the green **flag is clicked**, your star sprite should **change size** to g
 Here are the code blocks you need:
 
 ```blocks3
-repeat (10)
-end
+repetir (10)
+fin
 
-when flag clicked
+cuando la bandera es pulsada
 
-repeat (10)
-end
+repetir (10)
+fin
 
-change size by (10)
+cambiar tamaño por (10)
 
-change size by (10)
+cambiar tamaño por (10)
 
-forever
+por siempre
 ```
 
 \--- /hint \--- \--- hint \---
@@ -47,14 +47,14 @@ Here's the code to make your star grow and shrink:
 ![Star sprite](images/sprite-star.png)
 
 ```blocks3
-when flag clicked
-forever
-    repeat (20)
-        change size by (2)
-    end
-    repeat (20)
-        change size by (-2)
-    end
+cuando la bandera es pulsada
+por siempre
+    repetir (20)
+        cambiar tamaño por (2)
+    fin
+    repetir (20)
+        cambiar tamaño por (-2)
+    fin
 
 ```
 
