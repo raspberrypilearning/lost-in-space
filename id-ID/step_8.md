@@ -1,7 +1,7 @@
-## Tantangan: buat animasi Anda sendiri
+## Challenge: make your own animation
 
-Hentikan animasi ruang Anda, simpan, dan mulai proyek Gores baru.
+Stop your space animation, save it, and start a new Scratch project.
 
-Gunakan apa yang telah Anda pelajari dalam proyek ini untuk membuat animasi Anda sendiri. Itu bisa apa saja yang Anda suka, tetapi cobalah untuk membuat animasi Anda sesuai dengan latar belakang yang Anda pilih. Berikut ini beberapa contohnya:
+Use what you've learned in this project to make your own animation. It can be anything you like, but try to make your animation match the background you choose. Here are some examples:
 
 ![screenshot](images/space-egs.png)
