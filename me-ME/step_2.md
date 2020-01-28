@@ -1,4 +1,4 @@
-## Animacija svemirskog broda
+## Animating a spaceship
 
 Your first step will be to create a spaceship that flies towards the Earth!
 
