@@ -1,31 +1,31 @@
 ---
-title: Заблукалий у космосі
+title: Lost in space
 hero_image: images/lost-in-space.png
-description: У цьому проекті ви навчитесь програмувати власні анімації!
+description: Learn how to program your own animation!
 original_url: https://www.codeclubprojects.org/en-GB/scratch/lost-in-space
 listed: true
 copyedit: true
 technologies: scratch
-version: 4
-last_tested: 2017-11-01
+version: 4.1.3
+last_tested: 2018-09-26
 steps:
   - 
-    title: Заблукалий у космосі
+    title: Introduction
   - 
-    title: Анімація космічного корабля
+    title: Animating a spaceship
   - 
-    title: 'Завдання: вдоскональ свою анімацію'
+    title: 'Challenge: improve your animation'
     challenge: true
   - 
-    title: Анімація за допомогою циклів
+    title: Animation using loops
   - 
-    title: Плаваюча мавпа
+    title: Floating monkey
   - 
-    title: Астероїд, що відскакує
+    title: Bouncing asteroid
   - 
-    title: Сяюча зірка
+    title: Shining star
   - 
-    title: 'Завдання: створи власну анімацію'
+    title: 'Challenge: make your own animation'
     challenge: true
   - 
-    title: Що далі?
+    title: What next?
