@@ -1,62 +1,60 @@
-## Звезда која сија
+## Shining star
 
-Сада ћеш комбиновати петље да би направио/ла светлуцаву звезду.
+Now you will combine loops to make a shining star.
 
 \--- task \---
 
-Додај лик 'звезда' на позорницу.
+Add a 'star' sprite to your stage.
 
-![Додавање лика звезде](images/space-star-sprite.png)
+![Adding a star sprite](images/space-star-sprite.png)
 
 \--- /task \---
 
 \--- task \---
 
-Можеш ли својој звезди да додаш код, како би звезда непрестано расла и смањивала се?
+Can you add code to your star sprite to make the star repeatedly grow and shrink?
 
-![Тестирање светлуцаве звезде](images/sprite-star.png)
+![Testing a shining star](images/sprite-star.png)
 
 \--- hints \--- \--- hint \---
 
-Када је кликнуто на **зелену заставицу**, твоја звезда би требала да неколико пута **промени величину** у већу, а затим неколико пута **промени величину** у мању. То би требала да ради **заувек**, како би се повећавала и смањивала и изгледала као да је светлуцава.
+When the green **flag is clicked**, your star sprite should **change size** to get bigger a few times, and then **change size** to get smaller a few times. It should do this so that it gets bigger and then smaller **forever** and looks like it's shining light.
 
 \--- /hint \--- \--- hint \---
 
-Ево блокова кода који су ти потребни:
+Here are the code blocks you need:
 
 ```blocks3
-понови (10)
+repeat (10)
 end
 
-када је кликнуто на ⚑
+when flag clicked
 
-понови (10)
+repeat (10)
 end
 
-промени величину за (10)
+change size by (10)
 
-промени величину за (10)
+change size by (10)
 
-понављај заувек
-end
+forever
 ```
 
 \--- /hint \--- \--- hint \---
 
-Ево кода који ће направити да се твоја звезда скупља и расте:
+Here's the code to make your star grow and shrink:
 
-![Лик звезде](images/sprite-star.png)
+![Star sprite](images/sprite-star.png)
 
 ```blocks3
-када је кликнуто на ⚑
-понављај заувек 
-  понови (20) 
-    промени величину за (2)
-  end
-  понови (20) 
-    промени величину за (-2)
-  end
-end
+when flag clicked
+forever
+    repeat (20)
+        change size by (2)
+    end
+    repeat (20)
+        change size by (-2)
+    end
 
 ```
 
