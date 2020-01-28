@@ -1,6 +1,6 @@
-## አሻንጉሊቶችን በመጠቀም
+## Animation using loops
 
-የቦታውን መንቀሳቀስ የሚችልበት ሌላኛው መንገድ አነስተኛውን መጠን ብዙ ጊዜ እንዲወስድ መንገር ነው
+Another way to animate the spaceship is to tell it to move a small amount many times
 
 \--- task \---
 
@@ -9,13 +9,13 @@ Delete the `glide`{:class="block3motion"} block from your code. To do this, drag
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-ባንዲራ ጠቅ ጊዜ
-አቅጣጫ ነጥብ (0)
-x ሂድ: (- 150) y: (- 150)
-(2) ሰከንዶች [እንሂድ] ይላሉ
-(Earth v) አቅጣጫ ነጥብ
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
 
-- (1) ሰከንድ ተንሸራትቶ ወደ x: (0) y: (0)
+- glide (1) secs to x:(0) y:(0)
 ```
 
 \--- /task \---
