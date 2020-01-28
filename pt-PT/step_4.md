@@ -1,6 +1,6 @@
-## Animação utilizando ciclos
+## Animation using loops
 
-Outra maneira de animar a nave espacial é dizer-lhe para mover-se por uma pequena quantidade muitas vezes
+Another way to animate the spaceship is to tell it to move a small amount many times
 
 \--- task \---
 
@@ -9,13 +9,13 @@ Delete the `glide`{:class="block3motion"} block from your code. To do this, drag
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-quando alguém clicar na bandeira verde
-altera a tua direcção para (0) °
-vai para a posição x: (-150) y: (-150)
-diz [Let's go] durante (2) s
-aponta em direcção a (Earth v)
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
 
-desliza em (1) s para a posição x: (0) y: (0)
+- glide (1) secs to x:(0) y:(0)
 ```
 
 \--- /task \---
@@ -29,15 +29,14 @@ Now use a `repeat`{:class="block3control"} block to move your spaceship towards 
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-quando alguém clicar na bandeira verde
-altera a tua direcção para (0) °
-vai para a posição x: (-150) y: (-150)
-diz [Let's go] durante (2) s
-aponta em direcção a (Earth v)
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
 
-repete (200) vezes 
-  anda (2) passos
-end
++ repeat (200)
+    move (2) steps
 ```
 
 Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
@@ -53,15 +52,15 @@ Use this block:
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-quando alguém clicar na bandeira verde
-altera a tua direcção para (0) °
-vai para a posição x: (-150) y: (-150)
-diz [Let's go] durante (2) s
-aponta em direcção a (Earth v)
-repete (200) vezes 
-  anda (2) passos
-  + adiciona ao teu efeito [color v] o valor (25)
-end
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
+
++    change [color v] effect by (25)
 ```
 
 Test and save your code.
@@ -86,12 +85,12 @@ Your spaceship should start at `100% size`{:class="blocklooks"}, and then `chang
 
 You will need to add these blocks to your code:
 
-![Ator de nave espacial](images/sprite-spaceship.png)
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-adiciona (10) ao teu tamanho
+change size by (10)
 
-altera o teu tamanho para (100) %
+set size to (100) %
 ```
 
 \--- /hint \---
@@ -103,17 +102,17 @@ Your code should look like this:
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-quando alguém clicar na bandeira verde
-altera o teu tamanho para (100) %
-altera a tua direcção para (0) °
-vai para a posição x: (-150) y: (-150)
-diz [Let's go] durante (2) s
-aponta em direcção a (Earth v)
-repete (200) vezes 
-  anda (2) passos
-  adiciona ao teu efeito [color v] o valor (25)
-  + adiciona (-3) ao teu tamanho
-end
+when flag clicked
+set size to (100) %
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
+    change [color v] effect by (25)
+
++   change size by (-3)
 ```
 
 \--- /hint \---
