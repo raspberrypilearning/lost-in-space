@@ -1,6 +1,6 @@
-## Plutajući majmun
+## Floating monkey
 
-Sada ćete svojoj animaciji dodati majmuna koji se izgubio u svemiru!
+Now you will add a monkey who's lost in space to your animation!
 
 \--- task \---
 
