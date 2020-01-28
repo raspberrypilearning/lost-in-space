@@ -1,6 +1,6 @@
 \--- no-print \---
 
-これは、**Scratch 3**バージョンのプロジェクトです。[ Scratch 2バージョンのプロジェクト](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2)もあります。
+This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
 
 \--- /no-print \---
 
@@ -33,15 +33,15 @@ Click on the green flag to see the animation.
 
 ### ハードウェア
 
-- Scratch 3を実行できるコンピュータ
+- A computer capable of running Scratch 3
 
 ### ソフトウェア
 
-- Scratch 3 ([オンライン](http://rpf.io/scratchon){:target="_blank"}または[オフライン](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
-### ダウンロード
+### Downloads
 
-- 無し
+- None
 
 \--- /collapse \---
 
@@ -49,15 +49,15 @@ Click on the green flag to see the animation.
 
 ## title: 学習すること
 
-- スクラッチで繰り返しループを使用して、スプライトをアニメーションにする
-- ずっとループを使用して、アニメーションをいつまでも繰り返す
-- ループをお互いにネストできることを理解する
+- Use a repeat loop to animate a sprite in Scratch
+- Use a forever loop to repeat an animation indefinitely
+- Understand that loops can be nested within each other
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title：教育者向けの追加情報
+## title: Additional information for educators
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
