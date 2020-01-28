@@ -1,6 +1,6 @@
 ## 빛나는 별
 
-빛나는 별을 만들기 위해 반복하기를 합쳐봅시다.
+Now you will combine loops to make a shining star.
 
 \--- task \---
 
@@ -25,20 +25,19 @@ When the green **flag is clicked**, your star sprite should **change size** to g
 Here are the code blocks you need:
 
 ```blocks3
-(10) 번 반복하기
-끝
+repeat (10)
+end
 
-flag 클릭했을 때 
+when flag clicked
 
-(10) 번 반복하기
-끝
+repeat (10)
+end
 
+change size by (10)
 
-크기를 (10) 만큼 바꾸기
+change size by (10)
 
-크기를 (10) 만큼 바꾸기
-
-무한 반복
+forever
 ```
 
 \--- /hint \--- \--- hint \---
@@ -48,14 +47,14 @@ Here's the code to make your star grow and shrink:
 ![Star sprite](images/sprite-star.png)
 
 ```blocks3
-flag 클릭했을 때
-무한 반복
-    (20) 번 반복하기
-        크기를 (2) 만큼 바꾸기
-    끝
-    (20) 번 반복하기
-        크기를 (-2) 만큼 바꾸기
-    끝
+when flag clicked
+forever
+    repeat (20)
+        change size by (2)
+    end
+    repeat (20)
+        change size by (-2)
+    end
 
 ```
 
