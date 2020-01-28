@@ -1,6 +1,6 @@
-## ሊትር ኦቭ አስቴሪዶድ
+## Bouncing asteroid
 
-አሁን ወደ ተንቀሳቃሽ ህዋዎ ውስጥ ተንሳፋፊ የድንጋይ ድንጋይ ያክላሉ.
+Now you will add a floating space rock to your animation.
 
 \--- task \---
 
@@ -25,21 +25,21 @@ When the green **flag is clicked**, your rock sprite should **move** and **bounc
 Here are the code blocks you need:
 
 ```blocks3
-ደረጃዎች (10) ማንቀሳቀስ
+move (10) steps
 
-ጠርዝ ነጥሮ ላይ ከሆነ
+if on edge bounce
 
-ባንዲራ ጠቅ ጊዜ
+when flag clicked
 
-ለዘላለም
+forever
 ```
 
 You can also set a more interesting starting direction for the rock sprite with one of these blocks:
 
 ```blocks3
-ወደ (15) ዲግሪ ዎች (
+turn cw (15) degrees
 
-ነጥብ ወደ (ቫ)
+point towards (Earth v)
 ```
 
 \--- /hint \--- \--- hint \---
@@ -49,11 +49,11 @@ Here's the code for making your rock bounce around the stage:
 ![Rock sprite](images/sprite-rock.png)
 
 ```blocks3
-አውድ በ
-ነጥብ ወደ (ለምድር v)
-ለዘላለም
-    ማንቀሳቀስ (2) ደረጃ
-    ከፍቼ ላይ ቢቀይር
+when flag clicked
+point towards (Earth v)
+forever
+    move (2) steps
+    if on edge, bounce
 ```
 
 \--- /hint \--- \--- /hints \--- \--- /task \---
