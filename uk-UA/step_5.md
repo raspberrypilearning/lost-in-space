@@ -1,6 +1,6 @@
 ## Плаваюча мавпа
 
-А тепер ти додаси до своєї анімації мавпу, що загубилася в космосі!
+Now you will add a monkey who's lost in space to your animation!
 
 \--- task \---
 
@@ -41,12 +41,12 @@ When the green **flag is clicked**, your monkey sprite should **turn** in a circ
 Here are the code blocks you need:
 
 ```blocks3
-завжди
+forever
 end
 
-поворот ↻ на (15) градусів
+turn cw (15) degrees
 
-коли ⚑ натиснуто
+when flag clicked
 ```
 
 \--- /hint \--- \--- hint \---
@@ -56,9 +56,9 @@ Here's the code to make your monkey spin:
 ![Monkey sprite](images/sprite-monkey.png)
 
 ```blocks3
-коли ⚑ натиснуто
-завжди 
-  поворот ↻ на (1) градусів
+when flag clicked
+forever
+    turn cw (1) degrees
 ```
 
 \--- /hint \--- \--- /hints \---
