@@ -1,6 +1,6 @@
 ## Un asteroide que rebota
 
-Ahora agregarás una roca espacial flotante a su animación.
+Ahora añadirás una roca espacial flotante a tu animación.
 
 \--- task \---
 
@@ -25,21 +25,21 @@ When the green **flag is clicked**, your rock sprite should **move** and **bounc
 Here are the code blocks you need:
 
 ```blocks3
-move (10) steps
+mover (10) pasos
 
-if on edge bounce
+si en el borde rebota
 
-when flag clicked
+cuando la bandera es pulsada
 
-forever
+por siempre
 ```
 
 You can also set a more interesting starting direction for the rock sprite with one of these blocks:
 
 ```blocks3
-turn cw (15) degrees
+girar cw (15) grados
 
-point towards (Earth v)
+apuntar hacia (Tierra v)
 ```
 
 \--- /hint \--- \--- hint \---
@@ -49,11 +49,11 @@ Here's the code for making your rock bounce around the stage:
 ![Rock sprite](images/sprite-rock.png)
 
 ```blocks3
-when flag clicked
-point towards (Earth v)
-forever
-    move (2) steps
-    if on edge, bounce
+cuando la bandera es pulsada
+apuntar hacia (Tierra v)
+por siempre
+    mover (2) pasos
+    si en el borde, rebotar
 ```
 
 \--- /hint \--- \--- /hints \--- \--- /task \---
