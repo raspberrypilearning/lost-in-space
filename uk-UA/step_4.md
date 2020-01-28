@@ -1,6 +1,6 @@
-## Анімація за допомогою циклів
+## Animation using loops
 
-Зробити анімацію руху космічного корабля можна й по-іншому: наказавши йому рухатися малими відрізками багато разів
+Another way to animate the spaceship is to tell it to move a small amount many times
 
 \--- task \---
 
@@ -9,13 +9,13 @@ Delete the `glide`{:class="block3motion"} block from your code. To do this, drag
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-коли ⚑ натиснуто
-повернути в напрямку (0)
-перемістити в x: (-150) y: (-150)
-говорити [Поїхали!] (2) сек
-слідувати за (Earth v)
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
 
-- ковзати (1) сек до x: (0) y: (0)
+- glide (1) secs to x:(0) y:(0)
 ```
 
 \--- /task \---
@@ -29,14 +29,14 @@ Now use a `repeat`{:class="block3control"} block to move your spaceship towards 
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-коли ⚑ натиснуто
-повернути в напрямку (0)
-перемістити в x: (-150) y: (-150)
-говорити [Поїхали!] (2) сек
-слідувати за (Earth v)
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
 
-+ повторити (200) 
-    перемістити на (2) кроків
++ repeat (200)
+    move (2) steps
 ```
 
 Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
@@ -52,15 +52,15 @@ Use this block:
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-коли ⚑ натиснуто
-повернути в напрямку (0)
-перемістити в x: (-150) y: (-150)
-говорити [Поїхали!] (2) сек
-слідувати за (Earth v)
-повторити (200) 
-  перемістити на (2) кроків
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
 
-  + змінити ефект [колір v] на (25)
++    change [color v] effect by (25)
 ```
 
 Test and save your code.
@@ -85,12 +85,12 @@ Your spaceship should start at `100% size`{:class="blocklooks"}, and then `chang
 
 You will need to add these blocks to your code:
 
-![Спрайт космічного корабля](images/sprite-spaceship.png)
+![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-змінити розмір на (10)
+change size by (10)
 
-задати розмір (100)
+set size to (100) %
 ```
 
 \--- /hint \---
@@ -102,17 +102,17 @@ Your code should look like this:
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-коли ⚑ натиснуто
-задати розмір (100)
-повернути в напрямку (0)
-перемістити в x: (-150) y: (-150)
-говорити [Поїхали!] (2) сек
-слідувати за (Earth v)
-повторити (200) 
-  перемістити на (2) кроків
-  змінити ефект [колір v] на (25)
+when flag clicked
+set size to (100) %
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
+    change [color v] effect by (25)
 
-  + змінити розмір на (-3)
++   change size by (-3)
 ```
 
 \--- /hint \---
