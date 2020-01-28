@@ -1,6 +1,6 @@
 \--- no-print \---
 
-هذا هو إصدار ** Scratch 3 ** من المشروع. هناك أيضًا [ إصدار Scratch 2 للمشروع ](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
+This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
 
 \--- /no-print \---
 
@@ -33,15 +33,15 @@ Click on the green flag to see the animation.
 
 ### الأجهزة
 
-- جهاز كمبيوتر يدعم تشغيل برنامج Scratch 3
+- A computer capable of running Scratch 3
 
 ### البرامج
 
-- برنامج Scratch 3 (سواء أكان [عبر الإنترنت](http://rpf.io/scratchon){:target="_blank"} أو [دون اتصال بالإنترنت](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
-### التنزيلات
+### Downloads
 
-- لا يوجد
+- None
 
 \--- /collapse \---
 
@@ -49,15 +49,15 @@ Click on the green flag to see the animation.
 
 ## title: ما الذي ستتعلمه
 
-- استخدام حلقة التكرار لتحريك الكائن في سكراتش
-- استخدم اللبنة كرر باستمرار لتكرار الرسوم المتحركة إلى الابد
-- نفهم أن حلقات التكرار يمكن أن تتداخل داخل بعضها البعض
+- Use a repeat loop to animate a sprite in Scratch
+- Use a forever loop to repeat an animation indefinitely
+- Understand that loops can be nested within each other
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: معلومات إضافية للمعلمين
+## title: Additional information for educators
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
