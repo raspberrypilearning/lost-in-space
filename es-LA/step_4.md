@@ -1,4 +1,4 @@
-## Animar utilizando bucles
+## Animación usando bucles
 
 Otra forma de animar la nave espacial es decirle que se mueva una pequeña cantidad muchas veces
 
@@ -9,13 +9,13 @@ Delete the `glide`{:class="block3motion"} block from your code. To do this, drag
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
+cuando la bandera es pulsada
+apuntar en dirección (0)
+ir a x:(-150) y:(-150)
+decir [Vamos] durante (2) segundos
+apuntar hacia (Tierra v)
 
-- glide (1) secs to x:(0) y:(0)
+- deslizar en (1) segs a x:(0) y:(0)
 ```
 
 \--- /task \---
@@ -29,14 +29,14 @@ Now use a `repeat`{:class="block3control"} block to move your spaceship towards 
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
+cuando la bandera es pulsada
+apuntar en dirección (0)
+ir a x:(-150) y:(-150)
+decir [Vamos] durante (2) segundos
+apuntar hacia (Tierra v)
 
-+ repeat (200)
-    move (2) steps
++ repetir(200)
+    mover (2) pasos
 ```
 
 Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
@@ -52,15 +52,15 @@ Use this block:
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-repeat (200)
-    move (2) steps
+cuando la bandera es pulsada
+apuntar en dirección (0)
+ir a x:(-150) y:(-150)
+decir [Vamos] durante (2) segundos
+apuntar hacia (Tierra v)
+ repetir(200)
+    mover (2) pasos
 
-+    change [color v] effect by (25)
++    sumar a [color v] (25)
 ```
 
 Test and save your code.
@@ -85,12 +85,12 @@ Your spaceship should start at `100% size`{:class="blocklooks"}, and then `chang
 
 You will need to add these blocks to your code:
 
-![Figura de nave espacial](images/sprite-spaceship.png)
+![Objeto de una nave espacial](images/sprite-spaceship.png)
 
 ```blocks3
-change size by (10)
+cambiar tamaño por (10)
 
-set size to (100) %
+fijar tamaño al (100) %
 ```
 
 \--- /hint \---
@@ -102,17 +102,17 @@ Your code should look like this:
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-set size to (100) %
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-repeat (200)
-    move (2) steps
-    change [color v] effect by (25)
+cuando la bandera es pulsada
+fijar tamaño al (100) %
+apuntar en dirección (0)
+ir a x:(-150) y:(-150)
+decir [Vamos] durante (2) segundos
+apuntar hacia (Tierra v)
+repetir(200)
+    mover (2) pasos
+    sumar a [color v] (25)
 
-+   change size by (-3)
++   cambiar tamaño por (-3)
 ```
 
 \--- /hint \---
