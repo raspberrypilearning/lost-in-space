@@ -1,6 +1,6 @@
-## Hõljuv ahv
+## Floating monkey
 
-Nüüd lisad oma animatsioonile ahvi, kes on kosmosesse ära eksinud!
+Now you will add a monkey who's lost in space to your animation!
 
 \--- task \---
 
@@ -41,12 +41,12 @@ When the green **flag is clicked**, your monkey sprite should **turn** in a circ
 Here are the code blocks you need:
 
 ```blocks3
-korda lõputult
+forever
 end
 
-pööra ↻ (15) kraadi
+turn cw (15) degrees
 
-kui klõpsata ⚑
+when flag clicked
 ```
 
 \--- /hint \--- \--- hint \---
@@ -56,9 +56,9 @@ Here's the code to make your monkey spin:
 ![Monkey sprite](images/sprite-monkey.png)
 
 ```blocks3
-kui klõpsata ⚑
-korda lõputult 
-pööra ↻ (1) kraadi
+when flag clicked
+forever
+    turn cw (1) degrees
 ```
 
 \--- /hint \--- \--- /hints \---
