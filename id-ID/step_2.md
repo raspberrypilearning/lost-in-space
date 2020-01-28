@@ -1,16 +1,16 @@
-## Menganimasikan sebuah pesawat luar angkasa
+## Animating a spaceship
 
-Langkah pertama Anda adalah membuat pesawat ruang angkasa yang terbang menuju Bumi!
+Your first step will be to create a spaceship that flies towards the Earth!
 
 \--- task \---
 
-Buka proyek Scratch baru.
+Open a new Scratch project.
 
 **Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
 
-** Offline: ** buka proyek baru di editor offline.
+**Offline:** open a new project in the offline editor.
 
-Jika Anda perlu mengunduh dan menginstal editor Scratch offline, Anda dapat menemukannya di [ rpf.io/scratchoff ](http://rpf.io/scratchoff) {: target = "_ blank"}.
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
@@ -55,12 +55,12 @@ Add this code to your spaceship sprite:
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-ketika bendera diklik
-titik ke arah (0)
-pergi ke x: (- 150) y: (- 150)
-katakan [Ayo pergi] selama (2) detik
-titik menuju (Bumi v)
-meluncur (1) dtk x: (0) y: (0)
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+glide (1) secs to x:(0) y:(0)
 ```
 
 Change the numbers in the code blocks you've added so that the code is exactly the same as above.
