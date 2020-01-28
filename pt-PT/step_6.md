@@ -1,4 +1,4 @@
-## Asteróide saltitante
+## Bouncing asteroid
 
 Agora poderás acrescentar uma rocha espacial flutuante à tua animação.
 
@@ -25,22 +25,21 @@ When the green **flag is clicked**, your rock sprite should **move** and **bounc
 Here are the code blocks you need:
 
 ```blocks3
-anda (10) passos
+move (10) steps
 
-se estiveres a bater na borda, ressalta
+if on edge bounce
 
-Quando alguém clicar na bandeira verde
+when flag clicked
 
-repete para sempre
-end
+forever
 ```
 
 You can also set a more interesting starting direction for the rock sprite with one of these blocks:
 
 ```blocks3
-gira para a direita (15) º
+turn cw (15) degrees
 
-aponta em direcção a (Earth v)
+point towards (Earth v)
 ```
 
 \--- /hint \--- \--- hint \---
@@ -50,12 +49,11 @@ Here's the code for making your rock bounce around the stage:
 ![Rock sprite](images/sprite-rock.png)
 
 ```blocks3
-quando alguém clicar na bandeira verde
-aponta em direcção a (Earth v)
-repete para sempre 
-  anda (2) passos
-  se estiveres a bater na borda, ressalta
-end
+when flag clicked
+point towards (Earth v)
+forever
+    move (2) steps
+    if on edge, bounce
 ```
 
 \--- /hint \--- \--- /hints \--- \--- /task \---
