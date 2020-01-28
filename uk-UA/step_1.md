@@ -1,14 +1,14 @@
 \--- no-print \---
 
-Це — версія проєкту для **Скретч 3**. Також існує [версія проєкту для Скретч 2](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
+This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
 
 \--- /no-print \---
 
-## Вступ
+## Introduction
 
-Ти навчишся програмувати власну анімацію!
+You are going to learn how to program your own animation!
 
-### Що ти зробиш
+### What you will make
 
 \--- no-print \---
 
@@ -29,35 +29,35 @@ Click on the green flag to see the animation.
 
 ## \--- collapse \---
 
-## title: Що тобі знадобиться
+## title: What you will need
 
-### Обладнання
+### Hardware
 
-- Комп'ютер, що підтримує Скретч 3
+- A computer capable of running Scratch 3
 
-### Програмне забезпечення
+### Software
 
-- Скретч 3 (або [онлайн](http://rpf.io/scratchon){:target="_ blank"}, або [офлайн](http://rpf.io/scratchoff){:target="_ blank"})
+- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
-### Завантаження
+### Downloads
 
-- Нічого
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: Чого ти навчишся
-
-- Використовувати цикл для анімації персонажа в Скретч
-- Використовувати нескінченний цикл для нескінченної анімації персонажа в Скретч
-- Побачиш, що цикли можуть бути вкладені одне в одного
+- None
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Додаткова інформація для викладачів
+## title: What you will learn
+
+- Use a repeat loop to animate a sprite in Scratch
+- Use a forever loop to repeat an animation indefinitely
+- Understand that loops can be nested within each other
+
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: Additional information for educators
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
