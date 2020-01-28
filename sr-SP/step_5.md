@@ -1,71 +1,70 @@
-## Мајмун који плута
+## Floating monkey
 
-Сада ћеш својој анимацији додати мајмуна који се изгубио у свемиру!
+Now you will add a monkey who's lost in space to your animation!
 
 \--- task \---
 
-Почни тако што ћеш додати лик 'мајмуна' из библиотеке.
+Start by adding the 'monkey' sprite from the library.
 
-![Додавање лика мајмуна](images/space-monkey-sprite.png)
+![Adding a monkey sprite](images/space-monkey-sprite.png)
 
 \--- /task \---
 
-Кликни на новог лика мајмуна, а затим кликни на **Костими**, тако да можеш променити изглед мајмуна.
+Click on your new monkey sprite and then click on **Costumes** so that you can edit how the monkey looks.
 
 \--- task \---
 
-Постави опцију 'Попуни' на транспарентно, тако што ћеш одабрати црвену линију. За контуру, постави белу боју, тако што ћеш померити клизач за Засићење на `0`.
+Set the fill to be transparent by selecting the red line. For the outline, set a white colour by moving the Saturation slider to `0`.
 
-![Направи белу боју](images/make-white.png)
-
-\--- /задатак \---
-
-\--- task \---
-
-Кликни на алат **круг**, а затим га употреби да нацрташ белу свемирску кацигу око мајмунове главе.
-
-![Кацига свемирског мајмуна](images/space-monkey-edit.png)
+![Make white colour](images/make-white.png)
 
 \--- /task \---
 
 \--- task \---
 
-Можеш ли да додаш код лику мајмуна, тако да се заувек полако врти у круг?
+Click on the **circle** tool and then use it to draw a white space helmet around the monkey's head.
+
+![Monkey space helmet](images/space-monkey-edit.png)
+
+\--- /task \---
+
+\--- task \---
+
+Can you add code to your monkey sprite so that it spins slowly in a circle forever?
 
 \--- hints \--- \--- hint \---
 
-Када је кликнуто на **зелену заставицу**, твој мајмун би требао да се **заувек** **окреће** у круг.
+When the green **flag is clicked**, your monkey sprite should **turn** in a circle **forever**.
 
 \--- /hint \--- \--- hint \---
 
-Ево блокова кода који су ти потребни:
+Here are the code blocks you need:
 
 ```blocks3
-понављај заувек
+forever
 end
 
-окрет ↻ за (15) степени
+turn cw (15) degrees
 
-када је кликнуто на ⚑
+when flag clicked
 ```
 
 \--- /hint \--- \--- hint \---
 
-Ево кода који ће направити да се твој мајмун окреће:
+Here's the code to make your monkey spin:
 
-![Лик мајмуна](images/sprite-monkey.png)
+![Monkey sprite](images/sprite-monkey.png)
 
 ```blocks3
-када је кликнуто на ⚑
-понављај заувек 
-  окрет ↻ за (1) степени
-end
+when flag clicked
+forever
+    turn cw (1) degrees
 ```
 
 \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
-Испробај и сачувај свој пројекат. Мораћеш да кликнеш на црвено **заустави** дугме да зауставиш ову анимацију, јер се понавља заувек!
+Test and save your project. You'll have to click on the red **stop** button to end this animation, as it runs forever!
 
-![Испробај мајмуна који се врти](images/space-spin-test.png)
+![Test the spinning monkey](images/space-spin-test.png)
