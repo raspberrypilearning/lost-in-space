@@ -1,6 +1,6 @@
 ## قرد سابح
 
-الآن سوف تضيف قردًا تائهاً في الفضاء إلى الرسوم المتحركة الخاصة بك!
+Now you will add a monkey who's lost in space to your animation!
 
 \--- task \---
 
@@ -41,12 +41,12 @@ When the green **flag is clicked**, your monkey sprite should **turn** in a circ
 Here are the code blocks you need:
 
 ```blocks3
-كرِّر باستمرار
+forever
 end
 
-استدر ↻ (15) درجة
+turn cw (15) degrees
 
-عند نقر ⚑
+when flag clicked
 ```
 
 \--- /hint \--- \--- hint \---
@@ -56,10 +56,9 @@ Here's the code to make your monkey spin:
 ![Monkey sprite](images/sprite-monkey.png)
 
 ```blocks3
-عند نقر ⚑
-كرِّر باستمرار 
-  استدر ↻ (1) درجة
-end
+when flag clicked
+forever
+    turn cw (1) degrees
 ```
 
 \--- /hint \--- \--- /hints \---
