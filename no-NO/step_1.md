@@ -1,14 +1,14 @@
 \--- no-print \---
 
-Dette er en **Scratch 3-versjon** av prosjektet. Det finnes også en [Scratch 2-versjon av prosjektet](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
+This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
 
 \--- /no-print \---
 
-## Introduksjon
+## Introduction
 
-Du skal lære hvordan du programmerer din egen animasjon!
+You are going to learn how to program your own animation!
 
-### Hva du vil lage
+### What you will make
 
 \--- no-print \---
 
@@ -29,35 +29,35 @@ Click on the green flag to see the animation.
 
 ## \--- collapse \---
 
-## title: Hva du trenger
+## title: What you will need
 
-### Maskinvare
+### Hardware
 
-- En datamaskin som kan kjøre Scratch 3
+- A computer capable of running Scratch 3
 
-### Programvare
+### Software
 
-- Scratch 3 (enten [online](http://rpf.io/scratchon){:target="_blank"} eller [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
-### Nedlastninger
+### Downloads
 
-- Ingen
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: Hva du vil lære
-
-- Bruke en repetisjonsløkke for å animere en figur i Scratch
-- Bruke en evig løkke for å gjenta en animasjon for alltid
-- Forstå at løkker kan plasseres inne i hverandre
+- None
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Tilleggsinformasjon for lærere
+## title: What you will learn
+
+- Use a repeat loop to animate a sprite in Scratch
+- Use a forever loop to repeat an animation indefinitely
+- Understand that loops can be nested within each other
+
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: Additional information for educators
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
