@@ -1,14 +1,14 @@
-\--- አትም \---
+\--- no-print \---
 
-ይህ የፕሮጀክቱ **ስከራች 3** ስሪት ነው። በተጨማሪ [ የፕሮጀክቱ ስከራች 2 ስሪትም አለ](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2)።.
+This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
 
-\--- / no-print \---
+\--- /no-print \---
 
-## መግቢያ
+## Introduction
 
-የራስህ/ሽ የሆነ አኒሜሽን እንዴት ፕሮግራም እንደሚደረግ ትማራለኽ/ሽ!
+You are going to learn how to program your own animation!
 
-### የምትሰራው/ሪው ነገር
+### What you will make
 
 \--- no-print \---
 
@@ -29,35 +29,35 @@ Click on the green flag to see the animation.
 
 ## \--- collapse \---
 
-## title: ምን እንደሚያስፈልግኽ/ሽ
+## title: What you will need
 
-### ሃርድ ዌር
+### Hardware
 
-- ስክራች 3 ማሄድ የሚችል ኮምፒውተር
+- A computer capable of running Scratch 3
 
-### ሶፍትዌር
+### Software
 
-- ስክራች 3 (ወይ [ኦንላይን](http://rpf.io/scratchon){: target = "_ blank"} ወይም [ኦፍላይን](http://rpf.io/scratchoff){: target = "_ blank"})
+- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
-### የወረዱ
+### Downloads
 
-- ምንም
+- None
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: ምን እንደምትማር/ሪ
+## title: What you will learn
 
-- በስከራች ውስጥ ስፔራይትን ለማባዛት የድግግሞሽ ሉፕ ተጠቀም/ሚ
+- Use a repeat loop to animate a sprite in Scratch
 - Use a forever loop to repeat an animation indefinitely
-- ሉፕዋች እርስ በርስ ውስጥ ሊሆኑ እንደሚችሉ ተረዳ/ጂ
+- Understand that loops can be nested within each other
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: ለአስተማሪዎች የሚሆን ተጨማሪ መረጃ
+## title: Additional information for educators
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
