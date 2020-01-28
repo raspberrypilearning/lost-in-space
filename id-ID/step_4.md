@@ -1,6 +1,6 @@
-## Animasi menggunakan loop
+## Animation using loops
 
-Cara lain untuk menghidupkan pesawat ruang angkasa adalah dengan memerintahkannya untuk memindahkan sejumlah kecil kali
+Another way to animate the spaceship is to tell it to move a small amount many times
 
 \--- task \---
 
@@ -9,13 +9,13 @@ Delete the `glide`{:class="block3motion"} block from your code. To do this, drag
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-ketika bendera diklik
-titik ke arah (0)
-pergi ke x: (- 150) y: (- 150)
-katakan [Ayo pergi] selama (2) detik
-titik menuju (Earth v)
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
 
-- meluncur (1) dtk ke x: (0) y: (0)
+- glide (1) secs to x:(0) y:(0)
 ```
 
 \--- /task \---
