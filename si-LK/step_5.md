@@ -1,6 +1,6 @@
-## පාවෙන වඳුරා
+## Floating monkey
 
-දැන් ඔබ ඔබේ සජීවිකරණයට(animation එකට) අවකාශයේ(space) අතරමන්(lost) වූ වඳුරෙකු එකතු කරනු ඇත!
+Now you will add a monkey who's lost in space to your animation!
 
 \--- task \---
 
@@ -56,9 +56,9 @@ Here's the code to make your monkey spin:
 ![Monkey sprite](images/sprite-monkey.png)
 
 ```blocks3
-when flag clicked 
+when flag clicked
 forever
-     turn cw (1) degrees
+    turn cw (1) degrees
 ```
 
 \--- /hint \--- \--- /hints \---
