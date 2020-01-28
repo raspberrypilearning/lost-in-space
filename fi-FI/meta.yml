@@ -1,16 +1,16 @@
 ---
-title: Kadonnut avaruudessa
-hero_image: Kuvien / menetetty-in-space.png
-description: Opi animaation ohjelmointi!
+title: Lost in space
+hero_image: images/lost-in-space.png
+description: Learn how to program your own animation!
 original_url: https://www.codeclubprojects.org/en-GB/scratch/lost-in-space
 listed: true
 copyedit: true
-technologies: naarmu
+technologies: scratch
 version: 4.1.3
 last_tested: 2018-09-26
 steps:
   - 
-    title: esittely
+    title: Introduction
   - 
     title: Animating a spaceship
   - 
@@ -19,13 +19,13 @@ steps:
   - 
     title: Animation using loops
   - 
-    title: Kelluva apina
+    title: Floating monkey
   - 
-    title: Pomppiva asteroidi
+    title: Bouncing asteroid
   - 
-    title: Loistava tähti
+    title: Shining star
   - 
-    title: 'Haaste: tee oma animaatio'
+    title: 'Challenge: make your own animation'
     challenge: true
   - 
     title: What next?
