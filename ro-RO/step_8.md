@@ -1,7 +1,7 @@
-## Provocare: creează propria animație
+## Challenge: make your own animation
 
-Oprește animația spațială, salveaz-o și începe un nou proiect Scratch.
+Stop your space animation, save it, and start a new Scratch project.
 
-Utilizează ceea ce ai învățat în acest proiect pentru a crea propria animație. Poate fi orice vrei, dar încearcă să faci animația potrivită cu fundalul pe care îl alegi. Aici sunt cateva exemple:
+Use what you've learned in this project to make your own animation. It can be anything you like, but try to make your animation match the background you choose. Here are some examples:
 
-![captură de ecran](images/space-egs.png)
+![screenshot](images/space-egs.png)
