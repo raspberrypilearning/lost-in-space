@@ -1,6 +1,6 @@
 ## चमकता तारा
 
-अब आप एक चमकता तारा बनाने के लिए कई सरे लूप को जोड़ेंगे।
+Now you will combine loops to make a shining star.
 
 \--- task \---
 
