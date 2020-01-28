@@ -1,4 +1,4 @@
-## Zvijezda koja sija
+## Shining star
 
 Now you will combine loops to make a shining star.
 
