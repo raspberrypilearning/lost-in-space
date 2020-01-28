@@ -4,11 +4,11 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 \--- /no-print \---
 
-## Uvod
+## Introduction
 
-Naučićeš kako da programiraš sopstvenu animaciju!
+You are going to learn how to program your own animation!
 
-### Šta ćeš napraviti
+### What you will make
 
 \--- no-print \---
 
@@ -29,15 +29,15 @@ Click on the green flag to see the animation.
 
 ## \--- collapse \---
 
-## title: Šta će ti biti potrebno
+## title: What you will need
 
-### Hardver
+### Hardware
 
-- Računar koji može da pokrene Scratch 3
+- A computer capable of running Scratch 3
 
-### Softver
+### Software
 
-- Scratch 3 ([online](http://rpf.io/scratchon){:target="_blank"} ili [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 ### Downloads
 
@@ -47,7 +47,7 @@ Click on the green flag to see the animation.
 
 ## \--- collapse \---
 
-## title: Šta ćeš naučiti
+## title: What you will learn
 
 - Use a repeat loop to animate a sprite in Scratch
 - Use a forever loop to repeat an animation indefinitely
