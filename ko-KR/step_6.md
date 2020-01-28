@@ -1,6 +1,6 @@
 ## 튀어다니는 소행성
 
-우주에서 떠다니는 암석을 추가해봅시다.
+Now you will add a floating space rock to your animation.
 
 \--- task \---
 
@@ -25,21 +25,21 @@ When the green **flag is clicked**, your rock sprite should **move** and **bounc
 Here are the code blocks you need:
 
 ```blocks3
-(10) 만큼 움직이기
+move (10) steps
 
-벽에 닿으면 튕기기
+if on edge bounce
 
-flag 클릭했을 때
+when flag clicked
 
-무한 반복
+forever
 ```
 
 You can also set a more interesting starting direction for the rock sprite with one of these blocks:
 
 ```blocks3
-cw 방향으로 (15) 도 회전하기
+turn cw (15) degrees
 
-(Earth v) 쪽 보기
+point towards (Earth v)
 ```
 
 \--- /hint \--- \--- hint \---
@@ -49,11 +49,11 @@ Here's the code for making your rock bounce around the stage:
 ![Rock sprite](images/sprite-rock.png)
 
 ```blocks3
-flag 클릭했을 때
-(Earth v) 쪽 보기
-무한 반복
-    (2) 만큼 움직이기
-    벽에 닿으면 튕기기
+when flag clicked
+point towards (Earth v)
+forever
+    move (2) steps
+    if on edge, bounce
 ```
 
 \--- /hint \--- \--- /hints \--- \--- /task \---
