@@ -1,16 +1,16 @@
-## ተፈታታኝ ሁኔታ: አኒሜሽንሽን ማሻሻል
+## Challenge: improve your animation
 
-በአጠቃቀም ህይወትህ ውስጥ ቁጥሮችን መለወጥ ትችላለህ,
+Can you change the numbers in your animation code so that:
 
-+ ይህ የጠፈር መንኮታ ምድርን እስኪነዳ ድረስ ይንቀሳቀሳል?
-+ ካርበቱ ወደ መሬት ቀስ ብሎ እየገፈገመ ነው?
++ The spaceship moves until it touches the Earth?
++ The spaceship moves more slowly towards the Earth?
 
-በዚህ ሳጥን ውስጥ ያሉትን ቁጥሮች መለወጥ ያስፈልግዎታል:
+You'll need to change the numbers in this block:
 
-![የሮክፕሲፕት ስፔር](images/sprite-spaceship.png)
+![Rocketship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-(1) ሰከንዶች ወደ x (0) y: (0)
+glide (1) secs to x:(0) y:(0)
 ```
 
 [[[generic-scratch3-coordinates]]]
