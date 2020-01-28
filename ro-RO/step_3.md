@@ -1,16 +1,16 @@
-## Provocare: îmbunătățiți animația
+## Challenge: improve your animation
 
-Puteți schimba numerele din codul de animație astfel încât:
+Can you change the numbers in your animation code so that:
 
-+ Nava spațială se mișcă până când atinge Pământul?
-+ Nava spațială se mișcă mai încet spre Pământ?
++ The spaceship moves until it touches the Earth?
++ The spaceship moves more slowly towards the Earth?
 
-Va trebui să modifici numerele din acest cod:
+You'll need to change the numbers in this block:
 
-![Personajul rachetă](images/sprite-spaceship.png)
+![Rocketship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-(1) secunde până la x: (0) y: (0)
+glide (1) secs to x:(0) y:(0)
 ```
 
 [[[generic-scratch3-coordinates]]]
