@@ -1,14 +1,14 @@
-\--- ไม่มีพิมพ์ \---
+\--- no-print \---
 
-นี่คือโครงการ **Scratch 3** ของโครงการ นอกจากนี้ยังมีโครงการ [Scratch 2 เวอร์ชัน](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2)
+This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
 
-\--- / ไม่มีการพิมพ์ \---
+\--- /no-print \---
 
-## บทนำ
+## Introduction
 
-คุณจะได้เรียนรู้วิธีการตั้งโปรแกรมภาพเคลื่อนไหวของคุณเอง!
+You are going to learn how to program your own animation!
 
-### คุณจะทำอะไร
+### What you will make
 
 \--- no-print \---
 
@@ -27,37 +27,37 @@ Click on the green flag to see the animation.
 
 \--- /print-only \---
 
-## \--- ยุบ \---
+## \--- collapse \---
 
-## หัวข้อ: สิ่งที่คุณจะต้อง
+## title: What you will need
 
-### ฮาร์ดแวร์
+### Hardware
 
-- คอมพิวเตอร์ที่สามารถเรียกใช้ Scratch 3 ได้
+- A computer capable of running Scratch 3
 
-### ซอฟต์แวร์
+### Software
 
-- เกา 3 (ทั้ง [ออนไลน์](http://rpf.io/scratchon){: target = "_ blank"} หรือ [ออฟไลน์](http://rpf.io/scratchoff){: target = "_ blank"})
+- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
-### ดาวน์โหลด
+### Downloads
 
-- ไม่มี
-
-\--- / ยุบ \---
-
-## \--- ยุบ \---
-
-## หัวข้อ: สิ่งที่คุณจะได้เรียนรู้
-
-- ใช้วนซ้ำเพื่อทำให้สไปรต์เคลื่อนไหวใน Scratch
-- Use a forever loop to repeat an animation indefinitely
-- เข้าใจว่าลูปสามารถซ้อนกันได้
+- None
 
 \--- /collapse \---
 
-## \--- ยุบ \---
+## \--- collapse \---
 
-## หัวข้อ: ข้อมูลเพิ่มเติมสำหรับนักการศึกษา
+## title: What you will learn
+
+- Use a repeat loop to animate a sprite in Scratch
+- Use a forever loop to repeat an animation indefinitely
+- Understand that loops can be nested within each other
+
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: Additional information for educators
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
