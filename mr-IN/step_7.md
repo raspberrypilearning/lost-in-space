@@ -1,6 +1,6 @@
-## चमकणारा तारा
+## Shining star
 
-आता चमकदार तारा बनविण्यासाठी आपण लूप एकत्र करू.
+Now you will combine loops to make a shining star.
 
 \--- task \---
 
@@ -25,19 +25,19 @@ When the green **flag is clicked**, your star sprite should **change size** to g
 Here are the code blocks you need:
 
 ```blocks3
-पुनरावृत्ती (10)
-शेवट
+repeat (10)
+end
 
-जेव्हा ध्वज क्लिक केले
+when flag clicked
 
-पुनरावृत्ती (10)
-समाप्ती
+repeat (10)
+end
 
-बदल आकार (10)
+change size by (10)
 
-बदलाचे आकार (10)
+change size by (10)
 
-कायमचे
+forever
 ```
 
 \--- /hint \--- \--- hint \---
@@ -47,14 +47,14 @@ Here's the code to make your star grow and shrink:
 ![Star sprite](images/sprite-star.png)
 
 ```blocks3
-जेव्हा ध्वज
-कायमचे क्लिक केले जाते
-    पुनरावृत्ती (20)
-        बदल आकार (2)
-    समाप्ती
-    पुनरावृत्ती (20)
-        बदल आकार (-2)
-    समाप्ती
+when flag clicked
+forever
+    repeat (20)
+        change size by (2)
+    end
+    repeat (20)
+        change size by (-2)
+    end
 
 ```
 
