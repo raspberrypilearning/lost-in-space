@@ -1,6 +1,6 @@
-## तैरने वाला बंदर
+## Floating monkey
 
-चलिए आपकी एनिमेशन में बंदर बनाएँ, जो अन्तरिक्ष में खो गया है!
+Now you will add a monkey who's lost in space to your animation!
 
 \--- task \---
 
