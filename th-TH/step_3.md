@@ -1,16 +1,16 @@
-## ถาม: ปรับปรุงภาพเคลื่อนไหวของคุณ
+## Challenge: improve your animation
 
-คุณสามารถเปลี่ยนตัวเลขในรหัสภาพเคลื่อนไหวของคุณเพื่อ:
+Can you change the numbers in your animation code so that:
 
-+ ยานอวกาศเคลื่อนที่จนกว่าจะสัมผัสโลก?
-+ ยานอวกาศเคลื่อนที่ช้ากว่าไปสู่โลกหรือไม่
++ The spaceship moves until it touches the Earth?
++ The spaceship moves more slowly towards the Earth?
 
-คุณจะต้องเปลี่ยนตัวเลขในบล็อกนี้:
+You'll need to change the numbers in this block:
 
 ![Rocketship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-ร่อน (1) วินาทีถึง x: (0) y: (0)
+glide (1) secs to x:(0) y:(0)
 ```
 
 [[[generic-scratch3-coordinates]]]
