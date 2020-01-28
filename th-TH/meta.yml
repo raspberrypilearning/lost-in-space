@@ -1,31 +1,31 @@
 ---
-title: แพ้ในอวกาศ
-hero_image: images / หายไปใน space.png
-description: เรียนรู้วิธีตั้งโปรแกรมภาพเคลื่อนไหวของคุณเอง!
+title: Lost in space
+hero_image: images/lost-in-space.png
+description: Learn how to program your own animation!
 original_url: https://www.codeclubprojects.org/en-GB/scratch/lost-in-space
 listed: true
 copyedit: true
-technologies: เกา
+technologies: scratch
 version: 4.1.3
-last_tested: 2018/09/26
+last_tested: 2018-09-26
 steps:
   - 
-    title: บทนำ
+    title: Introduction
   - 
-    title: แอนิเมชั่นยานอวกาศ
+    title: Animating a spaceship
   - 
-    title: 'ถาม: ปรับปรุงภาพเคลื่อนไหวของคุณ'
+    title: 'Challenge: improve your animation'
     challenge: true
   - 
-    title: ภาพเคลื่อนไหวโดยใช้ลูป
+    title: Animation using loops
   - 
-    title: ลิงลอยน้ำ
+    title: Floating monkey
   - 
-    title: ดาวเคราะห์น้อยใหญ่
+    title: Bouncing asteroid
   - 
-    title: ดาวส่องแสง
+    title: Shining star
   - 
-    title: 'ถาม: สร้างแอนิเมชันของคุณเอง'
+    title: 'Challenge: make your own animation'
     challenge: true
   - 
     title: What next?
