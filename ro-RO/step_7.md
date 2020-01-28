@@ -1,6 +1,6 @@
-## Stea stralucitoare
+## Shining star
 
-Acum veți combina buclele pentru a crea o stea strălucitoare.
+Now you will combine loops to make a shining star.
 
 \--- task \---
 
@@ -25,19 +25,19 @@ When the green **flag is clicked**, your star sprite should **change size** to g
 Here are the code blocks you need:
 
 ```blocks3
-repetati (10)
-sfarsitul
+repeat (10)
+end
 
-cand apasati steagul
+when flag clicked
 
-repeta (10)
-sfarsitul
+repeat (10)
+end
 
-modificati marimea cu (10)
+change size by (10)
 
-schimbati marimea cu (10)
+change size by (10)
 
-pentru totdeauna
+forever
 ```
 
 \--- /hint \--- \--- hint \---
@@ -47,14 +47,14 @@ Here's the code to make your star grow and shrink:
 ![Star sprite](images/sprite-star.png)
 
 ```blocks3
-când pavilionul a făcut clic
-pentru totdeauna
-    repetare (20)
-        dimensiune schimbare cu (2)
-    final
-    repetare (20)
-        schimbare mărime cu (-2)
-    sfârșit
+when flag clicked
+forever
+    repeat (20)
+        change size by (2)
+    end
+    repeat (20)
+        change size by (-2)
+    end
 
 ```
 
