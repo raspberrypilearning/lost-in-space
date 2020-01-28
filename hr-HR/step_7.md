@@ -1,6 +1,6 @@
-## Blistajuća zvijezda
+## Shining star
 
-Sada ćete kombinirati petlje kako biste napravili sjajnu zvijezdu.
+Now you will combine loops to make a shining star.
 
 \--- task \---
 
