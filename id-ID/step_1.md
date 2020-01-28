@@ -1,14 +1,14 @@
-\--- tidak-dicetak \---
+\--- no-print \---
 
-Ini adalah versi proyek ** Scratch 3 **. Ada juga versi proyek [ Scratch 2 ](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
+This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
 
-\--- /tidak dicetak \---
+\--- /no-print \---
 
-## Pengantar
+## Introduction
 
-Anda akan belajar cara memprogram animasi Anda sendiri!
+You are going to learn how to program your own animation!
 
-### Apa yang akan Kamu buat
+### What you will make
 
 \--- no-print \---
 
@@ -29,25 +29,25 @@ Click on the green flag to see the animation.
 
 ## \--- collapse \---
 
-## title: Apa yang kamu butuhkan
+## title: What you will need
 
-### Perangkat Keras
+### Hardware
 
-- Komputer yang mampu menjalankan Scratch 3
+- A computer capable of running Scratch 3
 
-### Perangkat Lunak
+### Software
 
-- Scratch 3 (baik [online](http://rpf.io/scratchon){:target="_blank"} atau [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
-### Unduhan
+### Downloads
 
-- Tidak ada
+- None
 
-\--- /menggulung \---
+\--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Apa yang akan kamu pelajari
+## title: What you will learn
 
 - Use a repeat loop to animate a sprite in Scratch
 - Use a forever loop to repeat an animation indefinitely
@@ -57,7 +57,7 @@ Click on the green flag to see the animation.
 
 ## \--- collapse \---
 
-## judul: Informasi tambahan untuk pendidik
+## title: Additional information for educators
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
