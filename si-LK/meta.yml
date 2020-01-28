@@ -1,7 +1,7 @@
 ---
-title: "අභ්‍යවකාශයේ අතරමං වීම\n"
-hero_image: images / lost-in-space.png
-description: ඔබේම සජීවිකරණ(animation) වැඩසටහනක්(program එකක්) සාදන්නේ කෙසේදැයි ඉගෙන ගන්න!
+title: Lost in space
+hero_image: images/lost-in-space.png
+description: Learn how to program your own animation!
 original_url: https://www.codeclubprojects.org/en-GB/scratch/lost-in-space
 listed: true
 copyedit: true
@@ -10,22 +10,22 @@ version: 4.1.3
 last_tested: 2018-09-26
 steps:
   - 
-    title: හැදින්වීම
+    title: Introduction
   - 
-    title: අභ්‍යවකාශ යානයක්(spaceship) සජීවිකරණය(animation) කිරීම
+    title: Animating a spaceship
   - 
-    title: 'අභියෝගය: ඔබේ සජීවිකරණය වැඩි දියුණු කරන්න'
+    title: 'Challenge: improve your animation'
     challenge: true
   - 
-    title: ලූප(loops) භාවිතා කරමින් සජීවිකරණය(animation)
+    title: Animation using loops
   - 
-    title: පාවෙන වඳුරා
+    title: Floating monkey
   - 
-    title: ග‍්‍රහකයක් පැන්නවීම(bouncing)
+    title: Bouncing asteroid
   - 
-    title: දිදුලන තරුව
+    title: Shining star
   - 
-    title: 'අභියෝගය: ඔබේම සජීවීකරණයක් සාදන්න'
+    title: 'Challenge: make your own animation'
     challenge: true
   - 
-    title: ඊලඟට කුමක්ද?
+    title: What next?
