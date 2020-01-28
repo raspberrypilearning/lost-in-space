@@ -1,18 +1,18 @@
-## Hoạt hình một tàu vũ trụ
+## Animating a spaceship
 
-Bước đầu tiên của bạn sẽ là tạo ra một con tàu vũ trụ bay về Trái đất!
+Your first step will be to create a spaceship that flies towards the Earth!
 
-\--- bài tập \---
+\--- task \---
 
-Mở một dự án Scratch mới.
+Open a new Scratch project.
 
-**Trực tuyến:** mở một dự án Scratch trực tuyến mới tại [rpf.io/scratch-new](http://rpf.io/scratchon){: target = "_ blank"}.
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
 
-**Ngoại tuyến:** mở một dự án mới trong trình chỉnh sửa ngoại tuyến.
+**Offline:** open a new project in the offline editor.
 
-Nếu bạn cần tải xuống và cài đặt trình soạn thảo ngoại tuyến Scratch, bạn có thể tìm thấy nó tại [rpf.io/scratchoff](http://rpf.io/scratchoff){: target = "_ blank"}.
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-\--- /bài tập \---
+\--- /task \---
 
 \--- task \---
 
@@ -38,7 +38,7 @@ Click on your spaceship sprite, and click on the **Costumes** tab.
 
 ![Sprite costume](images/space-costume.png)
 
-\--- /bài tập \---
+\--- /task \---
 
 \--- task \---
 
@@ -46,7 +46,7 @@ Use the **arrow** tool to click and drag a box around the whole spaceship image.
 
 ![Rotating a costume](images/space-rotate.png)
 
-\--- /bài tập \---
+\--- /task \---
 
 \--- task \---
 
@@ -55,12 +55,12 @@ Add this code to your spaceship sprite:
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-khi cờ nhấp
-điểm theo hướng (0)
-đi đến x: (- 150) y: (- 150)
-nói [Hãy đi] trong (2) giây
-điểm về phía (Trái đất v)
-lướt (1) giây x: (0) y: (0)
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+glide (1) secs to x:(0) y:(0)
 ```
 
 Change the numbers in the code blocks you've added so that the code is exactly the same as above.
