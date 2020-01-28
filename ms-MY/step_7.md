@@ -1,6 +1,6 @@
-## Bintang bersinar
+## Shining star
 
-Sekarang anda akan menggabungkan gelung untuk membuat bintang bersinar.
+Now you will combine loops to make a shining star.
 
 \--- task \---
 
@@ -25,19 +25,19 @@ When the green **flag is clicked**, your star sprite should **change size** to g
 Here are the code blocks you need:
 
 ```blocks3
-ulangi (10)
-hujung
+repeat (10)
+end
 
-apabila bendera diklik
+when flag clicked
 
-ulang (10)
-hujung
+repeat (10)
+end
 
-menukar saiz oleh (10)
+change size by (10)
 
-menukar saiz oleh (10)
+change size by (10)
 
-selamanya
+forever
 ```
 
 \--- /hint \--- \--- hint \---
@@ -47,14 +47,14 @@ Here's the code to make your star grow and shrink:
 ![Star sprite](images/sprite-star.png)
 
 ```blocks3
-apabila bendera diklik
-selamanya
-    ulangi (20)
-        menukar saiz oleh (2)
-    hujung
-    ulangi (20)
-        menukar saiz oleh (-2)
-    hujung
+when flag clicked
+forever
+    repeat (20)
+        change size by (2)
+    end
+    repeat (20)
+        change size by (-2)
+    end
 
 ```
 
