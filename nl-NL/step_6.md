@@ -1,4 +1,4 @@
-## Stuiterende asteroïde
+## Bouncing asteroid
 
 Nu ga je een zwevende ruimtesteen toevoegen aan je animatie.
 
