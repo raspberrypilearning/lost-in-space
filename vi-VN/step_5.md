@@ -1,6 +1,6 @@
-## Khỉ nổi
+## Floating monkey
 
-Bây giờ bạn sẽ thêm một con khỉ bị lạc trong không gian vào hoạt hình của bạn!
+Now you will add a monkey who's lost in space to your animation!
 
 \--- task \---
 
@@ -18,7 +18,7 @@ Set the fill to be transparent by selecting the red line. For the outline, set a
 
 ![Make white colour](images/make-white.png)
 
-\--- /bài tập \---
+\--- /task \---
 
 \--- task \---
 
@@ -41,12 +41,12 @@ When the green **flag is clicked**, your monkey sprite should **turn** in a circ
 Here are the code blocks you need:
 
 ```blocks3
-mãi mãi
-kết thúc
+forever
+end
 
-lượt cw (15) độ
+turn cw (15) degrees
 
-khi cờ được nhấp
+when flag clicked
 ```
 
 \--- /hint \--- \--- hint \---
@@ -56,9 +56,9 @@ Here's the code to make your monkey spin:
 ![Monkey sprite](images/sprite-monkey.png)
 
 ```blocks3
-khi cờ nhấp
-mãi mãi
-    lượt cw (1) độ
+when flag clicked
+forever
+    turn cw (1) degrees
 ```
 
 \--- /hint \--- \--- /hints \---
