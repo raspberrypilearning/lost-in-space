@@ -1,6 +1,6 @@
-## Loops वापरून अॅनिमेशन
+## Animation using loops
 
-स्पेसशिप चे चेतना करण्याचा आणखी एक मार्ग म्हणजे तो एक लहान रक्कम अनेक वेळा हलवण्यास सांगतो
+Another way to animate the spaceship is to tell it to move a small amount many times
 
 \--- task \---
 
@@ -9,13 +9,13 @@ Delete the `glide`{:class="block3motion"} block from your code. To do this, drag
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-जेव्हा ध्वज
-बिंदू दिशेने क्लिक केले (0)
-x वर जा: (- 150) y: (- 150)
-म्हणूया [चला जाऊ] साठी (2) सेकंद
-पॉइंट दिशेने (पृथ्वी विरुद्ध)
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
 
-- गळ (1) सेकंद x: (0) y: (0)
+- glide (1) secs to x:(0) y:(0)
 ```
 
 \--- /task \---
