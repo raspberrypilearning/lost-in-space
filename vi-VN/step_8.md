@@ -1,7 +1,7 @@
-## Thách thức: tạo hoạt ảnh của riêng bạn
+## Challenge: make your own animation
 
-Dừng hoạt hình không gian của bạn, lưu nó và bắt đầu một dự án Scratch mới.
+Stop your space animation, save it, and start a new Scratch project.
 
-Sử dụng những gì bạn đã học được trong dự án này để tạo hoạt hình của riêng bạn. Nó có thể là bất cứ điều gì bạn thích, nhưng hãy cố gắng làm cho hoạt hình của bạn phù hợp với nền bạn chọn. Dưới đây là một số ví dụ:
+Use what you've learned in this project to make your own animation. It can be anything you like, but try to make your animation match the background you choose. Here are some examples:
 
-![ảnh chụp màn hình](images/space-egs.png)
+![screenshot](images/space-egs.png)
