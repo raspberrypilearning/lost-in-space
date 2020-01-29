@@ -4,25 +4,25 @@
 
 \--- task \---
 
-Add a 'rock' sprite to your animation.
+添加一個名為 rock（岩石）的角色到你的動畫裡。
 
-![Adding a rock sprite](images/space-rock-sprite.png)
+![添加一個岩石角色](images/space-rock-sprite.png)
 
 \--- /task \---
 
 \--- task \---
 
-Can you add code for your rock sprite so that the rock bounces around the stage?
+你可以為岩石編寫程式，讓它在舞台上四處彈跳嗎？
 
-![Testing a bouncing rock](images/space-bounce-test.png)
+![測試一個彈跳的岩石](images/space-bounce-test.png)
 
 \--- hints \--- \--- hint \---
 
-When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**.
+當**綠旗被點擊**時，你的岩石角色應該**不停**的**移動**，而且一碰到邊緣就**反彈**。
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+這裡是你需要的程式積木：
 
 ```blocks3
 移動 (10) 點
@@ -34,7 +34,7 @@ Here are the code blocks you need:
 重複無限次
 ```
 
-You can also set a more interesting starting direction for the rock sprite with one of these blocks:
+你也可以用下面其中一個積木，讓岩石角色朝不同的方向移動：
 
 ```blocks3
 右轉 @turnright (15) 度
@@ -44,9 +44,9 @@ You can also set a more interesting starting direction for the rock sprite with 
 
 \--- /hint \--- \--- hint \---
 
-Here's the code for making your rock bounce around the stage:
+這是讓岩石不斷彈跳的程式：
 
-![Rock sprite](images/sprite-rock.png)
+![岩石角色](images/sprite-rock.png)
 
 ```blocks3
 當 @greenflag 被點擊
