@@ -4,41 +4,41 @@
 
 \--- task \---
 
-Start by adding the 'monkey' sprite from the library.
+從範例庫中添加一個名為 monkey 的角色。
 
-![Adding a monkey sprite](images/space-monkey-sprite.png)
-
-\--- /task \---
-
-Click on your new monkey sprite and then click on **Costumes** so that you can edit how the monkey looks.
-
-\--- task \---
-
-Set the fill to be transparent by selecting the red line. For the outline, set a white colour by moving the Saturation slider to `0`.
-
-![Make white colour](images/make-white.png)
+![添加一個猴子角色](images/space-monkey-sprite.png)
 
 \--- /task \---
 
+在新的猴子角色上點一下然後切換到**造型**頁籤，我們來修改猴子的外觀。
+
 \--- task \---
 
-Click on the **circle** tool and then use it to draw a white space helmet around the monkey's head.
+把顏色填滿設定為透明（紅線圖示） ，外框部分則是移動彩度滑桿到 `0`，讓它變成白色。
 
-![Monkey space helmet](images/space-monkey-edit.png)
+![設定白色](images/make-white.png)
 
 \--- /task \---
 
 \--- task \---
 
-Can you add code to your monkey sprite so that it spins slowly in a circle forever?
+點擊**圓形**工具，在猴子頭上畫出一個白色輪廓的太空頭盔。
+
+![猴子的太空頭盔](images/space-monkey-edit.png)
+
+\--- /task \---
+
+\--- task \---
+
+你能添加一些程式，讓猴子不停在空中打轉嗎？
 
 \--- hints \--- \--- hint \---
 
-When the green **flag is clicked**, your monkey sprite should **turn** in a circle **forever**.
+當**綠旗被點擊**時，你的猴子角色應該**轉**個圈，然後**重複無限次**。
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+這裡是你需要的程式積木：
 
 ```blocks3
 重複無限次
@@ -51,9 +51,9 @@ end
 
 \--- /hint \--- \--- hint \---
 
-Here's the code to make your monkey spin:
+這個是讓猴子打轉的程式：
 
-![Monkey sprite](images/sprite-monkey.png)
+![猴子角色](images/sprite-monkey.png)
 
 ```blocks3
 當 @greenflag 被點擊
@@ -66,6 +66,6 @@ end
 
 \--- /task \---
 
-Test and save your project. You'll have to click on the red **stop** button to end this animation, as it runs forever!
+測試並儲存你的專案，記得要點擊紅色的**停止**圖示結束運作，不然你的猴子會轉個不停。
 
-![Test the spinning monkey](images/space-spin-test.png)
+![測試打轉的猴子](images/space-spin-test.png)
