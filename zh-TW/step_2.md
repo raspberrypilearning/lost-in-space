@@ -26,9 +26,9 @@ Add 'rocketship' and 'Earth' sprites to your Stage.
 
 \--- task \---
 
-Add the 'Stars' backdrop to your Stage.
+為舞台添加一個新的背景 Stars（星空）。
 
-![A space backdrop](images/space-backdrop.png)
+![一個太空背景](images/space-backdrop.png)
 
 \--- /task \---
 
@@ -36,7 +36,7 @@ Add the 'Stars' backdrop to your Stage.
 
 Click on your spaceship sprite, and click on the **Costumes** tab.
 
-![Sprite costume](images/space-costume.png)
+![角色造型](images/space-costume.png)
 
 \--- /task \---
 
@@ -44,7 +44,7 @@ Click on your spaceship sprite, and click on the **Costumes** tab.
 
 Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
 
-![Rotating a costume](images/space-rotate.png)
+![旋轉一個造型](images/space-rotate.png)
 
 \--- /task \---
 
