@@ -84,7 +84,7 @@
 
 你會用到這些積木：
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![太空船角色](images/sprite-spaceship.png)
 
 ```blocks3
 尺寸改變 (10)
