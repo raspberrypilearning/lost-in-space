@@ -10,13 +10,13 @@ Open een nieuw Scratch project.
 
 **Offline:** open een nieuw project in de offline editor.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Als je de Scratch offline editor wilt downloaden en installeren dan kun je die vinden op [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
 \--- task \---
 
-Add 'rocketship' and 'Earth' sprites to your Stage.
+Voeg de 'Rocketship' en 'Earth' sprites toe aan je speelveld.
 
 ![Spaceship and Earth sprites](images/space-sprites.png)
 
@@ -26,33 +26,33 @@ Add 'rocketship' and 'Earth' sprites to your Stage.
 
 \--- task \---
 
-Add the 'Stars' backdrop to your Stage.
+Voeg de achtergrond 'Stars' toe aan je werkgebied.
 
-![A space backdrop](images/space-backdrop.png)
-
-\--- /task \---
-
-\--- task \---
-
-Click on your spaceship sprite, and click on the **Costumes** tab.
-
-![Sprite costume](images/space-costume.png)
+![De ruimte als achtergrond](images/space-backdrop.png)
 
 \--- /task \---
 
 \--- task \---
 
-Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+Klik eerst op de sprite van je ruimteschip en klik vervolgens op de tab **Uiterlijken**.
 
-![Rotating a costume](images/space-rotate.png)
+![Sprite uiterlijk](images/space-costume.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add this code to your spaceship sprite:
+Gebruik het **pijl**-gereedschap om te klikken en een rechthoek om de hele ruimteschipafbeelding te slepen. Klik dan op het **draai**-hendeltje, en draai de afbeelding tot die op zijn kant ligt.
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Een uiterlijk draaien](images/space-rotate.png)
+
+\--- /task \---
+
+\--- task \---
+
+Voeg deze code toe aan de sprite van je ruimteschip:
+
+![Ruimteschip sprite](images/sprite-spaceship.png)
 
 ```blocks3
 wanneer groene vlag wordt aangeklikt
@@ -63,10 +63,10 @@ richt naar (Earth v)
 schuif in (1) sec. naar x: (0) y: (0)
 ```
 
-Change the numbers in the code blocks you've added so that the code is exactly the same as above.
+Wijzig de getallen in de codeblokken die je hebt toevoegd, zodat de code precies hetzelfde is als hierboven.
 
 \--- /task \---
 
-If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
+Als je op de groene vlag klikt zie je het ruimteschip praten, draaien en naar het midden van het speelveld zweven.
 
-![Testing a spaceship animation](images/space-animate-stage.png)
+![Een ruimteschip-animatie testen](images/space-animate-stage.png)
