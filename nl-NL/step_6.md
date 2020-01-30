@@ -1,28 +1,28 @@
-## Bouncing asteroid
+## Stuiterende asteroïde
 
 Nu ga je een zwevende ruimtesteen toevoegen aan je animatie.
 
 \--- task \---
 
-Add a 'rock' sprite to your animation.
+Voeg een 'rock'-sprite toe aan je animatie.
 
-![Adding a rock sprite](images/space-rock-sprite.png)
+![Een steen-sprite toevoegen](images/space-rock-sprite.png)
 
 \--- /task \---
 
 \--- task \---
 
-Can you add code for your rock sprite so that the rock bounces around the stage?
+Kun je aan je steen-sprite code toevoegen, zodanig dat hij rondstuitert door het speelveld?
 
-![Testing a bouncing rock](images/space-bounce-test.png)
+![Een stuiterende steen testen](images/space-bounce-test.png)
 
 \--- hints \--- \--- hint \---
 
-When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**.
+Als je op de **groene vlag klikt** zou de rots-sprite **stappen moeten zetten** en **herhaal**delijk moeten **omkeren aan de rand** van het speelveld.
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+Dit zijn de codeblokken die je nodig hebt:
 
 ```blocks3
 maak (10) stappen
@@ -34,7 +34,7 @@ wanneer groene vlag wordt aangeklikt
 herhaal
 ```
 
-You can also set a more interesting starting direction for the rock sprite with one of these blocks:
+Je kunt een nog boeiender startrichting van de steen-sprite instellen met één van deze blokken:
 
 ```blocks3
 draai (15) graden rechtsom
@@ -44,9 +44,9 @@ richt naar (Earth v)
 
 \--- /hint \--- \--- hint \---
 
-Here's the code for making your rock bounce around the stage:
+Met deze code laat je de steen rondstuiteren over het speelveld:
 
-![Rock sprite](images/sprite-rock.png)
+![Steen-sprite](images/sprite-rock.png)
 
 ```blocks3
 wanneer groene vlag wordt aangeklikt
