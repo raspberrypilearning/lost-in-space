@@ -1,9 +1,9 @@
-## Challenge: improve your animation
+## Een ruimteschip animeren
 
 Kun je de getallen in je animatiecode wijzigen, zodat:
 
-+ The spaceship moves until it touches the Earth?
-+ The spaceship moves more slowly towards the Earth?
++ Het ruimteschip beweegt totdat het de aarde raakt?
++ Het ruimteschip zich langzamer naar de aarde beweegt?
 
 Je zult de getallen in dit blok moeten wijzigen:
 
