@@ -4,41 +4,41 @@ Nu voeg je aan je animatie een aap toe, die verdwaald is in de ruimte!
 
 \--- task \---
 
-Start by adding the 'monkey' sprite from the library.
+Begin met het toevoegen van de 'monkey'-sprite uit de bibliotheek.
 
-![Adding a monkey sprite](images/space-monkey-sprite.png)
-
-\--- /task \---
-
-Click on your new monkey sprite and then click on **Costumes** so that you can edit how the monkey looks.
-
-\--- task \---
-
-Set the fill to be transparent by selecting the red line. For the outline, set a white colour by moving the Saturation slider to `0`.
-
-![Make white colour](images/make-white.png)
+![Een aap-sprite toevoegen](images/space-monkey-sprite.png)
 
 \--- /task \---
 
+Klik op de nieuwe aap-sprite en daarna op **Uiterlijken** om het uiterlijk van de aap aan te passen.
+
 \--- task \---
 
-Click on the **circle** tool and then use it to draw a white space helmet around the monkey's head.
+Stel een doorzichtige opvulling in door de rode lijn te selecteren. Stel een witte rand in door de Verzadiging naar `0` te schuiven.
 
-![Monkey space helmet](images/space-monkey-edit.png)
+![Witte kleur instellen](images/make-white.png)
 
 \--- /task \---
 
 \--- task \---
 
-Can you add code to your monkey sprite so that it spins slowly in a circle forever?
+Klik op het **Cirkel** gereedschap en gebruik dit om een witte ruimtehelm rond het hoofd van de aap te tekenen.
+
+![Ruimtehelm voor de aap](images/space-monkey-edit.png)
+
+\--- /task \---
+
+\--- task \---
+
+Kun je code aan je monkey-sprite toevoegen, zodat die de hele tijd langzaam in een cirkel ronddraait?
 
 \--- hints \--- \--- hint \---
 
-When the green **flag is clicked**, your monkey sprite should **turn** in a circle **forever**.
+Wanneer de **groene vlag wordt aangeklikt** zou je aap-sprite steeds weer **herhaal**de rondjes moeten blijven **draai**en.
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+Dit zijn de codeblokken die je nodig hebt:
 
 ```blocks3
 herhaal
@@ -51,9 +51,9 @@ wanneer op groene vlag wordt geklikt
 
 \--- /hint \--- \--- hint \---
 
-Here's the code to make your monkey spin:
+Dit is de code om je aap te laten ronddraaien:
 
-![Monkey sprite](images/sprite-monkey.png)
+![Aap-sprite](images/sprite-monkey.png)
 
 ```blocks3
 wanneer groene vlag wordt aangeklikt
@@ -65,6 +65,6 @@ draai (1) graad rechtsom
 
 \--- /task \---
 
-Test and save your project. You'll have to click on the red **stop** button to end this animation, as it runs forever!
+Test en bewaar je project. Druk op de rode **stop**-knop om de animatie te stoppen, anders blijft hij maar doorgaan!
 
-![Test the spinning monkey](images/space-spin-test.png)
+![Test de ronddraaiende aap](images/space-spin-test.png)
