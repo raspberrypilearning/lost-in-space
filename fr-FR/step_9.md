@@ -17,9 +17,14 @@ Essaye le projet [Chasseurs de fantômes](https://projects.raspberrypi.org/fr-FR
 
 --- /print-only ---
 
+***
 
-**Traduction de la communauté**
+Ce projet a été traduit par des bénévoles:
 
-Ce projet a été traduit par **Jonathan Vannieuwkerke** et vérifié par **Sarah Jane Hubbard**/**Simon Gleises**.
+Jonathan Vannieuwkerk
 
-Nos incroyables bénévoles de traduction nous aident à donner aux enfants du monde entier la chance d'apprendre à coder. Vous pouvez nous aider à atteindre plus d'enfants en traduisant nos projets - en savoir plus sur [rpf.io/translate](https://rpf.io/translate).
+Sarah Jane Hubbard
+
+Simon Gleises
+
+Grâce aux bénévoles, nous pouvons donner aux gens du monde entier la chance d'apprendre dans leur propre langue. Vous pouvez nous aider à atteindre plus de personnes en vous portant volontaire pour la traduction - plus d'informations sur [rpf.io/translate](https://rpf.io/translate).
