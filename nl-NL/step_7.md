@@ -1,10 +1,10 @@
 ## Flonkerende ster
 
-Now you will combine loops to make a shining star.
+Nu ga je verschillende lussen combineren om een fonkelende ster te maken.
 
 \--- task \---
 
-Add a 'star' sprite to your stage.
+Voeg de 'Star' sprite toe aan je speelveld.
 
 ![Adding a star sprite](images/space-star-sprite.png)
 
@@ -12,17 +12,17 @@ Add a 'star' sprite to your stage.
 
 \--- task \---
 
-Can you add code to your star sprite to make the star repeatedly grow and shrink?
+Kun je aan je ster-sprite code toevoegen om de ster afwisselend groter en kleiner te laten worden?
 
 ![Testing a shining star](images/sprite-star.png)
 
 \--- hints \--- \--- hint \---
 
-When the green **flag is clicked**, your star sprite should **change size** to get bigger a few times, and then **change size** to get smaller a few times. It should do this so that it gets bigger and then smaller **forever** and looks like it's shining light.
+Als de **groene vlag wordt aangeklikt** kun je een paar keer met **verander grootte met** de ster groter maken en met **verander grootte met** die ook weer kleiner maken. De ster zou **herhaal**delijk groter en dan kleiner moeten worden, zodat het eruit ziet als een flonkerende ster.
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+Dit zijn de codeblokken die je nodig hebt:
 
 ```blocks3
 herhaal (10) keer
@@ -42,9 +42,9 @@ herhaal
 
 \--- /hint \--- \--- hint \---
 
-Here's the code to make your star grow and shrink:
+Dit is de code die je nodig hebt om de ster groter en kleiner te maken:
 
-![Star sprite](images/sprite-star.png)
+![Ster-sprite](images/sprite-star.png)
 
 ```blocks3
 wanneer groene vlag wordt aangeklikt
