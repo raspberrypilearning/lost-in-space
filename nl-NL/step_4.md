@@ -4,9 +4,9 @@ Een andere manier om het ruimteschip te laten bewegen is door te vertellen dat h
 
 \--- task \---
 
-Delete the `glide`{:class="block3motion"} block from your code. To do this, drag the block off the Code area and drop it back where the other single code blocks are.
+Verwijder het `schuif`{:class="block3motion"} blok uit je code. Dit kun je doen door het blok uit het codegebied te slepen, om het vervolgens neer te zetten in het gebied met de losse codeblokken.
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Ruimteschip sprite](images/sprite-spaceship.png)
 
 ```blocks3
 wanneer groene vlag wordt aangeklikt
@@ -22,11 +22,11 @@ richt naar (Earth v)
 
 \--- task \---
 
-Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
+Gebruik nu een `herhaal`{:class="block3control"} blok om je ruimteschip naar de aarde te laten bewegen?
 
-![Testing a spaceship animation](images/space-animate-stage.png)
+![Een ruimteschip-animatie testen](images/space-animate-stage.png)
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Ruimteschip sprite](images/sprite-spaceship.png)
 
 ```blocks3
 wanneer groene vlag wordt aangeklikt
@@ -39,17 +39,17 @@ richt naar (Aarde v)
    maak (2) stappen
 ```
 
-Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
+Test en bewaar je code. Je ruimteschip zou nog steeds naar de aarde moeten bewegen, maar nu met een `herhaal`{:class="block3control"}-blok.
 
 \--- /task \---
 
 \--- task \---
 
-Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
+Voeg vervolgens code toe aan je ruimteschip sprite, zodat het ruimteschip van kleur verandert terwijl het naar de aarde beweegt?
 
-Use this block:
+Gebruik dit blok:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Ruimteschip sprite](images/sprite-spaceship.png)
 
 ```blocks3
 wanneer groene vlag wordt aangeklikt
@@ -62,7 +62,7 @@ herhaal (200)
 + verander [kleur v] -effect met (25)
 ```
 
-Test and save your code.
+Test en sla je code op.
 
 ![Testing a colour-changing spaceship](images/space-colour-test.png)
 
@@ -70,19 +70,19 @@ Test and save your code.
 
 \--- task \---
 
-Can you make your spaceship get smaller as it moves towards Earth?
+Kan je je ruimteschip kleiner maken naarmate het dichter naar de aarde toe beweegt?
 
 \--- hints \---
 
 \--- hint \---
 
-Your spaceship should start at `100% size`{:class="blocklooks"}, and then `change size`{:class="blocklooks"} by a small amount each time it moves.
+Je ruimteschip moet starten op `100% grootte`{:class="block3looks"}, en vervolgens `verander grootte`{:class="block3looks"} met een klein beetje veranderen, telkens wanneer het beweegt.
 
 \--- /hint \---
 
 \--- hint \---
 
-You will need to add these blocks to your code:
+Je moet deze blokken toevoegen aan je code:
 
 ![Ruimteschip sprite](images/sprite-spaceship.png)
 
@@ -96,9 +96,9 @@ maak grootte (100) %
 
 \--- hint \---
 
-Your code should look like this:
+Je code zou er als volgt uit moeten zien:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Ruimteschip sprite](images/sprite-spaceship.png)
 
 ```blocks3
 wanneer groene vlag wordt aangeklikt
@@ -119,6 +119,6 @@ herhaal (200)
 
 \--- /task \---
 
-Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
+Test en bewaar je code. Je ruimteschip zou nu kleiner moeten worden als het beweegt. Test je ruimteschip een **tweede keer**. Heeft het de juiste grootte bij het begin?
 
 ![Testing a shrinking spaceship](images/space-size-test.png)
