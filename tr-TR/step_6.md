@@ -4,25 +4,25 @@
 
 \--- task \---
 
-Add a 'rock' sprite to your animation.
+Animasyonunuza bir 'taş' kuklası ekleyin.
 
-![Adding a rock sprite](images/space-rock-sprite.png)
+![Taş kuklası ekleme](images/space-rock-sprite.png)
 
 \--- /task \---
 
 \--- task \---
 
-Can you add code for your rock sprite so that the rock bounces around the stage?
+Taşın sahnenin etrafında zıplayabilmesi için taş kuklanıza bir kod ekleyebilir misiniz?
 
-![Testing a bouncing rock](images/space-bounce-test.png)
+![Zıplayan bir taşın test edilmesi](images/space-bounce-test.png)
 
 \--- hints \--- \--- hint \---
 
-When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**.
+Yeşil **bayrak tıklandığında**, taş kuklanız sahne etrafında **hareket etmeli** ve **sonsuza dek sıçramalı**.
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+İhtiyacınız olan kod blokları:
 
 ```blocks3
 move (10) steps
@@ -34,7 +34,7 @@ when flag clicked
 forever
 ```
 
-You can also set a more interesting starting direction for the rock sprite with one of these blocks:
+Bu kod bloklardan biriyle taş kuklanız için daha ilginç bir başlangıç yönü belirleyebilirsiniz:
 
 ```blocks3
 turn cw (15) degrees
@@ -44,9 +44,9 @@ point towards (Earth v)
 
 \--- /hint \--- \--- hint \---
 
-Here's the code for making your rock bounce around the stage:
+İşte taşınızı sahnenin etrafında zıplatmak için gerekli kod:
 
-![Rock sprite](images/sprite-rock.png)
+![Taş kuklası](images/sprite-rock.png)
 
 ```blocks3
 when flag clicked
