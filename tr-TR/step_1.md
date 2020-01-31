@@ -12,7 +12,7 @@ Kendi animasyonunuzu nasıl programlayacağınızı öğreneceksiniz!
 
 \--- no-print \---
 
-Click on the green flag to see the animation.
+Animasyonu görmek için yeşil bayrağa tıklayın.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -23,7 +23,7 @@ Click on the green flag to see the animation.
 
 \--- print-only \---
 
-![Complete project](images/showcase_static.png)
+![Tamamlanmış proje](images/showcase_static.png)
 
 \--- /print-only \---
 
@@ -59,8 +59,8 @@ Click on the green flag to see the animation.
 
 ## title: Eğitimciler için ek bilgiler
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
+Bu projeyi yazdırmanız gerekiyorsa, lütfen [yazıcı dostu sürüm](https://projects.raspberrypi.org/en/projects/lost-in-space/print)ü kullanın{:target="_blank"}.
 
-You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+[Tamamlanmış projeye buradan](http://rpf.io/p/en/lost-in-space-get) ulaşabilirsiniz {:target="_blank"}.
 
 \--- /collapse \---
