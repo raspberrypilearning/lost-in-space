@@ -4,25 +4,25 @@
 
 \--- task \---
 
-Add a 'star' sprite to your stage.
+Sahnene bir 'yıldız' kuklası ekle.
 
-![Adding a star sprite](images/space-star-sprite.png)
+![Bir yıldız kuklası ekleme](images/space-star-sprite.png)
 
 \--- /task \---
 
 \--- task \---
 
-Can you add code to your star sprite to make the star repeatedly grow and shrink?
+Yıldızı sürekli olarak büyütüp küçültmek için yıldız kuklanıza bir kod ekleyebilir misiniz?
 
-![Testing a shining star](images/sprite-star.png)
+![Parlayan bir yıldızı test etme](images/sprite-star.png)
 
 \--- hints \--- \--- hint \---
 
-When the green **flag is clicked**, your star sprite should **change size** to get bigger a few times, and then **change size** to get smaller a few times. It should do this so that it gets bigger and then smaller **forever** and looks like it's shining light.
+Yeşil **bayrak tıklandığında**, yıldız kuklan önce biraz büyümek için **boyut değiştirir**, sonra da biraz küçülmek için **boyut değiştirir**. Bunu yapmalı ki **sonsuza kadar** büyüyüp küçülerek parlayan bir yıldız gibi gözüksün.
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+İhtiyacınız olan kod blokları:
 
 ```blocks3
 repeat (10)
@@ -42,9 +42,9 @@ forever
 
 \--- /hint \--- \--- hint \---
 
-Here's the code to make your star grow and shrink:
+İşte yıldızınızı büyütüp küçültmek için kullanabileceğiniz kod:
 
-![Star sprite](images/sprite-star.png)
+![Yıldız kuklası](images/sprite-star.png)
 
 ```blocks3
 when flag clicked
