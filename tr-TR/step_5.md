@@ -4,41 +4,41 @@
 
 \--- task \---
 
-Start by adding the 'monkey' sprite from the library.
+Kütüphaneden 'maymun' kuklasını ekleyerek başlayın.
 
-![Adding a monkey sprite](images/space-monkey-sprite.png)
-
-\--- /task \---
-
-Click on your new monkey sprite and then click on **Costumes** so that you can edit how the monkey looks.
-
-\--- task \---
-
-Set the fill to be transparent by selecting the red line. For the outline, set a white colour by moving the Saturation slider to `0`.
-
-![Make white colour](images/make-white.png)
+![Bir maymun kukla ekleme](images/space-monkey-sprite.png)
 
 \--- /task \---
 
+Yeni maymun kuklanıza tıklayın, ardından maymunun görünüşünü düzenleyebilmek için **Kostümler** seçeneğine tıklayın.
+
 \--- task \---
 
-Click on the **circle** tool and then use it to draw a white space helmet around the monkey's head.
+Dolguyu kırmızı çizgiyi seçerek saydam olacak şekilde ayarlayın. Ana hat için, doygunluk değerini `0`'a getirerek beyaz renge ayarlayın.
 
-![Monkey space helmet](images/space-monkey-edit.png)
+![Beyaz renk yapma](images/make-white.png)
 
 \--- /task \---
 
 \--- task \---
 
-Can you add code to your monkey sprite so that it spins slowly in a circle forever?
+**Daire** aracına tıklayın ve maymunun kafasının etrafına beyaz bir uzay kaskı çizmek için kullanın.
+
+![Maymun uzay kaskı](images/space-monkey-edit.png)
+
+\--- /task \---
+
+\--- task \---
+
+Maymun kuklanıza sonsuza dek bir daire içinde yavaşça dönmesi için bir kod ekleyebilir misiniz?
 
 \--- hints \--- \--- hint \---
 
-When the green **flag is clicked**, your monkey sprite should **turn** in a circle **forever**.
+Yeşil **bayrak tıklandığında**, maymun kuklanız **sonsuza dek** bir daire içinde **dönmeli**.
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+İhtiyacınız olan kod blokları:
 
 ```blocks3
 forever
@@ -51,9 +51,9 @@ when flag clicked
 
 \--- /hint \--- \--- hint \---
 
-Here's the code to make your monkey spin:
+İşte maymunun dönmesini sağlayacak kod:
 
-![Monkey sprite](images/sprite-monkey.png)
+![Maymun kukla](images/sprite-monkey.png)
 
 ```blocks3
 when flag clicked
@@ -65,6 +65,6 @@ forever
 
 \--- /task \---
 
-Test and save your project. You'll have to click on the red **stop** button to end this animation, as it runs forever!
+Projenizi test edin ve kaydedin. Bu animasyon sonsuza kadar devam edeceğinden onu sonlandırmak için kırmızı **durdur** butonuna tıklamanız gerekecek!
 
-![Test the spinning monkey](images/space-spin-test.png)
+![Dönen maymunu test et](images/space-spin-test.png)
