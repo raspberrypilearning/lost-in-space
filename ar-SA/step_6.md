@@ -1,6 +1,6 @@
 ## كويكب يرتدّ
 
-Now you will add a floating space rock to your animation.
+الآن سنقوم بإضافة صخرة عائمة في الفضاء إلى الرسم المتحرك.
 
 \--- task \---
 
