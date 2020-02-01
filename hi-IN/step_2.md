@@ -16,7 +16,7 @@
 
 \--- task \---
 
-Add 'rocketship' and 'Earth' sprites to your Stage.
+अपनी स्टेज में 'अनतरिक्ष यान' और 'पृथ्वी' स्प्राइट जोड़ें।
 
 ![अंतरिक्ष यान और पृथ्वी sprites](images/space-sprites.png)
 
@@ -34,7 +34,7 @@ Add 'rocketship' and 'Earth' sprites to your Stage.
 
 \--- task \---
 
-Click on your spaceship sprite, and click on the **Costumes** tab.
+अपने अनतरिक्ष-यान स्प्राइट पर क्लिक करें, और **Costumes** टैब पर क्लिक करें।
 
 ![Sprite costume](images/space-costume.png)
 
@@ -42,7 +42,7 @@ Click on your spaceship sprite, and click on the **Costumes** tab.
 
 \--- task \---
 
-Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+**तीर** टूल का उपयोग एक बॉक्स को क्लिक करने और अंतरिक्ष यान के छवि के चारों ओर खींचने के लिए करें। फिर गोल **रोटेट** हैंडल पर क्लिक करें और छवि को तब तक घुमाएं जब तक वह अपने किनारे पर न हो।
 
 ![एक costume को घुमाते हुए](images/space-rotate.png)
 
@@ -50,7 +50,7 @@ Use the **arrow** tool to click and drag a box around the whole spaceship image.
 
 \--- task \---
 
-Add this code to your spaceship sprite:
+इस कोड को अपने अंतरिक्ष यान स्प्राइट में जोड़ें:
 
 ![अंतरिक्ष यान sprite](images/sprite-spaceship.png)
 
@@ -63,10 +63,10 @@ point towards (Earth v)
 glide (1) secs to x:(0) y:(0)
 ```
 
-Change the numbers in the code blocks you've added so that the code is exactly the same as above.
+कोड ब्लॉक्स में आपके जोड़े हुए संख्याओं को बदलें ताकि कोड सटीक रूप से उपर्युक्त छवि जैसा दिखाई दे।
 
 \--- /task \---
 
-If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
+यदि आप हरे फ्लैग पर क्लिक करते हैं, तो आप देखेंगे कि अंतरिक्ष यान बोलता है, मुड़ता है, और स्टेज के केंद्र की ओर बढ़ता है।
 
-![Testing a spaceship animation](images/space-animate-stage.png)
+![एक अंतरिक्ष यान एनीमेशन का परीक्षण](images/space-animate-stage.png)
