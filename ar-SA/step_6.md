@@ -4,7 +4,7 @@
 
 \--- task \---
 
-Add a 'rock' sprite to your animation.
+أضف كائن "الصخرة" الى الرسم المتحرك.
 
 ![Adding a rock sprite](images/space-rock-sprite.png)
 
@@ -12,7 +12,7 @@ Add a 'rock' sprite to your animation.
 
 \--- task \---
 
-Can you add code for your rock sprite so that the rock bounces around the stage?
+هل يمكنك إضافة تعليمات برمجية لكائن الصخرة الخاصة بك بحيث ترتد حول المنصة؟
 
 ![Testing a bouncing rock](images/space-bounce-test.png)
 
