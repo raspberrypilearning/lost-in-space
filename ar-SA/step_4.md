@@ -4,66 +4,67 @@
 
 \--- task \---
 
-Delete the `glide`{:class="block3motion"} block from your code. To do this, drag the block off the Code area and drop it back where the other single code blocks are.
+احذف لبنة `إنزلق` {: class = "block3motion"} من تعليماتك البرمجية. للقيام بذلك، اسحب الكتلة خارج منطقة الكود واسقطها مرة أخرى حيث توجد التعليمات البرمجية المفردة الأخرى.
 
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
+عند نقر ⚑
+اتجه نحو الاتجاه (0)
+اذهب إلى الموضع س: (-150) ص: (-150)
+قل [Let's go] لمدة (2) ثانية
+اتجه نحو (Earth v)
 
-- glide (1) secs to x:(0) y:(0)
+انزلق خلال (1) ثانية إلى الموضع س: (0) ص: (0)
 ```
 
 \--- /task \---
 
 \--- task \---
 
-Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
+هل يمكنك استخدام قالب `كرِّر` لتحريك سفينة الفضاء نحو كوكب الأرض؟
 
 ![Testing a spaceship animation](images/space-animate-stage.png)
 
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
+عند نقر ⚑
+اتجه نحو الاتجاه (0)
+اذهب إلى الموضع س: (-150) ص: (-150)
+قل [Let's go] لمدة (2) ثانية
+اتجه نحو (Earth v)
 
-+ repeat (200)
-    move (2) steps
++ كرِّر (200) مرة 
+  تحرك (2) خطوة
+end
 ```
 
-Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
+اختبر مشروعك وقم بحفظه: ستتحرَّك سفينة الفضاء نحو كوكب الأرض تمامًا كما كانت من قبل، لكن باستخدام القالب `كرِّر ` {:class="block3control"} في هذه المرة.
 
 \--- /task \---
 
 \--- task \---
 
-Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
+بعدها قم بإضافة التعليمات البرمجية إلى كائن سفينة الفضاء الخاصة بك بحيث يتغير لون سفينة الفضاء أثناء تحركها نحو الأرض؟
 
-Use this block:
+استخدم هذه الكتلة:
 
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-repeat (200)
-    move (2) steps
-
-+    change [color v] effect by (25)
+عند نقر ⚑
+اتجه نحو الاتجاه (0)
+اذهب إلى الموضع س: (-150) ص: (-150)
+قل [Let's go] لمدة (2) ثانية
+اتجه نحو (Earth v)
+كرِّر (200) مرة 
+  تحرك (2) خطوة
+  + غيِّر مؤثر [color v] بمقدار (25)
+end
 ```
 
-Test and save your code.
+إختبر واحفظ المشروع الخاص بك.
 
 ![Testing a colour-changing spaceship](images/space-colour-test.png)
 
