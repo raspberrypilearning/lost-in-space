@@ -65,7 +65,7 @@ repeat (200)
 
 अपनी कोड को जाँच कर सेव कर लीजिये।
 
-![Testing a colour-changing spaceship](images/space-colour-test.png)
+![रंग बदलने वाले अंतरिक्ष यान का परीक्षण करना](images/space-colour-test.png)
 
 \--- /task \---
 
@@ -83,7 +83,7 @@ Can you make your spaceship get smaller as it moves towards Earth?
 
 \--- hint \---
 
-You will need to add these blocks to your code:
+आपको अपनी कोड में यह ब्लॉक जोड़ना होगा:
 
 ![अंतरिक्ष यान स्प्राइट](images/sprite-spaceship.png)
 
@@ -121,6 +121,6 @@ repeat (200)
 
 \--- /task \---
 
-Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
+परीक्षण कर अपना कोड सहेजें । आपकी स्पेसशिप स्थानांतरित होने पर छोटी होनी चाहिए। अपनी स्पेसशिप का **दूसरी बार** परीक्षण करें। क्या आरंभ में इसका आकार उचित है?
 
-![Testing a shrinking spaceship](images/space-size-test.png)
+![एक सिकुड़ते अंतरिक्ष यान का परीक्षण](images/space-size-test.png)
