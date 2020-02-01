@@ -18,33 +18,34 @@
 
 \--- hints \--- \--- hint \---
 
-When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**.
+عند النقر فوق **العلم الأخضر**، يجب أن **يتحرك** كائن الصخرة و **يرتد** عن حواف المنصة **باستمرار**.
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+هنا التعليمات البرمجية التي ستحتاج اليها:
 
 ```blocks3
-move (10) steps
+تحرك (10) خطوة
 
-if on edge bounce
+ارتد إذا كنت عند الحافة
 
-when flag clicked
+عند نقر ⚑
 
-forever
+كرِّر باستمرار
+end
 ```
 
 يمكنك أيضًا تعيين اتجاه البداية بشكل أكثر إثارة للاهتمام لكائن الصخرة باستخدام إحدى هذه الكتل:
 
 ```blocks3
-turn cw (15) degrees
+استدر ↻ (15) درجة
 
-point towards (Earth v)
+اتجه نحو (Earth v)
 ```
 
 \--- /hint \--- \--- hint \---
 
-Here's the code for making your rock bounce around the stage:
+إليك التعليمات البرمجية اللازمة لجعل الصخرة ترتد حول المنصة:
 
 ![كائن الصخرة](images/sprite-rock.png)
 
