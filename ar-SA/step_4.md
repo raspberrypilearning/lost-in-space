@@ -1,6 +1,6 @@
 ## التحريك باستخدام حلقات التكرار
 
-Another way to animate the spaceship is to tell it to move a small amount many times
+توجد طريقة أخرى لتحريك سفينة الفضاء وهي أن تأمر السفينة بالتحرك مسافات صغيرة عدة مرّات
 
 \--- task \---
 
