@@ -18,7 +18,7 @@
 
 أضف الكائنين"سفينة الفضاء" و "كوكب الأرض" إلى المنصة.
 
-![Spaceship and Earth sprites](images/space-sprites.png)
+![الكائنين سفينة الفضاء و كوكب الأرض](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -28,7 +28,7 @@
 
 أضف خلفية "النجوم" إلى المنصة.
 
-![A space backdrop](images/space-backdrop.png)
+![خلفية الفضاء](images/space-backdrop.png)
 
 \--- /task \---
 
@@ -36,7 +36,7 @@
 
 Click on your spaceship sprite, and click on the **Costumes** tab.
 
-![Sprite costume](images/space-costume.png)
+![مظهر الكائن](images/space-costume.png)
 
 \--- /task \---
 
@@ -44,7 +44,7 @@ Click on your spaceship sprite, and click on the **Costumes** tab.
 
 استخدم أداة **السهم** لتحديد الصورة. ثم انقر فوق مقبض **التدوير الدائري**، وأدر الصورة حتى تكون على جانبها.
 
-![Rotating a costume](images/space-rotate.png)
+![تدوير المظهر](images/space-rotate.png)
 
 \--- /task \---
 
@@ -52,7 +52,7 @@ Click on your spaceship sprite, and click on the **Costumes** tab.
 
 أضف هذه التعليمة البرمجية إلى كائن سفينة الفضاء:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![كائن سفينة الفضاء](images/sprite-spaceship.png)
 
 ```blocks3
 عند نقر ⚑
@@ -67,6 +67,6 @@ Click on your spaceship sprite, and click on the **Costumes** tab.
 
 \--- /task \---
 
-If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
+إذا نقرتَ على العلم الأخضر، فستجد أن سفينة الفضاء تتكلم ثم تستدير ثم تسبح نحو كوكب الأرض.
 
-![Testing a spaceship animation](images/space-animate-stage.png)
+![اختبار تحرك سفينة الفضاء](images/space-animate-stage.png)
