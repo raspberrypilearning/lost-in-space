@@ -18,7 +18,7 @@
 
 Add 'rocketship' and 'Earth' sprites to your Stage.
 
-![Spaceship and Earth sprites](images/space-sprites.png)
+![अंतरिक्ष यान और पृथ्वी sprites](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -26,9 +26,9 @@ Add 'rocketship' and 'Earth' sprites to your Stage.
 
 \--- task \---
 
-Add the 'Stars' backdrop to your Stage.
+अपनी स्टेज में 'सितारे' पृष्ठभूमि(backdrop) जोड़ें।
 
-![A space backdrop](images/space-backdrop.png)
+![एक अंतरिक्ष पृष्ठभूमि](images/space-backdrop.png)
 
 \--- /task \---
 
@@ -44,7 +44,7 @@ Click on your spaceship sprite, and click on the **Costumes** tab.
 
 Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
 
-![Rotating a costume](images/space-rotate.png)
+![एक costume को घुमाते हुए](images/space-rotate.png)
 
 \--- /task \---
 
@@ -52,7 +52,7 @@ Use the **arrow** tool to click and drag a box around the whole spaceship image.
 
 Add this code to your spaceship sprite:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![अंतरिक्ष यान sprite](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
