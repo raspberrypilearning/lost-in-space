@@ -23,7 +23,7 @@
 
 \--- print-only \---
 
-![Complete project](images/showcase_static.png)
+![المشروع كامل](images/showcase_static.png)
 
 \--- /print-only \---
 
@@ -49,18 +49,18 @@
 
 ## title: ما الذي ستتعلمه
 
-- Use a repeat loop to animate a sprite in Scratch
-- Use a forever loop to repeat an animation indefinitely
-- Understand that loops can be nested within each other
+- استخدام حلقة التكرار لتحريك الكائن في سكراتش
+- استخدم اللبنة كرر باستمرار لتكرار الرسوم المتحركة إلى الابد
+- نفهم أن حلقات التكرار يمكن أن تتداخل داخل بعضها البعض
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: معلومات إضافية للمعلمين
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
+إذا كنت بحاجة إلى طباعة هذا المشروع، فالرجاء استخدام الإصدار [الملائم للطابعة](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
-You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+يمكنك الحصول على [المشروع كاملاً من هنا](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
 \--- /collapse \---
