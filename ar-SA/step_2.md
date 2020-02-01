@@ -34,7 +34,7 @@
 
 \--- task \---
 
-Click on your spaceship sprite, and click on the **Costumes** tab.
+انقر فوق كائن سفينة الفضاء، ثم انقر فوق علامة التبويب **المظاهر**.
 
 ![مظهر الكائن](images/space-costume.png)
 
