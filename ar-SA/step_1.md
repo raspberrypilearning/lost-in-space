@@ -1,18 +1,18 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
+هذا هو إصدار ** Scratch 3 ** من المشروع. هناك أيضًا [ إصدار Scratch 2 للمشروع ](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
 
 \--- /no-print \---
 
-## المقدمة
+## Introduction
 
 ستتعلَّم كيف تُبرمج الرسم المتحرك الخاص بك!
 
-### ما الذي ستصنعه
+### What you will make
 
 \--- no-print \---
 
-Click on the green flag to see the animation.
+انقر على العلم الاخضر لترى المشروع.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -33,15 +33,15 @@ Click on the green flag to see the animation.
 
 ### الأجهزة
 
-- A computer capable of running Scratch 3
+- جهاز كمبيوتر يدعم تشغيل برنامج Scratch 3
 
 ### البرامج
 
-- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
+- برنامج Scratch 3 (سواء أكان [عبر الإنترنت](http://rpf.io/scratchon){:target="_blank"} أو [دون اتصال بالإنترنت](http://rpf.io/scratchoff){:target="_blank"})
 
-### Downloads
+### التنزيلات
 
-- None
+- لا يوجد
 
 \--- /collapse \---
 
