@@ -1,22 +1,22 @@
 ## تحريك سفينة فضاء
 
-Your first step will be to create a spaceship that flies towards the Earth!
+ستكون خطوتك الأولى هي إنشاء سفينة فضائية تطير باتجاه الأرض!
 
 \--- task \---
 
-Open a new Scratch project.
+افتح مشروع فارغ جديد في Scratch.
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
+**بالاتصال بالانترنت**: افتح المشروع المبدئي من هنا [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
 
-**Offline:** open a new project in the offline editor.
+**من دون اتصال بالانترنت:** افتح مشروع Scratch جديد عبر برنامج المحرر الموجود على جهازك دون اتصال بالانترنت.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+اذا كنت تحتاج تنزيل و تنصيب محرر Scratch للعمل دون اتصال بالانترنت, فيمكنك ايجاده على الرابط [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
 \--- task \---
 
-Add 'rocketship' and 'Earth' sprites to your Stage.
+أضف الكائنين"سفينة الفضاء" و "كوكب الأرض" إلى المنصة.
 
 ![Spaceship and Earth sprites](images/space-sprites.png)
 
