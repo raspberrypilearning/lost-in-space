@@ -1,10 +1,10 @@
 ## نجم متلألئ
 
-Now you will combine loops to make a shining star.
+والآن سنقوم بجمع الحلقات لنصنع نجمًا لامعًا.
 
 \--- task \---
 
-Add a 'star' sprite to your stage.
+أضف كائن النجم إلى الرسم المتحرك.
 
 ![Adding a star sprite](images/space-star-sprite.png)
 
@@ -12,7 +12,7 @@ Add a 'star' sprite to your stage.
 
 \--- task \---
 
-Can you add code to your star sprite to make the star repeatedly grow and shrink?
+هل يمكنك إضافة تعليمات برمجية إلى كائن النجمة الخاص بك لجعل النجمة تكبر وتتقلص بشكل متكرر؟
 
 ![Testing a shining star](images/sprite-star.png)
 
