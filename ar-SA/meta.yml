@@ -14,10 +14,10 @@ steps:
   - 
     title: تحريك سفينة فضاء
   - 
-    title: 'Challenge: improve your animation'
+    title: 'التحدي: تحسين الرسم المتحرك'
     challenge: true
   - 
-    title: Animation using loops
+    title: التحريك باستخدام حلقات التكرار
   - 
     title: قرد سابح
   - 
@@ -28,4 +28,4 @@ steps:
     title: 'تحدي: اصنع رسمتك المتحركة'
     challenge: true
   - 
-    title: What next?
+    title: ما التالي؟
