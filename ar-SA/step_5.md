@@ -1,6 +1,6 @@
 ## قرد سابح
 
-Now you will add a monkey who's lost in space to your animation!
+الآن سوف تضيف قردًا تائهاً في الفضاء إلى الرسوم المتحركة الخاصة بك!
 
 \--- task \---
 
