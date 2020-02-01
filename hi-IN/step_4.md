@@ -4,7 +4,7 @@
 
 \--- task \---
 
-Delete the `glide`{:class="block3motion"} block from your code. To do this, drag the block off the Code area and drop it back where the other single code blocks are.
+` ग्लाइड ` {{class = "block3motion"} ब्लॉक को अपने कोड से हटाएं। ऐसा करने के लिए, ब्लॉक को कोड क्षेत्र से खींचें और इसे वापस छोड़ दें जहां अन्य सिंगल कोड ब्लॉक हैं।
 
 ![अंतरिक्ष यान स्प्राइट](images/sprite-spaceship.png)
 
@@ -22,7 +22,7 @@ point towards (Earth v)
 
 \--- task \---
 
-Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
+अब एक ` रिपीट ` {:"class =" block3control "} ब्लॉक का उपयोग अंतरिक्ष यान को पृथ्वी की ओर स्थानांतरित करने के लिए करें?
 
 ![एक अंतरिक्ष यान एनीमेशन का परीक्षण](images/space-animate-stage.png)
 
@@ -43,9 +43,9 @@ point towards (Earth v)
 
 \--- /task \---
 
-\--- task \---
+\--- /task \---
 
-Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
+अगला अपने स्पेसशिप स्प्राइट में कोड जोड़ें ताकि स्पेसशिप पृथ्वी की ओर चलते हुए रंग बदले?
 
 इस ब्लॉक का उपयोग करे:
 
@@ -71,7 +71,7 @@ repeat (200)
 
 \--- task \---
 
-Can you make your spaceship get smaller as it moves towards Earth?
+क्या आप अपने अंतरिक्ष यान को छोटा कर सकते हैं जब वो पृथ्वी की तरफ बढे?
 
 \--- hints \---
 
