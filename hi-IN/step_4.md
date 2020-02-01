@@ -6,7 +6,7 @@
 
 Delete the `glide`{:class="block3motion"} block from your code. To do this, drag the block off the Code area and drop it back where the other single code blocks are.
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![अंतरिक्ष यान स्प्राइट](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -24,9 +24,9 @@ point towards (Earth v)
 
 Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
 
-![Testing a spaceship animation](images/space-animate-stage.png)
+![एक अंतरिक्ष यान एनीमेशन का परीक्षण](images/space-animate-stage.png)
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![अंतरिक्ष यान स्प्राइट](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -39,7 +39,7 @@ point towards (Earth v)
     move (2) steps
 ```
 
-Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
+अपनी कोड को जाँचकर सेव कर लीजिये। पिछली बार की तरह, आपका अंतरिक्ष यान पृथ्वी की तरफ बढ़ना चाहिए पर इस बार यह `रिपीट`{:class="block3control"} ब्लॉक का उपयोग कर रहा है।
 
 \--- /task \---
 
@@ -47,9 +47,9 @@ Test and save your code. Your spaceship should move towards the Earth exactly as
 
 Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
 
-Use this block:
+इस ब्लॉक का उपयोग करे:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![अंतरिक्ष यान स्प्राइट](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -63,7 +63,7 @@ repeat (200)
 +    change [color v] effect by (25)
 ```
 
-Test and save your code.
+अपनी कोड को जाँच कर सेव कर लीजिये।
 
 ![Testing a colour-changing spaceship](images/space-colour-test.png)
 
@@ -77,7 +77,7 @@ Can you make your spaceship get smaller as it moves towards Earth?
 
 \--- hint \---
 
-Your spaceship should start at `100% size`{:class="blocklooks"}, and then `change size`{:class="blocklooks"} by a small amount each time it moves.
+आपका अंतरिक्ष यान `100% size`{:class="blocklooks"} से शुरू होनी चाहिए, उसके बाद हर बार चलने पर थोड़ा `आकार `{:class="blocklooks"} बदले ।
 
 \--- /hint \---
 
@@ -85,7 +85,7 @@ Your spaceship should start at `100% size`{:class="blocklooks"}, and then `chang
 
 You will need to add these blocks to your code:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![अंतरिक्ष यान स्प्राइट](images/sprite-spaceship.png)
 
 ```blocks3
 change size by (10)
@@ -97,9 +97,9 @@ set size to (100) %
 
 \--- hint \---
 
-Your code should look like this:
+आपका कोड इस प्रकार दिखना चाहिए:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![अंतरिक्ष यान स्प्राइट](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
