@@ -26,7 +26,7 @@
 
 \--- task \---
 
-Add the 'Stars' backdrop to your Stage.
+أضف خلفية "النجوم" إلى المنصة.
 
 ![A space backdrop](images/space-backdrop.png)
 
@@ -42,7 +42,7 @@ Click on your spaceship sprite, and click on the **Costumes** tab.
 
 \--- task \---
 
-Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+استخدم أداة **السهم** لتحديد الصورة. ثم انقر فوق مقبض **التدوير الدائري**، وأدر الصورة حتى تكون على جانبها.
 
 ![Rotating a costume](images/space-rotate.png)
 
@@ -50,20 +50,20 @@ Use the **arrow** tool to click and drag a box around the whole spaceship image.
 
 \--- task \---
 
-Add this code to your spaceship sprite:
+أضف هذه التعليمة البرمجية إلى كائن سفينة الفضاء:
 
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-glide (1) secs to x:(0) y:(0)
+عند نقر ⚑
+اتجه نحو الاتجاه (0)
+اذهب إلى الموضع س: (-150) ص: (-150)
+قل [Let's go] لمدة (2) ثانية
+اتجه نحو (Earth v)
+انزلق خلال (1) ثانية إلى الموضع س: (0) ص: (0)
 ```
 
-Change the numbers in the code blocks you've added so that the code is exactly the same as above.
+غيِّر الأرقام الموجودة في قوالب التعليمات البرمجية بحيث تكون التعليمات البرمجية مماثلة لتلك الموضحة في الصورة أعلاه.
 
 \--- /task \---
 
