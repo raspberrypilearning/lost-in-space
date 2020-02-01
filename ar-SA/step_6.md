@@ -6,7 +6,7 @@
 
 أضف كائن "الصخرة" الى الرسم المتحرك.
 
-![Adding a rock sprite](images/space-rock-sprite.png)
+![إضافة كائن القرد](images/space-rock-sprite.png)
 
 \--- /task \---
 
@@ -14,7 +14,7 @@
 
 هل يمكنك إضافة تعليمات برمجية لكائن الصخرة الخاصة بك بحيث ترتد حول المنصة؟
 
-![Testing a bouncing rock](images/space-bounce-test.png)
+![اختبار إرتداد الصخرة](images/space-bounce-test.png)
 
 \--- hints \--- \--- hint \---
 
@@ -34,7 +34,7 @@ when flag clicked
 forever
 ```
 
-You can also set a more interesting starting direction for the rock sprite with one of these blocks:
+يمكنك أيضًا تعيين اتجاه البداية بشكل أكثر إثارة للاهتمام لكائن الصخرة باستخدام إحدى هذه الكتل:
 
 ```blocks3
 turn cw (15) degrees
@@ -46,14 +46,15 @@ point towards (Earth v)
 
 Here's the code for making your rock bounce around the stage:
 
-![Rock sprite](images/sprite-rock.png)
+![كائن الصخرة](images/sprite-rock.png)
 
 ```blocks3
-when flag clicked
-point towards (Earth v)
-forever
-    move (2) steps
-    if on edge, bounce
+عند نقر ⚑
+اتجه نحو (Earth v)
+كرِّر باستمرار 
+  تحرك (2) خطوة
+  ارتد إذا كنت عند الحافة
+end
 ```
 
 \--- /hint \--- \--- /hints \--- \--- /task \---
