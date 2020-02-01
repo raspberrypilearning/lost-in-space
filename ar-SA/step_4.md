@@ -6,7 +6,7 @@
 
 احذف لبنة `إنزلق` {: class = "block3motion"} من تعليماتك البرمجية. للقيام بذلك، اسحب الكتلة خارج منطقة الكود واسقطها مرة أخرى حيث توجد التعليمات البرمجية المفردة الأخرى.
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![كائن سفينة الفضاء](images/sprite-spaceship.png)
 
 ```blocks3
 عند نقر ⚑
@@ -24,9 +24,9 @@
 
 هل يمكنك استخدام قالب `كرِّر` لتحريك سفينة الفضاء نحو كوكب الأرض؟
 
-![Testing a spaceship animation](images/space-animate-stage.png)
+![اختبار تحرك سفينة الفضاء](images/space-animate-stage.png)
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![كائن سفينة الفضاء](images/sprite-spaceship.png)
 
 ```blocks3
 عند نقر ⚑
@@ -50,7 +50,7 @@ end
 
 استخدم هذه الكتلة:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![كائن سفينة الفضاء](images/sprite-spaceship.png)
 
 ```blocks3
 عند نقر ⚑
@@ -66,54 +66,54 @@ end
 
 إختبر واحفظ المشروع الخاص بك.
 
-![Testing a colour-changing spaceship](images/space-colour-test.png)
+![اختبار تغيير لون السفينة الفضائية](images/space-colour-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Can you make your spaceship get smaller as it moves towards Earth?
+هل يمكنك تصغير حجم سفينة الفضاء تدريجيًا أثناء اقترابها من كوكب الأرض؟
 
 \--- hints \---
 
 \--- hint \---
 
-Your spaceship should start at `100% size`{:class="blocklooks"}, and then `change size`{:class="blocklooks"} by a small amount each time it moves.
+يجب أن تبدأ سفينة الفضاء الخاصة بك بحجم ` 100٪ ` {:class="blocklooks"}، ثم ` يتغير الحجم ` {:class="blocklooks"} بمقدار صغير في كل مرة يتحرك فيها.
 
 \--- /hint \---
 
 \--- hint \---
 
-You will need to add these blocks to your code:
+ستحتاج إلى إضافة هذه الكتل للكود الخاصة بك:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![كائن سفينة الفضاء](images/sprite-spaceship.png)
 
 ```blocks3
-change size by (10)
+غيِّر الحجم بمقدار (10)
 
-set size to (100) %
+اجعل الحجم مساويًا (100) ٪
 ```
 
 \--- /hint \---
 
 \--- hint \---
 
-Your code should look like this:
+يجب أن تبدو التعليمات البرمجية الخاصة بك بالشكل التالي:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![كائن سفينة الفضاء](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-set size to (100) %
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-repeat (200)
-    move (2) steps
-    change [color v] effect by (25)
-
-+   change size by (-3)
+عند نقر ⚑
+اجعل الحجم مساويًا (100) ٪
+اتجه نحو الاتجاه (0)
+اذهب إلى الموضع س: (-150) ص: (-150)
+قل [Let's go] لمدة (2) ثانية
+اتجه نحو (Earth v)
+كرِّر (200) مرة 
+  تحرك (2) خطوة
+  غيِّر مؤثر [color v] بمقدار (25)
+  + غيِّر الحجم بمقدار (-3)
+end
 ```
 
 \--- /hint \---
@@ -122,6 +122,6 @@ repeat (200)
 
 \--- /task \---
 
-Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
+اختبر مشروعك وقم بحفظه. يجب أن يقل حجم سفينة الفضاء الآن أثناء تحركها. اختبر سفينة الفضاء **مرة أخرى**. هل تكون بالحجم الصحيح عندما تبدأ؟
 
-![Testing a shrinking spaceship](images/space-size-test.png)
+![اختبار تقلص السفينة الفضائية](images/space-size-test.png)
