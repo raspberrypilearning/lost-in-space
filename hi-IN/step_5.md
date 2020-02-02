@@ -1,6 +1,6 @@
 ## Floating monkey
 
-Now you will add a monkey who's lost in space to your animation!
+अब आप अपने एनिमेशन में एक बंदर जोड़ेंगे, जो अन्तरिक्ष में खो गया है!
 
 \--- task \---
 
@@ -10,7 +10,7 @@ Start by adding the 'monkey' sprite from the library.
 
 \--- /task \---
 
-Click on your new monkey sprite and then click on **Costumes** so that you can edit how the monkey looks.
+अपने नए बन्दर स्प्राइट पर क्लिक करें और फिर **पोशाक (Costumes)** पर क्लिक करें ताकि आप सम्पादित कर सकें की बन्दर का रूप कैसे हो।
 
 \--- task \---
 
