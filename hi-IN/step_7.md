@@ -1,28 +1,28 @@
 ## चमकता तारा
 
-Now you will combine loops to make a shining star.
+अब आप एक चमकता तारा बनाने के लिए कई सरे लूप को जोड़ेंगे।
 
 \--- task \---
 
-Add a 'star' sprite to your stage.
+अपने स्टेज पर एक 'सितारा' स्प्राइट जोड़ें।
 
-![Adding a star sprite](images/space-star-sprite.png)
+![एक तारा स्प्राइट जोड़ना](images/space-star-sprite.png)
 
 \--- /task \---
 
 \--- task \---
 
-Can you add code to your star sprite to make the star repeatedly grow and shrink?
+स्टार स्प्राइट को बार-बार बढ़ने और सिकुड़ने के लिए क्या आप कोड जोड़ सकते हैं?
 
-![Testing a shining star](images/sprite-star.png)
+![एक चमकते सितारे का परीक्षण](images/sprite-star.png)
 
 \--- hints \--- \--- hint \---
 
-When the green **flag is clicked**, your star sprite should **change size** to get bigger a few times, and then **change size** to get smaller a few times. It should do this so that it gets bigger and then smaller **forever** and looks like it's shining light.
+जब हरे **फ्लैग पर क्लिक हो**, तब आपका सितारा स्प्राइट अपना **आकार बदलकर** कुछ बार बड़ा हो जाये, और उसके बाद **आकार बदलकर** कुछ बार छोटा हो जाये। इसको यह कार्य **हमेशा** के लिए करना चाहिए ताकि ये बड़ा और छोटा हो और ऐसा लगे की आपका सितारा चमका रहा हैं।
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+आपको इस कोड ब्लॉक की ज़रुरत पड़ेगी:
 
 ```blocks3
 repeat (10)
@@ -42,9 +42,9 @@ forever
 
 \--- /hint \--- \--- hint \---
 
-Here's the code to make your star grow and shrink:
+यहां यह कोडआपके स्टार को बढ़ने और सिकुड़ने के लिए है:
 
-![Star sprite](images/sprite-star.png)
+![तारा स्प्राइट](images/sprite-star.png)
 
 ```blocks3
 when flag clicked
