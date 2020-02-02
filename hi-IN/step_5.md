@@ -1,12 +1,12 @@
-## Floating monkey
+## तैरने वाला बंदर
 
 अब आप अपने एनिमेशन में एक बंदर जोड़ेंगे, जो अन्तरिक्ष में खो गया है!
 
 \--- task \---
 
-Start by adding the 'monkey' sprite from the library.
+लाइब्रेरी से 'बंदर' स्प्राइट को जोड़कर शुरुआत करें।
 
-![Adding a monkey sprite](images/space-monkey-sprite.png)
+![एक बंदर स्प्राइट जोड़ना](images/space-monkey-sprite.png)
 
 \--- /task \---
 
@@ -14,31 +14,31 @@ Start by adding the 'monkey' sprite from the library.
 
 \--- task \---
 
-Set the fill to be transparent by selecting the red line. For the outline, set a white colour by moving the Saturation slider to `0`.
+लाल रेखा का चयन करके भरण (fill) को पारदर्शी सेट करें। रूपरेखा के लिए, संतृप्ति (saturation) स्लाइडर को ` 0 ` पर ले जाकर एक सफेद रंग सेट करें ।
 
-![Make white colour](images/make-white.png)
-
-\--- /task \---
-
-\--- task \---
-
-Click on the **circle** tool and then use it to draw a white space helmet around the monkey's head.
-
-![Monkey space helmet](images/space-monkey-edit.png)
+![सफेद रंग बनाएं](images/make-white.png)
 
 \--- /task \---
 
 \--- task \---
 
-Can you add code to your monkey sprite so that it spins slowly in a circle forever?
+** सर्कल ** टूल पर क्लिक करें और फिर इसका उपयोग बंदर के सिर के चारों ओर एक सफेद अंतरिक्ष हेलमेट खींचने के लिए करें।
+
+![बंदर अंतरिक्ष हेलमेट](images/space-monkey-edit.png)
+
+\--- /task \---
+
+\--- task \---
+
+क्या आप अपने बंदर स्प्राइट में कोड जोड़ सकते हैं ताकि यह एक सर्कल में सदैव के लिए धीरे-धीरे घूमे?
 
 \--- hints \--- \--- hint \---
 
-When the green **flag is clicked**, your monkey sprite should **turn** in a circle **forever**.
+जब हरे रंग के **फ्लैग पर क्लिक हो**, तो आपका बंदर स्प्राइट **हमेशा के लिए** एक सर्कल में **मुड़े**।
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+आपको इस कोड ब्लॉक की ज़रुरत पड़ेगी:
 
 ```blocks3
 forever
@@ -51,9 +51,9 @@ when flag clicked
 
 \--- /hint \--- \--- hint \---
 
-Here's the code to make your monkey spin:
+आपके बंदर को घुमान का कोड इधर है:
 
-![Monkey sprite](images/sprite-monkey.png)
+![बंदर स्प्राइट](images/sprite-monkey.png)
 
 ```blocks3
 when flag clicked
@@ -65,6 +65,6 @@ forever
 
 \--- /task \---
 
-Test and save your project. You'll have to click on the red **stop** button to end this animation, as it runs forever!
+अपने प्रोजेक्ट का परीक्षण करें और सहेजें। इस एनिमेशन को समाप्त करने के लिए आपको लाल **स्टॉप बटन** पर क्लिक करना होगा, क्योंकि यह हमेशा चलता रहता है!
 
-![Test the spinning monkey](images/space-spin-test.png)
+![कताई बंदर का परीक्षण करें](images/space-spin-test.png)
