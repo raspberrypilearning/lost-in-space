@@ -4,7 +4,7 @@
 
 \--- task \---
 
-Delete the `glide`{:class="block3motion"} block from your code. To do this, drag the block off the Code area and drop it back where the other single code blocks are.
+删除`滑动`来自您的代码的{:class="block3motion"}阻止。为此，将块拖离代码区域并将其放回其他单个代码块所在的位置。
 
 ![Spaceship sprite](images/sprite-spaceship.png)
 
@@ -22,7 +22,7 @@ point towards (Earth v)
 
 \--- task \---
 
-Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
+现在使用 `重复执行`{:class =“block3control”}积木让飞船向上移动。
 
 ![Testing a spaceship animation](images/space-animate-stage.png)
 
@@ -39,7 +39,7 @@ point towards (Earth v)
     move (2) steps
 ```
 
-Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
+测试并保存.飞船应该像之前一样驶向地球，只不过这次使用的是`重复执行`{:class="block3control"}代码块。
 
 \--- /task \---
 
@@ -47,7 +47,7 @@ Test and save your code. Your spaceship should move towards the Earth exactly as
 
 Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
 
-Use this block:
+使用此代码块：
 
 ![Spaceship sprite](images/sprite-spaceship.png)
 
