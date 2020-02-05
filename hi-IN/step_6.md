@@ -1,27 +1,60 @@
-## चरण 4: उछलने वाले क्षुद्रग्रह
+## उछलने वाले क्षुद्रग्रह
 
-चलिए आपकी एनिमेशन में कुछ अन्तरिक्ष में उड़ने वाली चट्टान बनाएँ।
+चलिए आपकी एनिमेशन में अन्तरिक्ष में तैरता हुआ एक पत्थर जोड़ें।
 
-+ अपनी एनिमेशन में 'चट्टान' स्प्राइट जोड़ें।
+--- task ---
 
-	![Adding a rock sprite](images/space-rock-sprite.png)
+अपने एनीमेशन में एक 'रॉक' स्प्राइट जोड़ें।
 
-+ क्या आप अपने रॉक स्प्राइट को स्टेज में उछलने के लिए कोड कर सकते हैं?
+![एक पत्थर स्प्राइट जोड़ना](images/space-rock-sprite.png)
 
-    ![Testing a bouncing rock](images/space-bounce-test.png)
+--- /task ---
+
+--- task ---
+
+क्या आप अपने रॉक स्प्राइट के लिए कोड जोड़ सकते हैं ताकि रॉक स्टेज के चारों ओर उछल पाए?
+
+![एक उछलती पत्थर का परीक्षण](images/space-bounce-test.png)
 
 --- hints ---
---- hint ---
-जब हरे __फ्लैग पर क्लिक किया जाता है__, तो आपके रॉक स्प्राइट को __हमेशा के लिए__ स्टेज में __चलना__ और __उछलना होगा__ ।
---- /hint ---
---- hint ---
-ये वे कोड ब्लॉक हैं, जिनकी आपको आवश्यकता होगी:
-![Blocks for a bouncing rock](images/space-bounce-blocks.png)
-आप इनमें से एक ब्लॉक के साथ चट्टान के लिए और भी दिलचस्प आरंभिक दिशा निर्धारित कर सकते हैं:
-![Setting the rock's initial position](images/space-initial-position.png)
---- /hint ---
---- hint ---
-आपकी चट्टान को स्टेज में उछालने के लिए कोड इस प्रकार है:
-![Code for a bouncing rock](images/space-bounce-code.png)
---- /hint ---
---- /hints ---
+ --- hint ---
+
+जब हरे **ध्वज पर क्लिक किया जाता है**, आपका रॉक स्प्राइट **सदैव** के लिए मंच के आसपास **हिलना** और **उछलना** चाहिए।
+
+--- /hint --- --- hint ---
+
+आपको इस कोड ब्लॉक की ज़रुरत पड़ेगी:
+
+```blocks3
+move (10) steps
+
+if on edge bounce
+
+when flag clicked
+
+forever
+```
+
+आप इन ब्लॉकों में से एक के साथ पत्थर स्प्राइट के लिए एक और अधिक दिलचस्प प्रारंभिक दिशा निर्धारित कर सकते हैं:
+
+```blocks3
+turn cw (15) degrees
+
+point towards (Earth v)
+```
+
+--- /hint --- --- hint ---
+
+इस कोड से आप अपने पत्थर को मंच के आसपास उछाल सकते हैं:
+
+![पत्थर स्प्राइट](images/sprite-rock.png)
+
+```blocks3
+when flag clicked
+point towards (Earth v)
+forever
+    move (2) steps
+    if on edge, bounce
+```
+
+--- /hint ------ /hints --- --- /task ---

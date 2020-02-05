@@ -1,68 +1,127 @@
-## चरण 2: लूप्स का इस्तेमाल करके एनिमेट करना
+## लूप्स का इस्तेमाल करके एनिमेट करना
 
 स्पेसशिप को एनिमेट करने का अन्य तरीका है कि इसे कई बार छोटी मात्रा में स्थानांतरित किया जाए।
 
-+ अपने कोड में से `पर फिसलें` ब्लॉक पर दायाँ क्लिक करके और **delete** (हटाएँ) पर क्लिक करके इसे हटाएं। आप कोड को स्क्रिप्ट क्षेत्र से बाहर की ओर ड्रैग करके भी हटा सकते हैं और कोड ब्लॉक्स क्षेत्र में वापस ला सकते हैं।
+--- task ---
 
-	![Deleting the glide block](images/space-delete-glide.png)
+`ग्लाइड`{:class="block3motion"} ब्लॉक को अपने कोड से हटाएं। ऐसा करने के लिए, ब्लॉक को कोड क्षेत्र से खींचें और इसे वापस छोड़ दें जहां अन्य सिंगल कोड ब्लॉक हैं।
 
-+ क्या आप अपनी स्पेसशिप को पृथ्वी की और स्थानांतरित करके `बार दोहराएँ` ब्लॉक का उपयोग कर सकते हैं?
+![अंतरिक्ष यान स्प्राइट](images/sprite-spaceship.png)
 
-    परीक्षण करें और सहेजें: इस बार `बार दोहराएँ` ब्लॉक का उपयोग करके आपकी स्पेसशिप को पहले की तरह ही पृथ्वी की ओर स्थानांतरित होना चाहिए।
+```blocks3
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
 
-    ![Testing a spaceship animation](images/space-animate-stage.png)
+- glide (1) secs to x:(0) y:(0)
+```
+
+--- /task ---
+
+--- task ---
+
+अब एक `रिपीट`{:class="block3control"} ब्लॉक का उपयोग अंतरिक्ष यान को पृथ्वी की ओर स्थानांतरित करने के लिए करें?
+
+![एक अंतरिक्ष यान एनीमेशन का परीक्षण](images/space-animate-stage.png)
+
+![अंतरिक्ष यान स्प्राइट](images/sprite-spaceship.png)
+
+```blocks3
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+
++ repeat (200)
+    move (2) steps
+```
+
+अपनी कोड को जाँचकर सेव कर लीजिये। पिछली बार की तरह, आपका अंतरिक्ष यान पृथ्वी की तरफ बढ़ना चाहिए पर इस बार यह `रिपीट`{:class="block3control"} ब्लॉक का उपयोग कर रहा है।
+
+--- /task ---
+
+--- /task ---
+
+अगला अपने स्पेसशिप स्प्राइट में कोड जोड़ें ताकि स्पेसशिप पृथ्वी की ओर चलते हुए रंग बदले?
+
+इस ब्लॉक का उपयोग करे:
+
+![अंतरिक्ष यान स्प्राइट](images/sprite-spaceship.png)
+
+```blocks3
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
+
++    change [color v] effect by (25)
+```
+
+अपनी कोड को जाँच कर सेव कर लीजिये।
+
+![रंग बदलने वाले अंतरिक्ष यान का परीक्षण करना](images/space-colour-test.png)
+
+--- /task ---
+
+--- task ---
+
+क्या आप अपने अंतरिक्ष यान को छोटा कर सकते हैं जब वो पृथ्वी की तरफ बढे?
 
 --- hints ---
+
+
 --- hint ---
-__पर फिसलें__ की बजाय, आपकी स्पेसशिप को __बार-बार__ एक समय पर कुछ कदम __स्थानांतरित__ होना चाहिए।
+
+आपका अंतरिक्ष यान `100% size`{:class="blocklooks"} से शुरू होनी चाहिए, उसके बाद हर बार चलने पर थोड़ा `आकार`{:class="blocklooks"} बदले ।
+
 --- /hint ---
+
 --- hint ---
-ये वे कोड ब्लॉक हैं, जिनकी आपको आवश्यकता होगी:
-![Blocks for an animated spaceship](images/space-repeat-blocks.png)
---- /hint ---
+
+आपको अपनी कोड में यह ब्लॉक जोड़ना होगा:
+
+![अंतरिक्ष यान स्प्राइट](images/sprite-spaceship.png)
+
+```blocks3
+change size by (10)
+
+set size to (100) %
+```
+
+-- /hint ---
+
 --- hint ---
-आपकी स्पेसशिप को एनिमेट करने के लिए कोड इस प्रकार है:
-![Code for an animated spaceship](images/space-repeat-code.png)
-(जब तक स्पेसशिप पृथ्वी तक आ जाती है, तब तक आप `बार दोहराएँ` और `चलें` ब्लॉक में भिन्न संख्याओं का इस्तेमाल कर सकते हैं!)
+
+आपका कोड इस प्रकार दिखना चाहिए:
+
+![अंतरिक्ष यान स्प्राइट](images/sprite-spaceship.png)
+
+```blocks3
+when flag clicked
+set size to (100) %
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
+    change [color v] effect by (25)
+
++   change size by (-3)
+```
+
 --- /hint ---
+
 --- /hints ---
 
-+ क्या आप स्पेसशिप को इसके पृथ्वी की ओर बढ़ने के साथ, रंग बदलने के लिए कोड कर सकते हैं?
+--- /task ---
 
-    परीक्षण करें और सहेजें।
+परीक्षण कर अपना कोड सहेजें । आपकी स्पेसशिप स्थानांतरित होने पर छोटी होनी चाहिए। अपनी स्पेसशिप का **दूसरी बार** परीक्षण करें। क्या आरंभ में इसका आकार उचित है?
 
-    ![Testing a colour-changing spaceship](images/space-colour-test.png)
-
---- hints ---
---- hint ---
-स्थानांतरित होने के साथ आपकी स्पेसशिप __का रंग__ बदल जाना चाहिए।
---- /hint ---
---- hint ---
-आपके लिए आवश्यक अतिरिक्त कोड ब्लॉक्स इस प्रकार हैं:
-![Block for changing colour](images/space-colour-blocks.png)
---- /hint ---
---- hint ---
-आपकी स्पेसशिप के रंग में परिवर्तन के लिए कोड इस प्रकार है:
-![Code for an animated spaceship](images/space-colour-code.png)
---- /hint ---
---- /hints ---
-
-+ क्या आप ऐसा कर सकते हैं कि पृथ्वी की ओर बढ़ने के साथ स्पेसशिप छोटी दिखाई दे?
-
-    परीक्षण करें और सहेजें। आपकी स्पेसशिप स्थानांतरित होने पर छोटी दिखाई देनी चाहिए। __दूसरी बार__ अपनी स्पेसशिप का परीक्षण करें।  क्या आरंभ में इसका आकार उचित है?
-
-    ![Testing a shrinking spaceship](images/space-size-test.png)
-
---- hints ---
---- hint ---
-आपकी स्पेसशिप को __100% आकार__ एक साथ शुरू करना चाहिए, और फिर स्थानांतरित होने पर छोटी मात्रा में __आकार बदलना__ चाहिए।
---- /hint ---
---- hint ---
-आपके लिए आवश्यक कोड ब्लॉक्स इस प्रकार हैं:
-![Blocks for changing size](images/space-size-blocks.png)
---- /hint ---
---- hint ---
-स्थानांतरित होने पर आपकी स्पेसशिप के आकार में परिवर्तन के लिए कोड इस प्रकार है:
-![Code for changing size](images/space-size-code.png)
---- /hint ---
---- /hints ---
+![एक सिकुड़ते अंतरिक्ष यान का परीक्षण](images/space-size-test.png)
