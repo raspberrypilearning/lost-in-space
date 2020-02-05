@@ -9,7 +9,7 @@ technologies: scratch
 version: 4.1.3
 last_tested: 2018-09-26
 steps:
-  - title: भूमिका
+  - title: परिचय
   - title: एक स्पेसशिप को एनिमेट करना
   - title: 'चुनौती: आपकी एनिमेशन में सुधार'
     challenge: true
