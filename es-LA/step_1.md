@@ -1,14 +1,14 @@
 \--- no-print \---
 
-Esta es la versión ** Scratch 3 ** del proyecto. También hay una versión [ Scratch 2 del proyecto. ](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
+This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
 
 \--- /no-print \---
 
-## Introducción
+## Introduction
 
-¡Vas a aprender a programar tu propia animación!
+You are going to learn how to program your own animation!
 
-### Lo que crearás
+### What you will make
 
 \--- no-print \---
 
@@ -29,35 +29,35 @@ Click on the green flag to see the animation.
 
 ## \--- collapse \---
 
-## title: Lo que necesitarás
+## title: What you will need
 
 ### Hardware
 
-- Un ordenador capaz de ejecutar Scratch 3
+- A computer capable of running Scratch 3
 
 ### Software
 
-- Scratch 3 (ya sea [online](http://rpf.io/scratchon){:target="_blank"} u [offline](http://rpf.io/scratchoff) {:target="_blank"})
+- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
-### Descargas
+### Downloads
 
-- Ninguno
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: Lo que aprenderás
-
-- Usar un bucle de repetición para animar un objeto en Scratch
-- Usar un bucle infinito para repetir la animación indefinidamente
-- Entender que los bucles pueden estar anidados unos dentro de otros
+- None
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Información adicional para educadores
+## title: What you will learn
+
+- Use a repeat loop to animate a sprite in Scratch
+- Use a forever loop to repeat an animation indefinitely
+- Understand that loops can be nested within each other
+
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: Additional information for educators
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
