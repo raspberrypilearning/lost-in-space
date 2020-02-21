@@ -1,24 +1,24 @@
 ## 宇宙船 (うちゅうせん) のアニメーション
 
-Your first step will be to create a spaceship that flies towards the Earth!
+最初のステップは、地球に向かって飛ぶ宇宙船を作成することです！
 
 \--- task \---
 
-Open a new Scratch project.
+新しいScratchプロジェクトを開きます。
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
+**Online: **新しいオンラインScratchプロジェクトを[rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}で開きます。
 
-**Offline:** open a new project in the offline editor.
+**Offline:**オフラインエディターで新しいプロジェクトを開きます。
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Scratchオフラインエディタをダウンロードしてインストールする必要がある場合は、[rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}で見つけることができます。:
 
 \--- /task \---
 
 \--- task \---
 
-Add 'rocketship' and 'Earth' sprites to your Stage.
+宇宙船と地球のスプライトをステージに追加してください。
 
-![Spaceship and Earth sprites](images/space-sprites.png)
+![宇宙船と地球のスプライト](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -26,47 +26,47 @@ Add 'rocketship' and 'Earth' sprites to your Stage.
 
 \--- task \---
 
-Add the 'Stars' backdrop to your Stage.
+背景 (はいけい) には「stars (星)」を追加してください。
 
-![A space backdrop](images/space-backdrop.png)
-
-\--- /task \---
-
-\--- task \---
-
-Click on your spaceship sprite, and click on the **Costumes** tab.
-
-![Sprite costume](images/space-costume.png)
+![宇宙の背景](images/space-backdrop.png)
 
 \--- /task \---
 
 \--- task \---
 
-Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+宇宙船をクリックして、**コスチューム**のタブをクリックしてください。
 
-![Rotating a costume](images/space-rotate.png)
+![スプライトコスチューム](images/space-costume.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add this code to your spaceship sprite:
+選択するには**矢印 **ツールを使います。丸い**回転**ハンドルをクリックして、横になるまで回転させます。
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![スプライトの回転](images/space-rotate.png)
+
+\--- /task \---
+
+\--- task \---
+
+宇宙船のスプライトにこのコードを追加しましょう。
+
+![宇宙船のスプライト](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-glide (1) secs to x:(0) y:(0)
+⚑ が押されたとき
+(0) 度に向ける
+x座標を (-150) 、y座標を (-150) にする
+[レッツゴー！] と (2) 秒言う
+(地球 v) へ向ける
+(1) 秒でx座標を (0) に、y座標を (0) に変える
 ```
 
-Change the numbers in the code blocks you've added so that the code is exactly the same as above.
+追加したコードブロックの数字を変更して、コードが上記とまったく同じになるようにします。
 
 \--- /task \---
 
-If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
+緑の旗をクリックすると、宇宙船がしゃべり、回転し、ステージの中央に向かって進んでいきます。
 
-![Testing a spaceship animation](images/space-animate-stage.png)
+![宇宙船アニメーションのテスト](images/space-animate-stage.png)
