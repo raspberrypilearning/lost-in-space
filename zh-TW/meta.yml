@@ -1,0 +1,22 @@
+---
+title: 太空迷航
+hero_image: images/lost-in-space.png
+description: 學習用程式做動畫！
+original_url: https://www.codeclubprojects.org/en-GB/scratch/lost-in-space
+listed: true
+copyedit: true
+technologies: scratch
+version: 4.1.3
+last_tested: 2018-09-26
+steps:
+  - title: 介紹
+  - title: 動起來的太空船
+  - title: '挑戰：改良你的動畫'
+    challenge: true
+  - title: 用迴圈做動畫
+  - title: 漂浮的猴子
+  - title: 彈跳的行星
+  - title: 發亮的星星
+  - title: '挑戰：做個自己的動畫'
+    challenge: true
+  - title: 然後呢？
