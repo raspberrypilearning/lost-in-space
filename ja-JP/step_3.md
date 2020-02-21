@@ -1,16 +1,16 @@
-## 宇宙船 (うちゅうせん) のアニメーション
+## チャレンジ：アニメーションの改良（かいりょう）
 
-Can you change the numbers in your animation code so that:
+次のようにアニメーションコードの数値を変更できますか:
 
-+ 宇宙船を地球にタッチするまで動かす
++ 宇宙船が地球にタッチするまで動かす
 + 宇宙船を地球に向かって、もっとゆっくり動かす
 
 このブロックの値を変える必要があります。
 
-![Rocketship sprite](images/sprite-spaceship.png)
+![宇宙船のスプライト](images/sprite-spaceship.png)
 
 ```blocks3
-glide (1) secs to x:(0) y:(0)
+(1) 秒でx座標を (0) に、y座標を (0) に変える
 ```
 
 [[[generic-scratch3-coordinates]]]
