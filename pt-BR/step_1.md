@@ -1,6 +1,6 @@
 \--- no-print \---
 
-Esta é a versão **Scratch 3** do projeto. Há também uma versão [Scratch 2 do projeto](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
+This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
 
 \--- /no-print \---
 
@@ -33,15 +33,15 @@ Click on the green flag to see the animation.
 
 ### Hardware
 
-- Um computador com capacidade para executar o Scratch 3
+- A computer capable of running Scratch 3
 
 ### Software
 
-- Scratch 3 (ou [online](http://rpf.io/scratchon){:target="_ blank"} ou [offline](http://rpf.io/scratchoff){:target="_ blank"})
+- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 ### Downloads
 
-- Nenhum
+- None
 
 \--- /collapse \---
 
@@ -49,9 +49,9 @@ Click on the green flag to see the animation.
 
 ## title: O que você vai aprender
 
-- Usa um ciclo de repetição para animar um actor no Scratch
-- Usa um ciclo para sempre para repetir uma animação indefinidamente
-- Entende que os ciclos podem ser encaixados uns nos outros
+- Use a repeat loop to animate a sprite in Scratch
+- Use a forever loop to repeat an animation indefinitely
+- Understand that loops can be nested within each other
 
 \--- /collapse \---
 
