@@ -1,59 +1,61 @@
 ## はずむ小惑星 (しょうわくせい)
 
-Now you will add a floating space rock to your animation.
+次に、アニメーションに、浮かぶ宇宙の岩を追加します。
 
 \--- task \---
 
-Add a 'rock' sprite to your animation.
+アニメーションに岩のスプライトを追加してください。
 
-![Adding a rock sprite](images/space-rock-sprite.png)
+![岩のスプライトを追加する](images/space-rock-sprite.png)
 
 \--- /task \---
 
 \--- task \---
 
-Can you add code for your rock sprite so that the rock bounces around the stage?
+岩のスプライトのコードを追加して、ステージ上で岩がバウンドするようにできますか？
 
-![Testing a bouncing rock](images/space-bounce-test.png)
+![バウンドする岩をテストする](images/space-bounce-test.png)
 
 \--- hints \--- \--- hint \---
 
-When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**.
+緑の**フラグがクリックされた**とき、 岩のスプライトは**ずっと**ステージ中を**動いて**、**はずみます**。
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+必要なコードブロックは次のとおりです。
 
 ```blocks3
-move (10) steps
+(10) 歩動かす
 
-if on edge bounce
+もし端に着いたら、跳ね返る
 
-when flag clicked
+⚑ が押されたとき
 
-forever
+ずっと
+end
 ```
 
-You can also set a more interesting starting direction for the rock sprite with one of these blocks:
+いずれかのブロックを使用して、岩のスプライトにもっと面白い開始方向を設定することもできます。
 
 ```blocks3
-turn cw (15) degrees
+↻ (15) 度回す
 
-point towards (Earth v)
+(地球 v) へ向ける
 ```
 
 \--- /hint \--- \--- hint \---
 
-Here's the code for making your rock bounce around the stage:
+ステージ上で岩をバウンドさせるためのコードは次のとおりです。
 
-![Rock sprite](images/sprite-rock.png)
+![岩のスプライト](images/sprite-rock.png)
 
 ```blocks3
-when flag clicked
-point towards (Earth v)
-forever
-    move (2) steps
-    if on edge, bounce
+⚑ が押されたとき
+(地球 v) へ向ける
+ずっと 
+  (2) 歩動かす
+  もし端に着いたら、跳ね返る
+end
 ```
 
 \--- /hint \--- \--- /hints \--- \--- /task \---
