@@ -1,6 +1,6 @@
-## Mono flotante
+## Floating monkey
 
-¡Ahora añadirás un mono que está perdido en el espacio a tu animación!
+Now you will add a monkey who's lost in space to your animation!
 
 \--- task \---
 
@@ -41,12 +41,12 @@ When the green **flag is clicked**, your monkey sprite should **turn** in a circ
 Here are the code blocks you need:
 
 ```blocks3
-por siempre
-fin
+forever
+end
 
-girar cw (15) grados
+turn cw (15) degrees
 
-cuando la bandera es pulsada
+when flag clicked
 ```
 
 \--- /hint \--- \--- hint \---
@@ -56,9 +56,9 @@ Here's the code to make your monkey spin:
 ![Monkey sprite](images/sprite-monkey.png)
 
 ```blocks3
-cuando la bandera es pulsada
-por siempre
-    girar cw (1) grados
+when flag clicked
+forever
+    turn cw (1) degrees
 ```
 
 \--- /hint \--- \--- /hints \---
