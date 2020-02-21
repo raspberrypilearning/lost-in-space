@@ -39,7 +39,7 @@
 ```blocks3
 右轉 @turnright (15) 度
 
-面朝 (Earth v) 向
+面朝 (地球 v) 向
 ```
 
 \--- /hint \--- \--- hint \---
@@ -50,7 +50,7 @@
 
 ```blocks3
 當 @greenflag 被點擊
-面朝 (Earth v) 向
+面朝 (地球 v) 向
 重複無限次
     移動 (2) 點
     碰到邊緣就反彈
