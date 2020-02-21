@@ -1,16 +1,16 @@
 ## Animando uma nave espacial
 
-O teu primeiro passo será criar uma nave espacial que voa em direção à Terra!
+Your first step will be to create a spaceship that flies towards the Earth!
 
 \--- task \---
 
-Abre um projeto Scratch novo.
+Open a new Scratch project.
 
-**Online:** abre um novo projeto online Scratch em [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
 
-**Offline:** abre um novo projeto no editor offline.
+**Offline:** open a new project in the offline editor.
 
-Se for necessário descarregar e instalar o editor offline do Scratch, podes encontrá-lo em [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
