@@ -1,6 +1,6 @@
 ## Asteroide viajante
 
-Agora poderás acrescentar uma rocha espacial flutuante à tua animação.
+Now you will add a floating space rock to your animation.
 
 \--- task \---
 
