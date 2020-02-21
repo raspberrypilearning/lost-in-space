@@ -6,9 +6,9 @@
 
 新しいScratchプロジェクトを開きます。
 
-**Online: **新しいオンラインScratchプロジェクトを[rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}で開きます。
+**オンライン: **新しいオンラインScratchプロジェクトを[rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}で開きます。
 
-**Offline:**オフラインエディターで新しいプロジェクトを開きます。
+**オフライン:**オフラインエディターで新しいプロジェクトを開きます。
 
 Scratchオフラインエディタをダウンロードしてインストールする必要がある場合は、[rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}で見つけることができます。:
 
@@ -16,7 +16,7 @@ Scratchオフラインエディタをダウンロードしてインストール�
 
 \--- task \---
 
-宇宙船と地球のスプライトをステージに追加してください。
+宇宙船('rocketship') と地球('Earth') のスプライトをステージに追加してください。
 
 ![宇宙船と地球のスプライト](images/space-sprites.png)
 
