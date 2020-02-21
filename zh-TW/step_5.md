@@ -4,7 +4,7 @@
 
 \--- task \---
 
-從範例庫中添加一個名為 monkey 的角色。
+從範例庫中添加一個名為 monkey（猴子）的角色。
 
 ![添加一個猴子角色](images/space-monkey-sprite.png)
 
