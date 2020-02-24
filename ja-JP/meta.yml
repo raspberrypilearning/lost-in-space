@@ -1,27 +1,22 @@
 ---
 title: ロスト・イン・スペース / 宇宙 (うちゅう) で迷子 (まいご)
-theme: green
 hero_image: images/lost-in-space.png
 description: アニメーションをプログラムしてみましょう！
 original_url: https://www.codeclubprojects.org/en-GB/scratch/lost-in-space
-duration: 2
 listed: true
 copyedit: true
-ingredient: false
-curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-interests: space
 technologies: scratch
-site_areas: projects
-hardware: ''
-software: scratch
-version: 4
-last_tested: 2017-11-01
+version: 4.1.3
+last_tested: 2018-09-26
 steps:
   - title: はじめに
-  - title: 必要なもの
   - title: 宇宙船 (うちゅうせん) のアニメーション
+  - title: 'チャレンジ: アニメーションの改良（かいりょう）'
+    challenge: true
   - title: 繰り返し (くりかえし) を使ったアニメーション
   - title: ういているサル
   - title: はずむ小惑星 (しょうわくせい)
   - title: 光る星
   - title: 'チャレンジ: 自分のアニメーションを作ろう'
+    challenge: true
+  - title: 次は何をしますか？

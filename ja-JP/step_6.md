@@ -1,13 +1,62 @@
 ## はずむ小惑星 (しょうわくせい)
 
-宇宙に浮かぶ岩をアニメーションに追加しましょう。
+次に、アニメーションに、浮かぶ宇宙の岩を追加します。
 
-+ アニメーションに岩のスプライトを追加してください。
-    
-    ![Adding a rock sprite](images/space-rock-sprite.png)
+--- task ---
 
-+ 岩のスプライトにコードを入れて、ステージ中をはね反るようにできますか？
-    
-    ![Testing a bouncing rock](images/space-bounce-test.png)
+アニメーションに岩('rock') のスプライトを追加してください。
 
---- hints --- --- hint --- 緑の旗がクリックされたとき、 ずっと岩のスプライトは動き、ステージ中をはずみます。 --- /hint --- --- hint --- 使うブロックはこちらです。 ![Blocks for a bouncing rock](images/space-bounce-blocks.png) どちらかのブロックを使って、岩の最初の行き先を変えることもできます。 ![Setting the rock's initial position](images/space-initial-position.png) --- /hint --- --- hint --- 岩がステージ中をはね返るようにするには、こうします。 ![Code for a bouncing rock](images/space-bounce-code.png) --- /hint --- --- /hints ---
+![岩のスプライトを追加する](images/space-rock-sprite.png)
+
+--- /task ---
+
+--- task ---
+
+岩のスプライトのコードを追加して、ステージ上で岩がバウンドするようにできますか？
+
+![バウンドする岩をテストする](images/space-bounce-test.png)
+
+--- hints ---
+ --- hint ---
+
+緑の**フラグがクリックされた**とき、 岩のスプライトは**ずっと**ステージ中を**動いて**、**はずみます**。
+
+--- /hint --- --- hint ---
+
+必要なコードブロックは次のとおりです。
+
+```blocks3
+(10) 歩動かす
+
+もし端に着いたら、跳ね返る
+
+⚑ が押されたとき
+
+ずっと
+end
+```
+
+いずれかのブロックを使用して、岩のスプライトにもっと面白い開始方向を設定することもできます。
+
+```blocks3
+↻ (15) 度回す
+
+(地球 v) へ向ける
+```
+
+--- /hint --- --- hint ---
+
+ステージ上で岩をバウンドさせるためのコードは次のとおりです。
+
+![岩のスプライト](images/sprite-rock.png)
+
+```blocks3
+⚑ が押されたとき
+(地球 v) へ向ける
+ずっと 
+  (2) 歩動かす
+  もし端に着いたら、跳ね返る
+end
+```
+
+--- /hint ------ /hints --- --- /task ---
