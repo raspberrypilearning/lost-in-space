@@ -59,7 +59,7 @@ title: 学習すること
 
 --- collapse ---
 ---
-title：教育者向けの追加情報
+title: 教育者向けの追加情報
 ---
 
 このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/ja-JP/projects/lost-in-space/print){:target="_ blank"}を使用してください。
