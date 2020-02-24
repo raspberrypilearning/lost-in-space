@@ -1,31 +1,127 @@
 ## 繰り返し (くりかえし) を使ったアニメーション
 
-宇宙船を動かすには、別の方法もあります。それは何度も、少しずつ動くように宇宙船に教えることです。
+宇宙船をアニメーション化するもう1つの方法は、少量の移動を何回も繰り返すことです。
 
-+ 右クリックで削除 (さくじょ) を選んで、`変える`ブロックを消します。 スクリプトエリアからブロックエリアにブロックをドラッグして戻すことで、消すこともできます。
-    
-    ![Deleting the glide block](images/space-delete-glide.png)
+--- task ---
 
-+ `繰り返す (くりかえす) ` ブロックを使って、宇宙船を地球に向けて動かせますか？
-    
-    テストして保存 (ほぞん) しましょう。宇宙船は前と同じように地球に向けて動きますが、今回は`繰り返す` ブロックを使います。
-    
-    ![Testing a spaceship animation](images/space-animate-stage.png)
+`変える` {:class="block3motion"}ブロックをコードから削除します。これを行うには、コード領域からブロックをドラッグしてはずし、他の単一コードブロックがある場所にドロップします。
 
---- hints --- --- hint --- 変わるのではなく、 宇宙船は何度も少しずつ動きます。 --- /hint --- --- hint --- 必要なブロックは次の通りです。 ![Blocks for an animated spaceship](images/space-repeat-blocks.png) --- /hint --- --- hint --- 宇宙船を動かすには、こうします。 ![Code for an animated spaceship](images/space-repeat-code.png) (宇宙船がちゃんと地球に着くのなら、`繰り返す`ブロックと`動かす`ブロックにちがう値 (あたい) を入れて変えることもできます。 ) --- /hint --- --- /hints ---
+![宇宙船のスプライト](images/sprite-spaceship.png)
 
-+ コードを入れて、地球に向かっていく宇宙船の色を変えることができますか？
-    
-    テストして保存しましょう。
-    
-    ![Testing a colour-changing spaceship](images/space-colour-test.png)
+```blocks3
+⚑ が押されたとき
+(0) 度に向ける
+x座標を (-150) 、y座標を (-150) にする
+[レッツゴー] と (2) 秒言う
+(地球 v) へ向ける
 
---- hints --- --- hint --- 宇宙船は動きながら、色を変えます。 --- /hint --- --- hint --- 新しく使うブロックはこちらです。 ![Block for changing colour](images/space-colour-blocks.png) --- /hint --- --- hint --- 宇宙船の色を変えるには、こうします。 ![Code for an animated spaceship](images/space-colour-code.png) --- /hint --- --- /hints ---
+- (1) 秒でx座標を (0) に、y座標を (0) に変える
+```
 
-+ 地球に近づくにつれて宇宙船を小さくしていくことができますか？
-    
-    テストして保存しましょう。宇宙船は近づくにつれて小さくなっていきます。2回目のテストをしましょう。宇宙船はちょうどいい大きさで始まりますか？
-    
-    ![Testing a shrinking spaceship](images/space-size-test.png)
+--- /task ---
 
---- hints --- --- hint --- 宇宙船は100%の大きさで始まり、動くにつれて少しずつ大きさを変えます。 --- /hint --- --- hint --- 使うブロックはこちらです。 ![Blocks for changing size](images/space-size-blocks.png) --- /hint --- --- hint --- 動く宇宙船の大きさを変えるには、こうします。 ![Code for changing size](images/space-size-code.png) --- /hint --- --- /hints ---
+--- task ---
+
+ここで、`繰り返す` {:class="block3control"}ブロックを使用して、宇宙船が地球に行くようにしてみましょう
+
+![宇宙船アニメーションのテスト](images/space-animate-stage.png)
+
+![宇宙船のスプライト](images/sprite-spaceship.png)
+
+```blocks3
+⚑ が押されたとき
+(0) 度に向ける
+x座標を (-150) 、y座標を (-150) にする
+[レッツゴー] と (2) 秒言う
+(地球 v) へ向ける
+
++ (200) 回繰り返す 
+  (2) 歩動かす
+```
+
+コードをテストして保存します。宇宙船は以前とまったく同じように地球に向かって移動するはずですが、今回は`繰り返す` {:class="block3control"}ブロックを使用します。
+
+--- /task ---
+
+--- task ---
+
+次に、宇宙船のスプライトにコードを追加して、宇宙船が地球に向かって移動すると色が変わるようにしますか？
+
+このブロックを使用します:
+
+![宇宙船のスプライト](images/sprite-spaceship.png)
+
+```blocks3
+⚑ が押されたとき
+(0) 度に向ける
+x座標を (-150) 、y座標を (-150) にする
+[レッツゴー] と (2) 秒言う
+(地球 v) へ向ける
+(200) 回繰り返す 
+  (2) 歩動かす
+
++  [色 v] の効果を (25) ずつ変える
+```
+
+コードをテストして保存します。
+
+![色の変わる宇宙船のテスト](images/space-colour-test.png)
+
+--- /task ---
+
+--- task ---
+
+地球に近づくにつれて宇宙船を小さくしていくことができますか？
+
+--- hints ---
+
+
+--- hint ---
+
+宇宙船は`大きさ100％` {:class="blocklooks"}で開始し、`大きさを変える`{:class="blocklooks"}を使って、少しずつ移動するたびに行います。
+
+--- /hint ---
+
+--- hint ---
+
+これらのブロックをコードに追加する必要があります。
+
+![宇宙船のスプライト](images/sprite-spaceship.png)
+
+```blocks3
+大きさを (10) ずつ変える
+
+大きさを (100) %にする
+```
+
+--- /hint ---
+
+--- hint ---
+
+コードは以下のようになります：
+
+![宇宙船のスプライト](images/sprite-spaceship.png)
+
+```blocks3
+⚑ が押されたとき
+大きさを (100) %にする
+(0) 度に向ける
+x座標を (-150) 、y座標を (-150) にする
+[レッツゴー] と (2) 秒言う
+(地球 v) へ向ける
+(200) 回繰り返す 
+  (2) 歩動かす
+  [色 v] の効果を (25) ずつ変える
+
++   大きさを (-3) ずつ変える
+```
+
+--- /hint ---
+
+--- /hints ---
+
+--- /task ---
+
+コードをテストして保存します。宇宙船は移動すると小さくなります。宇宙船を**2回目のテスト**します 。開始時、宇宙船は適切なサイズですか？
+
+![縮小する宇宙船のテスト](images/space-size-test.png)
