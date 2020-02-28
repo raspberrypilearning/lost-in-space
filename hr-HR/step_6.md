@@ -1,4 +1,4 @@
-## Bouncing asteroid
+## Asteroid koji odskakuje
 
 Now you will add a floating space rock to your animation.
 
@@ -6,7 +6,7 @@ Now you will add a floating space rock to your animation.
 
 Add a 'rock' sprite to your animation.
 
-![Adding a rock sprite](images/space-rock-sprite.png)
+![Dodavanje lika kamena](images/space-rock-sprite.png)
 
 \--- /task \---
 
@@ -14,7 +14,7 @@ Add a 'rock' sprite to your animation.
 
 Can you add code for your rock sprite so that the rock bounces around the stage?
 
-![Testing a bouncing rock](images/space-bounce-test.png)
+![Testiranje kamena koji odskakuje](images/space-bounce-test.png)
 
 \--- hints \--- \--- hint \---
 
@@ -22,38 +22,40 @@ When the green **flag is clicked**, your rock sprite should **move** and **bounc
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+Trebat će ti ovi blokovi kôda:
 
 ```blocks3
-move (10) steps
+idi (10) koraka
 
-if on edge bounce
+ako si na rubu, okreni se
 
-when flag clicked
+kada je zelena zastava kliknut
 
-forever
+ponavljaj
+end
 ```
 
 You can also set a more interesting starting direction for the rock sprite with one of these blocks:
 
 ```blocks3
-turn cw (15) degrees
+skreni desno (15) stupnjeva
 
-point towards (Earth v)
+okreni se prema (Earth v)
 ```
 
 \--- /hint \--- \--- hint \---
 
 Here's the code for making your rock bounce around the stage:
 
-![Rock sprite](images/sprite-rock.png)
+![Lik kamena](images/sprite-rock.png)
 
 ```blocks3
-when flag clicked
-point towards (Earth v)
-forever
-    move (2) steps
-    if on edge, bounce
+kada je zelena zastava kliknut
+okreni se prema (Earth v)
+ponavljaj 
+idi (2) koraka
+ako si na rubu, okreni se
+end
 ```
 
 \--- /hint \--- \--- /hints \--- \--- /task \---
