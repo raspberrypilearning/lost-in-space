@@ -28,49 +28,47 @@ Now use a `repeat`{:class="block3control"} block to move your spaceship towards 
 ![Lik svemirskog broda](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-
-+ repeat (200)
-    move (2) steps
+kada je zelena zastava kliknut
+okreni se u smjeru (0)
+idi na x: (-150) y: (-150)
+govori [Kreni] (2) sekundi
+okreni se prema (Earth v)
++ ponovi (200) 
+idi (2) koraka
 ```
 
-Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
+Testiraj i spremi svoj kôd. Tvoj bi se svemirski brod trebao kretati prema Zemlji točno kao i prije, ali ovaj put koristi blok `ponavljaj`{:class="block3control"}.
 
 \--- /task \---
 
 \--- task \---
 
-Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
+Sada dodaj kôd liku svemirskog broda tako da brod mijenja boju dok se kreće prema Zemlji.
 
-Use this block:
+Upotrijebi ovaj blok:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Lik svemirskog broda](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-repeat (200)
-    move (2) steps
-
-+    change [color v] effect by (25)
+kada je zelena zastava kliknut
+okreni se u smjeru (0)
+idi na x: (-150) y: (-150)
+govori [Kreni] (2) sekundi
+okreni se prema (Earth v)
+ponovi (200) 
+idi (2) koraka
++ promijeni efekt [boja v] za (25)
 ```
 
-Test and save your code.
+Testiraj i spremi svoj kôd.
 
-![Testing a colour-changing spaceship](images/space-colour-test.png)
+![Testiranje svemirskog broda koji mijenja boju](images/space-colour-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Can you make your spaceship get smaller as it moves towards Earth?
+Možeš li smanjiti svoj svemirski brod dok se kreće prema Zemlji?
 
 \--- hints \---
 
@@ -82,36 +80,35 @@ Your spaceship should start at `100% size`{:class="blocklooks"}, and then `chang
 
 \--- hint \---
 
-You will need to add these blocks to your code:
+Moraš dodati ove blokove u svoj kôd:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Lik svemirskog broda](images/sprite-spaceship.png)
 
 ```blocks3
-change size by (10)
+promijeni veličinu za (10)
 
-set size to (100) %
+postavi veličinu na (100) %
 ```
 
 \--- /hint \---
 
 \--- hint \---
 
-Your code should look like this:
+Tvoj kôd bi trebao izgledati ovako:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Lik svemirskog broda](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-set size to (100) %
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-repeat (200)
-    move (2) steps
-    change [color v] effect by (25)
-
-+   change size by (-3)
+kada je zelena zastava kliknut
+postavi veličinu na (100) %
+okreni se u smjeru (0)
+idi na x: (-150) y: (-150)
+govori [Kreni] (2) sekundi
+okreni se prema (Earth v)
+ponovi (200) 
+idi (2) koraka
+promijeni efekt [boja v] za (25)
++ promijeni veličinu za (-3)
 ```
 
 \--- /hint \---
@@ -122,4 +119,4 @@ repeat (200)
 
 Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
 
-![Testing a shrinking spaceship](images/space-size-test.png)
+![Testiranje svemirskog broda koji se smanjuje](images/space-size-test.png)
