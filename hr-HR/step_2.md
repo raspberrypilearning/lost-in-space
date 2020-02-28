@@ -1,22 +1,22 @@
-## Animating a spaceship
+## Animacija svemirskog broda
 
-Your first step will be to create a spaceship that flies towards the Earth!
+Tvoj prvi korak biti će stvaranje svemirskog broda koji leti prema Zemlji!
 
 \--- task \---
 
-Open a new Scratch project.
+Otvori novi Scratch projekt.
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
+**Online:** otvori novi online Scratch projekt sa [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
 
-**Offline:** open a new project in the offline editor.
+**Offline:** otvori novi projekt u offline uređivaču.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Ako trebaš preuzeti i instalirati offline Scratch uređivač, to možeš napraviti na [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
 \--- task \---
 
-Add 'rocketship' and 'Earth' sprites to your Stage.
+Dodaj likove „ rocketship” (raketa) i „ Earth” (Zemlja) na svoju Pozornicu.
 
 ![Spaceship and Earth sprites](images/space-sprites.png)
 
