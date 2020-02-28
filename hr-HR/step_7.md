@@ -1,4 +1,4 @@
-## Shining star
+## Sjajna zvijezda
 
 Now you will combine loops to make a shining star.
 
@@ -6,7 +6,7 @@ Now you will combine loops to make a shining star.
 
 Add a 'star' sprite to your stage.
 
-![Adding a star sprite](images/space-star-sprite.png)
+![Dodavanje lika zvjezde](images/space-star-sprite.png)
 
 \--- /task \---
 
@@ -14,7 +14,7 @@ Add a 'star' sprite to your stage.
 
 Can you add code to your star sprite to make the star repeatedly grow and shrink?
 
-![Testing a shining star](images/sprite-star.png)
+![Testiranje zvijezde koja sjaji](images/sprite-star.png)
 
 \--- hints \--- \--- hint \---
 
@@ -22,39 +22,40 @@ When the green **flag is clicked**, your star sprite should **change size** to g
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+Trebat će ti ovi blokovi kôda:
 
 ```blocks3
-repeat (10)
+ponovi (10)
 end
 
-when flag clicked
+kada je zelena zastava kliknut
 
-repeat (10)
+ponovi (10)
 end
 
-change size by (10)
+promijeni veličinu za (10)
 
-change size by (10)
+promijeni veličinu za (10)
 
-forever
+ponavljaj
+end
 ```
 
 \--- /hint \--- \--- hint \---
 
 Here's the code to make your star grow and shrink:
 
-![Star sprite](images/sprite-star.png)
+![Lik zvijezde](images/sprite-star.png)
 
 ```blocks3
-when flag clicked
-forever
-    repeat (20)
-        change size by (2)
-    end
-    repeat (20)
-        change size by (-2)
-    end
+kada je zelena zastava kliknut
+ponavljaj 
+ponovi (20) 
+promijeni veličinu za (2)
+end
+ponovi (20) 
+promijeni veličinu za (-2)
+end
 
 ```
 
