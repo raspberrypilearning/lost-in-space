@@ -1,4 +1,4 @@
-## Floating monkey
+## Majmun koji lebdi
 
 Now you will add a monkey who's lost in space to your animation!
 
@@ -6,7 +6,7 @@ Now you will add a monkey who's lost in space to your animation!
 
 Start by adding the 'monkey' sprite from the library.
 
-![Adding a monkey sprite](images/space-monkey-sprite.png)
+![Dodavanje lika majmuna](images/space-monkey-sprite.png)
 
 \--- /task \---
 
@@ -16,7 +16,7 @@ Click on your new monkey sprite and then click on **Costumes** so that you can e
 
 Set the fill to be transparent by selecting the red line. For the outline, set a white colour by moving the Saturation slider to `0`.
 
-![Make white colour](images/make-white.png)
+![Napravi bijelu boju](images/make-white.png)
 
 \--- /task \---
 
@@ -24,7 +24,7 @@ Set the fill to be transparent by selecting the red line. For the outline, set a
 
 Click on the **circle** tool and then use it to draw a white space helmet around the monkey's head.
 
-![Monkey space helmet](images/space-monkey-edit.png)
+![Svemirska kaciga za majmuna](images/space-monkey-edit.png)
 
 \--- /task \---
 
@@ -38,27 +38,28 @@ When the green **flag is clicked**, your monkey sprite should **turn** in a circ
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+Trebat će ti ovi blokovi kôda:
 
 ```blocks3
-forever
+ponavljaj
 end
 
-turn cw (15) degrees
+skreni desno (15) stupnjeva
 
-when flag clicked
+kada je zelena zastava kliknut
 ```
 
 \--- /hint \--- \--- hint \---
 
 Here's the code to make your monkey spin:
 
-![Monkey sprite](images/sprite-monkey.png)
+![Lik majmuna](images/sprite-monkey.png)
 
 ```blocks3
-when flag clicked
-forever
-    turn cw (1) degrees
+kada je zelena zastava kliknut
+ponavljaj 
+skreni desno (1) stupnjeva
+end
 ```
 
 \--- /hint \--- \--- /hints \---
@@ -67,4 +68,4 @@ forever
 
 Test and save your project. You'll have to click on the red **stop** button to end this animation, as it runs forever!
 
-![Test the spinning monkey](images/space-spin-test.png)
+![Testiraj majmuna koji se vrti](images/space-spin-test.png)
