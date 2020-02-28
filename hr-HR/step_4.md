@@ -4,7 +4,7 @@ Drugi način na koji možeš animirati svemirski brod je tako da mu kažeš da s
 
 \--- task \---
 
-Delete the `glide`{:class="block3motion"} block from your code. To do this, drag the block off the Code area and drop it back where the other single code blocks are.
+Izbriši blok `klizi`{:class="block3motion"} iz svog kôda. To možeš učiniti tako da povučeš blok s prostora za Skripte i ispustiš ga tamo gdje su ostali blokovi pojedinačnih kôdova.
 
 ![Lik svemirskog broda](images/sprite-spaceship.png)
 
@@ -21,7 +21,7 @@ okreni se prema (Earth v)
 
 \--- task \---
 
-Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
+Sada upotrijebi `ponavljaj`{:class="block3control"} blok za pomicanje svemirskog broda prema Zemlji.
 
 ![Testiranje animacije svemirskog broda](images/space-animate-stage.png)
 
@@ -74,7 +74,7 @@ Možeš li smanjiti svoj svemirski brod dok se kreće prema Zemlji?
 
 \--- hint \---
 
-Your spaceship should start at `100% size`{:class="blocklooks"}, and then `change size`{:class="blocklooks"} by a small amount each time it moves.
+Veličina tvog svemirskog broda treba biti postavljena na `100%`{:class="blocklooks"}, a zatim bi se trebala `promijeniti za`{:class="blocklooks"} jedan mali iznos svaki put kad se svemirski brod pomakne.
 
 \--- /hint \---
 
@@ -117,6 +117,6 @@ promijeni efekt [boja v] za (25)
 
 \--- /task \---
 
-Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
+Testiraj i spremi svoj kôd. Tvoj bi se svemirski brod sada trebao smanjivati dok se kreće. Testiraj svoj svemirski brod **po drugi put**. Je li prave veličine kad se pokrene?
 
 ![Testiranje svemirskog broda koji se smanjuje](images/space-size-test.png)
