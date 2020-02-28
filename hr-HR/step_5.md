@@ -1,16 +1,16 @@
 ## Majmun koji lebdi
 
-Now you will add a monkey who's lost in space to your animation!
+Sada ćeš svojoj animaciji dodati majmuna koji se izgubio u svemiru!
 
 \--- task \---
 
-Start by adding the 'monkey' sprite from the library.
+Započni dodavanjem lika majmuna („ Monkey”) iz biblioteke.
 
 ![Dodavanje lika majmuna](images/space-monkey-sprite.png)
 
 \--- /task \---
 
-Click on your new monkey sprite and then click on **Costumes** so that you can edit how the monkey looks.
+Klikni na svog novog lika majmuna, a zatim na **Kostimi** dan urediš izgled majmuna.
 
 \--- task \---
 
