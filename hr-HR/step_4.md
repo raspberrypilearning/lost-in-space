@@ -1,21 +1,20 @@
-## Animation using loops
+## Animacija pomoću petlje
 
-Another way to animate the spaceship is to tell it to move a small amount many times
+Drugi način na koji možeš animirati svemirski brod je tako da mu kažeš da se puno puta malo pomakne
 
 \--- task \---
 
 Delete the `glide`{:class="block3motion"} block from your code. To do this, drag the block off the Code area and drop it back where the other single code blocks are.
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Lik svemirskog broda](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-
-- glide (1) secs to x:(0) y:(0)
+kada je zelena zastava kliknut
+okreni se u smjeru (0)
+idi na x: (-150) y: (-150)
+govori [Kreni] (2) sekundi
+okreni se prema (Earth v)
+- klizi (1) sekundi do x: (0) y: (0)
 ```
 
 \--- /task \---
@@ -24,9 +23,9 @@ point towards (Earth v)
 
 Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
 
-![Testing a spaceship animation](images/space-animate-stage.png)
+![Testiranje animacije svemirskog broda](images/space-animate-stage.png)
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Lik svemirskog broda](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
