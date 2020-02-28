@@ -1,18 +1,18 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
+Ovo je **Scratch 3** verzija projekta. Postoji i [Scratch 2 verzija projekta](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
 
 \--- /no-print \---
 
-## Introduction
+## Uvod
 
-You are going to learn how to program your own animation!
+Naučit ćeš programirati vlastitu animaciju!
 
-### What you will make
+### Napravit ćeš
 
 \--- no-print \---
 
-Click on the green flag to see the animation.
+Klikni na zelenu zastavicu kako bi se animacija pokrenula.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -23,44 +23,44 @@ Click on the green flag to see the animation.
 
 \--- print-only \---
 
-![Complete project](images/showcase_static.png)
+![Dovršen projekt](images/showcase_static.png)
 
 \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: Trebat ćeš
 
-### Hardware
+### Hardver
 
-- A computer capable of running Scratch 3
+- Računalo koje može pokrenuti Scratch 3
 
-### Software
+### Softver
 
-- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 ([online](http://rpf.io/scratchon){:target="_blank"} ili [offline](http://rpf.io/scratchoff) verziju{:target="_blank"})
 
-### Downloads
+### Preuzimanja
 
-- None
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: What you will learn
-
-- Use a repeat loop to animate a sprite in Scratch
-- Use a forever loop to repeat an animation indefinitely
-- Understand that loops can be nested within each other
+- Ništa
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: Naučit ćeš
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
+- Koristiti petlju za ponavljanje za animaciju lika u programu Scratch
+- Koristiti beskonačnu petlju za ponavljanje animacije u nedogled
+- Razumijeti da se petlje mogu ugnijezditi jedna unutar druge
 
-You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: Dodatne informacije za edukatore
+
+Ako želite ispisati ovaj projekt, koristite [verziju koja je prilagođena za ispis](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
+
+Dovršen projekt možete pronaći [ovdje](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
 \--- /collapse \---
