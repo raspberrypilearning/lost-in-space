@@ -14,7 +14,7 @@ Klikni na svog novog lika majmuna, a zatim na **Kostimi** dan urediš izgled maj
 
 \--- task \---
 
-Set the fill to be transparent by selecting the red line. For the outline, set a white colour by moving the Saturation slider to `0`.
+Postavi ispunu da bude transparentna tako što ćeš odabrati crvenu liniju. Obrubu daj bijelu boju pomicanjem klizača Saturacija na `0`.
 
 ![Napravi bijelu boju](images/make-white.png)
 
@@ -22,7 +22,7 @@ Set the fill to be transparent by selecting the red line. For the outline, set a
 
 \--- task \---
 
-Click on the **circle** tool and then use it to draw a white space helmet around the monkey's head.
+Kliknite na alat **kružnica**, a zatim pomoću njega nacrtaj bijelu svemirsku kacigu oko majmunove glave.
 
 ![Svemirska kaciga za majmuna](images/space-monkey-edit.png)
 
@@ -30,11 +30,11 @@ Click on the **circle** tool and then use it to draw a white space helmet around
 
 \--- task \---
 
-Can you add code to your monkey sprite so that it spins slowly in a circle forever?
+Možeš li dodati kôd svom liku majmuna kako bi se majmun neprestano polako vrtio u krug?
 
 \--- hints \--- \--- hint \---
 
-When the green **flag is clicked**, your monkey sprite should **turn** in a circle **forever**.
+Kada je zelena **zastavica kliknuta**, tvoj lik majmuna trebao bi se **vrtiti** u krug **zauvijek**.
 
 \--- /hint \--- \--- hint \---
 
@@ -51,7 +51,7 @@ kada je zelena zastava kliknut
 
 \--- /hint \--- \--- hint \---
 
-Here's the code to make your monkey spin:
+Ovo je kôd kojim ćeš napraviti da se tvoj majmun vrti:
 
 ![Lik majmuna](images/sprite-monkey.png)
 
@@ -66,6 +66,6 @@ end
 
 \--- /task \---
 
-Test and save your project. You'll have to click on the red **stop** button to end this animation, as it runs forever!
+Testiraj i spremi svoj projekt. Animacija će se vrtiti bez prestanka - morat ćeš kliknuti na crveni **stop** gumb da je prekineš!
 
 ![Testiraj majmuna koji se vrti](images/space-spin-test.png)
