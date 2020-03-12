@@ -4,25 +4,25 @@
 
 \--- task \---
 
-Add a 'rock' sprite to your animation.
+向动画中加入“岩石”角色。
 
-![Adding a rock sprite](images/space-rock-sprite.png)
+![添加岩石角色](images/space-rock-sprite.png)
 
 \--- /task \---
 
 \--- task \---
 
-Can you add code for your rock sprite so that the rock bounces around the stage?
+你能为你的岩石精灵添加代码，以便岩石在舞台上反弹吗？
 
-![Testing a bouncing rock](images/space-bounce-test.png)
+![测试岩石反弹](images/space-bounce-test.png)
 
 \--- hints \--- \--- hint \---
 
-When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**.
+当绿**旗被点击**时，岩石应该**不停地**在舞台上**移动**并**反弹**。
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+以下是你需要的代码块：
 
 ```blocks3
 move (10) steps
@@ -34,7 +34,7 @@ when flag clicked
 forever
 ```
 
-You can also set a more interesting starting direction for the rock sprite with one of these blocks:
+你还可以为岩石精灵上创建一个更令人感兴趣的起始方向，其中一个代码：
 
 ```blocks3
 turn cw (15) degrees
@@ -44,9 +44,9 @@ point towards (Earth v)
 
 \--- /hint \--- \--- hint \---
 
-Here's the code for making your rock bounce around the stage:
+这是让你的岩石在舞台上反弹的代码：
 
-![Rock sprite](images/sprite-rock.png)
+![岩石精灵](images/sprite-rock.png)
 
 ```blocks3
 turn cw (15) degrees
