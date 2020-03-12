@@ -16,9 +16,9 @@
 
 \--- task \---
 
-Add 'rocketship' and 'Earth' sprites to your Stage.
+在你的舞台上添加'rocketship'和'Earth'精灵。
 
-![Spaceship and Earth sprites](images/space-sprites.png)
+![飞船和地球角色](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -26,17 +26,17 @@ Add 'rocketship' and 'Earth' sprites to your Stage.
 
 \--- task \---
 
-Add the 'Stars' backdrop to your Stage.
+为舞台添加“星星“背景。
 
-![A space backdrop](images/space-backdrop.png)
+![太空背景](images/space-backdrop.png)
 
 \--- /task \---
 
 \--- task \---
 
-Click on your spaceship sprite, and click on the **Costumes** tab.
+点击飞船角色，然后点击**造型**选项卡。
 
-![Sprite costume](images/space-costume.png)
+![角色造型](images/space-costume.png)
 
 \--- /task \---
 
@@ -44,15 +44,15 @@ Click on your spaceship sprite, and click on the **Costumes** tab.
 
 Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
 
-![Rotating a costume](images/space-rotate.png)
+![旋转造型](images/space-rotate.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add this code to your spaceship sprite:
+为飞船角色添加如下代码：
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![宇宙飞船精灵](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -63,10 +63,10 @@ point towards (Earth v)
 glide (1) secs to x:(0) y:(0)
 ```
 
-Change the numbers in the code blocks you've added so that the code is exactly the same as above.
+修改程序块中的数字，让宇宙飞船和上面显示的代码一样。
 
 \--- /task \---
 
-If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
+点击绿旗，你应该会看到飞船说话，转向，然后驶向舞台中央。
 
-![Testing a spaceship animation](images/space-animate-stage.png)
+![测试飞船动画](images/space-animate-stage.png)
