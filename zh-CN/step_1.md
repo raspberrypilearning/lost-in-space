@@ -12,7 +12,7 @@
 
 \--- no-print \---
 
-Click on the green flag to see the animation.
+点击绿色标志开始。
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -23,7 +23,7 @@ Click on the green flag to see the animation.
 
 \--- print-only \---
 
-![Complete project](images/showcase_static.png)
+![完成项目](images/showcase_static.png)
 
 \--- /print-only \---
 
@@ -59,8 +59,8 @@ Click on the green flag to see the animation.
 
 ## 标题: 教师附加信息
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
+如果你需要打印此项目，请使用[打印友好版](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}。
 
-You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+你可以在这里找到 [完成的项目](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}。
 
 \--- /collapse \---
