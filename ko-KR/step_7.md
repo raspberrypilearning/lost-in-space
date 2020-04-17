@@ -1,60 +1,59 @@
 ## 빛나는 별
 
-Now you will combine loops to make a shining star.
+빛나는 별을 만들기 위해 반복하기를 합쳐볼 것입니다.
 
 \--- task \---
 
-Add a 'star' sprite to your stage.
+무대에 'star(별)' 스프라이트를 추가하세요.
 
-![Adding a star sprite](images/space-star-sprite.png)
+![별 스프라이트 추가하기](images/space-star-sprite.png)
 
 \--- /task \---
 
 \--- task \---
 
-Can you add code to your star sprite to make the star repeatedly grow and shrink?
+별 스프라이트가 커졌다 작아졌다를 반복하도록 코드를 만들 수 있나요?
 
-![Testing a shining star](images/sprite-star.png)
+![빛나는 별 테스트하기](images/sprite-star.png)
 
 \--- hints \--- \--- hint \---
 
-When the green **flag is clicked**, your star sprite should **change size** to get bigger a few times, and then **change size** to get smaller a few times. It should do this so that it gets bigger and then smaller **forever** and looks like it's shining light.
+초록색 **깃발을 클릭했을 때**, 별 스프라이트는 잠깐동안 커지기 위해 **크기를 바꾸기**하고, 잠깐동안 작아지기 위해 **크기를 바꾸기**합니다. 별이 더 커지고 작아지길 **무한 반복**하도록 해보세요. 그럼 반짝이는 빛처럼 보여요.
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+필요한 코드 블록은 다음과 같습니다.
 
 ```blocks3
-repeat (10)
-end
+(10) 번 반복하기
 
-when flag clicked
+⚑ 클릭했을 때
 
-repeat (10)
-end
+(10) 번 반복하기
 
-change size by (10)
+크기를 (10) 만큼 바꾸기
 
-change size by (10)
+크기를 (10) 만큼 바꾸기
 
-forever
+무한 반복하기
 ```
 
 \--- /hint \--- \--- hint \---
 
-Here's the code to make your star grow and shrink:
+다음은 별이 커졌다 작아졌다 하도록 만드는 코드입니다.
 
-![Star sprite](images/sprite-star.png)
+![별 스프라이트](images/sprite-star.png)
 
 ```blocks3
-when flag clicked
-forever
-    repeat (20)
-        change size by (2)
-    end
-    repeat (20)
-        change size by (-2)
-    end
+⚑ 클릭했을 때
+무한 반복하기 
+  (20) 번 반복하기 
+    크기를 (2) 만큼 바꾸기
+  끝
+  (20) 번 반복하기 
+    크기를 (-2) 만큼 바꾸기
+  끝
+끝
 
 ```
 
