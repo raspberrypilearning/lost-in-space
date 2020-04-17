@@ -1,26 +1,60 @@
 ## 튀어다니는 소행성
 
-우주에서 떠다니는 암석을 추가해봅시다.
+우주에 떠다니는 암석을 추가해봅시다.
 
-+ 애니매이션에 '돌(rock)' 스프라이트를 추가해주세요.
-    
-    ![돌 스프라이트 추가하기](images/space-rock-sprite.png)
+--- task ---
 
-+ 돌 스프라이트가 무대를 튀어다니게 만들 수 있나요?
-    
-    ![튀어다니는 돌 테스트](images/space-bounce-test.png)
+애니매이션에 '돌(rock)' 스프라이트를 추가해주세요.
 
---- hints --- 
---- hint --- 
+![돌 스프라이트 추가하기](images/space-rock-sprite.png)
 
-녹색 **깃발을 누르면** 돌 스프라이트는 **영원히** 무대를 **움직이며** **튀어다닙니다**. 
---- /hint --- 
---- hint --- 
+--- /task ---
 
-필요한 코드 블록입니다: ![Blocks for a bouncing rock](images/space-bounce-blocks.png) 이 블록들 중 하나를 설정하여 더 재밌는 시작 방향을 만들 수 있습니다: ![Setting the rock's initial position](images/space-initial-position.png) 
---- /hint --- 
---- hint --- 
+--- task ---
 
-돌이 무대를 튀어다니게 만드는 코드입니다: ![Code for a bouncing rock](images/space-bounce-code.png) 
---- /hint --- 
---- /hints ---
+돌이 무대를 튀어다니게 하는 코드를 돌 스프라이트에 추가할 수 있나요?
+
+![튀어다니는 돌 테스트하기](images/space-bounce-test.png)
+
+--- hints ---
+ --- hint ---
+
+초록색 **깃발을 클릭했을 때**, 돌 스프라이트는 무대에서 **움직이기**와 **튕기기**를 **무한 반복하기**할 것입니다.
+
+--- /hint --- --- hint ---
+
+필요한 코드 블록은 다음과 같습니다.
+
+```blocks3
+(10) 만큼 움직이기
+
+벽에 닿으면 튕기기
+
+⚑ 클릭했을 때
+
+무한 반복하기
+```
+
+다음 블록 중 하나를 사용하여 바위 스프라이트의 시작 방향을 더 흥미롭게 설정할 수도 있어요.
+
+```blocks3
+↻ 방향으로 (15) 도 회전하기
+
+(지구) 쪽 보기
+```
+
+--- /hint --- --- hint ---
+
+다음은 돌이 무대에서 튀어다니게 하는 코드입니다.
+
+![돌 스프라이트](images/sprite-rock.png)
+
+```blocks3
+⚑ 클릭했을 때
+(지구) 쪽 보기
+무한 반복하기 
+  (2) 만큼 움직이기
+  벽에 닿으면 튕기기
+```
+
+--- /hint ------ /hints --- --- /task ---
