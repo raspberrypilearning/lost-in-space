@@ -34,9 +34,9 @@
 
 크기를 (10) 만큼 바꾸기
 
-크기를 (10) 만큼 바꾸기
-
 무한 반복하기
+
+크기를 (10) 만큼 바꾸기
 ```
 
 --- /hint --- --- hint ---
@@ -46,16 +46,14 @@
 ![별 스프라이트](images/sprite-star.png)
 
 ```blocks3
-⚑ 클릭했을 때
-무한 반복하기 
-  (20) 번 반복하기 
-    크기를 (2) 만큼 바꾸기
-  끝
-  (20) 번 반복하기 
-    크기를 (-2) 만큼 바꾸기
-  끝
-끝
-
+when flag clicked
+forever
+    repeat (20)
+        change size by (2)
+    end
+    repeat (20)
+        change size by (-2)
+    end
 ```
 
 --- /hint ------ /hints --- --- /task ---

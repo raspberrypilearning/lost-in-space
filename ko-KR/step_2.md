@@ -24,7 +24,7 @@
 
 --- /task ---
 
---- /task ---
+--- task ---
 
 무대에 'Stars' 배경을 추가하세요.
 
@@ -32,7 +32,7 @@
 
 --- /task ---
 
---- /task ---
+--- task ---
 
 우주선 스프라이트를 클릭한 뒤, **모양** 탭을 클릭하세요.
 
@@ -55,12 +55,12 @@
 ![우주선 스프라이트](images/sprite-spaceship.png)
 
 ```blocks3
-⚑ 클릭했을 때
-(0) 도 방향 보기
-x: (-150) y: (-150) (으)로 이동하기
-[출발!] 을(를) (2) 초 동안 말하기
-(지구) 쪽 보기
-(1) 초 동안 x: (0) y: (0) (으)로 이동하기
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [출발!] for (2) seconds
+point towards (지구 v)
+glide (1) secs to x:(0) y:(0)
 ```
 
 위 그림과 같게 코드블록의 숫자들을 바꿔주세요.

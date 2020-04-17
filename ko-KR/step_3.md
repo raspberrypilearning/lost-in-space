@@ -10,7 +10,7 @@
 ![우주선 스프라이트](images/sprite-spaceship.png)
 
 ```blocks3
-(1) 초 동안 x:(0) y:(0)으로 이동하기
+glide (1) secs to x:(0) y:(0)
 ```
 
 [[[generic-scratch3-coordinates]]]

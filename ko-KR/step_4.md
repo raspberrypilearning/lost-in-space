@@ -9,13 +9,12 @@
 ![우주선 스프라이트](images/sprite-spaceship.png)
 
 ```blocks3
-⚑ 클릭했을 때
-(0) 도 방향 보기
-x: (-150) y: (-150) (으)로 이동하기
-[출발!] 을(를) (2) 초 동안 말하기
-(지구) 쪽 보기
-
-(1) 초 동안 x: (0) y: (0) (으)로 이동하기
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [출발!] for (2) seconds
+point towards (지구 v)
+- glide (1) secs to x:(0) y:(0)
 ```
 
 --- /task ---
@@ -29,14 +28,13 @@ x: (-150) y: (-150) (으)로 이동하기
 ![우주선 스프라이트](images/sprite-spaceship.png)
 
 ```blocks3
-⚑ 클릭했을 때
-(0) 도 방향 보기
-x: (-150) y: (-150) (으)로 이동하기
-[출발!] 을(를) (2) 초 동안 말하기
-(지구) 쪽 보기
-
-+ (200) 번 반복하기 
-    (2) 만큼 움직이기
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [출발!] for (2) seconds
+point towards (지구 v)
++ repeat (200)
+    move (2) steps
 ```
 
 코드를 테스트하고 저장하세요. 우주선은 이전과 같이 지구를 향해 움직여야 합니다. 이번에는 `반복하기`{:class="block3control"} 블록을 활용했습니다.
@@ -52,15 +50,14 @@ x: (-150) y: (-150) (으)로 이동하기
 ![우주선 스프라이트](images/sprite-spaceship.png)
 
 ```blocks3
-⚑ 클릭했을 때
-(0) 도 방향 보기
-x: (-150) y: (-150) (으)로 이동하기
-[출발!] 을(를) (2) 초 동안 말하기
-(지구) 쪽 보기
-(200) 번 반복하기 
-  (2) 만큼 움직이기
-
-+ [색깔] 효과를 (25) 만큼 바꾸기
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [출발!] for (2) seconds
+point towards (지구 v)
+repeat (200)
+    move (2) steps
++    change [색깔 v] effect by (25)
 ```
 
 프로젝트를 테스트해 보고 저장하세요.
@@ -103,17 +100,16 @@ x: (-150) y: (-150) (으)로 이동하기
 ![우주선 스프라이트](images/sprite-spaceship.png)
 
 ```blocks3
-⚑ 클릭했을 때
-크기를 (100) %로 정하기
-(0) 도 방향 보기
-x: (-150) y: (-150) (으)로 이동하기
-[출발!] 을(를) (2) 초 동안 말하기
-(지구) 쪽 보기
-(200) 번 반복하기 
-  (2) 만큼 움직이기
-  [색깔] 효과를 (25) 만큼 바꾸기
-
-+   크기를 (-3) 만큼 바꾸기
+when flag clicked
+set size to (100) %
+point in direction (0)
+go to x:(-150) y:(-150)
+say [출발!] for (2) seconds
+point towards (지구 v)
+repeat (200)
+    move (2) steps
+    change [색깔 v] effect by (25)
++   change size by (-3)
 ```
 
 --- /hint ---
