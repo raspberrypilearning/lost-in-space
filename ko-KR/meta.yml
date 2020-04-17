@@ -5,19 +5,19 @@ description: 나만의 애니메이션을 만드는 법을 배워봅시다!
 original_url: https://www.codeclubprojects.org/en-GB/scratch/lost-in-space
 listed: true
 copyedit: true
-technologies: scratch
+technologies: 스크래치
 version: 4.1.3
 last_tested: 2018-09-26
 steps:
   - 
     title: 들어가며
   - 
-    title: Animating a spaceship
+    title: 우주선 움직이기
   - 
-    title: 'Challenge: improve your animation'
+    title: '도전: 자연스러운 움직임 만들기'
     challenge: true
   - 
-    title: Animation using loops
+    title: 반복하기를 활용해 움직이기
   - 
     title: 떠다니는 원숭이
   - 
@@ -25,7 +25,7 @@ steps:
   - 
     title: 빛나는 별
   - 
-    title: '도전: 나만의 애니메이션을 만들어보세요'
+    title: '도전: 나만의 애니메이션을 만들어요'
     challenge: true
   - 
-    title: What next?
+    title: 더 나아가기
