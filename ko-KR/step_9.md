@@ -1,6 +1,6 @@
-## What next?
+## 더 나아가기
 
-Try the [Ghostbusters](https://projects.raspberrypi.org/en/projects/ghostbusters?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) project! In that project, you will learn how to create a game with ghosts that appear all over the place and that you need to catch. You will also learn how to add a timer and a score to the game, so that you can see how many ghosts you are able to catch.
+[유령잡기](https://projects.raspberrypi.org/en/projects/ghostbusters?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) 프로젝트를 시도해보자! 이 프로젝트에선, 신출귀몰하게 나타나는 유령을 잡는 게임을 만들게 될 거야. 그리고 타이머를 추가하는 방법과 게임의 점수를 내는 방법을 배워서, 네가 얼마나 많은 유령을 잡을 수 있는지 볼 수 있을 거야.
 
 \--- no-print \---
 
@@ -13,6 +13,6 @@ Try the [Ghostbusters](https://projects.raspberrypi.org/en/projects/ghostbusters
 
 \--- print-only \---
 
-![showcase](images/ghostbusters-static.png)
+![쇼케이스](images/ghostbusters-static.png)
 
 \--- /print-only \---
