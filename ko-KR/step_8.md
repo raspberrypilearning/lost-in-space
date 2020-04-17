@@ -1,7 +1,7 @@
-## 도전: 나만의 애니메이션을 만들어보세요
+## 도전: 나만의 애니메이션을 만들어요
 
-우주 애니매이션을 멈추고, 저장하고, 새로운 스크래치 프로젝트를 만드세요.
+우주 애니매이션을 멈추고, 저장한 다음, 새로운 스크래치 프로젝트를 만드세요.
 
-Use what you've learned in this project to make your own animation. It can be anything you like, but try to make your animation match the background you choose. Here are some examples:
+나만의 애니메이션을 만들기 위해 여태 배운 것들을 사용해보자. 네가 무엇을 원하든 상관없지만, 배경과 어울리는 애니메이션을 만들어봐. 여기 몇 가지 예시가 있어요.
 
 ![스크린샷](images/space-egs.png)
