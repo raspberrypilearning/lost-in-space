@@ -1,70 +1,69 @@
 ## 떠다니는 원숭이
 
-Now you will add a monkey who's lost in space to your animation!
+우주에서 길을 잃은 원숭이를 추가해봅시다!
 
 \--- task \---
 
-Start by adding the 'monkey' sprite from the library.
+저장소에서 'Monkey(원숭이)' 스프라이트를 추가합니다.
 
-![Adding a monkey sprite](images/space-monkey-sprite.png)
+![원숭이 스프라이트 추가](images/space-monkey-sprite.png)
 
 \--- /task \---
 
-Click on your new monkey sprite and then click on **Costumes** so that you can edit how the monkey looks.
+추가된 원숭이 스프라이트를 누르고, **모양**을 클릭하여 원숭이의 모습을 편집해보아요.
 
 \--- task \---
 
-Set the fill to be transparent by selecting the red line. For the outline, set a white colour by moving the Saturation slider to `0`.
+빨간색 선을 선택하여 채우기 색을 투명하게 설정하세요. 윤곽선의 경우엔, 채도 슬라이더를 `0`으로 이동시켜 하얗게 설정해봅시다.
 
-![Make white colour](images/make-white.png)
-
-\--- /task \---
-
-\--- task \---
-
-Click on the **circle** tool and then use it to draw a white space helmet around the monkey's head.
-
-![Monkey space helmet](images/space-monkey-edit.png)
+![흰색 만들기](images/make-white.png)
 
 \--- /task \---
 
 \--- task \---
 
-Can you add code to your monkey sprite so that it spins slowly in a circle forever?
+**원** 도구를 클릭하고, 이것을 이용해 원숭이의 머리에 헬멧을 그려주세요.
+
+![원숭이 우주 헬멧](images/space-monkey-edit.png)
+
+\--- /task \---
+
+\--- task \---
+
+원숭이 스프라이트가 계속 천천히 둥글게 회전하는 코드를 추가할 수 있나요?
 
 \--- hints \--- \--- hint \---
 
-When the green **flag is clicked**, your monkey sprite should **turn** in a circle **forever**.
+초록색 **깃발을 누르면**, 원숭이 스프라이트는 **계속** 빙글빙글 **돕니다**.
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+필요한 코드 블록은 다음과 같습니다.
 
 ```blocks3
-forever
-end
+무한 반복하기
 
-turn cw (15) degrees
+↻ 방향으로 (15) 도 회전하기
 
-when flag clicked
+⚑ 클릭했을 때
 ```
 
 \--- /hint \--- \--- hint \---
 
-Here's the code to make your monkey spin:
+원숭이를 돌리는 코드는 다음과 같습니다.
 
-![Monkey sprite](images/sprite-monkey.png)
+![원숭이 스프라이트](images/sprite-monkey.png)
 
 ```blocks3
-when flag clicked
-forever
-    turn cw (1) degrees
+⚑ 클릭했을 때
+무한 반복하기 
+  ↻ 방향으로 (1) 도 회전하기
 ```
 
 \--- /hint \--- \--- /hints \---
 
 \--- /task \---
 
-Test and save your project. You'll have to click on the red **stop** button to end this animation, as it runs forever!
+프로젝트를 테스트하고 저장하세요. 빨간 **정지** 버튼을 눌러야할 거예요. 아니면 계속 돌아가요!
 
-![Test the spinning monkey](images/space-spin-test.png)
+![회전하는 원숭이 테스트하기](images/space-spin-test.png)
