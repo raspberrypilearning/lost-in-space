@@ -1,18 +1,18 @@
+\--- নো-প্রিন্ট \---
+
+এটি স্ক্র্যাচ 3 প্রকল্পের সংস্করণ। প্রকল্পের একটি স্ক্র্যাচ 2 সংস্করণও রয়েছে।.
+
+\--- / নো-প্রিন্ট \---
+
+## পরিচিতি
+
+আপনি কীভাবে নিজের অ্যানিমেশন প্রোগ্রাম করবেন তা শিখতে চলেছেন!
+
+### যা তৈরি করতে হবে
+
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
-
-\--- /no-print \---
-
-## Introduction
-
-You are going to learn how to program your own animation!
-
-### What you will make
-
-\--- no-print \---
-
-Click on the green flag to see the animation.
+অ্যানিমেশন দেখতে সবুজ পতাকাটিতে ক্লিক করুন।.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -23,44 +23,44 @@ Click on the green flag to see the animation.
 
 \--- print-only \---
 
-![Complete project](images/showcase_static.png)
+![সম্পূর্ণ প্রকল্প](images/showcase_static.png)
 
 \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: What you will need
+## শিরোনাম: যা যা প্রয়োজন
 
-### Hardware
+### হার্ডওয়্যার
 
-- A computer capable of running Scratch 3
+- একটি কম্পিউটার যেথানে স্ক্র্যাচ ৩. ০ (Scratch 3) চালানো যাবে
 
-### Software
+### সফটওয়্যার
 
-- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
+- স্ক্র্যাচ 3 (হয় [ অনলাইনে) ](http://rpf.io/scratchon) ।: লক্ষ্য = "_ ফাঁকা" "বা [ অফলাইন ](http://rpf.io/scratchoff) {: target = "_ blank"})
 
-### Downloads
+### ডাউনলোডসমূহ
 
-- None
+- কোনটাই নয়
+
+-- /collapse \---
+
+## \--- collapse \---
+
+## শিরোনাম: যা শিখতে পারবেন
+
+- স্ক্র্যাচে একটি স্প্রিট প্রাণবন্ত করতে পুনরাবৃত্তি লুপ ব্যবহার করুন
+- একটি অ্যানিমেশন অনির্দিষ্টকালের জন্য পুনরাবৃত্তি করতে চিরকালের লুপ ব্যবহার করুন
+- বুঝতে হবে যে লুপগুলি একে অপরের মধ্যে কাজ করতে পারে
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: What you will learn
+## শিরোনাম: শিক্ষাবিদদের জন্য অতিরিক্ত তথ্য
 
-- Use a repeat loop to animate a sprite in Scratch
-- Use a forever loop to repeat an animation indefinitely
-- Understand that loops can be nested within each other
+আপনি যদি এই প্রজেক্টটি প্রিন্ট করতে চান তবে [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"} ব্যবহার করুন।.
 
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: Additional information for educators
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
-
-You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+আপনি এখানে <0সমাপ্ত প্রকল্প সমূহ </a>{:target="_blank"} সন্ধান করতে পারেন।.
 
 \--- /collapse \---
