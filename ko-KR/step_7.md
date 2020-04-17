@@ -26,17 +26,19 @@
 필요한 코드 블록은 다음과 같습니다.
 
 ```blocks3
-⚑ 클릭했을 때
+repeat (10)
+end
 
-(10) 번 반복하기
+when flag clicked
 
-크기를 (10) 만큼 바꾸기
+repeat (10)
+end
 
-크기를 (10) 만큼 바꾸기
+change size by (10)
 
-(10) 번 반복하기
+change size by (10)
 
-무한 반복하기
+forever
 ```
 
 --- /hint --- --- hint ---
