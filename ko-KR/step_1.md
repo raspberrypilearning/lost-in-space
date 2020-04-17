@@ -1,22 +1,69 @@
+--- no-print ---
+
+이것은 **스크래치 3** 버전의 프로젝트예요. [스크래치 2 버전의 프로젝트](https://projects.raspberrypi.org/ko-KR/projects/lost-in-space-scratch2)도 있어요.
+
+--- /no-print ---
+
 ## 들어가며
 
-나만의 애니메이션을 프로그램 하는 방법을 배울 것입니다!
+너만의 애니매이션을 프로그래밍하는 방법을 배울 거야!
 
 ### 만들게 될 것
 
+--- no-print ---
+
+초록색 깃발을 클릭해 애니매이션을 보세요.
+
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/236021831/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/386238638/?autostart=false" frameborder="0" scrolling="no"></iframe>
   <img src="images/space-final.png">
 </div>
 
-### 배우게 될 것
+--- /no-print ---
 
-이 프로젝트는 [라즈베리파이 디지털 메이킹 커리큘럼](http://rpf.io/curriculum) 중 아래의 과정에 있는 요소들을 다룹니다.
+--- print-only ---
 
-+ [기본 프로그래밍 구조를 이용해서 간단한 프로그램을 만듭니다.](https://www.raspberrypi.org/curriculum/programming/creator)
+![완료된 프로젝트](images/showcase_static.png)
 
-### 교육자를 위한 추가 정보
+--- /print-only ---
 
-이 프로젝트를 인쇄하려면, [프린트용 버전](https://projects.raspberrypi.org/ko-KR/projects/lost-in-space/print){:target="_blank"}을 사용하십시오.
+--- collapse ---
+---
+title: 준비물
+---
 
-아래쪽에 있는 이 프로젝트를 위한 GitHub repository 링크를 이용하세요. (완성된 프로젝트 예제를 포함한) 모든 리소스가 'ko-KR/resources' 폴더에 들어 있습니다.
+### 하드웨어
+
+- 스크래치 3을 실행할 수 있는 컴퓨터
+
+### 소프트웨어
+
+- 스크래치 3 ([온라인](http://rpf.io/scratchon){:target="_blank"} 또는 [offline](http://rpf.io/scratchoff){:target="_blank"})
+
+### 다운로드
+
+- 없음
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: 배우게 될 것
+---
+
+- 반복 루프를 사용하여 스크래치에서 스프라이트 움직이기
+- 무한 반복하기를 사용하여 애니메이션을 계속 반복하기
+- 반복하기가 중첩될 수 있음을 이해하기
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: 교육자를 위한 추가 정보
+---
+
+이 프로젝트를 인쇄하려면, [프린트용 버전](https://projects.raspberrypi.org/ko-KR/projects/lost-in-space/print){:target="_blank"}을 사용하세요.
+
+여기서 [완료된 프로젝트](http://rpf.io/p/ko-KR/lost-in-space-get){:target="_blank"}.를 확인할 수 있습니다
+
+--- /collapse ---

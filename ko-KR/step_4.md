@@ -1,70 +1,123 @@
 ## 반복하기를 사용한 움직임
 
-우주선을 움직이게하는 또 다른 방법은 조금씩 여러번 움직이는 것입니다.
+우주선을 움직이게 하는 또 다른 방법은 우주선을 조금씩 여러 번 움직이는 것입니다
 
-+ 코드에서 `움직이기` 블록을 우클릭 한후 **삭제** 버튼을 눌러 삭제하세요. 스크립트에서 코드를 드래그하여 코드 블록 영역으로 다시 가져 와서 코드를 삭제할 수도 있습니다.
-    
-    ![움직이기 블록 지우기](images/space-delete-glide.png)
+--- task ---
 
-+ ` 반복하기` 를 사용해서 우주선을 지구쪽으로 움직일 수 있나요?
-    
-    테스트하고 저장하세요: 우주선은 이전과 똑같이 지구로 이동해야하며 이번에는 ` 반복하기` 블록을 사용합니다.
-    
-    ![우주선 움직임 테스트하기](images/space-animate-stage.png)
+`움직이기`{:class="block3motion"}블록을 코드에서 제거하세요. 코드 영역에서 블록을 드래그한 뒤 다른 단일 코드 블록들이 있는 곳에 놓으면 됩니다.
 
---- hints --- 
---- hint --- 
+![우주선 스프라이트](images/sprite-spaceship.png)
 
-우주선은 **움직이기** 대신에 한번에 몇단계를 **반복적으로** **움직여야 합니다**. 
---- /hint --- 
---- hint --- 
+```blocks3
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [출발!] for (2) seconds
+point towards (지구 v)
+- glide (1) secs to x:(0) y:(0)
+```
 
-필요한 코드 블록입니다: ![Blocks for an animated spaceship](images/space-repeat-blocks.png) 
---- /hint --- 
---- hint --- 
+--- /task ---
 
-우주선 움직임 코드입니다: ![Code for an animated spaceship](images/space-repeat-code.png) (`반복하기` 블록과 `움직이기` 블록안에 다른 숫자를 사용해도 우주선은 지구로 향합니다!) 
---- /hint --- 
---- /hints ---
+--- task ---
 
-+ 지구로 이동하는 동안 우주선의 색을 바꾸는 코드를 만들 수 있나요?
-    
-    테스트하고 저장하세요.
-    
-    ![우주석 색바꾸기 테스트](images/space-colour-test.png)
+이제 `반복하기`{:class="block3control"} 블록을 사용해 우주선을 지구 쪽으로 움직여 볼까요?
 
---- hints --- 
---- hint --- 
+![우주선 움직임 테스트](images/space-animate-stage.png)
 
-우주선은 움직일때마다 **색을 바꿔야** 합니다. 
---- /hint --- 
---- hint --- 
+![우주선 스프라이트](images/sprite-spaceship.png)
 
-추가로 필요한 코드 블록입니다: ![Block for changing colour](images/space-colour-blocks.png) 
---- /hint --- 
---- hint --- 
+```blocks3
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [출발!] for (2) seconds
+point towards (지구 v)
++ repeat (200)
+    move (2) steps
+```
 
-우주선 색을 바꾸기 위한 코드입니다: ![Code for an animated spaceship](images/space-colour-code.png) 
---- /hint --- 
---- /hints ---
+코드를 테스트하고 저장하세요. 우주선은 이전과 같이 지구를 향해 움직여야 합니다. 이번에는 `반복하기`{:class="block3control"} 블록을 활용했습니다.
 
-+ 우주선이 지구로 가는동안 점점 더 작아지게 만들수 있나요?
-    
-    테스트하고 저장하세요. 우주선은 움직이는 동안 작아집니다. 우주선 움직임을 **두 번** 테스트해보세요. 시작할 때 적당한 크기인가요?
-    
-    ![우주선 작아지기 테스트](images/space-size-test.png)
+--- /task ---
+
+--- task ---
+
+다음으로 우주선 스프라이트에 코드를 추가하여 우주선이 지구를 향해 움직일 때 색깔을 바꾸도록 해 볼까요?
+
+아래의 코드 블록을 사용하세요:
+
+![우주선 스프라이트](images/sprite-spaceship.png)
+
+```blocks3
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [출발!] for (2) seconds
+point towards (지구 v)
+repeat (200)
+    move (2) steps
++    change [색깔 v] effect by (25)
+```
+
+프로젝트를 테스트해 보고 저장하세요.
+
+![우주석 색바꾸기 테스트](images/space-colour-test.png)
+
+--- /task ---
+
+--- task ---
+
+우주선이 지구에 다가갈수록 작아지게 만들 수 있나요?
 
 --- hints ---
---- hint--- 
 
-우주선은 **100%** 크기로 시작하고, 움직일 때마다 조금씩 **크기를 바꿔야** 합니다. 
---- /hint --- 
---- hint --- 
 
-필요한 코드 블록입니다: ![Blocks for changing size](images/space-size-blocks.png) 
---- /hint --- 
---- hint --- 
+--- hint ---
 
-우주선이 움직일 때마다 크기가 변화하게 만들어주는 코드입니다: ![Code for changing size](images/space-size-code.png) 
---- /hint --- 
+우주선은 `100%의 크기`{:class="blocklooks"}로 시작할 것입니다. 우주선이 움직일 때마다 `크기 바꾸기`{:class="blocklooks"}를 사용해 조금씩 작아지도록 만들어보세요.
+
+--- /hint ---
+
+--- hint ---
+
+코드에 이 블록들을 추가해야할 거예요:
+
+![우주선 스프라이트](images/sprite-spaceship.png)
+
+```blocks3
+크기를 (10) 만큼 바꾸기
+
+크기를 (100) %로 정하기
+```
+
+--- /hint ---
+
+--- hint ---
+
+다음과 같은 코드가 될 것입니다.
+
+![우주선 스프라이트](images/sprite-spaceship.png)
+
+```blocks3
+when flag clicked
+set size to (100) %
+point in direction (0)
+go to x:(-150) y:(-150)
+say [출발!] for (2) seconds
+point towards (지구 v)
+repeat (200)
+    move (2) steps
+    change [색깔 v] effect by (25)
++   change size by (-3)
+```
+
+--- /hint ---
+
 --- /hints ---
+
+--- /task ---
+
+테스트하고 저장하세요. 우주선은 움직이는 동안 작아집니다. **두 번**째로 테스트해보세요. 테스트 시작시 우주선의 크기는 원래 크기로 시작하나요?
+
+![우주선 작아지기 테스트](images/space-size-test.png)
