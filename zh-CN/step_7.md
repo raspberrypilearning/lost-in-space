@@ -42,7 +42,7 @@ forever
 
 \--- /hint \--- \--- hint \---
 
-Here's the code to make your star grow and shrink:
+下面是让您的星星生长和缩减的代码：
 
 ![星星精灵](images/sprite-star.png)
 
