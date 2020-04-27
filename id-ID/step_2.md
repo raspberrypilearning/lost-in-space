@@ -4,7 +4,7 @@ Your first step will be to create a spaceship that flies towards the Earth!
 
 \--- task \---
 
-Open a new Scratch project.
+Buka proyek Scratch baru.
 
 **Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
 
@@ -18,7 +18,7 @@ If you need to download and install the Scratch offline editor, you can find it 
 
 Add 'rocketship' and 'Earth' sprites to your Stage.
 
-![Spaceship and Earth sprites](images/space-sprites.png)
+![Sprite Pesawat luar angkasa dan Bumi](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -28,7 +28,7 @@ Add 'rocketship' and 'Earth' sprites to your Stage.
 
 Add the 'Stars' backdrop to your Stage.
 
-![A space backdrop](images/space-backdrop.png)
+![Latar belakang luar angkasa](images/space-backdrop.png)
 
 \--- /task \---
 
@@ -69,4 +69,4 @@ Change the numbers in the code blocks you've added so that the code is exactly t
 
 If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
 
-![Testing a spaceship animation](images/space-animate-stage.png)
+![Menguji animasi pesawat luar angkasa](images/space-animate-stage.png)
