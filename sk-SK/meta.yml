@@ -1,31 +1,35 @@
 ---
-title: Lost in space
-hero_image: images/lost-in-space.png
-description: Learn how to program your own animation!
-original_url: https://www.codeclubprojects.org/en-GB/scratch/lost-in-space
+hero_image: images/getting-started-with-raspberry-pi.png
+theme: red
+duration: 2
 listed: true
+ingredient: false
 copyedit: true
-technologies: scratch
-version: 4.1.3
-last_tested: 2018-09-26
+curriculum: 1, design-0, programming-0, phys-comp-1, manufacture-0, community-0
+title: Getting started with Raspberry Pi
+description: Configurează-ți Raspberry Pi-ul și descoperă ce poate să facă
+original_url: https://codeclubprojects.org/en-GB/raspberry-pi/getting-started
+interests: ''
+technologies: raspberry-pi
+site_areas: projects
+hardware: raspberry-pi
+software: ''
+version: 4.2.2
+last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: Introducere
   - 
-    title: Animating a spaceship
+    title: De ce vei avea nevoie
   - 
-    title: 'Challenge: improve your animation'
-    challenge: true
+    title: Meet Raspberry Pi
   - 
-    title: Animation using loops
+    title: Conectează-ți Raspberry Pi-ul
   - 
-    title: Floating monkey
+    title: Finalizează configurarea
   - 
-    title: Bouncing asteroid
+    title: A tour of Raspberry Pi
   - 
-    title: Shining star
+    title: Navigarea pe web
   - 
-    title: 'Challenge: make your own animation'
-    challenge: true
-  - 
-    title: What next?
+    title: 'Challenge: explore Raspberry Pi'
