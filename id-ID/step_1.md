@@ -4,7 +4,7 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 \--- /no-print \---
 
-## Introduction
+## Pengantar
 
 You are going to learn how to program your own animation!
 
@@ -12,7 +12,7 @@ You are going to learn how to program your own animation!
 
 \--- no-print \---
 
-Click on the green flag to see the animation.
+Klik pada bendera hijau untuk melihat animasi.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -29,25 +29,25 @@ Click on the green flag to see the animation.
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: Apa yang kamu butuhkan
 
-### Hardware
+### Perangkat Keras
 
-- A computer capable of running Scratch 3
+- Komputer yang mampu menjalankan Scratch 3
 
-### Software
+### Perangkat Lunak
 
-- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (baik [online](http://rpf.io/scratchon){:target="_blank"} atau [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 ### Downloads
 
-- None
+- Tidak ada
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: What you will learn
+## title: Apa yang akan kamu pelajari
 
 - Use a repeat loop to animate a sprite in Scratch
 - Use a forever loop to repeat an animation indefinitely
