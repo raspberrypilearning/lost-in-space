@@ -1,59 +1,59 @@
-## Bouncing asteroid
+## Asteroide rebotando
 
-Now you will add a floating space rock to your animation.
+Ahora agregarás una roca espacial flotante a su animación.
 
 \--- task \---
 
-Add a 'rock' sprite to your animation.
+Agrega el objeto "Roca" a tu animación.
 
-![Adding a rock sprite](images/space-rock-sprite.png)
+![Agregar el objeto de una roca](images/space-rock-sprite.png)
 
 \--- /task \---
 
 \--- task \---
 
-Can you add code for your rock sprite so that the rock bounces around the stage?
+¿Puedes agregar código a tu objeto roca para que la roca rebote alrededor del escenario?
 
-![Testing a bouncing rock](images/space-bounce-test.png)
+![Probando una roca que rebota](images/space-bounce-test.png)
 
 \--- hints \--- \--- hint \---
 
-When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**.
+Cuando **se hace clic en la bandera** verde, tu figura de la roca se debería **mover** y **rebotar** alrededor del escenario **para siempre **.
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+Aquí están los bloques de código que necesitas:
 
 ```blocks3
-move (10) steps
+mueve (10) pasos
 
-if on edge bounce
+si rebota en el borde
 
-when flag clicked
+cuando se hace clic en la bandera
 
-forever
+siempre
 ```
 
-You can also set a more interesting starting direction for the rock sprite with one of these blocks:
+También puedes establecer una dirección de inicio más interesante para el objeto de roca con uno de estos bloques:
 
 ```blocks3
-turn cw (15) degrees
+gira cw (15) grados
 
-point towards (Earth v)
+apunta hacia (Tierra v)
 ```
 
 \--- /hint \--- \--- hint \---
 
-Here's the code for making your rock bounce around the stage:
+Aquí está el código para hacer que tu roca rebote por el escenario:
 
-![Rock sprite](images/sprite-rock.png)
+![Objeto roca](images/sprite-rock.png)
 
 ```blocks3
-when flag clicked
-point towards (Earth v)
-forever
-    move (2) steps
-    if on edge, bounce
+al hacer clic en la bandera
+apuntar hacia (Tierra v)
+para siempre
+    mover (2) pasos
+    si está en el borde, rebotar
 ```
 
 \--- /hint \--- \--- /hints \--- \--- /task \---
