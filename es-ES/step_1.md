@@ -23,7 +23,7 @@ Click on the green flag to see the animation.
 
 \--- print-only \---
 
-![Complete project](images/showcase_static.png)
+![Proyecto completo](images/showcase_static.png)
 
 \--- /print-only \---
 
@@ -59,8 +59,8 @@ Click on the green flag to see the animation.
 
 ## title: Información adicional para educadores
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
+Si necesitas imprimir este proyecto, usa la [versión para imprimir](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
-You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+Puedes [encontrar el proyecto completo aquí](http://rpf.io/p/en/lost-in-space-get){:target ="_blank"}.
 
 \--- /collapse \---
