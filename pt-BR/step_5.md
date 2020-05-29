@@ -1,19 +1,72 @@
 ## Macaco flutuante
 
-Vamos adicionar um macaco que está perdido no espaço a sua animação!
+Agora você vai adicionar um macaco perdido no espaço na sua animação!
 
-+ Comece adicionando o ator 'Monkey1' da biblioteca.
-    
-    ![Adding a monkey sprite](images/space-monkey-sprite.png)
+--- task ---
 
-+ Se você clicar no seu novo ator, o macaco, e depois clicar em **Fantasias**, você poderá editar o visual dele. Clique na ferramenta **Elipse** e desenhe um capacete espacial branco em volta da cabeça do macaco.
-    
-    ![Monkey space helmet](images/space-monkey-edit.png)
+Comece adicionando o ator 'monkey' (macaco) da biblioteca.
 
-+ Você consegue adicionar blocos de código ao seu macaco ator para que ele gire lentamente em círculos para sempre?
-    
-    Teste e salve seu projeto. Você terá que clicar no botão vermelho **Pare** para terminar esta animação, senão ela continuará para sempre!
-    
-    ![Blocks for a spinning monkey](images/space-spin-test.png)
+![Adicionando um ator de macaco](images/space-monkey-sprite.png)
 
---- hints --- --- hint --- Quando a **bandeira verde é clicada**, o macaco deve **girar** em círculo **para sempre**. --- /hint --- --- hint --- Aqui estão os blocos de código que você vai precisar: ![Blocks for a spinning monkey](images/space-spin-blocks.png) --- /hint --- --- hint --- Aqui estão os blocos de código que farão o seu macaco girar: ![Code for a spinning monkey](images/space-spin-code.png) --- /hint --- --- /hints ---
+--- /task ---
+
+Clique no seu novo ator de macaco e depois clique em **Fantasias** para que você possa editar a aparência do macaco.
+
+--- task ---
+
+Defina o preenchimento para transparente, selecionando a linha vermelha. Para o contorno, defina uma cor branca movendo o controle deslizante de saturação para `0`.
+
+![Fazer cor branca](images/make-white.png)
+
+--- /task ---
+
+--- task ---
+
+Clique na ferramenta **círculo** e use-a para desenhar um capacete de espaço branco em torno da cabeça do macaco.
+
+![Capacete espacial de macaco](images/space-monkey-edit.png)
+
+--- /task ---
+
+--- task ---
+
+Você consegue adicionar blocos de código ao seu ator macaco para que ele gire lentamente em círculos para sempre?
+
+--- hints ---
+ --- hint ---
+
+Quando a **bandeira verde é clicada**, o seu ator de macaco deve **girar** em círculo **para sempre**.
+
+--- /hint --- --- hint ---
+
+Aqui estão os blocos de código que você precisa:
+
+```blocks3
+sempre
+end
+
+gire ↻ (15) graus
+
+quando ⚑ for clicado
+```
+
+--- /hint --- --- hint ---
+
+Aqui está o código para fazer seu macaco girar:
+
+![Ator de macaco](images/sprite-monkey.png)
+
+```blocks3
+quando ⚑ for clicado
+sempre 
+  gire ↻ (1) graus
+end
+```
+
+--- /hint ------ /hints ---
+
+--- /task ---
+
+Teste e salve seu projeto. Você terá que clicar no botão vermelho de **parar** para parar esta animação, pois ela é executada para sempre!
+
+![Teste o macaco girando](images/space-spin-test.png)

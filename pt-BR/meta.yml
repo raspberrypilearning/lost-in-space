@@ -1,27 +1,22 @@
 ---
 title: Perdido no espaço
-theme: green
 hero_image: images/lost-in-space.png
 description: Aprenda a programar sua própria animação!
 original_url: https://www.codeclubprojects.org/en-GB/scratch/lost-in-space
-duration: 2
 listed: true
 copyedit: true
-ingredient: false
-curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-interests: space
 technologies: scratch
-site_areas: projects
-hardware: ''
-software: scratch
-version: 4
-last_tested: 01-11-2017
+version: 4.1.3
+last_tested: 2018-09-26
 steps:
   - title: Introdução
-  - title: O que você vai precisar
   - title: Animando uma nave espacial
-  - title: Animando usando repetições
+  - title: 'Desafio: Melhore a sua animação'
+    challenge: true
+  - title: Animação usando repetições
   - title: Macaco flutuante
   - title: Asteroide viajante
   - title: Estrela brilhante
   - title: 'Desafio: Faça a sua própria animação'
+    challenge: true
+  - title: E agora?
