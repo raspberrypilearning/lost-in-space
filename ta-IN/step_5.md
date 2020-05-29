@@ -1,44 +1,44 @@
-## Floating monkey
+## மிதக்கும் குரங்கு
 
-Now you will add a monkey who's lost in space to your animation!
+இப்போது உங்கள் அனிமேஷனில் இடத்தை இழந்த ஒரு குரங்கைச் சேர்ப்பீர்கள்!
 
 \--- task \---
 
-Start by adding the 'monkey' sprite from the library.
+நூலகத்திலிருந்து 'குரங்கு' மனிதனைச் சேர்ப்பதன் மூலம் தொடங்கவும்.
 
-![Adding a monkey sprite](images/space-monkey-sprite.png)
+![ஒரு குரங்கு மனிதனைச் சேர்ப்பது](images/space-monkey-sprite.png)
 
 \--- /task \---
 
-Click on your new monkey sprite and then click on **Costumes** so that you can edit how the monkey looks.
+உங்கள் புதிய குரங்கு ஸ்பிரிட்டைக் கிளிக் செய்து, **ஆடைகள்** <வலுவான> கிளிக் செய்க, இதனால் குரங்கு எப்படி இருக்கும் என்பதை நீங்கள் திருத்தலாம்.
 
 \--- task \---
 
-Set the fill to be transparent by selecting the red line. For the outline, set a white colour by moving the Saturation slider to `0`.
+சிவப்பு கோட்டைத் தேர்ந்தெடுப்பதன் மூலம் நிரப்பு வெளிப்படையானதாக அமைக்கவும். வெளிப்புறத்திற்கு, செறிவு ஸ்லைடரை `0`க்கு நகர்த்துவதன் மூலம் வெள்ளை நிறத்தை அமைக்கவும்.
 
-![Make white colour](images/make-white.png)
-
-\--- /task \---
-
-\--- task \---
-
-Click on the **circle** tool and then use it to draw a white space helmet around the monkey's head.
-
-![Monkey space helmet](images/space-monkey-edit.png)
+![வெள்ளை நிறத்தை உருவாக்குங்கள்](images/make-white.png)
 
 \--- /task \---
 
 \--- task \---
 
-Can you add code to your monkey sprite so that it spins slowly in a circle forever?
+**வட்டம்** கருவியைக் கிளிக் செய்து, குரங்கின் தலையைச் சுற்றி ஒரு வெள்ளை இடைவெளி ஹெல்மெட் வரைய அதைப் பயன்படுத்தவும்.
+
+![குரங்கு விண்வெளி ஹெல்மெட்](images/space-monkey-edit.png)
+
+\--- /task \---
+
+\--- task \---
+
+உங்கள் குரங்கு ஸ்பிரிட்டிற்கு குறியீட்டைச் சேர்க்க முடியுமா, அது ஒரு வட்டத்தில் மெதுவாக எப்போதும் சுழலும்.
 
 \--- hints \--- \--- hint \---
 
-When the green **flag is clicked**, your monkey sprite should **turn** in a circle **forever**.
+பச்சை போது **கொடி சொடுக்கும்**உங்கள் குரங்கு மனிதனாக வேண்டும் **முறை** ஒரு வட்டத்தில் **என்றென்றும்**.
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+உங்களுக்கு தேவையான குறியீடு தொகுதிகள் இங்கே:
 
 ```blocks3
 forever
@@ -51,9 +51,9 @@ when flag clicked
 
 \--- /hint \--- \--- hint \---
 
-Here's the code to make your monkey spin:
+உங்கள் குரங்கைச் சுழற்றுவதற்கான குறியீடு இங்கே:
 
-![Monkey sprite](images/sprite-monkey.png)
+![குரங்கு ஸ்பிரிட்](images/sprite-monkey.png)
 
 ```blocks3
 when flag clicked
@@ -65,6 +65,6 @@ forever
 
 \--- /task \---
 
-Test and save your project. You'll have to click on the red **stop** button to end this animation, as it runs forever!
+உங்கள் திட்டத்தை சோதித்து சேமிக்கவும். இந்த அனிமேஷனை முடிக்க நீங்கள் சிவப்பு **நிறுத்து** பொத்தானைக் கிளிக் செய்ய வேண்டும், ஏனெனில் அது எப்போதும் இயங்கும்!
 
-![Test the spinning monkey](images/space-spin-test.png)
+![நூற்பு குரங்கை சோதிக்கவும்](images/space-spin-test.png)
