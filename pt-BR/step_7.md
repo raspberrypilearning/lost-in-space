@@ -1,60 +1,61 @@
 ## Estrela brilhante
 
-Now you will combine loops to make a shining star.
+Agora você combinará repetições para fazer uma estrela brilhante.
 
 \--- task \---
 
-Add a 'star' sprite to your stage.
+Acrescente um ator 'estrela' à sua animação.
 
-![Adding a star sprite](images/space-star-sprite.png)
+![Acrescentando um ator estrela](images/space-star-sprite.png)
 
 \--- /task \---
 
 \--- task \---
 
-Can you add code to your star sprite to make the star repeatedly grow and shrink?
+Você consegue adicionar o código ao seu ator de estrela para fazer com que a estrela cresça e encolha repetidamente?
 
-![Testing a shining star](images/sprite-star.png)
+![Testando uma estrela brilhante](images/sprite-star.png)
 
 \--- hints \--- \--- hint \---
 
-When the green **flag is clicked**, your star sprite should **change size** to get bigger a few times, and then **change size** to get smaller a few times. It should do this so that it gets bigger and then smaller **forever** and looks like it's shining light.
+Quando a **bandeira verde é clicada**, sua estrela deve **mudar de tamanho** aumentando algumas vezes e em seguida, **alterar o tamanho** novamente, ficando menor. Isso deve ser feito para que fique maior e então menor **para sempre** e pareça que está brilhando.
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+Aqui estão os blocos de código que você precisa:
 
 ```blocks3
-repeat (10)
+repita (10) vezes
 end
 
-when flag clicked
+quando ⚑ for clicado
 
-repeat (10)
+repita (10) vezes
 end
 
-change size by (10)
+mude (10) no tamanho
 
-change size by (10)
+mude (10) no tamanho
 
-forever
+sempre
 ```
 
 \--- /hint \--- \--- hint \---
 
-Here's the code to make your star grow and shrink:
+Aqui está o código para fazer a sua estrela crescer e encolher:
 
-![Star sprite](images/sprite-star.png)
+![Ator de estrela](images/sprite-star.png)
 
 ```blocks3
-when flag clicked
-forever
-    repeat (20)
-        change size by (2)
-    end
-    repeat (20)
-        change size by (-2)
-    end
+quando ⚑ for clicado
+sempre 
+  repita (20) vezes 
+    mude (2) no tamanho
+  end
+  repita (20) vezes 
+    mude (-2) no tamanho
+  end
+end
 
 ```
 
