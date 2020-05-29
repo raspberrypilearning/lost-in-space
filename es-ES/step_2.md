@@ -18,7 +18,7 @@ Si necesitas descargar e instalar el editor offline de Scratch, puedes encontrar
 
 Add 'rocketship' and 'Earth' sprites to your Stage.
 
-![Spaceship and Earth sprites](images/space-sprites.png)
+![Figuras de la Nave Espacial y de la Tierra](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -26,9 +26,9 @@ Add 'rocketship' and 'Earth' sprites to your Stage.
 
 \--- task \---
 
-Add the 'Stars' backdrop to your Stage.
+Agrega el fondo de "Estrellas" (Stars) a tu escenario.
 
-![A space backdrop](images/space-backdrop.png)
+![Un fondo espacial](images/space-backdrop.png)
 
 \--- /task \---
 
@@ -36,7 +36,7 @@ Add the 'Stars' backdrop to your Stage.
 
 Click on your spaceship sprite, and click on the **Costumes** tab.
 
-![Sprite costume](images/space-costume.png)
+![Disfraz de la figura](images/space-costume.png)
 
 \--- /task \---
 
@@ -44,15 +44,15 @@ Click on your spaceship sprite, and click on the **Costumes** tab.
 
 Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
 
-![Rotating a costume](images/space-rotate.png)
+![Rotando un disfraz](images/space-rotate.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add this code to your spaceship sprite:
+Agrega este código a tu figura de la nave espacial:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Objeto Nave Espacial](images/sprite-spaceship.png)
 
 ```blocks3
 cuando la bandera es pulsada
@@ -63,10 +63,10 @@ apuntar hacia (Tierra v)
 deslizar en (1) segs a x:(0) y:(0)
 ```
 
-Change the numbers in the code blocks you've added so that the code is exactly the same as above.
+Cambia los números en los bloques de código que has añadido para que el código sea exactamente igual al que se muestra arriba.
 
 \--- /task \---
 
-If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
+Si haces clic en la bandera verde, deberías ver que la nave espacial habla, gira y se desliza hacia el centro del escenario.
 
-![Testing a spaceship animation](images/space-animate-stage.png)
+![Cambia los números en los bloques de código que has añadido para que el código sea exactamente igual al que se muestra arriba.](images/space-animate-stage.png)
