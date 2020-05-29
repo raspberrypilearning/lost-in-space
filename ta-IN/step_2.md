@@ -1,24 +1,24 @@
-## Animating a spaceship
+## ஒரு விண்கலத்தை அனிமேஷன் செய்தல்
 
-Your first step will be to create a spaceship that flies towards the Earth!
+பூமியை நோக்கி பறக்கும் ஒரு விண்கலத்தை உருவாக்குவதே உங்கள் முதல் படி!
 
-\--- task \---
+\--- பணி \---
 
-Open a new Scratch project.
+புதிய கீறல் திட்டத்தைத் திறக்கவும்.
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
+**ஆன்லைன்:** ஒரு புதிய ஆன்லைன் கீறல் திட்டத்தை [rpf.io/scratch-new](http://rpf.io/scratchon)at இல் திறக்கவும்: target = "_ blank"}.
 
-**Offline:** open a new project in the offline editor.
+**ஆஃப்லைன்:** ஆஃப்லைன் எடிட்டரில் ஒரு புதிய திட்டத்தைத் திறக்கவும்.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+நீங்கள் கீறல் ஆஃப்லைன் எடிட்டரை பதிவிறக்கி நிறுவ வேண்டும் என்றால், அதை [rpf.io/scratchoff](http://rpf.io/scratchoff)at: target = "_ blank" at இல் காணலாம்.
 
 \--- /task \---
 
 \--- task \---
 
-Add 'rocketship' and 'Earth' sprites to your Stage.
+உங்கள் நிலைக்கு 'ராக்கெட்ஷிப்' மற்றும் 'எர்த்' ஸ்ப்ரைட்டுகளைச் சேர்க்கவும்.
 
-![Spaceship and Earth sprites](images/space-sprites.png)
+![விண்கலம் மற்றும் பூமி உருவங்கள்](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -26,33 +26,33 @@ Add 'rocketship' and 'Earth' sprites to your Stage.
 
 \--- task \---
 
-Add the 'Stars' backdrop to your Stage.
+உங்கள் நிலைக்கு 'நட்சத்திரங்கள்' பின்னணியைச் சேர்க்கவும்.
 
-![A space backdrop](images/space-backdrop.png)
-
-\--- /task \---
-
-\--- task \---
-
-Click on your spaceship sprite, and click on the **Costumes** tab.
-
-![Sprite costume](images/space-costume.png)
+![ஒரு விண்வெளி பின்னணி](images/space-backdrop.png)
 
 \--- /task \---
 
 \--- task \---
 
-Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+உங்கள் விண்கலம் ஸ்பிரிட்டைக் கிளிக் செய்து, **ஆடைகள்** தாவலைக் கிளிக் செய்க.
 
-![Rotating a costume](images/space-rotate.png)
+![ஸ்ப்ரைட் ஆடை](images/space-costume.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add this code to your spaceship sprite:
+முழு விண்கலம் படத்தைச் சுற்றி ஒரு பெட்டியைக் கிளிக் செய்து இழுக்க **அம்பு** கருவியைப் பயன்படுத்தவும். பின்னர் வட்ட **சுழற்று** கைப்பிடியைக் கிளிக் செய்து, படத்தை அதன் பக்கத்தில் இருக்கும் வரை சுழற்றுங்கள்.
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![ஆடையை சுழற்றுதல்](images/space-rotate.png)
+
+\--- /பணி \---
+
+\--- பணி \---
+
+உங்கள் விண்கல ஸ்பிரிட்டில் இந்த குறியீட்டைச் சேர்க்கவும்:
+
+![விண்கலம் ஸ்பிரிட்](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -63,10 +63,10 @@ point towards (Earth v)
 glide (1) secs to x:(0) y:(0)
 ```
 
-Change the numbers in the code blocks you've added so that the code is exactly the same as above.
+நீங்கள் சேர்த்த குறியீடு தொகுதிகளில் உள்ள எண்களை மாற்றவும், இதனால் குறியீடு மேலே உள்ளதைப் போலவே இருக்கும்.
 
 \--- /task \---
 
-If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
+நீங்கள் பச்சைக் கொடியைக் கிளிக் செய்தால், விண்கலம் பேசுவதையும், திரும்புவதையும், மேடையின் மையத்தை நோக்கிச் செல்வதையும் நீங்கள் காண வேண்டும்.
 
-![Testing a spaceship animation](images/space-animate-stage.png)
+![ஒரு விண்கலம் அனிமேஷனை சோதிக்கிறது](images/space-animate-stage.png)
