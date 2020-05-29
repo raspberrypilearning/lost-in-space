@@ -1,18 +1,18 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
+Esta es la versión **Scratch 3** del proyecto. También existe una version [Scratch 2 del proyecto](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
 
 \--- /no-print \---
 
-## Introduction
+## Introducción
 
-You are going to learn how to program your own animation!
+¡Vas a aprender a programar tu propia animación!
 
-### What you will make
+### Lo que vas a hacer
 
 \--- no-print \---
 
-Click on the green flag to see the animation.
+Haz clic en la bandera verde para ver la animación.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -23,44 +23,44 @@ Click on the green flag to see the animation.
 
 \--- print-only \---
 
-![Complete project](images/showcase_static.png)
+![Proyecto completo](images/showcase_static.png)
 
 \--- /print-only \---
 
-## \--- collapse \---
+## \--- colapsar \---
 
-## title: What you will need
+## título: Lo que necesitarás
 
 ### Hardware
 
-- A computer capable of running Scratch 3
+- Una computadora capaz de ejecutar el Scratch 3
 
 ### Software
 
-- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (ya sea [online](http://rpf.io/scratchon){:target="_blank"} u [offline](http://rpf.io/scratchoff) {:target="_blank"})
 
-### Downloads
+### Descargas
 
-- None
+- Ninguno
+
+\--- /colapsar \---
+
+## \--- colapsar \---
+
+## título: Lo que aprenderás
+
+- Usar un bucle de repetición para animar un objeto en Scratch
+- Usar un bucle infinito para repetir la animación indefinidamente
+- Entender que los bucles pueden estar anidados entre sí
 
 \--- /collapse \---
 
-## \--- collapse \---
+## \--- colapsar \---
 
-## title: What you will learn
+## título: Información adicional para educadores
 
-- Use a repeat loop to animate a sprite in Scratch
-- Use a forever loop to repeat an animation indefinitely
-- Understand that loops can be nested within each other
+Si necesitas imprimir este proyecto, usa la [versión para imprimir](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: Additional information for educators
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
-
-You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+Puedes encontrar el [ proyecto completo aquí ](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
 \--- /collapse \---
