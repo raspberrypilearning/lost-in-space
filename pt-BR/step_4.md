@@ -1,118 +1,116 @@
 ## Animando usando repetições
 
-Another way to animate the spaceship is to tell it to move a small amount many times
+Outra maneira de animar a nave espacial é dizer para ela se mover uma pequena distância várias vezes
 
 \--- task \---
 
-Delete the `glide`{:class="block3motion"} block from your code. To do this, drag the block off the Code area and drop it back where the other single code blocks are.
+Elimine o bloco `planar` {: class = "block3motion"} do seu código. Para fazer isso, arraste o bloco para fora da área Código e solte-o novamente onde estão os outros blocos de código.
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Ator da nave espacial](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
+quando bandeira for clicado
+aponte para a direção (0)
+vá para x: (-150) y: (-150)
+diga [Vamos lá] por (2) segundos
+aponte para (Terra v)
 
-- glide (1) secs to x:(0) y:(0)
+deslize por (1) segs. até x: (0) y: (0)
 ```
 
 \--- /task \---
 
 \--- task \---
 
-Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
+Agora use uma `repetição` {: class = "block3control"} para mover a sua nave espacial em direção à Terra?
 
-![Testing a spaceship animation](images/space-animate-stage.png)
+![Testando a animação da nave espacial](images/space-animate-stage.png)
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Ator da nave espacial](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
+quando bandeira for clicado
+aponte para a direção (0)
+vá para x: (-150) y: (-150)
+diga [Vamos lá] por (2) segundos
+aponte para (Terra v)
 
-+ repeat (200)
-    move (2) steps
+repita (200) vezes 
+  mova (2) passos
 ```
 
-Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
+Teste e salve o seu código. A sua nave espacial deve mover-se em direção à Terra exatamente como antes, mas desta vez ela utiliza um bloco de `repetição`{:class="block3control"}.
 
 \--- /task \---
 
 \--- task \---
 
-Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
+Em seguida, adicione o código ao seu ator da nave espacial para que a nave mude de cor à medida que se move em direção à Terra?
 
-Use this block:
+Use este bloco:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Ator da nave espacial](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-repeat (200)
-    move (2) steps
-
-+    change [color v] effect by (25)
+quando bandeira for clicado
+aponte para a direção (0)
+vá para x: (-150) y: (-150)
+diga [Vamos lá] por (2) segundos
+aponte para (Terra v)
+repita (200) vezes 
+  mova (2) passos
+  + mude (25) no efeito [cor v]
 ```
 
-Test and save your code.
+Teste e salve seu código.
 
-![Testing a colour-changing spaceship](images/space-colour-test.png)
+![Testando uma nave espacial que muda de cor](images/space-colour-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Can you make your spaceship get smaller as it moves towards Earth?
+Você consegue reduzir a sua nave espacial ao se aproximar da Terra?
 
 \--- hints \---
 
 \--- hint \---
 
-Your spaceship should start at `100% size`{:class="blocklooks"}, and then `change size`{:class="blocklooks"} by a small amount each time it moves.
+A sua nave espacial deve começar com ` tamanho 100% ` {: class = "blocklooks"} e depois ` deve alterar um pouco o seu tamanho ` {: class = "blocklooks"} cada vez que se move.
 
 \--- /hint \---
 
 \--- hint \---
 
-You will need to add these blocks to your code:
+Você precisará adicionar esses blocos ao seu código:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Ator da nave espacial](images/sprite-spaceship.png)
 
 ```blocks3
-change size by (10)
+mude (10) no tamanho
 
-set size to (100) %
+defina o tamanho como (100) %
 ```
 
 \--- /hint \---
 
 \--- hint \---
 
-Your code should look like this:
+Seu código deve ficar assim:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Ator da nave espacial](images/sprite-spaceship.png)
 
 ```blocks3
-when flag clicked
-set size to (100) %
-point in direction (0)
-go to x:(-150) y:(-150)
-say [Let's go] for (2) seconds
-point towards (Earth v)
-repeat (200)
-    move (2) steps
-    change [color v] effect by (25)
-
-+   change size by (-3)
+quando ⚑ for clicado
+defina o tamanho como (100) %
+aponte para a direção (0)
+vá para x: (-150) y: (-150)
+diga [Vamos lá] por (2) segundos
+aponte para (Terra v)
+repita (200) vezes 
+  mova (2) passos
+  mude (25) no efeito [cor v]
+  + mude (-3) no tamanho
 ```
 
 \--- /hint \---
@@ -121,6 +119,6 @@ repeat (200)
 
 \--- /task \---
 
-Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
+Teste e salve seu código. Sua nave espacial agora deve ficar menor à medida que se move. Teste sua nave espacial pela ** segunda vez **. É do tamanho certo quando começa?
 
-![Testing a shrinking spaceship](images/space-size-test.png)
+![Testando uma nave espacial que encolhe](images/space-size-test.png)
