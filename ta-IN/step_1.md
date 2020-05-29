@@ -1,18 +1,18 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
+இது திட்டத்தின் **கீறல் 3** பதிப்பு. திட்டம்</a>இன் கீறல் 2 பதிப்பும் உள்ளது.</p> 
 
 \--- /no-print \---
 
-## Introduction
+## அறிமுகம்
 
-You are going to learn how to program your own animation!
+உங்கள் சொந்த அனிமேஷனை எவ்வாறு நிரல் செய்வது என்பதை நீங்கள் கற்றுக் கொள்ளப் போகிறீர்கள்!
 
-### What you will make
+### நீங்கள் என்ன செய்வீர்கள்
 
 \--- no-print \---
 
-Click on the green flag to see the animation.
+அனிமேஷனைக் காண பச்சைக் கொடியைக் கிளிக் செய்க.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -23,44 +23,44 @@ Click on the green flag to see the animation.
 
 \--- print-only \---
 
-![Complete project](images/showcase_static.png)
+![முழுமையான திட்டம்](images/showcase_static.png)
 
 \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: What you will need
+## தலைப்பு: உங்களுக்கு என்ன தேவை
 
-### Hardware
+### வன்பொருள்
 
-- A computer capable of running Scratch 3
+- கீறல் 3 ஐ இயக்கும் திறன் கொண்ட கணினி
 
-### Software
+### மென்பொருள்
 
-- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
+- கீறல் 3 ( [ஆன்லைன்](http://rpf.io/scratchon){: இலக்கு = "_ வெற்று"} அல்லது [ஆஃப்லைன்](http://rpf.io/scratchoff){: இலக்கு = "_ வெற்று"})
 
-### Downloads
+### பதிவிறக்கங்கள்
 
-- None
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: What you will learn
-
-- Use a repeat loop to animate a sprite in Scratch
-- Use a forever loop to repeat an animation indefinitely
-- Understand that loops can be nested within each other
+- எதுவுமில்லை
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## தலைப்பு: நீங்கள் என்ன கற்றுக் கொள்வீர்கள்
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
+- கீறலில் ஒரு மனிதனை உயிரூட்ட மீண்டும் மீண்டும் சுழற்சியைப் பயன்படுத்தவும்
+- ஒரு அனிமேஷனை காலவரையின்றி மீண்டும் செய்ய எப்போதும் சுழற்சியைப் பயன்படுத்தவும்
+- சுழல்கள் ஒருவருக்கொருவர் கூடு கட்டலாம் என்பதை புரிந்து கொள்ளுங்கள்
 
-You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+\--- /collapse \---
+
+## \--- collapse \---
+
+## தலைப்பு: கல்வியாளர்களுக்கான கூடுதல் தகவல்
+
+இந்த திட்டத்தை நீங்கள் அச்சிட வேண்டுமானால், தயவுசெய்து [அச்சுப்பொறி நட்பு பதிப்பு](https://projects.raspberrypi.org/en/projects/lost-in-space/print){: target = "_ blank" use ஐப் பயன்படுத்தவும்.
+
+[பூர்த்தி செய்யப்பட்ட திட்டத்தை இங்கே காணலாம்](http://rpf.io/p/en/lost-in-space-get){: target = "_ blank"}.
 
 \--- /collapse \---
