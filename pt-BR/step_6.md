@@ -1,59 +1,59 @@
-## Asteroide viajante
+## Asteróide viajante
 
-Now you will add a floating space rock to your animation.
+Agora você vai adicionar uma rocha no espaço flutuante à sua animação.
 
 \--- task \---
 
-Add a 'rock' sprite to your animation.
+Adicione um ator 'Rocha' à sua animação.
 
-![Adding a rock sprite](images/space-rock-sprite.png)
+![Adicionando um ator de rocha](images/space-rock-sprite.png)
 
 \--- /task \---
 
 \--- task \---
 
-Can you add code for your rock sprite so that the rock bounces around the stage?
+Você consegue acrescentar código ao seu ator rocha para que a rocha bata pelo palco?
 
-![Testing a bouncing rock](images/space-bounce-test.png)
+![Testando uma rocha flutuante](images/space-bounce-test.png)
 
 \--- hints \--- \--- hint \---
 
-When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**.
+Quando a **bandeira verde é clicada**, o asteroide deve se **mover** e **viajar** em seu palco **para sempre**.
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+Aqui estão os blocos de código que você precisa:
 
 ```blocks3
-move (10) steps
+mova (10) passos
 
-if on edge bounce
+se tocar na borda, volte
 
-when flag clicked
+quando ⚑ for clicado
 
-forever
+sempre
 ```
 
-You can also set a more interesting starting direction for the rock sprite with one of these blocks:
+Você também pode definir uma direção inicial mais interessante para o ator da rocha com um destes blocos:
 
 ```blocks3
-turn cw (15) degrees
+gire ↻ (15) graus
 
-point towards (Earth v)
+aponte para (Terra v)
 ```
 
 \--- /hint \--- \--- hint \---
 
-Here's the code for making your rock bounce around the stage:
+Aqui está o código para fazer a sua rocha bater pelo palco:
 
-![Rock sprite](images/sprite-rock.png)
+![Ator de rocha](images/sprite-rock.png)
 
 ```blocks3
-when flag clicked
-point towards (Earth v)
-forever
-    move (2) steps
-    if on edge, bounce
+quando ⚑ for clicado
+aponte para (Terra v)
+sempre 
+  mova (2) passos
+  se tocar na borda, volte
 ```
 
 \--- /hint \--- \--- /hints \--- \--- /task \---
