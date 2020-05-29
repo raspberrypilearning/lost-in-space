@@ -1,28 +1,28 @@
-## Bouncing asteroid
+## துள்ளல் சிறுகோள்
 
-Now you will add a floating space rock to your animation.
+இப்போது உங்கள் அனிமேஷனில் மிதக்கும் விண்வெளி பாறையைச் சேர்ப்பீர்கள்.
 
 \--- task \---
 
-Add a 'rock' sprite to your animation.
+உங்கள் அனிமேஷனில் 'ராக்' ஸ்பிரிட் சேர்க்கவும்.
 
-![Adding a rock sprite](images/space-rock-sprite.png)
+![ஒரு ராக் ஸ்பிரிட் சேர்க்கிறது](images/space-rock-sprite.png)
 
 \--- /task \---
 
 \--- task \---
 
-Can you add code for your rock sprite so that the rock bounces around the stage?
+உங்கள் ராக் ஸ்பிரிட்டிற்கான குறியீட்டைச் சேர்க்க முடியுமா?
 
-![Testing a bouncing rock](images/space-bounce-test.png)
+![ஒரு துள்ளல் பாறையை சோதிக்கிறது](images/space-bounce-test.png)
 
 \--- hints \--- \--- hint \---
 
-When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**.
+பச்சை **கொடி**** கிளிக் செய்யும் போது, உங்கள் ராக் ஸ்பிரிட் **நகர்த்த** மற்றும் **பவுன்ஸ்** <வலுவான>கட்டத்தை சுற்றி எப்போதும்**.
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+உங்களுக்கு தேவையான குறியீடு தொகுதிகள் இங்கே:
 
 ```blocks3
 move (10) steps
@@ -34,7 +34,7 @@ when flag clicked
 forever
 ```
 
-You can also set a more interesting starting direction for the rock sprite with one of these blocks:
+இந்த தொகுதிகளில் ஒன்றைக் கொண்டு ராக் ஸ்ப்ரைட்டுக்கான சுவாரஸ்யமான தொடக்க திசையையும் நீங்கள் அமைக்கலாம்:
 
 ```blocks3
 turn cw (15) degrees
@@ -44,9 +44,9 @@ point towards (Earth v)
 
 \--- /hint \--- \--- hint \---
 
-Here's the code for making your rock bounce around the stage:
+மேடையைச் சுற்றி உங்கள் ராக் துள்ளல் செய்வதற்கான குறியீடு இங்கே:
 
-![Rock sprite](images/sprite-rock.png)
+![ராக் ஸ்பிரிட்](images/sprite-rock.png)
 
 ```blocks3
 when flag clicked
