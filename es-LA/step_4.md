@@ -1,12 +1,12 @@
-## Animation using loops
+## Animación usando bucles
 
-Another way to animate the spaceship is to tell it to move a small amount many times
+Otra forma de animar la nave espacial es decirle que se mueva una pequeña cantidad muchas veces
 
 \--- task \---
 
-Delete the `glide`{:class="block3motion"} block from your code. To do this, drag the block off the Code area and drop it back where the other single code blocks are.
+Eliminar el `deslizamiento ` {:class = "block3motion"} del bloque de tu código. Para hacer esto, arrastra el bloque fuera del área de Código y suéltalo donde están los otros bloques de código único.
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Figura de Nave Espacial](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -22,11 +22,11 @@ point towards (Earth v)
 
 \--- task \---
 
-Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
+¿Ahora usar un bloque `repetir`{:class="block3control"} para mover la nave espacial hacia la Tierra?
 
-![Testing a spaceship animation](images/space-animate-stage.png)
+![Probando animación de la nave espacial](images/space-animate-stage.png)
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Figura de Nave Espacial](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -39,17 +39,17 @@ point towards (Earth v)
     move (2) steps
 ```
 
-Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
+Prueba y guarda tu código. Tu nave espacial debería moverse hacia la Tierra exactamente como antes, pero esta vez usa un bloque de `repetición`>{:class="block3control"}.
 
 \--- /task \---
 
 \--- task \---
 
-Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
+A continuación, ¿añade código a tu objeto nave espacial para que la nave espacial cambie de color a medida que avanza hacia la Tierra?
 
-Use this block:
+Usa este bloque:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Figura de Nave Espacial](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -63,29 +63,29 @@ repeat (200)
 +    change [color v] effect by (25)
 ```
 
-Test and save your code.
+Prueba y guarda tu código.
 
-![Testing a colour-changing spaceship](images/space-colour-test.png)
+![Probar una nave espacial que cambia de color](images/space-colour-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Can you make your spaceship get smaller as it moves towards Earth?
+¿Puedes hacer que tu nave espacial se haga más pequeña a medida que se mueve hacia la Tierra?
 
 \--- hints \---
 
 \--- hint \---
 
-Your spaceship should start at `100% size`{:class="blocklooks"}, and then `change size`{:class="blocklooks"} by a small amount each time it moves.
+Tu nave espacial debe comenzar a `tamaño 100%`{:class="blocklooks"}, y luego `cambiar de tamaño`{:class="blocklooks"} en una pequeña cantidad cada vez que se mueva.
 
 \--- /hint \---
 
 \--- hint \---
 
-You will need to add these blocks to your code:
+Tendrás que añadir estos bloques a tu código:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Figura de Nave Espacial](images/sprite-spaceship.png)
 
 ```blocks3
 change size by (10)
@@ -97,9 +97,9 @@ set size to (100) %
 
 \--- hint \---
 
-Your code should look like this:
+Tu código debería verse así:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Figura de Nave Espacial](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -121,6 +121,6 @@ repeat (200)
 
 \--- /task \---
 
-Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
+Prueba y guarda tu código. Tu nave espacial ahora debería hacerse más pequeña a medida que se mueve. Prueba tu nave espacial una ** segunda vez **. ¿Es el tamaño correcto cuando comienza?
 
-![Testing a shrinking spaceship](images/space-size-test.png)
+![Probando una nave espacial que se encoge](images/space-size-test.png)
