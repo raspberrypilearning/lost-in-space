@@ -12,12 +12,12 @@ steps:
   - 
     title: Introdução
   - 
-    title: Animating a spaceship
+    title: Animando uma nave espacial
   - 
-    title: 'Challenge: improve your animation'
+    title: 'Desafio: Melhore a sua animação'
     challenge: true
   - 
-    title: Animation using loops
+    title: Animação usando repetições
   - 
     title: Macaco flutuante
   - 
@@ -28,4 +28,4 @@ steps:
     title: 'Desafio: Faça a sua própria animação'
     challenge: true
   - 
-    title: What next?
+    title: E agora?
