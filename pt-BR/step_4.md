@@ -9,7 +9,7 @@ Elimine o bloco `planar`{:class="block3motion"} do seu código. Para fazer isso,
 ![Ator da nave espacial](images/sprite-spaceship.png)
 
 ```blocks3
-quando bandeira for clicado
+when flag clicked
 aponte para a direção (0)
 vá para x: (-150) y: (-150)
 diga [Vamos lá] por (2) segundos
@@ -28,7 +28,7 @@ Agora use uma `repetição`{:class="block3control"} para mover a sua nave espaci
 ![Ator da nave espacial](images/sprite-spaceship.png)
 
 ```blocks3
-quando bandeira for clicado
+when flag clicked
 aponte para a direção (0)
 vá para x: (-150) y: (-150)
 diga [Vamos lá] por (2) segundos
@@ -50,14 +50,14 @@ Use este bloco:
 ![Ator da nave espacial](images/sprite-spaceship.png)
 
 ```blocks3
-quando bandeira for clicado
+when flag clicked
 aponte para a direção (0)
 vá para x: (-150) y: (-150)
 diga [Vamos lá] por (2) segundos
 aponte para (Earth v)
 repita (200) vezes 
   mova (2) passos
-  + mude (25) no efeito [cor v]
++ mude (25) no efeito [cor v]
 ```
 
 Teste e salve seu código.
@@ -88,7 +88,7 @@ Você precisará adicionar esses blocos ao seu código:
 ```blocks3
 mude (10) no tamanho
 
-defina o tamanho como (100) %
+set size to (100) %
 ```
 
 --- /hint ---
@@ -101,7 +101,7 @@ Seu código deve ficar assim:
 
 ```blocks3
 quando ⚑ for clicado
-defina o tamanho como (100) %
+set size to (100) %
 aponte para a direção (0)
 vá para x: (-150) y: (-150)
 diga [Vamos lá] por (2) segundos
@@ -109,7 +109,7 @@ aponte para (Earth v)
 repita (200) vezes 
   mova (2) passos
   mude (25) no efeito [cor v]
-  + mude (-3) no tamanho
++ mude (-3) no tamanho
 ```
 
 --- /hint ---
