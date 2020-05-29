@@ -1,6 +1,6 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
+Esta é a versão **Scratch 3** do projeto. Há também uma versão [Scratch 2 do projeto](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
 
 \--- /no-print \---
 
@@ -12,7 +12,7 @@ Você vai aprender a programar sua própria animação!
 
 \--- no-print \---
 
-Click on the green flag to see the animation.
+Clique na bandeira verde para ver a animação.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -23,7 +23,7 @@ Click on the green flag to see the animation.
 
 \--- print-only \---
 
-![Complete project](images/showcase_static.png)
+![Projeto concluído](images/showcase_static.png)
 
 \--- /print-only \---
 
@@ -33,15 +33,15 @@ Click on the green flag to see the animation.
 
 ### Hardware
 
-- A computer capable of running Scratch 3
+- Um computador capaz de executar o Scratch 3
 
 ### Software
 
-- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 ([online](http://rpf.io/scratchon){:target="_blank"} ou [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 ### Downloads
 
-- None
+- Nada
 
 \--- /collapse \---
 
@@ -49,18 +49,18 @@ Click on the green flag to see the animation.
 
 ## title: O que você vai aprender
 
-- Use a repeat loop to animate a sprite in Scratch
-- Use a forever loop to repeat an animation indefinitely
-- Understand that loops can be nested within each other
+- Como usar um loop de repetição para animar um sprite no Scratch
+- Como usar um loop infinito para repetir uma animação indefinidamente
+- Entender que os loops podem ser encaixados um dentro do outro
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## informações adicionais para educadores
+## title: Informações adicionais para educadores
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
+Se você precisar imprimir este projeto, por favor use a [versão para impressão](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
-You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+Você pode encontrar o [projeto concluído aqui](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
 \--- /collapse \---
