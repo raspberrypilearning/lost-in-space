@@ -1,22 +1,69 @@
+--- no-print ---
+
+Esta é a versão **Scratch 3** do projeto. Há também uma versão [Scratch 2 do projeto](https://projects.raspberrypi.org/pt-BR/projects/lost-in-space-scratch2).
+
+--- /no-print ---
+
 ## Introdução
 
 Você vai aprender a programar sua própria animação!
 
 ### O que você vai fazer
 
+--- no-print ---
+
+Clique na bandeira verde para ver a animação.
+
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/236022188/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/400323927/?autostart=false" frameborder="0" scrolling="no"></iframe>
   <img src="images/space-final.png">
 </div>
 
-### O que você vai aprender
+--- /no-print ---
 
-Este projeto abrange elementos das seguintes vertentes do [Currículo de Criação Digital Raspberry Pi](http://rpf.io/curriculum):
+--- print-only ---
 
-+ [Use construções básicas de programação para criar programas simples.](https://www.raspberrypi.org/curriculum/programming/creator)
+![Projeto concluído](images/showcase_static.png)
 
-### Informações adicionais para educadores
+--- /print-only ---
+
+--- collapse ---
+---
+title: O que você vai precisar
+---
+
+### Hardware
+
+- Um computador capaz de executar o Scratch 3
+
+### Software
+
+- Scratch 3 ([online](http://rpf.io/scratchon){:target="_blank"} ou [offline](http://rpf.io/scratchoff){:target="_blank"})
+
+### Downloads
+
+- Nada
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: O que você vai aprender
+---
+
+- Como usar um loop de repetição para animar um sprite no Scratch
+- Como usar um loop infinito para repetir uma animação indefinidamente
+- Entender que os loops podem ser encaixados um dentro do outro
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: Informações adicionais para educadores
+---
 
 Se você precisar imprimir este projeto, por favor use a [versão para impressão](https://projects.raspberrypi.org/pt-BR/projects/lost-in-space/print){:target="_blank"}.
 
-Use o link no rodapé para acessar o repositório do GitHub para este projeto, que contém todos os recursos (incluindo um exemplo do projeto concluído) na pasta 'pt-BR/resources'.
+Você pode encontrar o [projeto concluído aqui](http://rpf.io/p/pt-BR/lost-in-space-get){:target="_blank"}.
+
+--- /collapse ---
