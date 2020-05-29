@@ -1,13 +1,13 @@
-## Challenge: improve your animation
+## சவால்: உங்கள் அனிமேஷனை மேம்படுத்தவும்
 
-Can you change the numbers in your animation code so that:
+உங்கள் அனிமேஷன் குறியீட்டில் உள்ள எண்களை மாற்ற முடியுமா:
 
-+ The spaceship moves until it touches the Earth?
-+ The spaceship moves more slowly towards the Earth?
++ விண்கலம் பூமியைத் தொடும் வரை நகரும்?
++ விண்கலம் பூமியை நோக்கி மெதுவாக நகர்கிறதா?
 
-You'll need to change the numbers in this block:
+இந்த தொகுதியில் உள்ள எண்களை நீங்கள் மாற்ற வேண்டும்:
 
-![Rocketship sprite](images/sprite-spaceship.png)
+![ராக்கெட்ஷிப் ஸ்பிரிட்](images/sprite-spaceship.png)
 
 ```blocks3
 glide (1) secs to x:(0) y:(0)
