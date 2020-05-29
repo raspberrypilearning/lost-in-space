@@ -1,28 +1,28 @@
-## Shining star
+## பிரகாசிக்கும் நட்சத்திரம்
 
-Now you will combine loops to make a shining star.
+இப்போது நீங்கள் சுழற்சிகளை இணைத்து பிரகாசிக்கும் நட்சத்திரத்தை உருவாக்குவீர்கள்.
 
 \--- task \---
 
-Add a 'star' sprite to your stage.
+உங்கள் மேடையில் ஒரு 'ஸ்டார்' ஸ்பிரிட் சேர்க்கவும்.
 
-![Adding a star sprite](images/space-star-sprite.png)
+![ஒரு நட்சத்திர ஸ்பிரிட் சேர்க்கிறது](images/space-star-sprite.png)
 
 \--- /task \---
 
 \--- task \---
 
-Can you add code to your star sprite to make the star repeatedly grow and shrink?
+நட்சத்திரம் மீண்டும் மீண்டும் வளரவும் சுருங்கவும் உங்கள் நட்சத்திர மனிதனுக்கு குறியீட்டைச் சேர்க்க முடியுமா?
 
-![Testing a shining star](images/sprite-star.png)
+![பிரகாசிக்கும் நட்சத்திரத்தை சோதிக்கிறது](images/sprite-star.png)
 
 \--- hints \--- \--- hint \---
 
-When the green **flag is clicked**, your star sprite should **change size** to get bigger a few times, and then **change size** to get smaller a few times. It should do this so that it gets bigger and then smaller **forever** and looks like it's shining light.
+பச்சை **கொடி**** கிளிக் செய்யும்போது, உங்கள் நட்சத்திர ஸ்பிரிட் **முறை அளவு** ஐ சில முறை பெரிதாக மாற்ற வேண்டும், பின்னர் <வலுவான>மாற்ற அளவு** ஐ சில முறை சிறியதாக மாற்ற வேண்டும். இது இதைச் செய்ய வேண்டும், அது பெரிதாகி பின்னர் சிறியதாக **என்றென்றும்** மேலும் இது ஒளிரும் ஒளி போல் தெரிகிறது.
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+உங்களுக்கு தேவையான குறியீடு தொகுதிகள் இங்கே:
 
 ```blocks3
 repeat (10)
@@ -42,9 +42,9 @@ forever
 
 \--- /hint \--- \--- hint \---
 
-Here's the code to make your star grow and shrink:
+உங்கள் நட்சத்திரம் வளர்ந்து சுருங்குவதற்கான குறியீடு இங்கே:
 
-![Star sprite](images/sprite-star.png)
+![நட்சத்திர மனிதர்](images/sprite-star.png)
 
 ```blocks3
 when flag clicked
