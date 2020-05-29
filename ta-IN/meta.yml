@@ -1,7 +1,7 @@
 ---
-title: Lost in space
+title: விண்வெளியில் இழந்தது
 hero_image: images/lost-in-space.png
-description: Learn how to program your own animation!
+description: உங்கள் சொந்த அனிமேஷனை எவ்வாறு நிரல் செய்வது என்பதை அறிக!
 original_url: https://www.codeclubprojects.org/en-GB/scratch/lost-in-space
 listed: true
 copyedit: true
@@ -10,22 +10,22 @@ version: 4.1.3
 last_tested: 2018-09-26
 steps:
   - 
-    title: Introduction
+    title: அறிமுகம்
   - 
-    title: Animating a spaceship
+    title: ஒரு விண்கலத்தை அனிமேஷன் செய்தல்
   - 
-    title: 'Challenge: improve your animation'
+    title: 'சவால்: உங்கள் அனிமேஷனை மேம்படுத்தவும்'
     challenge: true
   - 
-    title: Animation using loops
+    title: சுழல்களைப் பயன்படுத்தி அனிமேஷன்
   - 
-    title: Floating monkey
+    title: மிதக்கும் குரங்கு
   - 
-    title: Bouncing asteroid
+    title: துள்ளல் சிறுகோள்
   - 
-    title: Shining star
+    title: பிரகாசிக்கும் நட்சத்திரம்
   - 
-    title: 'Challenge: make your own animation'
+    title: 'சவால்: உங்கள் சொந்த அனிமேஷனை உருவாக்கவும்'
     challenge: true
   - 
-    title: What next?
+    title: அடுத்து என்ன?
