@@ -4,19 +4,19 @@
 
 \--- task \---
 
-Start by adding the 'monkey' sprite from the library.
+Comienza agregando la figura "Mono" (Monkey) de la biblioteca.
 
-![Adding a monkey sprite](images/space-monkey-sprite.png)
+![Comienza agregando la figura "Mono" (Monkey) de la biblioteca.](images/space-monkey-sprite.png)
 
 \--- /task \---
 
-Click on your new monkey sprite and then click on **Costumes** so that you can edit how the monkey looks.
+Haz clic en tu nuevo objeto de un mono y luego haz clic en **Disfraces** para que puedas editar el aspecto del mono.
 
 \--- task \---
 
 Set the fill to be transparent by selecting the red line. For the outline, set a white colour by moving the Saturation slider to `0`.
 
-![Make white colour](images/make-white.png)
+![Hacer color blanco](images/make-white.png)
 
 \--- /task \---
 
@@ -24,21 +24,21 @@ Set the fill to be transparent by selecting the red line. For the outline, set a
 
 Click on the **circle** tool and then use it to draw a white space helmet around the monkey's head.
 
-![Monkey space helmet](images/space-monkey-edit.png)
+![Casco espacial de mono](images/space-monkey-edit.png)
 
 \--- /task \---
 
 \--- task \---
 
-Can you add code to your monkey sprite so that it spins slowly in a circle forever?
+¿Puedes agregar código a la figura de tu mono para que gire lentamente en círculos para siempre?
 
 \--- hints \--- \--- hint \---
 
-When the green **flag is clicked**, your monkey sprite should **turn** in a circle **forever**.
+Cuando **se hace clic en la bandera** verde, tu objeto de un mono debería **girar** en círculo **para siempre**.
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+Aquí están los bloques de código que necesitas:
 
 ```blocks3
 por siempre
@@ -51,9 +51,9 @@ cuando la bandera es pulsada
 
 \--- /hint \--- \--- hint \---
 
-Here's the code to make your monkey spin:
+Aquí está el código para hacer girar a tu mono:
 
-![Monkey sprite](images/sprite-monkey.png)
+![Objeto de un Mono](images/sprite-monkey.png)
 
 ```blocks3
 cuando la bandera es pulsada
@@ -65,6 +65,6 @@ por siempre
 
 \--- /task \---
 
-Test and save your project. You'll have to click on the red **stop** button to end this animation, as it runs forever!
+Prueba y guarda tu proyecto. Tendrás que hacer clic en el botón rojo de **parar** para finalizar esta animación, ¡ya que continúa para siempre!
 
-![Test the spinning monkey](images/space-spin-test.png)
+![Prueba el mono giratorio](images/space-spin-test.png)
