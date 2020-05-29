@@ -1,7 +1,7 @@
-## Challenge: make your own animation
+## சவால்: உங்கள் சொந்த அனிமேஷனை உருவாக்கவும்
 
-Stop your space animation, save it, and start a new Scratch project.
+உங்கள் விண்வெளி அனிமேஷனை நிறுத்தி, அதைச் சேமித்து, புதிய கீறல் திட்டத்தைத் தொடங்கவும்.
 
-Use what you've learned in this project to make your own animation. It can be anything you like, but try to make your animation match the background you choose. Here are some examples:
+உங்கள் சொந்த அனிமேஷனை உருவாக்க இந்த திட்டத்தில் நீங்கள் கற்றுக்கொண்டதைப் பயன்படுத்தவும். இது நீங்கள் விரும்பும் எதையும் கொண்டிருக்கலாம், ஆனால் உங்கள் அனிமேஷனை நீங்கள் தேர்வுசெய்த பின்னணியுடன் பொருத்த முயற்சிக்கவும். இங்கே சில உதாரணங்கள்:
 
-![screenshot](images/space-egs.png)
+![திரைப்பிடிப்பு](images/space-egs.png)
