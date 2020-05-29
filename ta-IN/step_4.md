@@ -1,12 +1,12 @@
-## Animation using loops
+## சுழல்களைப் பயன்படுத்தி அனிமேஷன்
 
-Another way to animate the spaceship is to tell it to move a small amount many times
+விண்கலத்தை உயிரூட்டுவதற்கான மற்றொரு வழி, ஒரு சிறிய தொகையை பல முறை நகர்த்தச் சொல்வது
 
 \--- task \---
 
-Delete the `glide`{:class="block3motion"} block from your code. To do this, drag the block off the Code area and drop it back where the other single code blocks are.
+உங்கள் குறியீட்டிலிருந்து `சறுக்கு`{: class = "block3motion"} தொகுதியை நீக்கு. இதைச் செய்ய, கோட் பகுதியிலிருந்து தடுப்பை இழுத்து, மற்ற ஒற்றை குறியீடு தொகுதிகள் இருக்கும் இடத்திலேயே அதை கைவிடவும்.
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![விண்கலம் ஸ்பிரிட்](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -22,11 +22,11 @@ point towards (Earth v)
 
 \--- task \---
 
-Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
+இப்போது உங்கள் விண்கலத்தை பூமியை நோக்கி நகர்த்த `மீண்டும்`{: class = "block3control"} block ஐப் பயன்படுத்தலாமா?
 
-![Testing a spaceship animation](images/space-animate-stage.png)
+![ஒரு விண்கலம் அனிமேஷனை சோதிக்கிறது](images/space-animate-stage.png)
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![விண்கலம் ஸ்பிரிட்](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -39,17 +39,17 @@ point towards (Earth v)
     move (2) steps
 ```
 
-Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
+உங்கள் குறியீட்டை சோதித்து சேமிக்கவும். உங்கள் விண்கலம் முன்பு போலவே பூமியை நோக்கி நகர வேண்டும், ஆனால் இந்த முறை அது `மீண்டும்`using ஐப் பயன்படுத்துகிறது: class = "block3control"} block.
 
 \--- /task \---
 
 \--- task \---
 
-Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
+அடுத்து உங்கள் விண்கலம் ஸ்ப்ரைட்டுக்கு குறியீட்டைச் சேர்க்கவும், இதனால் விண்கலம் பூமியை நோக்கி நகரும்போது நிறத்தை மாற்றுமா?
 
-Use this block:
+இந்த தொகுதியைப் பயன்படுத்தவும்:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![விண்கலம் ஸ்பிரிட்](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -63,29 +63,29 @@ repeat (200)
 +    change [color v] effect by (25)
 ```
 
-Test and save your code.
+உங்கள் குறியீட்டை சோதித்து சேமிக்கவும்.
 
-![Testing a colour-changing spaceship](images/space-colour-test.png)
+![வண்ணத்தை மாற்றும் விண்கலத்தை சோதிக்கிறது](images/space-colour-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Can you make your spaceship get smaller as it moves towards Earth?
+உங்கள் விண்கலம் பூமியை நோக்கி நகரும்போது அதை சிறியதாக மாற்ற முடியுமா?
 
 \--- hints \---
 
 \--- hint \---
 
-Your spaceship should start at `100% size`{:class="blocklooks"}, and then `change size`{:class="blocklooks"} by a small amount each time it moves.
+உங்கள் விண்கலம் `100% அளவு`{: class = "blocklooks" at இல் தொடங்க வேண்டும், பின்னர் `மாற்றம் அளவு`{: class = "blocklooks" every ஒவ்வொரு முறையும் நகரும் போது ஒரு சிறிய தொகையால்.
 
 \--- /hint \---
 
 \--- hint \---
 
-You will need to add these blocks to your code:
+உங்கள் தொகுதிக்கு இந்த தொகுதிகளை நீங்கள் சேர்க்க வேண்டும்:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![விண்கலம் ஸ்பிரிட்](images/sprite-spaceship.png)
 
 ```blocks3
 change size by (10)
@@ -97,9 +97,9 @@ set size to (100) %
 
 \--- hint \---
 
-Your code should look like this:
+உங்கள் குறியீடு இப்படி இருக்க வேண்டும்:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![விண்கலம் ஸ்பிரிட்](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -121,6 +121,6 @@ repeat (200)
 
 \--- /task \---
 
-Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
+உங்கள் குறியீட்டை சோதித்து சேமிக்கவும். உங்கள் விண்கலம் இப்போது நகரும்போது சிறியதாக இருக்க வேண்டும். உங்கள் விண்கலம் ஒரு சோதனை **இரண்டாவது முறையாக**. இது தொடங்கும் போது சரியான அளவுதானா?
 
-![Testing a shrinking spaceship](images/space-size-test.png)
+![சுருங்கி வரும் விண்கலத்தை சோதிக்கிறது](images/space-size-test.png)
