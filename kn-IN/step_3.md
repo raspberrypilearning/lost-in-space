@@ -1,13 +1,13 @@
-## Challenge: improve your animation
+## ಸವಾಲು: ನಿಮ್ಮ ಅನಿಮೇಷನ್ ಮೇಲ್ಪಡಿಸಿ
 
-Can you change the numbers in your animation code so that:
+ನಿಮ್ಮ ಅನಿಮೇಷನ್ ಕೋಡ್‌ನಲ್ಲಿನ ಸಂಖ್ಯೆಗಳನ್ನು ನೀವು ಹೀಗೆ ಬದಲಾಯಿಸಬಹುದೇ?
 
-+ The spaceship moves until it touches the Earth?
-+ The spaceship moves more slowly towards the Earth?
++ ಆಕಾಶನೌಕೆ ಭೂಮಿಯನ್ನು ಮುಟ್ಟುವವರೆಗೂ ಚಲಿಸುವಂತೆ?
++ ಆಕಾಶನೌಕೆ ನಿಧಾನವಾಗಿ ಭೂಮಿಯನ್ನು ಮುಟ್ಟುವವರೆಗೂ ಚಲಿಸುವಂತೆ?
 
-You'll need to change the numbers in this block:
+ಈ ಬ್ಲಾಕ್‌ನಲ್ಲಿ ನೀವು ಸಂಖ್ಯೆಗಳನ್ನು ಬದಲಾಯಿಸಬೇಕಾಗಿದೆ:
 
-![Rocketship sprite](images/sprite-spaceship.png)
+![ರಾಕೆಟ್‌ಶಿಪ್ ಸ್ಪ್ರೈಟ್](images/sprite-spaceship.png)
 
 ```blocks3
 glide (1) secs to x:(0) y:(0)
