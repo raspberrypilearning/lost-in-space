@@ -1,6 +1,6 @@
-## What next?
+## ಮುಂದೆ ಏನು?
 
-Try the [Ghostbusters](https://projects.raspberrypi.org/en/projects/ghostbusters?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) project! In that project, you will learn how to create a game with ghosts that appear all over the place and that you need to catch. You will also learn how to add a timer and a score to the game, so that you can see how many ghosts you are able to catch.
+[ ಘೋಸ್ಟ್‌ಬಸ್ಟರ್‌ ](https://projects.raspberrypi.org/en/projects/ghostbusters?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) ಯೋಜನೆ ಪ್ರಯತ್ನಿಸಿ! ಆ ಯೋಜನೆಯಲ್ಲಿ, ದೆವ್ವಗಳೊಂದಿಗೆ ಆಟವನ್ನು ಹೇಗೆ ರಚಿಸುವುದು ಎಂದು ನೀವು ಕಲಿಯುವಿರಿ. ಅವು ಎಲ್ಲೆಡೆ ಗೋಚರಿಸುತ್ತದೆ ಮತ್ತು ನೀವು ಹಿಡಿಯಬೇಕು. ಆಟಕ್ಕೆ ಟೈಮರ್ ಮತ್ತು ಸ್ಕೋರ್ ಅನ್ನು ಹೇಗೆ ಸೇರಿಸುವುದು ಎಂಬುದನ್ನು ಸಹ ನೀವು ಕಲಿಯುವಿರಿ, ಇದರಿಂದ ನೀವು ಎಷ್ಟು ದೆವ್ವಗಳನ್ನು ಹಿಡಿಯಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ ಎಂಬುದನ್ನು ನೋಡಬಹುದು.
 
 \--- no-print \---
 
@@ -13,6 +13,6 @@ Try the [Ghostbusters](https://projects.raspberrypi.org/en/projects/ghostbusters
 
 \--- print-only \---
 
-![showcase](images/ghostbusters-static.png)
+![ಪ್ರದರ್ಶನ](images/ghostbusters-static.png)
 
 \--- /print-only \---
