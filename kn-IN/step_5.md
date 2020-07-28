@@ -1,44 +1,44 @@
-## Floating monkey
+## ತೇಲುವ ಮಂಗ
 
-Now you will add a monkey who's lost in space to your animation!
+ನಿಮ್ಮ ಅನಿಮೇಷನ್‌ಗೆ ಆಕಾಶದಲ್ಲಿ ಕಳೆದುಹೋದ ಮಂಗವನ್ನು ಈಗ ನೀವು ಸೇರಿಸುತ್ತೀರಿ!
 
 \--- task \---
 
-Start by adding the 'monkey' sprite from the library.
+ಲೈಬ್ರರಿಯಿಂದ 'ಮಂಗ(monkey)' ಸ್ಪ್ರೈಟ್ ಅನ್ನು ಸೇರಿಸುವ ಮೂಲಕ ಪ್ರಾರಂಭಿಸಿ.
 
-![Adding a monkey sprite](images/space-monkey-sprite.png)
+![ಮ೦ಗ ಸ್ಪ್ರೈಟ್ ಅನ್ನು ಸೇರಿಸುವುದು](images/space-monkey-sprite.png)
 
 \--- /task \---
 
-Click on your new monkey sprite and then click on **Costumes** so that you can edit how the monkey looks.
+ನಿಮ್ಮ ಹೊಸ ಮಂಗ ಸ್ಪ್ರೈಟ್ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ ಮತ್ತು ನಂತರ ** ವೇಷಭೂಷಣಗಳ** ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ. ಇದರಿಂದಾಗಿ ಕೋತಿ ಹೇಗೆ ಕಾಣುತ್ತದೆ ಎಂಬುದನ್ನು ನೀವು ಸಂಪಾದಿಸಬಹುದು.
 
 \--- task \---
 
-Set the fill to be transparent by selecting the red line. For the outline, set a white colour by moving the Saturation slider to `0`.
+ಕೆಂಪು ರೇಖೆಯನ್ನು ಆರಿಸುವ ಮೂಲಕ ಫಿಲ್ ಅನ್ನು ಪಾರದರ್ಶಕವಾಗಿರಲು ಹೊಂದಿಸಿ. ಬಾಹ್ಯರೇಖೆಗಾಗಿ, ಸ್ಯಾಚುರೇಶನ್ ಸ್ಲೈಡರ್ ಅನ್ನು ` 0` ಗೆ ಸರಿಸುವ ಮೂಲಕ ಬಿಳಿ ಬಣ್ಣವನ್ನು ಹೊಂದಿಸಿ.
 
-![Make white colour](images/make-white.png)
-
-\--- /task \---
-
-\--- task \---
-
-Click on the **circle** tool and then use it to draw a white space helmet around the monkey's head.
-
-![Monkey space helmet](images/space-monkey-edit.png)
+![ಬಿಳಿ ಬಣ್ಣದ್ದಾಗಿ ಮಾಡಿ](images/make-white.png)
 
 \--- /task \---
 
 \--- task \---
 
-Can you add code to your monkey sprite so that it spins slowly in a circle forever?
+** ವಲಯ** ಉಪಕರಣದ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ ಮತ್ತು ನಂತರ ಅದನ್ನು ಕೋತಿಯ ತಲೆಯ ಸುತ್ತ ಬಿಳಿ ಆಕಾಶ ಹೆಲ್ಮೆಟ್ ಅನ್ನು ಬರೆಯಲು ಬಳಸಿ.
+
+![ಮಂಕಿ ಸ್ಪೇಸ್ ಹೆಲ್ಮೆಟ್](images/space-monkey-edit.png)
+
+\--- /task \---
+
+\--- task \---
+
+ನಿಮ್ಮ ಮಂಕಿ ಸ್ಪ್ರೈಟ್‌ಗೆ ಕೋಡ್ ಅನ್ನು ಸೇರಿಸಬಹುದೇ ಇದರಿಂದ ಅದು ವೃತ್ತದಲ್ಲಿ ನಿಧಾನವಾಗಿ ಶಾಶ್ವತವಾಗಿ ತಿರುಗುತ್ತದೆ?
 
 \--- hints \--- \--- hint \---
 
-When the green **flag is clicked**, your monkey sprite should **turn** in a circle **forever**.
+ಹಸಿರು ** ಧ್ವಜವನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿದಾಗ **, ನಿಮ್ಮ ಮಂಕಿ ಸ್ಪ್ರೈಟ್ ** ಶಾಶ್ವತವಾಗಿ ವಲಯದಲ್ಲಿ ** ** ತಿರುಗಬೇಕು **.
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+ನಿಮಗೆ ಅಗತ್ಯವಿರುವ ಕೋಡ್ ಬ್ಲಾಕ್‌ಗಳು ಇಲ್ಲಿವೆ:
 
 ```blocks3
 forever
@@ -51,9 +51,9 @@ when flag clicked
 
 \--- /hint \--- \--- hint \---
 
-Here's the code to make your monkey spin:
+ನಿಮ್ಮ ಮ೦ಗ ಸ್ಪಿನ್ ಮಾಡಲು ಕೋಡ್ ಇಲ್ಲಿದೆ:
 
-![Monkey sprite](images/sprite-monkey.png)
+![ಮಂಕಿ ಸ್ಪ್ರೈಟ್](images/sprite-monkey.png)
 
 ```blocks3
 when flag clicked
@@ -65,6 +65,6 @@ forever
 
 \--- /task \---
 
-Test and save your project. You'll have to click on the red **stop** button to end this animation, as it runs forever!
+ನಿಮ್ಮ ಯೋಜನೆಯನ್ನು ಪರೀಕ್ಷಿಸಿ ಮತ್ತು ಉಳಿಸಿ. ಅದು ಶಾಶ್ವತವಾಗಿ ಚಲಿಸುತ್ತದೆ! ಈ ಅನಿಮೇಷನ್ ಅನ್ನು ಕೊನೆಗೊಳಿಸಲ, ನೀವು ಕೆಂಪು ** stop ** ಬಟನ್ ಅನ್ನು ಕ್ಲಿಕ್ ಮಾಡಬೇಕಾಗುತ್ತದೆ.
 
-![Test the spinning monkey](images/space-spin-test.png)
+![ತಿರುಗುವ ಕೋತಿಯನ್ನು ಪರೀಕ್ಷಿಸಿ](images/space-spin-test.png)
