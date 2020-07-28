@@ -1,12 +1,12 @@
-## Animation using loops
+## ಲೂಪ್ಗಳನ್ನು ಬಳಸಿ ಅನಿಮೇಷನ್
 
-Another way to animate the spaceship is to tell it to move a small amount many times
+ಆಕಾಶನೌಕೆಯನ್ನು ಅನಿಮೇಟ್ ಮಾಡುವ ಇನ್ನೊಂದು ವಿಧಾನವೆಂದರೆ, ಹಲವು ಬಾರಿ ಒಂದು ಸಣ್ಣ ಮೊತ್ತವನ್ನು ಸರಿಯಲು ಹೇಳುವುದು
 
 \--- task \---
 
-Delete the `glide`{:class="block3motion"} block from your code. To do this, drag the block off the Code area and drop it back where the other single code blocks are.
+` ಗ್ಲೈಡ್ `{: class = "block3motion"} ಅನ್ನು ನಿಮ್ಮ ಕೋಡ್‌ನಿಂದ ಅಳಿಸಿ. ಇದನ್ನು ಮಾಡಲು, ಕೋಡ್ ಪ್ರದೇಶವನ್ನು ಎಳೆಯಿರಿ ಮತ್ತು ಇತರ ಸಿಂಗಲ್ ಕೋಡ್ ಬ್ಲಾಕ್‌ಗಳು ಇರುವಲ್ಲಿ ಅದನ್ನು ಬಿಡಿ.
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![ಆಕಾಶನೌಕೆ ಸ್ಪ್ರೈಟ್](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -22,11 +22,11 @@ point towards (Earth v)
 
 \--- task \---
 
-Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
+ಈಗ ` ಪುನರಾವರ್ತನೆ `{:class = "block3control"} ಬ್ಲಾಕ್ ಬಳಸಿ ನಿಮ್ಮ ಆಕಾಶನೌಕೆಯನ್ನು ಭೂಮಿಯ ಕಡೆಗೆ ಸರಿಸಲು?
 
-![Testing a spaceship animation](images/space-animate-stage.png)
+![ಆಕಾಶನೌಕೆ ಅನಿಮೇಷನ್ ಪರೀಕ್ಷೀಸುವುದು](images/space-animate-stage.png)
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![ಆಕಾಶನೌಕೆ ಸ್ಪ್ರೈಟ್](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -39,17 +39,17 @@ point towards (Earth v)
     move (2) steps
 ```
 
-Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
+ನಿಮ್ಮ ಕೋಡ್ ಅನ್ನು ಪರೀಕ್ಷಿಸಿ ಮತ್ತು ಉಳಿಸಿ. ನಿಮ್ಮ ಆಕಾಶನೌಕೆ ಮೊದಲಿನಂತೆಯೇ ಭೂಮಿಯ ಕಡೆಗೆ ಚಲಿಸಬೇಕು, ಆದರೆ ಈ ಬಾರಿ ಅದು ` ಪುನರಾವರ್ತನೆಯನ್ನು ಬಳಸುತ್ತದೆ ` {: class = "block3control"}.
 
 \--- /task \---
 
 \--- task \---
 
-Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
+ಮುಂದೆ ನಿಮ್ಮ ಆಕಾಶನೌಕೆ ಸ್ಪ್ರೈಟ್‌ಗೆ ಕೋಡ್ ಸೇರಿಸಿ ಇದರಿಂದ ಆಕಾಶನೌಕೆ ಭೂಮಿಯ ಕಡೆಗೆ ಚಲಿಸುವಾಗ ಬಣ್ಣವನ್ನು ಬದಲಾಯಿಸುತ್ತದೆ?
 
-Use this block:
+ಈ ಬ್ಲಾಕ್ ಬಳಸಿ:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![ಆಕಾಶನೌಕೆ ಸ್ಪ್ರೈಟ್](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -63,29 +63,29 @@ repeat (200)
 +    change [color v] effect by (25)
 ```
 
-Test and save your code.
+ನಿಮ್ಮ ಕೋಡ್ ಅನ್ನು ಪರೀಕ್ಷಿಸಿ ಮತ್ತು ಉಳಿಸಿ.
 
-![Testing a colour-changing spaceship](images/space-colour-test.png)
+![ಬಣ್ಣ ಬದಲಾಯಿಸುವ ಆಕಾಶನೌಕೆ ಪರೀಕ್ಷಿಸಲಾಗುತ್ತಿದೆ](images/space-colour-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Can you make your spaceship get smaller as it moves towards Earth?
+ನಿಮ್ಮ ಆಕಾಶನೌಕೆ ಭೂಮಿಯ ಕಡೆಗೆ ಚಲಿಸುವಾಗ ಅದನ್ನು ಚಿಕ್ಕದಾಗಿಸುವಂತೆ ನೀವು ಮಾಡಬಹುದೇ?
 
 \--- hints \---
 
 \--- hint \---
 
-Your spaceship should start at `100% size`{:class="blocklooks"}, and then `change size`{:class="blocklooks"} by a small amount each time it moves.
+ನಿಮ್ಮ ಆಕಾಶನೌಕೆ ` 100% ` {: class = "blocklooks"}ಗಾತ್ರದಿಂದ ಪ್ರಾರಂಭವಾಗಬೇಕು, ತದನಂತರ ಸಣ್ಣ ಮೊತ್ತದಿಂದ ` ಗಾತ್ರವನ್ನು ಬದಲಾಯಿಸುತ್ತ `{:class="blocklooks"} ಅದು ಚಲಿಸಬೇಕು.
 
 \--- /hint \---
 
 \--- hint \---
 
-You will need to add these blocks to your code:
+ನಿಮ್ಮ ಕೋಡ್‌ಗೆ ನೀವು ಈ ಬ್ಲಾಕ್‌ಗಳನ್ನು ಸೇರಿಸುವ ಅಗತ್ಯವಿದೆ:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![ಆಕಾಶನೌಕೆ ಸ್ಪ್ರೈಟ್](images/sprite-spaceship.png)
 
 ```blocks3
 change size by (10)
@@ -97,9 +97,9 @@ set size to (100) %
 
 \--- hint \---
 
-Your code should look like this:
+ನಿಮ್ಮ ಕೋಡ್ ಈ ರೀತಿ ಇರಬೇಕು:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![ಆಕಾಶನೌಕೆ ಸ್ಪ್ರೈಟ್](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -121,6 +121,6 @@ repeat (200)
 
 \--- /task \---
 
-Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
+ನಿಮ್ಮ ಕೋಡ್ ಅನ್ನು ಪರೀಕ್ಷಿಸಿ ಮತ್ತು ಉಳಿಸಿ. ಈಗ, ನಿಮ್ಮ ಆಕಾಶನೌಕೆ ಚಲಿಸುವಾಗ ಚಿಕ್ಕದಾಗಬೇಕು. ನಿಮ್ಮ ಆಕಾಶನೌಕೆಯನ್ನು ** ಎರಡನೇ ಬಾರಿಗೆ ಪರೀಕ್ಷಿಸಿ **. ಅದು ಪ್ರಾರಂಭವಾದಾಗ ಅದು ಸರಿಯಾದ ಗಾತ್ರ ಇದೆಯೇ?
 
-![Testing a shrinking spaceship](images/space-size-test.png)
+![ಕುಗ್ಗುತ್ತಿರುವ ಆಕಾಶನೌಕೆಯನ್ನು ಪರೀಕ್ಷೀಸುವುದು](images/space-size-test.png)
