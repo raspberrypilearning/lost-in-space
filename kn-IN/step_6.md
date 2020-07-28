@@ -1,28 +1,28 @@
-## Bouncing asteroid
+## ಪುಟಿಯುವ ಕ್ಷುದ್ರಗ್ರಹ
 
-Now you will add a floating space rock to your animation.
+ಈಗ ನೀವು ನಿಮ್ಮ ಅನಿಮೇಷನ್‌ಗೆ ಫ್ಲೋಟಿಂಗ್ ಸ್ಪೇಸ್ ರಾಕ್ ಅನ್ನು ಸೇರಿಸುತ್ತೀರಿ.
 
 \--- task \---
 
-Add a 'rock' sprite to your animation.
+ನಿಮ್ಮ ಅನಿಮೇಷನ್‌ಗೆ 'ಬಂಡೆ' ಸ್ಪ್ರೈಟ್ ಸೇರಿಸಿ.
 
-![Adding a rock sprite](images/space-rock-sprite.png)
+![ಬಂಡೆ ಸ್ಪ್ರೈಟ್ ಅನ್ನು ಸೇರಿಸುವುದು](images/space-rock-sprite.png)
 
 \--- /task \---
 
 \--- task \---
 
-Can you add code for your rock sprite so that the rock bounces around the stage?
+ನಿಮ್ಮ ಬಂಡೆ ಸ್ಪ್ರೈಟ್‌ಗಾಗಿ ಕೋಡ್ ಅನ್ನು ಸೇರಿಸಬಹುದೇ ನೋಡಿ ಇದರಿಂದ ರಾಕ್ ವೇದಿಕೆಯ ಸುತ್ತಲೂ ಪುಟಿಯುತ್ತದೆ.
 
-![Testing a bouncing rock](images/space-bounce-test.png)
+![ಪುಟಿಯುವ ಬಂಡೆಯನ್ನು ಪರೀಕ್ಷಿಸುವುದು](images/space-bounce-test.png)
 
 \--- hints \--- \--- hint \---
 
-When the green **flag is clicked**, your rock sprite should **move** and **bounce** around the stage **forever**.
+ಹಸಿರು ** ಧ್ವಜವನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿದಾಗ **, ನಿಮ್ಮ ಬಂಡೆ ಸ್ಪ್ರೈಟ್ ** ಚಲಿಸಬೇಕು ** ಮತ್ತು ** ಶಾಶ್ವತವಾಗಿ ** ** ಕುಣಿದಾಡ ಬೇಕು**.
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+ನಿಮಗೆ ಅಗತ್ಯವಿರುವ ಕೋಡ್ ಬ್ಲಾಕ್‌ಗಳು ಇಲ್ಲಿವೆ:
 
 ```blocks3
 move (10) steps
@@ -34,7 +34,7 @@ when flag clicked
 forever
 ```
 
-You can also set a more interesting starting direction for the rock sprite with one of these blocks:
+ಈ ಬ್ಲಾಕ್‌ಗಳಲ್ಲಿ ಒಂದನ್ನು ಹೊಂದಿಸಿ ನಿಮ್ಮ ಬಂಡೆ ಸ್ಪ್ರೈಟ್‌ಗಾಗಿ ನೀವು ಹೆಚ್ಚು ಆಸಕ್ತಿದಾಯಕ ಆರಂಭಿಕ ದಿಕ್ಕನ್ನು ಸಹ ಹೊಂದಿಸಬಹುದು:
 
 ```blocks3
 turn cw (15) degrees
@@ -44,9 +44,9 @@ point towards (Earth v)
 
 \--- /hint \--- \--- hint \---
 
-Here's the code for making your rock bounce around the stage:
+ನಿಮ್ಮ ಬಂಡೆಯನ್ನು ವೇದಿಕೆಯ ಸುತ್ತಲೂ ಪುಟಿಯುವಂತೆ ಮಾಡುವ ಕೋಡ್ ಇಲ್ಲಿದೆ:
 
-![Rock sprite](images/sprite-rock.png)
+![ಬಂಡೆ ಸ್ಪ್ರೈಟ್](images/sprite-rock.png)
 
 ```blocks3
 when flag clicked
