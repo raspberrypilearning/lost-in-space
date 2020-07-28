@@ -25,22 +25,21 @@ When the green **flag is clicked**, your rock sprite should **move** and **bounc
 Here are the code blocks you need:
 
 ```blocks3
-fai (10) passi
+move (10) steps
 
-rimbalza quando tocchi il bordo
+if on edge bounce
 
-quando si clicca sulla bandiera verde
+when flag clicked
 
-per sempre
-end
+forever
 ```
 
 You can also set a more interesting starting direction for the rock sprite with one of these blocks:
 
 ```blocks3
-ruota in senso orario di (15) gradi
+turn cw (15) degrees
 
-punta verso (Earth v)
+point towards (Earth v)
 ```
 
 \--- /hint \--- \--- hint \---
@@ -50,12 +49,11 @@ Here's the code for making your rock bounce around the stage:
 ![Rock sprite](images/sprite-rock.png)
 
 ```blocks3
-quando si clicca sulla bandiera verde
-punta verso (Earth v)
-per sempre 
-  fai (2) passi
-  rimbalza quando tocchi il bordo
-end
+when flag clicked
+point towards (Earth v)
+forever
+    move (2) steps
+    if on edge, bounce
 ```
 
 \--- /hint \--- \--- /hints \--- \--- /task \---
