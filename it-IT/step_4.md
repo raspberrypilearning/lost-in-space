@@ -9,13 +9,13 @@ Delete the `glide`{:class="block3motion"} block from your code. To do this, drag
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-quando si clicca sulla bandiera verde
-punta in direzione (0)
-vai a x: (-150) y: (-150)
-dire [Andiamo] per (2) secondi
-punta verso (Earth v)
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
 
-- scivola in (1) secondi a x: (0) y: (0)
+- glide (1) secs to x:(0) y:(0)
 ```
 
 \--- /task \---
@@ -29,15 +29,14 @@ Now use a `repeat`{:class="block3control"} block to move your spaceship towards 
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-quando si clicca sulla bandiera verde
-punta in direzione (0)
-vai a x: (-150) y: (-150)
-dire [Andiamo] per (2) secondi
-punta verso (Earth v)
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
 
-+ ripeti (200) volte 
-  fai (2) passi
-end
++ repeat (200)
+    move (2) steps
 ```
 
 Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
@@ -53,15 +52,15 @@ Use this block:
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-quando si clicca sulla bandiera verde
-punta in direzione (0)
-vai a x: (-150) y: (-150)
-dire [Andiamo] per (2) secondi
-punta verso (Earth v)
-ripeti (200) volte 
-  fai (2) passi
-  + cambia effetto [color v] di (25)
-end
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
+
++    change [color v] effect by (25)
 ```
 
 Test and save your code.
@@ -103,17 +102,17 @@ Your code should look like this:
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-quando si clicca sulla bandiera verde
-porta dimensione a (100) %
-punta in direzione (0)
-vai a x: (-150) y: (-150)
-dire [Andiamo] per (2) secondi
-punta verso (Earth v)
-ripeti (200) volte 
-  fai (2) passi
-  cambia effetto [color v] di (25)
-  + cambia dimensione di (-3)
-end
+when flag clicked
+set size to (100) %
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
+    change [color v] effect by (25)
+
++   change size by (-3)
 ```
 
 \--- /hint \---
