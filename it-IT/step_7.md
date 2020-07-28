@@ -25,20 +25,19 @@ When the green **flag is clicked**, your star sprite should **change size** to g
 Here are the code blocks you need:
 
 ```blocks3
-ripeti (10) volte
+repeat (10)
 end
 
-quando si clicca sulla bandiera verde
+when flag clicked
 
-ripeti (10) volte
+repeat (10)
 end
 
-cambia dimensione di (10)
+change size by (10)
 
-cambia dimensione di (10)
+change size by (10)
 
-per sempre
-end
+forever
 ```
 
 \--- /hint \--- \--- hint \---
@@ -48,15 +47,14 @@ Here's the code to make your star grow and shrink:
 ![Star sprite](images/sprite-star.png)
 
 ```blocks3
-quando si clicca sulla bandiera verde
-per sempre 
-  ripeti (20) volte 
-    cambia dimensione di (2)
-  end
-  ripeti (20) volte 
-    cambia dimensione di (-2)
-  end
-end
+when flag clicked
+forever
+    repeat (20)
+        change size by (2)
+    end
+    repeat (20)
+        change size by (-2)
+    end
 
 ```
 
