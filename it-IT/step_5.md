@@ -41,12 +41,12 @@ When the green **flag is clicked**, your monkey sprite should **turn** in a circ
 Here are the code blocks you need:
 
 ```blocks3
-per sempre
+forever
 end
 
-ruota in senso orario di (15) gradi
+turn cw (15) degrees
 
-quando si clicca sulla bandiera verde
+when flag clicked
 ```
 
 \--- /hint \--- \--- hint \---
@@ -56,10 +56,9 @@ Here's the code to make your monkey spin:
 ![Monkey sprite](images/sprite-monkey.png)
 
 ```blocks3
-quando si clicca sulla bandiera verde
-per sempre 
-  ruota in senso orario di (1) gradi
-end
+when flag clicked
+forever
+    turn cw (1) degrees
 ```
 
 \--- /hint \--- \--- /hints \---
