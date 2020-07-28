@@ -1,28 +1,28 @@
-## Shining star
+## ಹೊಳೆಯುವ ನಕ್ಷತ್ರ
 
-Now you will combine loops to make a shining star.
+ಈಗ ನೀವು ಹೊಳೆಯುವ ನಕ್ಷತ್ರವನ್ನು ಮಾಡಲು ಲೂಪ್ಗಳನ್ನು ಸಂಯೋಜಿಸುತ್ತೀರಿ.
 
 \--- task \---
 
-Add a 'star' sprite to your stage.
+ನಿಮ್ಮ ಹಂತಕ್ಕೆ 'ನಕ್ಷತ್ರ' ಸ್ಪ್ರೈಟ್ ಸೇರಿಸಿ.
 
-![Adding a star sprite](images/space-star-sprite.png)
+![ಸ್ಟಾರ್ ಸ್ಪ್ರೈಟ್ ಅನ್ನು ಸೇರಿಸಲು](images/space-star-sprite.png)
 
 \--- /task \---
 
 \--- task \---
 
-Can you add code to your star sprite to make the star repeatedly grow and shrink?
+ನಕ್ಷತ್ರವು ಪದೇ ಪದೇ ಬೆಳೆಯಲು ಮತ್ತು ಕುಗ್ಗುವಂತೆ ಮಾಡಲು ನಿಮ್ಮ ನಕ್ಷತ್ರ ಸ್ಪ್ರೈಟ್‌ಗೆ ನೀವು ಕೋಡ್ ಸೇರಿಸಬಹುದೇ?
 
-![Testing a shining star](images/sprite-star.png)
+![ಹೊಳೆಯುವ ನಕ್ಷತ್ರವನ್ನು ಪರೀಕ್ಷಿಸುವುದು](images/sprite-star.png)
 
 \--- hints \--- \--- hint \---
 
-When the green **flag is clicked**, your star sprite should **change size** to get bigger a few times, and then **change size** to get smaller a few times. It should do this so that it gets bigger and then smaller **forever** and looks like it's shining light.
+ಹಸಿರು ** ಧ್ವಜವನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿದಾಗ **, ನಿಮ್ಮ ಸ್ಟಾರ್ ಸ್ಪ್ರೈಟ್ ** ಗಾತ್ರವನ್ನು ಬದಲಾಯಿಸಬೇಕು ** ಕೆಲವು ಬಾರಿ ದೊಡ್ಡದಾಗಬೇಕು, ತದನಂತರ ** ಗಾತ್ರವನ್ನು ಬದಲಾಯಿಸಿ ** ಕೆಲವು ಬಾರಿ ಚಿಕ್ಕದಾಗಬೇಕು. ಇದು ** ಶಾಶ್ವತವಾಗಿ ** ದೊಡ್ಡ ಮತ್ತು ಸಣ್ಣ ಆಗಬೇಕು.ಇದರ ಸಲುವಾಗಿ ಅದು ಬೆಳಕು ಚೆಲ್ಲುವಂತೆ ತೋರುತ್ತಿದೆ.
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+ನಿಮಗೆ ಅಗತ್ಯವಿರುವ ಕೋಡ್ ಬ್ಲಾಕ್‌ಗಳು ಇಲ್ಲಿವೆ:
 
 ```blocks3
 repeat (10)
@@ -42,9 +42,9 @@ forever
 
 \--- /hint \--- \--- hint \---
 
-Here's the code to make your star grow and shrink:
+ನಿಮ್ಮ ನಕ್ಷತ್ರವು ಬೆಳೆಯಲು ಮತ್ತು ಕುಗ್ಗುವಂತೆ ಮಾಡಲು ಕೋಡ್ ಇಲ್ಲಿದೆ:
 
-![Star sprite](images/sprite-star.png)
+![ಸ್ಟಾರ್ ಸ್ಪ್ರೈಟ್](images/sprite-star.png)
 
 ```blocks3
 when flag clicked
