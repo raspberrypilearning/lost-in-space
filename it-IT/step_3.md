@@ -10,7 +10,7 @@ Dovrai modificare i numeri in questo blocco:
 ![Sprite 'Rocketship'](images/sprite-spaceship.png)
 
 ```blocks3
-scivola in (1) secondi a x: (0) y: (0)
+glide (1) secs to x:(0) y:(0)
 ```
 
 [[[generic-scratch3-coordinates]]]
