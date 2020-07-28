@@ -44,15 +44,15 @@
 
 ಇಡೀ ಆಕಾಶನೌಕೆ ಚಿತ್ರದ ಸುತ್ತಲೂ ಪೆಟ್ಟಿಗೆಯನ್ನು ಬರೆಯಲು ** ಬಾಣ**ವನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ ಮತ್ತು ಎಳೆಯಿರಿ. ನಂತರ ** ವೃತ್ತಾಕಾರದ ** ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ ಮತ್ತು ಚಿತ್ರವನ್ನು ತಿರುಗಿಸಿ.
 
-![Rotating a costume](images/space-rotate.png)
+![ವೇಷಭೂಷಣವನ್ನು ತಿರುಗಿಸುವುದು](images/space-rotate.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add this code to your spaceship sprite:
+ನಿಮ್ಮ ಆಕಾಶನೌಕೆ ಸ್ಪ್ರೈಟ್‌ಗೆ ಈ ಕೋಡ್ ಸೇರಿಸಿ:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![ಆಕಾಶನೌಕೆ ಸ್ಪ್ರೈಟ್](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -63,10 +63,10 @@ point towards (Earth v)
 glide (1) secs to x:(0) y:(0)
 ```
 
-Change the numbers in the code blocks you've added so that the code is exactly the same as above.
+ನೀವು ಸೇರಿಸಿದ ಕೋಡ್ ಬ್ಲಾಕ್‌ಗಳಲ್ಲಿನ ಸಂಖ್ಯೆಗಳನ್ನು ಬದಲಾಯಿಸಿ. ಕೋಡನ್ನು ಮೇಲಿನಂತೆ ಮಾಡಿ.
 
 \--- /task \---
 
-If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
+ನೀವು ಹಸಿರು ಧ್ವಜವನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿದರೆ, ಆಕಾಶನೌಕೆ ಮಾತನಾಡುವುದು, ತಿರುಗುವುದು ಮತ್ತು ವೇದಿಕೆಯ ಮಧ್ಯಭಾಗಕ್ಕೆ ತಿರುಗುವುದು ನೀವು ನೋಡಬಹುದು.
 
-![Testing a spaceship animation](images/space-animate-stage.png)
+![ಆಕಾಶನೌಕೆ ಅನಿಮೇಷನ್ ಪರೀಕ್ಷಿಸಲಾಗುತ್ತಿದೆ](images/space-animate-stage.png)
