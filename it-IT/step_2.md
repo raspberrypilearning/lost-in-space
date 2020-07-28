@@ -55,12 +55,12 @@ Add this code to your spaceship sprite:
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-quando si clicca sulla bandiera verde
-punta in direzione (0)
-vai a x: (-150) y: (-150)
-dire [Andiamo] per (2) secondi
-punta verso (Earth v)
-scivola in (1) secondi a x: (0) y: (0)
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+glide (1) secs to x:(0) y:(0)
 ```
 
 Change the numbers in the code blocks you've added so that the code is exactly the same as above.
