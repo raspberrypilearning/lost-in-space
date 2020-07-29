@@ -46,7 +46,7 @@ Usa la herramienta **flecha** para seleccionar y arrastra un recuadro alrededor 
 
 ![Girando un disfraz](images/space-rotate.png)
 
---- /tarea ---
+--- /task ---
 
 --- task ---
 
