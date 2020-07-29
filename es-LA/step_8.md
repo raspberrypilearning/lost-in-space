@@ -1,4 +1,4 @@
-## Desafío: Haz tu propia animación
+## Desafío: Crea tu propia animación
 
 Detén tu animación espacial, guárdala e inicia un nuevo proyecto Scratch.
 

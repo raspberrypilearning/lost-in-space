@@ -1,4 +1,4 @@
-## Animación de una nave espacial
+## Animando una nave espacial
 
 ¡Tu primer paso será crear una nave espacial que vuele hacia la Tierra!
 

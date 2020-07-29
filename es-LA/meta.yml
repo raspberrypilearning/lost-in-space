@@ -13,10 +13,10 @@ steps:
   - title: Animando una nave espacial
   - title: 'Desafío: Mejora tu animación'
     challenge: true
-  - title: Animación utilizando bucles
+  - title: Animación usando bucles
   - title: Mono flotante
   - title: Asteroide rebotando
-  - title: Estrella brillante
+  - title: Una estrella brillante
   - title: 'Desafío: Crea tu propia animación'
     challenge: true
   - title: '¿Qué sigue?'

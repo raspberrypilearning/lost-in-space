@@ -75,7 +75,7 @@ Prueba y guarda tu código.
 
 --- hint ---
 
-Tu nave espacial debe comenzar a `tamaño 100%`{:class="block3looks"}, y luego `cambiar de tamaño`{:class="block3looks"} en una pequeña cantidad cada vez que se mueva.
+Tu nave espacial debe comenzar a `tamaño 100%`{:class="blocklooks"}, y luego `cambiar de tamaño`{:class="blocklooks"} en una pequeña cantidad cada vez que se mueva.
 
 --- /hint ---
 
