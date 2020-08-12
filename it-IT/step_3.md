@@ -1,4 +1,4 @@
-## Animare usando i loop
+## Sfida: migliora la tua animazione
 
 Puoi modificare i numeri nel tuo codice di animazione in modo che:
 
