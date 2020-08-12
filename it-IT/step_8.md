@@ -1,4 +1,4 @@
-## Sfida: Crea la tua animazione
+## Sfida: crea la tua animazione
 
 Interrompi l'animazione dello spazio, salvala e avvia un nuovo progetto Scratch.
 

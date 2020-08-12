@@ -4,7 +4,7 @@ Un altro modo per animare l'astronave è di dirle di muoversi di una piccola qua
 
 --- task ---
 
-Elimina il blocco `glide`{:class="block3motion"} dal tuo codice. Per farlo, trascina il blocco dall'area del codice e rilascialo dove ci sono gli altri blocchi di codice.
+Elimina il blocco `scivola`{:class="block3motion"} dal tuo codice. Per farlo, trascina il blocco dall'area del codice e rilascialo dove ci sono gli altri blocchi di codice.
 
 ![Sprite 'Spaceship'](images/sprite-spaceship.png)
 
@@ -14,7 +14,6 @@ point in direction (0)
 go to x:(-150) y:(-150)
 say [Iniziamo] for (2) seconds
 point towards (Terra v)
-
 - glide (1) secs to x:(0) y:(0)
 ```
 
@@ -22,7 +21,7 @@ point towards (Terra v)
 
 --- task ---
 
-Ora usa un blocco `repeti`{:class="block3control"} per spostare la tua astronave verso la Terra?
+Ora usa un blocco `ripeti`{:class="block3control"} per spostare la tua astronave verso la Terra?
 
 ![Testare l'animazione dell'astronave](images/space-animate-stage.png)
 
