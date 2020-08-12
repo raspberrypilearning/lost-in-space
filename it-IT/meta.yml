@@ -1,26 +1,22 @@
 ---
 title: Perduto nello Spazio
-theme: green
 hero_image: images/lost-in-space.png
 description: Impara a programmare la tua animazione!
 original_url: https://projects.raspberrypi.org/en/projects/lost-in-space
-duration: 2
 listed: true
 copyedit: true
-ingredient: false
-curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-interests: space
 technologies: scratch
-site_areas: projects
-hardware: ''
-software: scratch
-version: 4
-last_tested: 2017-11-01
-steps: 
-- title: Introduzione
-- title: Animare un'astronave
-- title: Animare usando i loop
-- title: Scimmie Fluttuanti
-- title: Asteroidi Rimbalzanti
-- title: Stelle Splendenti
-- title: "Sfida: Crea la tua animazione"
+version: 4.1.3
+last_tested: 2018-09-26
+steps:
+  - title: Introduzione
+  - title: Animare un'astronave
+  - title: 'Animare usando i loop'
+    challenge: true
+  - title: Animazioni usando i cicli
+  - title: Scimmietta fluttuante
+  - title: Asteroide che rimbalza
+  - title: 'Stella splendente'
+  - title: 'Sfida: crea la tua animazione'
+    challenge: true
+  - title: E adesso?

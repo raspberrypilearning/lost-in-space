@@ -1,53 +1,72 @@
 ## Animare un'astronave
 
-Creiamo un'astronave che vola verso la Terra!
+Il tuo primo passo sarà quello di creare una astronave che si dirige verso la Terra!
 
-+ Inizia un nuovo progetto Scratch, e cancella lo sprite del gatto così che il tuo progetto sia vuoto. Puoi trovare l'editore Scratch online a <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a>.
+--- task ---
 
-+ Aggiungi al tuo quadro gli sprite 'Astronave' e 'Terra. Puoi anche aggiungere al tuo quadro lo scenario 'Stelle'. Il tuo quadro dovrebbe essere così:
+Inizia un nuovo progetto Scratch.
 
-	![screenshot](images/space-sprites.png)
+**Online:** apri un nuovo progetto Scratch online su [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
 
-+ Clicca sul tuo nuovo sprite di astronave, e clicca il tab 'Costumi'.
+**Offline:** apri un nuovo progetto nell'editor offline.
 
-	![screenshot](images/space-costume.png)
+Se hai bisogno di scaricare ed installare l'editor Scratch offline, puoi trovarlo su [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-+ Usa la freccia per selezionare l'immagine. Clicca poi sulla maniglia circolare e ruota l'immagine finché si trova sul suo lato.
+--- /task ---
 
-	![screenshot](images/space-rotate.png)
+--- task ---
 
-+ Aggiungi questo codice allo sprite dell'astronave:
+Aggiungi gli sprite 'Rocketship' (Astronave) e 'Earth' (Terra) al tuo stage.
 
-	![screenshot](images/space-animate.png)
+![Sprite 'Astronave' e 'Terra'](images/space-sprites.png)
 
-	Cambia i numeri nei blocchi di codice, in modo che il codice sia esattamente lo stesso dell'immagine sopra.
+[[[generic-scratch3-sprite-from-library]]]
 
-+ Se clicchi sui blocchi per far funzionare il codice, dovresti vedere l'astronave parlare, girare e muoversi verso il centro del quadro.
+--- /task ---
 
-	![screenshot](images/space-animate-stage.png)
+--- task ---
 
-	La posizione dello schermo `x:(0) y:(0)`{:class="blockmotion"} è il centro del quadro. Una posizione come `x:(-150) y:(-150)`{:class="blockmotion"} è verso la parte bassa a sinistra del quadro, e una posizione come `x:(150) y:(150)`{:class="blockmotion"} è vicino alla parte alta a destra.
+Aggiungi lo sfondo 'Stars' (Stelle) al tuo stage.
 
-	![screenshot](images/space-xy.png)
+![Sfondo spaziale](images/space-backdrop.png)
 
-	Se hai bisogno di sapere le coordinate di una posizione sul quadro, muovi il mouse nella posizione che vuoi e annota le coordinate, che sono visualizzate sotto il quadro.
+--- /task ---
 
-	![screenshot](images/space-coordinates.png)
+--- task ---
 
-+ Prova la tua animazione, cliccando sulla bandiera verde appena sopra il quadro.
+Fai clic sullo sprite 'Astronave' e poi clicca sulla scheda **Costumi**.
 
-	![screenshot](images/space-flag.png)
+![Costume dello sprite](images/space-costume.png)
 
---- challenge ---
-## Sfida: Migliora la tua animazione
-Puoi cambiare i numeri nel codice della tua animazione in modo che:
-+ L'astronave si muova finché tocca la Terra?
-+ L'astronave si muova più lentamente verso la Terra?
+--- /task ---
 
-Dovrai cambiare i numeri in questo blocco:
+--- task ---
 
-```blocks
-	scivola in (1) secondi a x: (0) y: (0)
+Usa lo strumento **freccia** per cliccare e trascinare una casella intorno all'intera immagine dell'astronave. Quindi clicca sulla maniglia circolare **ruota** e ruota l'immagine fino a quando non appoggia sul lato.
+
+![Ruotare un costume](images/space-rotate.png)
+
+--- /task ---
+
+--- task ---
+
+Aggiungi questo codice allo sprite della tua astronave:
+
+![Sprite 'Astronave'](images/sprite-spaceship.png)
+
+```blocks3
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Iniziamo] for (2) seconds
+point towards (Terra v)
+glide (1) secs to x:(0) y:(0)
 ```
 
---- /challenge ---
+Cambia i numeri nei blocchi di codice, che hai aggiunto, in modo che sia esattamente lo stesso di cui sopra.
+
+--- /task ---
+
+Facendo click sulla bandierina verde, dovresti vedere l'astronave parlare, girare e planare verso il centro dello stage.
+
+![Testare l'animazione dell'astronave](images/space-animate-stage.png)

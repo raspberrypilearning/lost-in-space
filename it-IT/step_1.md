@@ -1,47 +1,69 @@
+--- no-print ---
+
+Questa è la versione **Scratch 3** del progetto. C'è anche una [versione Scratch 2 del progetto](https://projects.raspberrypi.org/it-IT/projects/lost-in-space-scratch2).
+
+--- /no-print ---
+
 ## Introduzione
 
 Imparerai a programmare la tua animazione!
 
+### Cosa creerai
+
+--- no-print ---
+
+Fare clic sulla bandiera verde per vedere l'animazione.
+
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/26818098/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/417322155/?autostart=false" frameborder="0" scrolling="no"></iframe>
   <img src="images/space-final.png">
 </div>
 
-## Risorse
-Per questo progetto, si può usare Scratch 2. Scratch 2 può essere usato online su [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) oppure può essere scaricato da [jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) e usato in modalità offline.
+--- /no-print ---
 
-Una versione completa di questo progetto può essere trovata <a href="http://scratch.mit.edu/projects/26818098/#editor">online</a>, o può essere scaricata cliccando il link 'Materiali del Progetto', che contiene:
+--- print-only ---
 
-+ LostInSpace.sb2
+![Progetto completo](images/showcase_static.png)
 
-## Obiettivi di apprendimento
-+ Loops:
-	+ Loop `Ripeti`{:class="blockcontrol"};
-	+ Loop `Per sempre`{:class="blockcontrol"};
+--- /print-only ---
 
-Questo progetto copre elementi contenuti nei seguenti filoni di [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+--- collapse ---
+---
+title: Di cosa avrai bisogno
+---
 
-+ [Utilizzo di costrutti di programmazione di base per la creazione di semplici programmi.](https://www.raspberrypi.org/curriculum/programming/creator)
+### Hardware
 
-## Sfide
-+ "Migliorare la tua animazione" - altera i numeri in un breve programma;
-+ "Crea la tua animazione" - metti in pratica gli apprendimenti per creare una nuova animazione.
+- Un computer in grado di eseguire Scratch 3
 
-## Domande frequenti
-+ Potrebbe essere utile ricordare ai bambini di 'azzerare' la posizione di uno sprite, la misura e altri effetti all'inizio della loro animazione. Si può fare facilmente aggiungendo alcuni dei seguenti blocchi all'inizio delle loro animazioni:
+### Software
 
-```blocks
-	vai a x:(0) y:(0)
-```
+- Scratch 3 ([online](http://rpf.io/scratchon){:target="_blank"} o [offline](http://rpf.io/scratchoff){:target="_blank"}"})
 
-```blocks
-	imposta misura a (100)%
-```
+### Download
 
-```blocks
-	resetta gli effetti grafici
-```
+- Nessuno
 
-+ Lo sprite 'astronave' si muoverà di lato a meno che non venga ruotato di 90 gradi in senso orario. Ruotare l'astronave fa parte delle istruzioni del progetto, ma se questo crea problemi, si può sostituire un altro sprite all'astronave.
+--- /collapse ---
 
-	![screenshot](images/space-rotate.png)
+--- collapse ---
+---
+title: Cosa imparerai
+---
+
+- Come usare un ciclo per animare uno sprite in Scratch
+- Usa un ciclo per sempre per ripetere un'animazione all'infinito
+- Capire che i cicli possono essere nidificati tra loro
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: Informazioni aggiuntive per gli educatori
+---
+
+Se intendete stampare questo progetto, cliccate su [Versione stampabile](https://projects.raspberrypi.org/it-IT/projects/lost-in-space/print){:target="_blank"}.
+
+Puoi trovare il [progetto completo qui](http://rpf.io/p/it-IT/lost-in-space-get){:target="_blank"}.
+
+--- /collapse ---
