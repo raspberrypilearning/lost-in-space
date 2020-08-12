@@ -4,25 +4,25 @@ Ora combinerai i cicli per fare brillare una stella.
 
 \--- task \---
 
-Add a 'star' sprite to your stage.
+Aggiungi uno sprite 'Stella' al tuo progetto.
 
-![Adding a star sprite](images/space-star-sprite.png)
+![Aggiungere la sprite di una stella](images/space-star-sprite.png)
 
 \--- /task \---
 
 \--- task \---
 
-Can you add code to your star sprite to make the star repeatedly grow and shrink?
+Puoi aggiungere il codice allo sprite stella per far in modo che aumenti e diminuisca la propria dimensione ripetutamente?
 
-![Testing a shining star](images/sprite-star.png)
+![Testare una stella splendente](images/sprite-star.png)
 
 \--- hints \--- \--- hint \---
 
-When the green **flag is clicked**, your star sprite should **change size** to get bigger a few times, and then **change size** to get smaller a few times. It should do this so that it gets bigger and then smaller **forever** and looks like it's shining light.
+Dopo aver **cliccato su bandiera verde**, la tua stella dovrebbe **cambiare dimensione** per un po', diventando più grande, e poi dovrebbe **cambiare di nuovo dimensione** per un po', diventando più piccola. Dovrebbe farlo in modo che, diventando più grande e poi più piccola **per sempre**, sembri brillare.
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+Ecco i blocchi di codice che ti serviranno:
 
 ```blocks3
 repeat (10)
@@ -42,9 +42,9 @@ forever
 
 \--- /hint \--- \--- hint \---
 
-Here's the code to make your star grow and shrink:
+Ecco il codice per far crescere e ridurre la stella:
 
-![Star sprite](images/sprite-star.png)
+![Stella sprite](images/sprite-star.png)
 
 ```blocks3
 when flag clicked
