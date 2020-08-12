@@ -14,16 +14,16 @@ steps:
   - 
     title: Animare un'astronave
   - 
-    title: 'Animare usando i loop'
+    title: 'Sfida: migliora la tua animazione'
     challenge: true
   - 
-    title: Scimmie Fluttuanti
+    title: Animazioni usando i cicli
   - 
-    title: Asteroidi Rimbalzanti
+    title: Scimmietta fluttuante
   - 
-    title: Stelle Splendenti
+    title: Asteroide che rimbalza
   - 
-    title: 'Sfida: Crea la tua animazione'
+    title: Stella splendente
   - 
     title: 'Sfida: crea la tua animazione'
     challenge: true
