@@ -4,9 +4,9 @@ Un altro modo per animare l'astronave è di dirle di muoversi di una piccola qua
 
 \--- task \---
 
-Delete the `glide`{:class="block3motion"} block from your code. To do this, drag the block off the Code area and drop it back where the other single code blocks are.
+Elimina il blocco `glide`{:class="block3motion"} dal tuo codice. Per farlo, trascina il blocco dall'area del codice e rilascialo dove ci sono gli altri blocchi di codice.
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Sprite 'Spaceship'](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -22,11 +22,11 @@ point towards (Earth v)
 
 \--- task \---
 
-Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
+Ora usa un blocco `repeti`{:class="block3control"} per spostare la tua astronave verso la Terra?
 
-![Testing a spaceship animation](images/space-animate-stage.png)
+![Testare l'animazione dell'astronave](images/space-animate-stage.png)
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Sprite 'Spaceship'](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -39,17 +39,17 @@ point towards (Earth v)
     move (2) steps
 ```
 
-Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
+Prova e salva il tuo codice. La tua astronave dovrebbe andare verso la Terra esattamente come prima, ma questa volta utilizza un blocco `ripeti`{:class="block3control"}.
 
 \--- /task \---
 
 \--- task \---
 
-Next add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?
+Adesso aggiungi il codice alla tua astronave sprite in modo che l'astronave cambi colore mentre si muove verso la Terra?
 
-Use this block:
+Usa questo blocco:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Sprite 'Spaceship'](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -63,27 +63,27 @@ repeat (200)
 +    change [color v] effect by (25)
 ```
 
-Test and save your code.
+Prova e salva il tuo codice.
 
-![Testing a colour-changing spaceship](images/space-colour-test.png)
+![Testare un'astronave che cambia colore](images/space-colour-test.png)
 
 \--- /task \---
 
 \--- task \---
 
-Can you make your spaceship get smaller as it moves towards Earth?
+Puoi rendere la tua astronave più piccola man mano che si avvicina alla Terra?
 
 \--- hints \---
 
 \--- hint \---
 
-Your spaceship should start at `100% size`{:class="blocklooks"}, and then `change size`{:class="blocklooks"} by a small amount each time it moves.
+La tua astronave dovrebbe iniziare con una dimensione ` 100% ` {: class = "blocklooks"}, quindi ` cambia dimensione ` {: class = "blocklooks"} di una piccola quantità ogni volta che si sposta.
 
 \--- /hint \---
 
 \--- hint \---
 
-You will need to add these blocks to your code:
+Dovrai aggiungere questi blocchi al tuo codice:
 
 ![Sprite 'Spaceship'](images/sprite-spaceship.png)
 
@@ -97,9 +97,9 @@ set size to (100) %
 
 \--- hint \---
 
-Your code should look like this:
+Il tuo codice dovrebbe assomigliare a questo:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Sprite 'Spaceship'](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -121,6 +121,6 @@ repeat (200)
 
 \--- /task \---
 
-Test and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a **second time**. Is it the right size when it starts?
+Prova e salva il tuo codice. La tua astronave ora dovrebbe ridursi man mano che si muove. Metti alla prova la tua astronave una ** seconda volta **. È della taglia giusta quando inizia?
 
-![Testing a shrinking spaceship](images/space-size-test.png)
+![Testare un'astronave che si rimpicciolisce](images/space-size-test.png)
