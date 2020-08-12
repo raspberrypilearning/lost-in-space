@@ -1,20 +1,71 @@
-## Asteroidi Rimbalzanti
+## Scimmietta fluttuante
 
-Aggiungiamo all'animazione delle rocce spaziali fluttuanti.
+Aggiungiamo alla tua animazione una scimmietta che si è persa nello spazio!
 
-+ Aggiungi lo sprite 'roccia' alla tua animazione.
+--- task ---
 
-	![screenshot](images/space-rock-sprite.png)
+Inizia aggiungendo lo sprite 'Monkey' (Scimmia) dalla libreria.
 
-+ Aggiungi questo codice alla tua roccia per farla rimbalzare attorno al quadro:
+![Aggiungere lo sprite di una scimmia](images/space-monkey-sprite.png)
 
-	```blocks
-		quando si clicca sulla bandiera verde
-		punta verso [Earth v]
-		per sempre
-  			fai (2) passi
-  			rimbalza quando tocchi il bordo
-		end
-	```
+--- /task ---
 
-+ Clicca sulla bandiera per provare la roccia. Rimbalza attorno al quadro?
+Facendo click sullo sprite 'Scimmia' e poi sulla scheda **Costumi**, puoi modificare l'aspetto della scimmietta.
+
+--- task ---
+
+Imposta il riempimento affinché sia trasparente selezionando la linea diagonale rossa. Per il contorno, imposta un colore bianco spostando il cursore Saturazione a `0`.
+
+![Rendi il colore bianco](images/make-white.png)
+
+--- /task ---
+
+--- task ---
+
+Fare clic sullo strumento **cerchio** e poi usalo per disegnare un casco spaziale bianco intorno alla testa della scimmia.
+
+![Casco della scimmia](images/space-monkey-edit.png)
+
+--- /task ---
+
+--- task ---
+
+Puoi aggiungere del codice allo sprite della tua scimmietta per far sì che giri continuamente su stessa?
+
+--- hints ---
+ --- hint ---
+
+Quando si clicca **la bandiera verde**, il tuo sprite scimmia dovrebbe **girare** in cerchio **per sempre**.
+
+--- /hint --- --- hint ---
+
+Ecco i blocchi di codice che ti serviranno:
+
+```blocks3
+forever
+end
+
+turn cw (15) degrees
+
+when flag clicked
+```
+
+--- /hint --- --- hint ---
+
+Ecco il codice per far girare la tua scimmia:
+
+![Sprite scimmia](images/sprite-monkey.png)
+
+```blocks3
+when flag clicked
+forever
+    turn cw (1) degrees
+```
+
+--- /hint ------ /hints ---
+
+--- /task ---
+
+Prova e salva il tuo progetto. Dovrai cliccare sul pulsante rosso **stop** per terminare questa animazione, perché è in esecuzione per sempre!
+
+![Prova la scimmia rotante](images/space-spin-test.png)
