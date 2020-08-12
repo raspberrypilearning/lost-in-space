@@ -16,9 +16,9 @@ Se hai bisogno di scaricare ed installare l'editor Scratch offline, puoi trovarl
 
 \--- task \---
 
-Add 'rocketship' and 'Earth' sprites to your Stage.
+Aggiungi gli sprite 'Astronave' e 'Terra' al tuo stage.
 
-![Spaceship and Earth sprites](images/space-sprites.png)
+![Sprite 'Rocketship' e 'Earth'](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -26,33 +26,33 @@ Add 'rocketship' and 'Earth' sprites to your Stage.
 
 \--- task \---
 
-Add the 'Stars' backdrop to your Stage.
+Aggiungi lo sfondo 'Stelle' al tuo stage.
 
-![A space backdrop](images/space-backdrop.png)
-
-\--- /task \---
-
-\--- task \---
-
-Click on your spaceship sprite, and click on the **Costumes** tab.
-
-![Sprite costume](images/space-costume.png)
+![Sfondo spaziale](images/space-backdrop.png)
 
 \--- /task \---
 
 \--- task \---
 
-Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+Fai clic sullo sprite 'Astronave' e poi clicca sulla scheda **Costumi**.
 
-![Rotating a costume](images/space-rotate.png)
+![Costume dello sprite](images/space-costume.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add this code to your spaceship sprite:
+Usa lo strumento **freccia** per cliccare e trascinare una casella intorno all'intera immagine dell'astronave. Quindi clicca sulla maniglia circolare **ruota** e ruota l'immagine fino a quando non appoggia sul lato.
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Ruotare un costume](images/space-rotate.png)
+
+\--- /task \---
+
+\--- task \---
+
+Aggiungi questo codice allo sprite della tua astronave:
+
+![Sprite 'Spaceship'](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -63,10 +63,10 @@ point towards (Earth v)
 glide (1) secs to x:(0) y:(0)
 ```
 
-Change the numbers in the code blocks you've added so that the code is exactly the same as above.
+Cambia i numeri nei blocchi di codice, che hai aggiunto, in modo che sia esattamente lo stesso di cui sopra.
 
 \--- /task \---
 
-If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
+Facendo click sulla bandierina verde, dovresti vedere l'astronave parlare, girare e planare verso il centro dello stage.
 
-![Testing a spaceship animation](images/space-animate-stage.png)
+![Testare l'animazione dell'astronave](images/space-animate-stage.png)
