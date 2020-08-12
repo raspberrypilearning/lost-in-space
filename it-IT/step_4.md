@@ -1,4 +1,4 @@
-## Scimmie Fluttuanti
+## Animazioni usando i cicli
 
 Un altro modo per animare l'astronave è di dirle di muoversi di una piccola quantità per molte volte
 
