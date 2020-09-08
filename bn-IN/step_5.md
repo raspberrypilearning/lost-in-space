@@ -51,7 +51,7 @@ when flag clicked
 
 \--- /hint \--- \--- hint \---
 
-Here's the code to make your monkey spin:
+আপনার বানরকে ঘুরিয়ে দেওয়ার কোডটি এখানে:
 
 ![Monkey sprite](images/sprite-monkey.png)
 
