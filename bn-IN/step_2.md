@@ -1,6 +1,6 @@
-## Animating a spaceship
+## একটি স্পেসশিপ অ্যানিমেট করে বানানো
 
-Your first step will be to create a spaceship that flies towards the Earth!
+আপনার প্রথম পদক্ষেপটি হলো একটি মহাকাশযান (spaceship) তৈরি করা যা পৃথিবীর দিকে উড়ে আসে!
 
 \--- task \---
 
