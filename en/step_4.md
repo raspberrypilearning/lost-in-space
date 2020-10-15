@@ -108,7 +108,7 @@ point towards (Earth v)
 repeat (200)
     move (2) steps
     change [color v] effect by (25)
-+   change size by (-3)
++   change size by (-0.3)
 ```
 
 --- /hint ---
