@@ -21,7 +21,7 @@ point towards (Earth v)
 
 --- task ---
 
-Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
+Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth.
 
 ![Testing a spaceship animation](images/space-animate-stage.png)
 
