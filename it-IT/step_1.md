@@ -37,7 +37,7 @@ Fare clic sulla bandiera verde per vedere l'animazione.
 
 ### Software
 
-- Scratch 3 ([online](http://rpf.io/scratchon){:target="_blank"} o [offline](http://rpf.io/scratchoff){:target="_blank"}"})
+- Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 ### Download
 
@@ -61,6 +61,6 @@ Fare clic sulla bandiera verde per vedere l'animazione.
 
 Se intendete stampare questo progetto, cliccate su [Versione stampabile](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
-Puoi trovare il [progetto completo qui](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+You can find the [completed project here](https://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
 \--- /collapse \---
