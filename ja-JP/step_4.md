@@ -22,7 +22,7 @@ x座標を (-150) 、y座標を (-150) にする
 
 \--- task \---
 
-ここで、`繰り返す` {:class="block3control"}ブロックを使用して、宇宙船が地球に行くようにしてみましょう
+Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth.
 
 ![宇宙船アニメーションのテスト](images/space-animate-stage.png)
 
@@ -102,17 +102,17 @@ x座標を (-150) 、y座標を (-150) にする
 ![宇宙船のスプライト](images/sprite-spaceship.png)
 
 ```blocks3
-⚑ が押されたとき
-大きさを (100) %にする
-(0) 度に向ける
-x座標を (-150) 、y座標を (-150) にする
-[レッツゴー] と (2) 秒言う
-(地球 v) へ向ける
-(200) 回繰り返す 
-  (2) 歩動かす
-  [色 v] の効果を (25) ずつ変える
+when flag clicked
 
-+   大きさを (-3) ずつ変える
++ set size to (100) %
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
+    change [color v] effect by (25)
++   change size by (-0.3)
 ```
 
 \--- /hint \---
