@@ -22,7 +22,7 @@ drehe dich zu (Earth v)
 
 \--- task \---
 
-Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
+Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth.
 
 ![Testing a spaceship animation](images/space-animate-stage.png)
 
@@ -102,17 +102,17 @@ Your code should look like this:
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-Wenn die Flagge angeklickt wird
-setze Größe auf (100)
-setze Richtung auf (0) Grad
-gehe zu x:(-150) y:(-150)
-sage [Los geht´s] für (2) Sekunden
-drehe dich zu (Earth v)
-wiederhole (200) mal
-    gehe (2) er Schritt
-    ändere Effekt [Farbe v] um (25)
+when flag clicked
 
-+    ändere Größe um (-0.3)
++ set size to (100) %
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
+    change [color v] effect by (25)
++   change size by (-0.3)
 ```
 
 \--- /hint \---
