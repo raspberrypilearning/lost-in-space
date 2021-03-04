@@ -22,7 +22,7 @@ Delete the `glide`{:class="block3motion"} block from your code. To do this, drag
 
 \--- task \---
 
-Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
+Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth.
 
 ![Testing a spaceship animation](images/space-animate-stage.png)
 
@@ -102,17 +102,17 @@ Your code should look like this:
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-Όταν στην πράσινη σημαία γίνει κλικ
-όρισε μέγεθος σε (100) %
-δείξε προς κατεύθυνση (0)
-πήγαινε σε θέση x: (-150) y: (-150)
-πες [Πάμε] για (2) δευτερόλεπτα
-δείξε προς (Earth v)
-επανάλαβε (200) 
-  κινήσου (2) βήματα
-  άλλαξε εφέ [color v] κατά (25)
-  + άλλαξε μέγεθος κατά (-3)
-end
+when flag clicked
+
++ set size to (100) %
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
+    change [color v] effect by (25)
++   change size by (-0.3)
 ```
 
 \--- /hint \---
