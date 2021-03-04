@@ -22,7 +22,7 @@ x: (-150) y: (-150) (으)로 이동하기
 
 \--- task \---
 
-이제 `반복하기`{:class="block3control"} 블록을 사용해 우주선을 지구 쪽으로 움직여 볼까요?
+Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth.
 
 ![우주선 움직임 테스트](images/space-animate-stage.png)
 
@@ -102,17 +102,17 @@ x: (-150) y: (-150) (으)로 이동하기
 ![우주선 스프라이트](images/sprite-spaceship.png)
 
 ```blocks3
-⚑ 클릭했을 때
-크기를 (100) %로 정하기
-(0) 도 방향 보기
-x: (-150) y: (-150) (으)로 이동하기
-[출발!] 을(를) (2) 초 동안 말하기
-(Earth) 쪽 보기
-(200) 번 반복하기 
-  (2) 만큼 움직이기
-  [색깔] 효과를 (25) 만큼 바꾸기
+when flag clicked
 
-+   크기를 (-3) 만큼 바꾸기
++ set size to (100) %
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
+    change [color v] effect by (25)
++   change size by (-0.3)
 ```
 
 \--- /hint \---
