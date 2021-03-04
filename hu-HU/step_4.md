@@ -22,7 +22,7 @@ nézz (Earth) felé
 
 \--- task \---
 
-Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
+Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth.
 
 ![Testing a spaceship animation](images/space-animate-stage.png)
 
@@ -102,17 +102,17 @@ Your code should look like this:
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-⚑-ra kattintáskor
-méret legyen (100)%
-nézz (0) fokos irányba
-ugorj ide: x: (-150) y: (-150)
-mondd: [Indulás] (2) másodpercig
-nézz (Earth v) felé
-ismételd (200)
-    menj (2) lépést
-    [szín v] hatás változzon (25)
+when flag clicked
 
-+ méret változzon (-3)
++ set size to (100) %
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
+    change [color v] effect by (25)
++   change size by (-0.3)
 ```
 
 \--- /hint \---
