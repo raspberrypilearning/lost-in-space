@@ -21,7 +21,7 @@ Delete the `glide`{:class="block3motion"} block from your code. To do this, drag
 
 \--- task \---
 
-Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
+Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth.
 
 ![Testing a spaceship animation](images/space-animate-stage.png)
 
@@ -102,17 +102,17 @@ Your code should look like this:
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-когда щёлкнут по зелёному флагу
-установить размер (100) %
-повернуться в направлении (0)
-перейти в x: (-150) y: (-150)
-говорить [Поехали] (2) секунд
-повернуться к (Земля v)
-повторить (200) раз 
-  идти (2) шагов
-  изменить [цвет v] эффект на (25)
-  + изменить размер на (-3) %
-end
+when flag clicked
+
++ set size to (100) %
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
+    change [color v] effect by (25)
++   change size by (-0.3)
 ```
 
 \--- /hint \---
