@@ -37,7 +37,7 @@ Click on the green flag to see the animation.
 
 ### Программное обеспечение
 
-- Scratch 3 (либо [онлайн](http://rpf.io/scratchon){:target="_ blank"} или [оффлайн](http://rpf.io/scratchoff){:target="_ blank"})
+- Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 ### Загрузки
 
@@ -61,6 +61,6 @@ Click on the green flag to see the animation.
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
-You can find the [completed project here](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+You can find the [completed project here](https://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
 \--- /collapse \---
