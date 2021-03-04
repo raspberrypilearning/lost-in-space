@@ -22,7 +22,7 @@
 
 \--- task \---
 
-現在，用`重複`{:class="block3control"}積木讓太空船飛向地球吧！
+Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth.
 
 ![測試太空船動畫](images/space-animate-stage.png)
 
@@ -101,17 +101,17 @@
 ![太空船角色](images/sprite-spaceship.png)
 
 ```blocks3
-當 @greenflag 被點擊
-尺寸設為 (100) %
-面朝 (0) 度
-定位到 x:(-150) y:(-150)
-說出 [我們出發吧！] 持續 (2) 秒
-面朝 (地球 v) 向
-重複 (200) 次
-    移動 (2) 點
-    圖像效果 [顏色 v] 改變 (25)
+when flag clicked
 
-+   尺寸改變 (-0.3)
++ set size to (100) %
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
+    change [color v] effect by (25)
++   change size by (-0.3)
 ```
 
 \--- /hint \---
