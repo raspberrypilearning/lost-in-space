@@ -1,7 +1,7 @@
 ---
 title: अन्तरिक्ष में खो गया
 hero_image: images/lost-in-space.png
-description: अपनी स्वयं की एनिमेशन को प्रोग्राम करना सीखें!
+description: अपने एनीमेशन को को प्रोग्राम करना सीखें!
 original_url: https://www.codeclubprojects.org/en-GB/scratch/lost-in-space
 listed: true
 copyedit: true
@@ -10,7 +10,7 @@ version: 4.1.3
 last_tested: 2018-09-26
 steps:
   - 
-    title: भूमिका
+    title: परिचय
   - 
     title: एक स्पेसशिप को एनिमेट करना
   - 
