@@ -22,7 +22,7 @@ point towards (Earth v)
 
 \--- task \---
 
-Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth.
+ಈಗ `repeat`{:class="block3control"} ಬ್ಲಾಕ್ ಬಳಸಿ ನಿಮ್ಮ ಆಕಾಶನೌಕೆಯನ್ನು ಭೂಮಿಯ ಕಡೆಗೆ ಸರಿಸಲು.
 
 ![ಆಕಾಶನೌಕೆ ಅನಿಮೇಷನ್ ಪರೀಕ್ಷೀಸುವುದು](images/space-animate-stage.png)
 
