@@ -37,7 +37,7 @@
 
 ### ソフトウェア
 
-- Scratch 3 ([オンライン](http://rpf.io/scratchon){:target="_blank"}または[オフライン](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 ### ダウンロード
 
@@ -61,6 +61,6 @@
 
 このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_ blank"}を使用してください。
 
-[ここで完成したプロジェクト](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}を見ることができます 。
+You can find the [completed project here](https://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
 \--- /collapse \---
