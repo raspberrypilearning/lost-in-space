@@ -6,9 +6,9 @@
 
 ಹೊಸದನ್ನು ತೆರೆಯಿರಿ Scratch ಯೋಜನೆ.
 
-**ಆನ್‌ಲೈನ್:** ಹೊಸ ಆನ್‌ಲೈನ್ ತೆರೆಯಿರಿ Scratch ನಲ್ಲಿ ಯೋಜನೆ [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
+**Online:** ಹೊಸ ಆನ್‌ಲೈನ್ ತೆರೆಯಿರಿ Scratch ನಲ್ಲಿ ಯೋಜನೆ [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
 
-**ಆಫ್‌ಲೈನ್:** ಆಫ್‌ಲೈನ್ ಸಂಪಾದಕದಲ್ಲಿ ಹೊಸ ಯೋಜನೆಯನ್ನು ತೆರೆಯಿರಿ.
+**Offline:** ಆಫ್‌ಲೈನ್ ಸಂಪಾದಕದಲ್ಲಿ ಹೊಸ ಯೋಜನೆಯನ್ನು ತೆರೆಯಿರಿ.
 
 ನಿಮಗೆ ಅಗತ್ಯವಿದ್ದರೆ ಡೌನ್ಲೋಡ್ ಮತ್ತು ಇನ್ಸ್ಟಾಲ್ Scratch offline editor, ನೀವು ಅದನ್ನು ಕಾಣಬಹುದು [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
