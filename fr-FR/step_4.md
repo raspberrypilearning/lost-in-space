@@ -22,7 +22,7 @@ glisser en (1) secondes à x: (0) y: (0)
 
 \--- task \---
 
-Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
+Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth.
 
 ![Testing a spaceship animation](images/space-animate-stage.png)
 
@@ -102,17 +102,17 @@ Your code should look like this:
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-lorsque le drapeau est cliqué
-mettre la taille à (100)% de la taille initiale
-s'orienter en direction de (0)
-allez à x: (-150) y: (-150)
-dire [c'est parti !] pendant (2) secondes
-s'orienter vers (Terre v )
-répéter (200) fois
-avancer de (2) pas
-ajouter (25) à l'effet [couleur v]
+when flag clicked
 
-+ changer la taille de (-3)
++ set size to (100) %
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
+    change [color v] effect by (25)
++   change size by (-0.3)
 ```
 
 \--- /hint \---
