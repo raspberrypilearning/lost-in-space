@@ -37,7 +37,7 @@ Animasyonu görmek için yeşil bayrağa tıklayın.
 
 ### Yazılım
 
-- Scratch 3 ([çevrimiçi](http://rpf.io/scratchon){:target="_blank"} veya [çevrimdışı](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 ### İndirilecekler
 
@@ -61,6 +61,6 @@ Animasyonu görmek için yeşil bayrağa tıklayın.
 
 Bu projeyi yazdırmanız gerekiyorsa, lütfen [yazıcı dostu sürüm](https://projects.raspberrypi.org/en/projects/lost-in-space/print)ü kullanın{:target="_blank"}.
 
-[Tamamlanmış projeye buradan](http://rpf.io/p/en/lost-in-space-get) ulaşabilirsiniz {:target="_blank"}.
+You can find the [completed project here](https://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
 \--- /collapse \---
