@@ -37,7 +37,7 @@
 
 ### ಸಾಫ್ಟ್ವೇರ್
 
-- Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (ಎರಡೂ [online](https://rpf.io/scratchon){:target="_blank"} ಅಥವಾ [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 ### ಡೌನ್‌ಲೋಡ್‌ಗಳು
 
@@ -61,6 +61,6 @@
 
 ನೀವು ಈ ಯೋಜನೆಯನ್ನು ಮುದ್ರಿಸಬೇಕಾದರೆ, ದಯವಿಟ್ಟು [ ಮುದ್ರಕ-ಸ್ನೇಹಿ ಆವೃತ್ತಿಯನ್ನು ಬಳಸಿ ](https://projects.raspberrypi.org/en/projects/lost-in-space/print) {:target="_blank"}.
 
-You can find the [completed project here](https://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+ನೀವು ಕಾಣಬಹುದು [ಇಲ್ಲಿ ಪೂರ್ಣಗೊಂಡ ಯೋಜನೆ](https://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
 \--- /collapse \---
