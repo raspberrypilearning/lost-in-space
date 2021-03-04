@@ -4,7 +4,7 @@
 
 \--- task \---
 
-` ಗ್ಲೈಡ್ `{: class = "block3motion"} ಅನ್ನು ನಿಮ್ಮ ಕೋಡ್‌ನಿಂದ ಅಳಿಸಿ. ಇದನ್ನು ಮಾಡಲು, ಕೋಡ್ ಪ್ರದೇಶವನ್ನು ಎಳೆಯಿರಿ ಮತ್ತು ಇತರ ಸಿಂಗಲ್ ಕೋಡ್ ಬ್ಲಾಕ್‌ಗಳು ಇರುವಲ್ಲಿ ಅದನ್ನು ಬಿಡಿ.
+` glide`{: class = "block3motion"} ಅನ್ನು ನಿಮ್ಮ ಕೋಡ್‌ನಿಂದ ಅಳಿಸಿ. ಇದನ್ನು ಮಾಡಲು, ಕೋಡ್ ಪ್ರದೇಶವನ್ನು ಎಳೆಯಿರಿ ಮತ್ತು ಇತರ ಸಿಂಗಲ್ ಕೋಡ್ ಬ್ಲಾಕ್‌ಗಳು ಇರುವಲ್ಲಿ ಅದನ್ನು ಬಿಡಿ.
 
 ![ಆಕಾಶನೌಕೆ ಸ್ಪ್ರೈಟ್](images/sprite-spaceship.png)
 
@@ -22,7 +22,7 @@ point towards (Earth v)
 
 \--- task \---
 
-ಈಗ ` ಪುನರಾವರ್ತನೆ `{:class = "block3control"} ಬ್ಲಾಕ್ ಬಳಸಿ ನಿಮ್ಮ ಆಕಾಶನೌಕೆಯನ್ನು ಭೂಮಿಯ ಕಡೆಗೆ ಸರಿಸಲು?
+Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth.
 
 ![ಆಕಾಶನೌಕೆ ಅನಿಮೇಷನ್ ಪರೀಕ್ಷೀಸುವುದು](images/space-animate-stage.png)
 
@@ -39,7 +39,7 @@ point towards (Earth v)
     move (2) steps
 ```
 
-ನಿಮ್ಮ ಕೋಡ್ ಅನ್ನು ಪರೀಕ್ಷಿಸಿ ಮತ್ತು ಉಳಿಸಿ. ನಿಮ್ಮ ಆಕಾಶನೌಕೆ ಮೊದಲಿನಂತೆಯೇ ಭೂಮಿಯ ಕಡೆಗೆ ಚಲಿಸಬೇಕು, ಆದರೆ ಈ ಬಾರಿ ಅದು ` ಪುನರಾವರ್ತನೆಯನ್ನು ಬಳಸುತ್ತದೆ ` {: class = "block3control"}.
+ನಿಮ್ಮ ಕೋಡ್ ಅನ್ನು ಪರೀಕ್ಷಿಸಿ ಮತ್ತು ಉಳಿಸಿ. ನಿಮ್ಮ ಆಕಾಶನೌಕೆ ಮೊದಲಿನಂತೆಯೇ ಭೂಮಿಯ ಕಡೆಗೆ ಚಲಿಸಬೇಕು, ಆದರೆ ಈ ಬಾರಿ ಅದು `repeat`{:class="block3control"}.
 
 \--- /task \---
 
@@ -77,7 +77,7 @@ repeat (200)
 
 \--- hint \---
 
-ನಿಮ್ಮ ಆಕಾಶನೌಕೆ ` 100% ` {: class = "blocklooks"}ಗಾತ್ರದಿಂದ ಪ್ರಾರಂಭವಾಗಬೇಕು, ತದನಂತರ ಸಣ್ಣ ಮೊತ್ತದಿಂದ ` ಗಾತ್ರವನ್ನು ಬದಲಾಯಿಸುತ್ತ `{:class="blocklooks"} ಅದು ಚಲಿಸಬೇಕು.
+ನಿಮ್ಮಆಕಾಶನೌಕೆ ಪ್ರಾರಂಭಿಸಬೇಕು`100% size`{:class="blocklooks"}, ತದನಂತರ `change size`{:class="blocklooks"} ನಂತರ ಪ್ರತಿ ಸಲ ಮುಂದೆ ಹೋಗುತ್ತದೆ.
 
 \--- /hint \---
 
@@ -103,7 +103,8 @@ set size to (100) %
 
 ```blocks3
 when flag clicked
-set size to (100) %
+
++ set size to (100) %
 point in direction (0)
 go to x:(-150) y:(-150)
 say [Let's go] for (2) seconds
@@ -111,8 +112,7 @@ point towards (Earth v)
 repeat (200)
     move (2) steps
     change [color v] effect by (25)
-
-+   change size by (-3)
++   change size by (-0.3)
 ```
 
 \--- /hint \---
