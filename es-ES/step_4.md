@@ -22,7 +22,7 @@ apuntar hacia (Tierra v)
 
 \--- task \---
 
-Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
+Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth.
 
 ![Probando una animación de la nave espacial](images/space-animate-stage.png)
 
@@ -102,17 +102,17 @@ Tu código debería verse así:
 ![Objeto Nave Espacial](images/sprite-spaceship.png)
 
 ```blocks3
-cuando la bandera es pulsada
-fijar tamaño al (100) %
-apuntar en dirección (0)
-ir a x:(-150) y:(-150)
-decir [Vamos] durante (2) segundos
-apuntar hacia (Tierra v)
-repetir(200)
-    mover (2) pasos
-    sumar a [color v] (25)
+when flag clicked
 
-+   cambiar tamaño por (-3)
++ set size to (100) %
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
+    change [color v] effect by (25)
++   change size by (-0.3)
 ```
 
 \--- /hint \---
