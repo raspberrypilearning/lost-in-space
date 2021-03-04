@@ -22,7 +22,7 @@ llithro (1) eiliad i x: (0) y: (0)
 
 \--- task \---
 
-Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
+Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth.
 
 ![Testing a spaceship animation](images/space-animate-stage.png)
 
@@ -104,18 +104,17 @@ Your code should look like this:
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-pan fo'r flag werdd yn cael ei glicio
-gosod maint i (100) %
-pwyntio i gyfeiriad (0)
-mynd i x: (-150) y: (-150)
-dweud [Awn ni!] am (2) eiliad
-pwyntio tuag at (Earth v)
-ailadrodd (200) 
-  symud (2) cam
-  newid effaith [lliw v] gan (25)
-end
+when flag clicked
 
-+   newid maint gan (-3)
++ set size to (100) %
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
+    change [color v] effect by (25)
++   change size by (-0.3)
 ```
 
 \--- /hint \---
