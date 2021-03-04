@@ -37,7 +37,7 @@
 
 ### 소프트웨어
 
-- 스크래치 3 ([온라인](http://rpf.io/scratchon){:target="_ blank"} 또는 [offline](http://rpf.io/scratchoff){:target="_ blank"})
+- Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 ### 다운로드
 
@@ -61,6 +61,6 @@
 
 이 프로젝트를 인쇄하려면, [프린트용 버전](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}을 사용하세요.
 
-여기서 [완료된 프로젝트](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.를 확인할 수 있습니다
+You can find the [completed project here](https://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
 \--- /collapse \---
