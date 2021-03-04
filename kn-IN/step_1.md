@@ -62,7 +62,7 @@ title: ನೀವು ಇದನ್ನು ಕಲಿಯುವಿರಿ
 title: ಶಿಕ್ಷಣತಜ್ಞರಿಗೆ ಹೆಚ್ಚುವರಿ ಮಾಹಿತಿ
 ---
 
-ನೀವು ಈ ಯೋಜನೆಯನ್ನು ಮುದ್ರಿಸಬೇಕಾದರೆ, ದಯವಿಟ್ಟು [ಮುದ್ರಕ-ಸ್ನೇಹಿ ಆವೃತ್ತಿಯನ್ನು ಬಳಸಿ](https://projects.raspberrypi.org/kn-IN/projects/lost-in-space/print) {:target="_blank"}.
+ನೀವು ಈ ಯೋಜನೆಯನ್ನು ಮುದ್ರಿಸಬೇಕಾದರೆ, ದಯವಿಟ್ಟು [ಮುದ್ರಕ-ಸ್ನೇಹಿ ಆವೃತ್ತಿಯನ್ನು ಬಳಸಿ](https://projects.raspberrypi.org/kn-IN/projects/lost-in-space/print){:target="_blank"}.
 
 ನೀವು ಕಾಣಬಹುದು [ಇಲ್ಲಿ ಪೂರ್ಣಗೊಂಡ ಯೋಜನೆ](https://rpf.io/p/kn-IN/lost-in-space-get){:target="_blank"}.
 

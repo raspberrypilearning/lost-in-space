@@ -14,7 +14,6 @@ point in direction (0)
 go to x:(-150) y:(-150)
 say [Let's go] for (2) seconds
 point towards (Earth v)
-
 - glide (1) secs to x:(0) y:(0)
 ```
 
@@ -34,7 +33,6 @@ point in direction (0)
 go to x:(-150) y:(-150)
 say [Let's go] for (2) seconds
 point towards (Earth v)
-
 + repeat (200)
     move (2) steps
 ```
