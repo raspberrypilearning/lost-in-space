@@ -22,7 +22,7 @@ richt naar (Earth v)
 
 \--- task \---
 
-Gebruik nu een `herhaal`{:class="block3control"} blok om je ruimteschip naar de aarde te laten bewegen?
+Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth.
 
 ![Een ruimteschip-animatie testen](images/space-animate-stage.png)
 
@@ -101,16 +101,17 @@ Je code zou er als volgt uit moeten zien:
 ![Ruimteschip sprite](images/sprite-spaceship.png)
 
 ```blocks3
-wanneer groene vlag wordt aangeklikt
-maak grootte (100) %
-richt naar (0) graden
-ga naar x: (-150) y: (-150)
-zeg [We gaan!] (2) sec.
-richt naar (Aarde v)
-herhaal (200) 
-  maak (2) stappen
-  verander [kleur v] -effect met (25)
-+ verander grootte met (-3)
+when flag clicked
+
++ set size to (100) %
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
+    change [color v] effect by (25)
++   change size by (-0.3)
 ```
 
 \--- /hint \---
