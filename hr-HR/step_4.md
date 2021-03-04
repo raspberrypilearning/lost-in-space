@@ -21,7 +21,7 @@ okreni se prema (Earth v)
 
 \--- task \---
 
-Sada upotrijebi `ponavljaj`{:class="block3control"} blok za pomicanje svemirskog broda prema Zemlji.
+Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth.
 
 ![Testiranje animacije svemirskog broda](images/space-animate-stage.png)
 
@@ -99,16 +99,17 @@ Tvoj kôd bi trebao izgledati ovako:
 ![Lik svemirskog broda](images/sprite-spaceship.png)
 
 ```blocks3
-kada je zelena zastava kliknut
-postavi veličinu na (100) %
-okreni se u smjeru (0)
-idi na x: (-150) y: (-150)
-govori [Kreni] (2) sekundi
-okreni se prema (Earth v)
-ponovi (200) 
-idi (2) koraka
-promijeni efekt [boja v] za (25)
-+ promijeni veličinu za (-3)
+when flag clicked
+
++ set size to (100) %
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
+    change [color v] effect by (25)
++   change size by (-0.3)
 ```
 
 \--- /hint \---
