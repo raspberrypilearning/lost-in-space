@@ -22,7 +22,7 @@ ustaw duszka w kierunku (Ziemia v)
 
 \--- task \---
 
-Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
+Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth.
 
 ![Testing a spaceship animation](images/space-animate-stage.png)
 
@@ -102,17 +102,17 @@ Your code should look like this:
 ![Spaceship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-kiedy flaga kliknięta
-ustaw rozmiar na (100) %
-ustaw duszka w kierunku (0)
-idź do x:(-150) y:(-150)
-powiedz [Chodźmy] przez (2) sekundy
-ustaw w kierunku duszka (Ziemia v)
-powtarzaj (200)
-    przesuń o (2) kroki
-    zmień efekt [kolor v] o (25)
+when flag clicked
 
-+   zmień rozmiar o (-3)
++ set size to (100) %
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
+    change [color v] effect by (25)
++   change size by (-0.3)
 ```
 
 \--- /hint \---
