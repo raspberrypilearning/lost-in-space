@@ -22,7 +22,7 @@ point towards (Earth v)
 
 \--- task \---
 
-Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth?
+Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth.
 
 ![Testing a spaceship animation](images/space-animate-stage.png)
 
@@ -103,7 +103,8 @@ Your code should look like this:
 
 ```blocks3
 when flag clicked
-set size to (100) %
+
++ set size to (100) %
 point in direction (0)
 go to x:(-150) y:(-150)
 say [Let's go] for (2) seconds
@@ -111,8 +112,7 @@ point towards (Earth v)
 repeat (200)
     move (2) steps
     change [color v] effect by (25)
-
-+   change size by (-3)
++   change size by (-0.3)
 ```
 
 \--- /hint \---
