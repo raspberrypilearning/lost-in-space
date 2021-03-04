@@ -42,7 +42,7 @@
 
 \--- task \---
 
-Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+使用**箭头**工具来点击和拖拽环绕整个太空船图像的方框。然后点击圆形的**旋转**工具，旋转图像直到处于一侧。
 
 ![旋转造型](images/space-rotate.png)
 
