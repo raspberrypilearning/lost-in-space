@@ -22,7 +22,7 @@ point towards (Earth v)
 
 \--- task \---
 
-现在使用 `重复执行`{:class =“block3control”}积木让飞船向上移动。
+Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth.
 
 ![测试飞船动画](images/space-animate-stage.png)
 
@@ -103,7 +103,8 @@ set size to (100) %
 
 ```blocks3
 when flag clicked
-set size to (100) %
+
++ set size to (100) %
 point in direction (0)
 go to x:(-150) y:(-150)
 say [Let's go] for (2) seconds
@@ -111,8 +112,7 @@ point towards (Earth v)
 repeat (200)
     move (2) steps
     change [color v] effect by (25)
-
-+   change size by (-3)
++   change size by (-0.3)
 ```
 
 \--- /hint \---
