@@ -37,7 +37,7 @@
 
 ### 软件
 
-- Scratch 3（[在线版本](http://rpf.io/scratchon){:target="_blank"}或[离线版本](http://rpf.io/scratchoff){:target="_blank"}）
+- Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 ### 下载
 
@@ -61,6 +61,6 @@
 
 如果你需要打印此项目，请使用[打印友好版](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}。
 
-你可以在这里找到 [完成的项目](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}。
+You can find the [completed project here](https://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
 \--- /collapse \---
