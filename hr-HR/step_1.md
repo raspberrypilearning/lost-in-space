@@ -37,7 +37,7 @@ Klikni na zelenu zastavicu kako bi se animacija pokrenula.
 
 ### Softver
 
-- Scratch 3 ([online](http://rpf.io/scratchon){:target="_blank"} ili [offline](http://rpf.io/scratchoff) verziju{:target="_blank"})
+- Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 ### Preuzimanja
 
@@ -61,6 +61,6 @@ Klikni na zelenu zastavicu kako bi se animacija pokrenula.
 
 Ako želite ispisati ovaj projekt, koristite [verziju koja je prilagođena za ispis](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
-Dovršen projekt možete pronaći [ovdje](http://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+You can find the [completed project here](https://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
 \--- /collapse \---
