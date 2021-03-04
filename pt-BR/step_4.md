@@ -22,7 +22,7 @@ deslize por (1) segs. até x: (0) y: (0)
 
 \--- task \---
 
-Agora use uma `repetição` {: class = "block3control"} para mover a sua nave espacial em direção à Terra?
+Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth.
 
 ![Testando a animação da nave espacial](images/space-animate-stage.png)
 
@@ -101,16 +101,17 @@ Seu código deve ficar assim:
 ![Ator da nave espacial](images/sprite-spaceship.png)
 
 ```blocks3
-quando ⚑ for clicado
-defina o tamanho como (100) %
-aponte para a direção (0)
-vá para x: (-150) y: (-150)
-diga [Vamos lá] por (2) segundos
-aponte para (Terra v)
-repita (200) vezes 
-  mova (2) passos
-  mude (25) no efeito [cor v]
-  + mude (-3) no tamanho
+when flag clicked
+
++ set size to (100) %
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Let's go] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
+    change [color v] effect by (25)
++   change size by (-0.3)
 ```
 
 \--- /hint \---
