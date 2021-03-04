@@ -37,7 +37,7 @@
 
 ### सॉफ्टवेयर
 
-- Scratch 3 (या तो [ऑनलाइन](http://rpf.io/scratchon){:target="_blank"} या [ऑफ़लाइन](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 ### डाउनलोड्स
 
@@ -47,20 +47,20 @@
 
 ## \--- collapse \---
 
-## शीर्षक: आप क्या सीखेंगे
+## title: आप क्या सीखेंगे
 
-- Scratch में Sprite को एनिमेट करने के लिए रिपीट लूप का प्रयोग
-- एनीमेशन को हमेशा के लिए चालू करने के लिए एक फॉरएवर लूप का प्रयोग
+- Scratch में Sprite को एनिमेट करने के लिए Repeat loop (रिपीट लूप) का प्रयोग
+- एनीमेशन को हमेशा के लिए चालू करने के लिए एक forever loop (फॉरएवर लूप) का प्रयोग
 - यह समझे की लूप एक दुसरे के अंदर लिखा जा सकता है
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## शीर्षक: शिक्षकों के लिए अतिरिक्त जानकारी
+## title: शिक्षकों के लिए अतिरिक्त जानकारी
 
 अगर आपको इस प्रोजेक्ट को प्रिंट करने की आवश्यकता है, तो कृप्या [प्रिंटर-अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/lost-in-space/print){: target = "_ blank"} का उपयोग करें।
 
-आप [पुरे किये हुए प्रोजेक्ट का यहाँ](http://rpf.io/p/en/lost-in-space-get){:target="_blank"} देख सकते है।
+You can find the [completed project here](https://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
 \--- /collapse \---
