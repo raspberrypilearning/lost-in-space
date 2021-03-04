@@ -37,7 +37,7 @@ Klik op de groene vlag om de animatie te zien.
 
 ### Software
 
-- Scratch 3 (of [online](http://rpf.io/scratchon){:target="_blank"} of [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 ### Downloads
 
@@ -61,6 +61,6 @@ Klik op de groene vlag om de animatie te zien.
 
 Als je dit project wilt afdrukken, gebruik dan de [printervriendelijke versie](https://projects.raspberrypi.org/en/projects/lost-in-space/print) {:target="_ blank"}.
 
-Je kunt het [voltooide project hier](http://rpf.io/p/en/lost-in-space-get)"{:target="_blank"} vinden.
+You can find the [completed project here](https://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
 \--- /collapse \---
