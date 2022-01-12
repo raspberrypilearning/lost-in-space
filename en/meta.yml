@@ -10,13 +10,15 @@ version: 4.1.3
 last_tested: 2018-09-26
 steps:
 - title: Introduction
+  completion: engaged
 - title: Animating a spaceship
 - title: 'Challenge: improve your animation'
   challenge: true
 - title: Animation using loops
 - title: Floating monkey
 - title: Bouncing asteroid
+  completion: internal
 - title: Shining star
 - title: 'Challenge: make your own animation'
-  challenge: true 
+  challenge: true
 - title: What next?

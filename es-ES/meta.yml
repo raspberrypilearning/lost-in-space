@@ -1,7 +1,7 @@
 ---
 title: Perdidos en el espacio
 hero_image: images/lost-in-space.png
-description: '¡Aprende a programar tu propia animación!'
+description: "¡Aprende a programar tu propia animación!"
 original_url: https://www.codeclubprojects.org/en-GB/scratch/lost-in-space
 listed: true
 copyedit: true
@@ -9,14 +9,16 @@ technologies: scratch
 version: 4.1.3
 last_tested: 2018-09-26
 steps:
-  - title: Introducción
-  - title: Animación de una nave espacial
-  - title: 'Desafío: mejora tu animación'
-    challenge: true
-  - title: Animación usando bucles
-  - title: Mono flotante
-  - title: Un asteroide que rebota
-  - title: Una estrella brillante
-  - title: 'Desafío: haz tu propia animación'
-    challenge: true
-  - title: ¿Qué sigue?
+- title: Introducción
+  completion: engaged
+- title: Animación de una nave espacial
+- title: 'Desafío: mejora tu animación'
+  challenge: true
+- title: Animación usando bucles
+- title: Mono flotante
+- title: Un asteroide que rebota
+  completion: internal
+- title: Una estrella brillante
+- title: 'Desafío: haz tu propia animación'
+  challenge: true
+- title: "¿Qué sigue?"
