@@ -6,11 +6,11 @@
 
 افتح مشروع فارغ جديد في Scratch.
 
-**بالاتصال بالانترنت**: افتح المشروع المبدئي من هنا [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
+**بالاتصال بالانترنت**: افتح المشروع المبدئي من هنا [rpf.io/scratch-new](https://rpf.io/scratchon){:target="_blank"}.
 
 **من دون اتصال بالانترنت:** افتح مشروع Scratch جديد عبر برنامج المحرر الموجود على جهازك دون اتصال بالانترنت.
 
-اذا كنت تحتاج تنزيل و تنصيب محرر Scratch للعمل دون اتصال بالانترنت, فيمكنك ايجاده على الرابط [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+اذا كنت تحتاج تنزيل و تنصيب محرر Scratch للعمل دون اتصال بالانترنت, فيمكنك ايجاده على الرابط [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 --- /task ---
 

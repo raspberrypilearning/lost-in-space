@@ -36,7 +36,7 @@ title: 你需要准备什么
 
 ### 软件
 
-- Scratch 3（[在线版本](http://rpf.io/scratchon){:target="_blank"}或[离线版本](http://rpf.io/scratchoff){:target="_blank"}）
+- Scratch 3（[在线版本](https://rpf.io/scratchon){:target="_blank"}或[离线版本](https://rpf.io/scratchoff){:target="_blank"}）
 
 ### 下载
 
@@ -62,6 +62,6 @@ title: 教师附加信息
 
 如果你需要打印此项目，请使用[打印友好版](https://projects.raspberrypi.org/zh-CN/projects/lost-in-space/print){:target="_blank"}。
 
-你可以在这里找到 [完成的项目](http://rpf.io/p/zh-CN/lost-in-space-get){:target="_blank"}。
+你可以在这里找到 [完成的项目](https://rpf.io/p/zh-CN/lost-in-space-get){:target="_blank"}。
 
 --- /collapse ---
