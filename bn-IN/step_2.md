@@ -6,11 +6,11 @@
 
 একটি নতুন স্ক্র্যাচ প্রকল্প খুলুন।.
 
-**Online:** একটি নতুন অনলাইন স্ক্র্যাচ প্রকল্প খুলুন [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
+**Online:** একটি নতুন অনলাইন স্ক্র্যাচ প্রকল্প খুলুন [rpf.io/scratch-new](https://rpf.io/scratchon){:target="_blank"}.
 
 **Offline:** offline editor এ একটি নতুন প্রকল্প খুলুন।.
 
-আপনার যদি স্ক্র্যাচ offline editor ডাউনলোড এবং ইনস্টল করতে হয় তবে আপনি এটি [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"} এ খুঁজে পেতে পারেন।.
+আপনার যদি স্ক্র্যাচ offline editor ডাউনলোড এবং ইনস্টল করতে হয় তবে আপনি এটি [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"} এ খুঁজে পেতে পারেন।.
 
 --- /task ---
 

@@ -36,7 +36,7 @@ title: Was du brauchen wirst
 
 ### Software
 
-- Scratch 3 (entweder [online](http://rpf.io/scratchon){:target="_blank"} oder [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (entweder [online](https://rpf.io/scratchon){:target="_blank"} oder [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 ### Downloads
 
@@ -62,6 +62,6 @@ title: Zusätzliche Informationen für Pädagogen
 
 Wenn du dieses Projekt ausdrucken möchtest, verwende die [druckerfreundliche Version](https://projects.raspberrypi.org/de-DE/projects/lost-in-space/print){:target="_blank"}.
 
-Sie finden das [fertige Projekt hier](http://rpf.io/p/de-DE/lost-in-space-get){:target="_blank"}.
+Sie finden das [fertige Projekt hier](https://rpf.io/p/de-DE/lost-in-space-get){:target="_blank"}.
 
 --- /collapse ---

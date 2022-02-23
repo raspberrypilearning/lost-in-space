@@ -36,7 +36,7 @@ title: Τι θα χρειαστείς
 
 ### Λογισμικό
 
-- Scratch 3 (είτε [online](http://rpf.io/scratchon){:target="_blank"} είτε [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (είτε [online](https://rpf.io/scratchon){:target="_blank"} είτε [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 ### Λήψεις
 
@@ -62,6 +62,6 @@ title: Πρόσθετες πληροφορίες για εκπαιδευτικο
 
 Αν χρειαστεί να εκτυπώσεις αυτό το έργο, χρησιμοποίησε την [εκτυπώσιμη έκδοση](https://projects.raspberrypi.org/el-GR/projects/lost-in-space/print)"}.
 
-Μπορείς να βρεις [το ολοκληρωμένο έργο εδώ](http://rpf.io/p/el-GR/lost-in-space-get){:target="_blank"}.
+Μπορείς να βρεις [το ολοκληρωμένο έργο εδώ](https://rpf.io/p/el-GR/lost-in-space-get){:target="_blank"}.
 
 --- /collapse ---

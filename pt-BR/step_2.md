@@ -6,11 +6,11 @@ Seu primeiro passo será criar uma nave espacial que voa em direção à Terra!
 
 Abra um novo projeto Scratch.
 
-**Online:** abra um novo projeto Scratch online no link: [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
+**Online:** abra um novo projeto Scratch online no link: [rpf.io/scratch-new](https://rpf.io/scratchon){:target="_blank"}.
 
 **Offline:** abra um novo projeto no editor offline.
 
-Se você precisar baixar e instalar o editor offline do Scratch, poderá encontrá-lo em [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Se você precisar baixar e instalar o editor offline do Scratch, poderá encontrá-lo em [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 --- /task ---
 

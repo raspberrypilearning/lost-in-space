@@ -36,7 +36,7 @@ title: Nelere ihtiyacınız var
 
 ### Yazılım
 
-- Scratch 3 ([çevrimiçi](http://rpf.io/scratchon){:target="_blank"} veya [çevrimdışı](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 ([çevrimiçi](https://rpf.io/scratchon){:target="_blank"} veya [çevrimdışı](https://rpf.io/scratchoff){:target="_blank"})
 
 ### İndirilecekler
 
@@ -61,6 +61,6 @@ title: Eğitimciler için ek bilgiler
 ---
 Bu projeyi yazdırmanız gerekiyorsa, lütfen [yazıcı dostu sürüm](https://projects.raspberrypi.org/tr-TR/projects/lost-in-space/print){:target="_blank"} ü kullanın.
 
-[Tamamlanmış projeye buradan](http://rpf.io/p/tr-TR/lost-in-space-get){:target="_blank"} ulaşabilirsiniz.
+[Tamamlanmış projeye buradan](https://rpf.io/p/tr-TR/lost-in-space-get){:target="_blank"} ulaşabilirsiniz.
 
 --- /collapse ---

@@ -6,11 +6,11 @@
 
 创建一个新的Scratch项目
 
-**在线：**在[rpf.io/scrath-new](http://rpf.io/scratchon){:target="_blank"}打开一个新的Scratch在线项目。
+**在线：**在[rpf.io/scrath-new](https://rpf.io/scratchon){:target="_blank"}打开一个新的Scratch在线项目。
 
 **离线：**在离线编辑器中打开一个新项目。
 
-如果您需要下载并安装Scratch离线编辑器，可以在[rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}中获取。
+如果您需要下载并安装Scratch离线编辑器，可以在[rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}中获取。
 
 --- /task ---
 

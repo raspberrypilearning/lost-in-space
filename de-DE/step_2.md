@@ -6,11 +6,11 @@ Dein erster Schritt wird es sein, ein Raumschiff zu erstellen, das zur Erde flie
 
 Erstelle ein neues Scratch-Projekt.
 
-**Online:** Erstelle ein neues Scratch-Projekt unter [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
+**Online:** Erstelle ein neues Scratch-Projekt unter [rpf.io/scratch-new](https://rpf.io/scratchon){:target="_blank"}.
 
 **Offline:** Erstelle im Offline-Editor ein neues Projekt.
 
-Wenn du den Scratch-Offline-Editor herunterladen und installieren möchtest, findest du diesen unter [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Wenn du den Scratch-Offline-Editor herunterladen und installieren möchtest, findest du diesen unter [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 --- /task ---
 
