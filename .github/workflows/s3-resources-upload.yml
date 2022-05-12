@@ -1,5 +1,10 @@
 name: Upload learning resources to S3
 on:
+  workflow_dispatch:
+    branches:
+      - main
+      - master
+      - draft
   push:
     branches:
       - main
