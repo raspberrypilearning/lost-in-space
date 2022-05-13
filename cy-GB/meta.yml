@@ -9,14 +9,16 @@ technologies: scratch
 version: 4.1.3
 last_tested: 2018-09-26
 steps:
-  - title: Cyflwyniad
-  - title: Animeiddio llong ofod
-  - title: 'Her: perffeithio dy animeiddiad'
-    challenge: true
-  - title: Animeiddio yn defnyddio dolennu
-  - title: Mwnci yn arnofio
-  - title: Asteroid Sbonciog
-  - title: Seren ddisglair
-  - title: 'Her: gwneud animeiddiad dy hunan'
-    challenge: true
-  - title: Beth nesaf?
+- title: Cyflwyniad
+  completion: engaged
+- title: Animeiddio llong ofod
+- title: 'Her: perffeithio dy animeiddiad'
+  challenge: true
+- title: Animeiddio yn defnyddio dolennu
+- title: Mwnci yn arnofio
+- title: Asteroid Sbonciog
+  completion: internal
+- title: Seren ddisglair
+- title: 'Her: gwneud animeiddiad dy hunan'
+  challenge: true
+- title: Beth nesaf?

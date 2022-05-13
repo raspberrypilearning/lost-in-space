@@ -16,5 +16,6 @@ hardware: ''
 software: scratch
 version: 4
 last_tested: 2017-11-01
-steps: 
+steps:
 - title: Rumfart
+  completion: engaged

@@ -1,7 +1,8 @@
 ---
 title: விண்வெளியில் தொலைந்தது
 hero_image: images/lost-in-space.png
-description: உங்கள் சொந்த அசைவூட்டலை (அனிமேஷன்-animation) எவ்வாறு நிரல் செய்வது என்பதை அறிக!
+description: உங்கள் சொந்த அசைவூட்டலை (அனிமேஷன்-animation) எவ்வாறு நிரல் செய்வது என்பதை
+  அறிக!
 original_url: https://www.codeclubprojects.org/en-GB/scratch/lost-in-space
 listed: true
 copyedit: true
@@ -9,14 +10,16 @@ technologies: scratch
 version: 4.1.3
 last_tested: 2018-09-26
 steps:
-  - title: அறிமுகம்
-  - title: ஒரு விண்கலத்தை அசைவூட்டல் செய்தல்
-  - title: 'சவால்: உங்கள் அசைவூட்டலை மேம்படுத்தவும்'
-    challenge: true
-  - title: மடக்குகளைப்(loops) பயன்படுத்தி அசைவூட்டல் செய்தல்
-  - title: மிதக்கும் குரங்கு
-  - title: துள்ளும் சிறுகோள்
-  - title: பிரகாசிக்கும் நட்சத்திரம்
-  - title: 'சவால்: உங்கள் சொந்த அசைவூட்டலை உருவாக்கவும்'
-    challenge: true
-  - title: அடுத்தது என்ன?
+- title: அறிமுகம்
+  completion: engaged
+- title: ஒரு விண்கலத்தை அசைவூட்டல் செய்தல்
+- title: 'சவால்: உங்கள் அசைவூட்டலை மேம்படுத்தவும்'
+  challenge: true
+- title: மடக்குகளைப்(loops) பயன்படுத்தி அசைவூட்டல் செய்தல்
+- title: மிதக்கும் குரங்கு
+- title: துள்ளும் சிறுகோள்
+  completion: internal
+- title: பிரகாசிக்கும் நட்சத்திரம்
+- title: 'சவால்: உங்கள் சொந்த அசைவூட்டலை உருவாக்கவும்'
+  challenge: true
+- title: அடுத்தது என்ன?

@@ -9,14 +9,16 @@ technologies: scratch
 version: 4.1.3
 last_tested: 2018-09-26
 steps:
-  - title: Introdução
-  - title: Animando uma nave espacial
-  - title: 'Desafio: Melhore a sua animação'
-    challenge: true
-  - title: Animação usando repetições
-  - title: Macaco flutuante
-  - title: Asteroide viajante
-  - title: Estrela brilhante
-  - title: 'Desafio: Faça a sua própria animação'
-    challenge: true
-  - title: E agora?
+- title: Introdução
+  completion: engaged
+- title: Animando uma nave espacial
+- title: 'Desafio: Melhore a sua animação'
+  challenge: true
+- title: Animação usando repetições
+- title: Macaco flutuante
+- title: Asteroide viajante
+  completion: internal
+- title: Estrela brilhante
+- title: 'Desafio: Faça a sua própria animação'
+  challenge: true
+- title: E agora?
