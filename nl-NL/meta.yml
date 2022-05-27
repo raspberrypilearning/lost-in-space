@@ -10,15 +10,17 @@ version: 4.1.3
 last_tested: 2018-09-26
 steps:
 - title: Inleiding
-  completion: engaged
 - title: Een ruimteschip animeren
 - title: 'Uitdaging: je animatie verbeteren'
   challenge: true
 - title: Animatie met lussen
+  completion:
+  - engaged
 - title: Zwevende aap
 - title: Stuiterende asteroïde
-  completion: internal
 - title: Fonkelende ster
+  completion:
+  - internal
 - title: 'Uitdaging: maak je eigen animatie'
   challenge: true
 - title: Hoe nu verder?

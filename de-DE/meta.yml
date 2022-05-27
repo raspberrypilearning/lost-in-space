@@ -10,15 +10,17 @@ version: 4.1.3
 last_tested: 2018-09-26
 steps:
 - title: Einleitung
-  completion: engaged
 - title: Ein Raumschiff animieren
 - title: 'Herausforderung: Verbessere deine Animation'
   challenge: true
 - title: Animieren mit Schleifen
+  completion:
+  - engaged
 - title: Schwebender Affe
 - title: Abprallender Asteroid
-  completion: internal
 - title: Glänzender Stern
+  completion:
+  - internal
 - title: 'Herausforderung: Mache deine eigene Animation'
   challenge: true
 - title: Wie geht es weiter?

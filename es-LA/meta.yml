@@ -10,15 +10,17 @@ version: 4
 last_tested: 26/09/2018
 steps:
 - title: Introducción
-  completion: engaged
 - title: Animando una nave espacial
 - title: 'Desafío: Mejora tu animación'
   challenge: true
 - title: Animación usando bucles
+  completion:
+  - engaged
 - title: Mono flotante
 - title: Asteroide rebotando
-  completion: internal
 - title: Una estrella brillante
+  completion:
+  - internal
 - title: 'Desafío: Crea tu propia animación'
   challenge: true
 - title: "¿Qué sigue?"
