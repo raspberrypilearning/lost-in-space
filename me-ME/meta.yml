@@ -18,12 +18,14 @@ version: 4
 last_tested: 2017-11-01
 steps:
 - title: Uvod
-  completion: engaged
 - title: Šta će ti biti potrebno
 - title: Animacija svemirskog broda
 - title: Animacija pomoću petlji
+  completion:
+  - engaged
 - title: Majmun koji pluta
 - title: Asteroid koji poskakuje
-  completion: internal
 - title: Zvijezda koja sija
+  completion:
+  - internal
 - title: 'Izazov: napravi sopstvenu animaciju'

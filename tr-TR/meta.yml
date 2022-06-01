@@ -10,15 +10,17 @@ version: 4.1.3
 last_tested: 2018-09-26
 steps:
 - title: Giriş
-  completion: engaged
 - title: Bir uzay gemisini canlandırma
 - title: 'Meydan Okuma: animasyonunuzu geliştirin'
   challenge: true
 - title: Döngüler kullanarak animasyon yapma
+  completion:
+  - engaged
 - title: Süzülen maymun
 - title: Zıplayan asteroit
-  completion: internal
 - title: Parlayan yıldız
+  completion:
+  - internal
 - title: 'Meydan Okuma: kendi animasyonunuzu yaratın'
   challenge: true
 - title: Sırada ne var?

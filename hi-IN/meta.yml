@@ -10,15 +10,17 @@ version: 4.1.3
 last_tested: 2018-09-26
 steps:
 - title: परिचय
-  completion: engaged
 - title: एक स्पेसशिप को एनिमेट करना
 - title: 'चुनौती: आपकी एनिमेशन में सुधार'
   challenge: true
 - title: लूप्स का प्रयोग कर एनिमेट करना
+  completion:
+  - engaged
 - title: तैरने वाला बंदर
 - title: उछलने वाले क्षुद्रग्रह
-  completion: internal
 - title: चमकता तारा
+  completion:
+  - internal
 - title: 'चैलेंज: आपका खुद का एनीमेशन बनाना'
   challenge: true
 - title: आगे क्या?

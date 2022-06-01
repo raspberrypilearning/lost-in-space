@@ -10,15 +10,17 @@ version: 4.1.3
 last_tested: 2018-09-26
 steps:
 - title: المقدمة
-  completion: engaged
 - title: تحريك سفينة فضاء
 - title: 'التحدي: تحسين الرسم المتحرك'
   challenge: true
 - title: التحريك باستخدام حلقات التكرار
+  completion:
+  - engaged
 - title: قرد سابح
 - title: كويكب يرتدّ
-  completion: internal
 - title: نجم متلألئ
+  completion:
+  - internal
 - title: 'تحدي: اصنع رسمتك المتحركة'
   challenge: true
 - title: ما التالي؟

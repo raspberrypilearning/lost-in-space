@@ -10,15 +10,17 @@ version: 4.1.3
 last_tested: 2018-09-26
 steps:
 - title: Introduzione
-  completion: engaged
 - title: Animare un'astronave
 - title: 'Sfida: migliora la tua animazione'
   challenge: true
 - title: Animazioni usando i cicli
+  completion:
+  - engaged
 - title: Scimmietta fluttuante
 - title: Asteroide che rimbalza
-  completion: internal
 - title: Stella splendente
+  completion:
+  - internal
 - title: 'Sfida: crea la tua animazione'
   challenge: true
 - title: E adesso?

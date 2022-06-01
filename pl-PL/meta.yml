@@ -10,15 +10,17 @@ version: 4.1.3
 last_tested: 2018-09-26
 steps:
 - title: Wprowadzenie
-  completion: engaged
 - title: Animowanie statku kosmicznego
 - title: 'Wyzwanie: popraw swoją animację'
   challenge: true
 - title: Animacja za pomocą pętli
+  completion:
+  - engaged
 - title: Pływająca małpa
 - title: Odbijająca się asteroida
-  completion: internal
 - title: Świecąca gwiazda
+  completion:
+  - internal
 - title: 'Wyzwanie: zrób własną animację'
   challenge: true
 - title: Co dalej?

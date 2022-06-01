@@ -10,15 +10,17 @@ version: 4.1.3
 last_tested: 2018-09-26
 steps:
 - title: 简介
-  completion: engaged
 - title: 动画飞船
 - title: '挑战: 优化你的动画'
   challenge: true
 - title: 循环动画
+  completion:
+  - engaged
 - title: 漂浮的猴子
 - title: 弹跳小行星
-  completion: internal
 - title: 亮闪闪的星星
+  completion:
+  - internal
 - title: 挑战：创建你自己的动画
   challenge: true
 - title: 接下来呢？

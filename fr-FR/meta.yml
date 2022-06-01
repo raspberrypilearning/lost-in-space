@@ -10,15 +10,17 @@ version: 4.1.3
 last_tested: 2018-09-26
 steps:
 - title: Introduction
-  completion: engaged
 - title: Animer un vaisseau spatial
 - title: 'Défi: améliorer ton animation'
   challenge: true
 - title: L'animation à l'aide de boucles
+  completion:
+  - engaged
 - title: Singe flottant
 - title: Astéroïde rebondissant
-  completion: internal
 - title: Étoile brillante
+  completion:
+  - internal
 - title: 'Défi: fait ta propre animation'
   challenge: true
 - title: Et ensuite?

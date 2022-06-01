@@ -10,15 +10,17 @@ version: 4.1.3
 last_tested: 2018-09-26
 steps:
 - title: ಪರಿಚಯ
-  completion: engaged
 - title: ಆಕಾಶನೌಕೆ ಅನಿಮೇಷನ್ ಮಾಡುವುದು
 - title: 'ಸವಾಲು: ನಿಮ್ಮ ಅನಿಮೇಷನ್ ಮೇಲ್ಪಡಿಸಿ'
   challenge: true
 - title: ಲೂಪ್ಗಳನ್ನು ಬಳಸಿ ಅನಿಮೇಷನ್
+  completion:
+  - engaged
 - title: ತೇಲುವ ಕೋತಿ
 - title: ಪುಟಿಯುವ ಕ್ಷುದ್ರಗ್ರಹ
-  completion: internal
 - title: ಹೊಳೆಯುವ ನಕ್ಷತ್ರ
+  completion:
+  - internal
 - title: 'ಸವಾಲು: ನಿಮ್ಮ ಸ್ವಂತ ಅನಿಮೇಷನ್ ಮಾಡಿ'
   challenge: true
 - title: ಮುಂದೆ ಏನು?

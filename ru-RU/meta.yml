@@ -10,15 +10,17 @@ version: 4.1.3
 last_tested: 2018-09-26
 steps:
 - title: Введение
-  completion: engaged
 - title: Анимация космического корабля
 - title: 'Задание: улучши свою анимацию'
   challenge: true
 - title: Анимация с помощью циклов
+  completion:
+  - engaged
 - title: Плавающая обезьяна
 - title: Отскок астероида
-  completion: internal
 - title: Сияющая звезда
+  completion:
+  - internal
 - title: 'Задание: сделай свою собственную анимацию'
   challenge: true
 - title: Что дальше?

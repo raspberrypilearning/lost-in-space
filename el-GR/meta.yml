@@ -10,15 +10,17 @@ version: 4.1.3
 last_tested: 2018-09-26
 steps:
 - title: Εισαγωγή
-  completion: engaged
 - title: Δίνοντας κίνηση σε ένα διαστημόπλοιο
 - title: 'Πρόκληση: βελτίωση του κινούμενου σχεδίου σου'
   challenge: true
 - title: Δίνοντας κίνηση με τη χρήση βρόχων
+  completion:
+  - engaged
 - title: Αιωρούμενη μαϊμού
 - title: Αναπήδηση αστεροειδούς
-  completion: internal
 - title: Λαμπρό αστέρι
+  completion:
+  - internal
 - title: 'Πρόκληση: δημιούργησε το δικό σου κινούμενο σχέδιο'
   challenge: true
 - title: Και τώρα;
