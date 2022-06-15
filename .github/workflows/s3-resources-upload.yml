@@ -10,6 +10,9 @@ on:
       - main
       - master
       - draft
+concurrency: 
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 jobs:
   s3-resources-upload:
     runs-on: ubuntu-latest
