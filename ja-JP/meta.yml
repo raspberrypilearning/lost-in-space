@@ -18,12 +18,16 @@ steps:
     challenge: true
   - 
     title: 繰り返し (くりかえし) を使ったアニメーション
+    completion:
+      - engaged
   - 
     title: ういているサル
   - 
     title: はずむ小惑星 (しょうわくせい)
   - 
     title: 光る星
+    completion:
+      - internal
   - 
     title: 'チャレンジ: 自分のアニメーションを作ろう'
     challenge: true
