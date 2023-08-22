@@ -1,18 +1,12 @@
-\--- no-print \---
-
-이것은 **스크래치 3** 버전의 프로젝트예요. [스크래치 2 버전의 프로젝트](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2)도 있어요.
-
-\--- /no-print \---
-
 ## 들어가며
 
-나만의 애니매이션을 프로그래밍하는 방법을 배울 거야!
+You are going to learn how to program your own animation!
 
 ### 만들게 될 것
 
 \--- no-print \---
 
-초록색 깃발을 클릭해 애니매이션을 보세요.
+Click on the green flag to see the animation.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -23,7 +17,7 @@
 
 \--- print-only \---
 
-![완료된 프로젝트](images/showcase_static.png)
+![Complete project](images/showcase_static.png)
 
 \--- /print-only \---
 
@@ -59,7 +53,7 @@
 
 ## title: 교육자를 위한 추가 정보
 
-이 프로젝트를 인쇄하려면, [프린트용 버전](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}을 사용하세요.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
 You can find the [completed project here](https://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
