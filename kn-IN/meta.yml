@@ -18,12 +18,16 @@ steps:
     challenge: true
   - 
     title: ಲೂಪ್ಗಳನ್ನು ಬಳಸಿ ಅನಿಮೇಷನ್
+    completion:
+      - engaged
   - 
     title: ತೇಲುವ ಕೋತಿ
   - 
     title: ಪುಟಿಯುವ ಕ್ಷುದ್ರಗ್ರಹ
   - 
     title: ಹೊಳೆಯುವ ನಕ್ಷತ್ರ
+    completion:
+      - internal
   - 
     title: 'ಸವಾಲು: ನಿಮ್ಮ ಸ್ವಂತ ಅನಿಮೇಷನ್ ಮಾಡಿ'
     challenge: true
