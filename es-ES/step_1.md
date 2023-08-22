@@ -1,12 +1,6 @@
-\--- no-print \---
-
-Esta es la versión ** Scratch 3 ** del proyecto. También hay una versión [ Scratch 2 del proyecto. ](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
-
-\--- /no-print \---
-
 ## Introducción
 
-¡Vas a aprender a programar tu propia animación!
+You are going to learn how to program your own animation!
 
 ### Lo que crearás
 
@@ -23,7 +17,7 @@ Click on the green flag to see the animation.
 
 \--- print-only \---
 
-![Proyecto completo](images/showcase_static.png)
+![Complete project](images/showcase_static.png)
 
 \--- /print-only \---
 
@@ -59,7 +53,7 @@ Click on the green flag to see the animation.
 
 ## title: Información adicional para educadores
 
-Si necesitas imprimir este proyecto, usa la [versión para imprimir](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
 You can find the [completed project here](https://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
