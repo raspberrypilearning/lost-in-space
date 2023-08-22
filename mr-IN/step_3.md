@@ -1,11 +1,11 @@
-## Challenge: improve your animation
+## आव्हान: आपल्या अ‍ॅनिमेशनमध्ये सुधार करा
 
-Can you change the numbers in your animation code so that:
+आपण आपल्या अ‍ॅनिमेशन कोडमध्ये संख्या बदलू शकता जेणेकरुन:
 
-+ The spaceship moves until it touches the Earth?
-+ The spaceship moves more slowly towards the Earth?
++ अंतराळ यान पृथ्वीला स्पर्श होईपर्यंत सरकत राहील?
++ अंतराळ यान पृथ्वीच्या दिशेने अधिक हळूहळू सरकेल?
 
-You'll need to change the numbers in this block:
+आपल्याला या विभागातील संख्या बदलण्याची आवश्यकता असेलः
 
 ![Rocketship sprite](images/sprite-spaceship.png)
 
