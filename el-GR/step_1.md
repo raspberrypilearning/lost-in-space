@@ -1,12 +1,6 @@
-\--- no-print \---
-
-Αυτή είναι η έκδοση **Scratch 3** του έργου. Υπάρχει επίσης και μία έκδοση [Scratch 2](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2) του έργου.
-
-\--- /no-print \---
-
 ## Εισαγωγή
 
-Θα μάθεις πώς να προγραμματίζεις το δικό σου κινούμενο σχέδιο!
+You are going to learn how to program your own animation!
 
 ### Τι θα κάνεις
 
