@@ -1,18 +1,12 @@
-\--- no-print \---
-
-هذا هو إصدار ** Scratch 3 ** من المشروع. هناك أيضًا [ إصدار Scratch 2 للمشروع ](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
-
-\--- /no-print \---
-
 ## المقدمة
 
-ستتعلَّم كيف تُبرمج الرسم المتحرك الخاص بك!
+You are going to learn how to program your own animation!
 
 ### ما الذي ستصنعه
 
 \--- no-print \---
 
-انقر على العلم الاخضر لترى المشروع.
+Click on the green flag to see the animation.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -23,7 +17,7 @@
 
 \--- print-only \---
 
-![المشروع كامل](images/showcase_static.png)
+![Complete project](images/showcase_static.png)
 
 \--- /print-only \---
 
@@ -53,14 +47,14 @@
 - استخدم اللبنة كرر باستمرار لتكرار الرسوم المتحركة إلى الابد
 - نفهم أن حلقات التكرار يمكن أن تتداخل داخل بعضها البعض
 
-\--- collapse \---
+\--- /collapse \---
 
 ## \--- collapse \---
 
 ## title: معلومات إضافية للمعلمين
 
-إذا كنت بحاجة إلى طباعة هذا المشروع، فالرجاء استخدام الإصدار [الملائم للطابعة](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
 You can find the [completed project here](https://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
-\--- /collapse \---
+\--- collapse \---
