@@ -1,9 +1,3 @@
-\--- no-print \---
-
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
-
-\--- /no-print \---
-
 ## Pengantar
 
 You are going to learn how to program your own animation!
@@ -12,7 +6,7 @@ You are going to learn how to program your own animation!
 
 \--- no-print \---
 
-Klik pada bendera hijau untuk melihat animasi.
+Click on the green flag to see the animation.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
