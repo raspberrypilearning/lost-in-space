@@ -18,12 +18,16 @@ steps:
     challenge: true
   - 
     title: Animacija pomoću petlje
+    completion:
+      - engaged
   - 
     title: Majmun koji lebdi
   - 
     title: Asteroid koji odskakuje
   - 
     title: Sjajna zvijezda
+    completion:
+      - internal
   - 
     title: 'Izazov: napravi vlastitu animaciju'
     challenge: true
