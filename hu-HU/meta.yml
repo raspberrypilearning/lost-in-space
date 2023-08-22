@@ -18,12 +18,16 @@ steps:
     challenge: true
   - 
     title: Animáció ismétlések használatával
+    completion:
+      - engaged
   - 
     title: Lebegő majom
   - 
     title: Pattogó aszteroida
   - 
     title: Ragyogó csillag
+    completion:
+      - internal
   - 
     title: 'Kihívás: készíts saját animációt'
     challenge: true
