@@ -1,18 +1,12 @@
-\--- no-print \---
-
-இது இந்த திட்டத்தின் **Scratch 3**(ஸ்க்ராட்ச் 3) பதிப்பாகும். மேலும் [திட்டத்தின் Scratch 2 பதிப்பும்](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2) உள்ளது.
-
-\--- /no-print \---
-
 ## அறிமுகம்
 
-உங்கள் சொந்த அசைவூட்டலை(animation) எவ்வாறு நிரல் செய்வது என்பதை நீங்கள் கற்றுக் கொள்ளப் போகிறீர்கள்!
+You are going to learn how to program your own animation!
 
 ### நீங்கள் என்ன செய்வீர்கள்
 
 \--- no-print \---
 
-அசைவூட்டலைக் காண பச்சைக் கொடியைக் கிளிக் செய்க.
+Click on the green flag to see the animation.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -23,7 +17,7 @@
 
 \--- print-only \---
 
-![நிறைவு செய்யப்பட்ட திட்டம்](images/showcase_static.png)
+![Complete project](images/showcase_static.png)
 
 \--- /print-only \---
 
@@ -59,7 +53,7 @@
 
 ## title: கல்வியாளர்களுக்கான கூடுதல் தகவல்
 
-இந்த திட்டத்தை நீங்கள் அச்சிட வேண்டுமானால், தயவுசெய்து [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target = "_ blank"} ஐப்(அச்சுப்பொறி நட்பு பதிப்பு) பயன்படுத்தவும்.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
 You can find the [completed project here](https://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
