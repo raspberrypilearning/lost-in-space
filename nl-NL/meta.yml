@@ -18,12 +18,16 @@ steps:
     challenge: true
   - 
     title: Animatie die zich steeds herhaalt
+    completion:
+      - engaged
   - 
     title: Zwevende aap
   - 
     title: Stuiterende asteroïde
   - 
     title: Flonkerende ster
+    completion:
+      - internal
   - 
     title: 'Uitdaging: maak je eigen animatie'
     challenge: true
