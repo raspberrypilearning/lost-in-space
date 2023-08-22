@@ -1,12 +1,6 @@
-\--- no-print \---
-
-Ta wersja projektu jest przeznaczona dla języka **Scratch 3**. Projekt dostępny jest również [w wersji dla języka Scratch 2](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
-
-\--- /no-print \---
-
 ## Wprowadzenie
 
-W tym projekcie nauczysz się jak programować własne animacje!
+You are going to learn how to program your own animation!
 
 ### Co będziesz robił
 
