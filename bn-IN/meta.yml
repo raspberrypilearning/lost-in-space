@@ -18,12 +18,16 @@ steps:
     challenge: true
   - 
     title: লুপগুলি ব্যবহার করে অ্যানিমেশন করুন
+    completion:
+      - engaged
   - 
     title: ভাসমান বানর
   - 
     title: লাফাচ্ছে এমন গ্রহাণু
   - 
     title: উজ্জ্বল নক্ষত্র
+    completion:
+      - internal
   - 
     title: 'Challenge: আপনার নিজের অ্যানিমেশন তৈরি করুন'
     challenge: true
