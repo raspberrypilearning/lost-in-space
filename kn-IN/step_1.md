@@ -1,18 +1,12 @@
-\--- no-print \---
-
-ಇದು ಯೋಜನೆಯ **Scratch 3 ** ಆವೃತ್ತಿ. ಯೋಜನೆಯ [Scratch 2 ಆವೃತ್ತಿಯೂ ಇದೆ](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
-
-\--- /no-print \---
-
 ## ಪರಿಚಯ
 
-ನಿಮ್ಮ ಸ್ವಂತ ಅನಿಮೇಷನ್ ಅನ್ನು ಹೇಗೆ ಪ್ರೋಗ್ರಾಂ ಮಾಡುವುದು ಎಂದು ನೀವು ಕಲಿಯಲಿದ್ದೀರಿ!
+You are going to learn how to program your own animation!
 
 ### ನೀವು ಇದನ್ನು ಮಾಡುತ್ತೀರಿ
 
 \--- no-print \---
 
-ಅನಿಮೇಷನ್ ನೋಡಲು ಹಸಿರು ಧ್ವಜದ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ.
+Click on the green flag to see the animation.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -23,7 +17,7 @@
 
 \--- print-only \---
 
-![ಸಂಪೂರ್ಣ ಯೋಜನೆ](images/showcase_static.png)
+![Complete project](images/showcase_static.png)
 
 \--- /print-only \---
 
@@ -59,8 +53,8 @@
 
 ## title: ಶಿಕ್ಷಣತಜ್ಞರಿಗೆ ಹೆಚ್ಚುವರಿ ಮಾಹಿತಿ
 
-ನೀವು ಈ ಯೋಜನೆಯನ್ನು ಮುದ್ರಿಸಬೇಕಾದರೆ, ದಯವಿಟ್ಟು [ ಮುದ್ರಕ-ಸ್ನೇಹಿ ಆವೃತ್ತಿಯನ್ನು ಬಳಸಿ ](https://projects.raspberrypi.org/en/projects/lost-in-space/print) {:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
-ನೀವು ಕಾಣಬಹುದು [ಇಲ್ಲಿ ಪೂರ್ಣಗೊಂಡ ಯೋಜನೆ](https://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+You can find the [completed project here](https://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
 \--- /collapse \---
