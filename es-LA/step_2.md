@@ -6,11 +6,11 @@
 
 Abre un nuevo proyecto Scratch.
 
-** Online **: abre un nuevo proyecto Scratch en línea en [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](https://rpf.io/scratchon){:target="_blank"}.
 
 **Offline: ** Abre un nuevo proyecto en el editor offline.
 
-Si necesitas descargar e instalar el editor offline de Scratch, puedes encontrarlo en [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
