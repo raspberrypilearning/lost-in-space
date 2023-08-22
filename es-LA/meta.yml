@@ -18,12 +18,16 @@ steps:
     challenge: true
   - 
     title: Animación utilizando bucles
+    completion:
+      - engaged
   - 
     title: Mono flotante
   - 
     title: Asteroide rebotando
   - 
     title: Estrella brillante
+    completion:
+      - internal
   - 
     title: 'Desafío: Crea tu propia animación'
     challenge: true
