@@ -18,12 +18,16 @@ steps:
     challenge: true
   - 
     title: 用迴圈做動畫
+    completion:
+      - engaged
   - 
     title: 漂浮的猴子
   - 
     title: 彈跳的行星
   - 
     title: 發亮的星星
+    completion:
+      - internal
   - 
     title: '挑戰：做個自己的動畫'
     challenge: true
