@@ -1,12 +1,6 @@
-\--- no-print \---
-
-Ez, a projekt **Scratch 3**-as verziója. Van [Scratch 2-es változata is](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
-
-\--- /no-print \---
-
 ## Bevezetés
 
-Megtanulhatod, hogyan programozhatsz saját animációt!
+You are going to learn how to program your own animation!
 
 ### Ezt fogod elkészíteni
 
