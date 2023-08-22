@@ -18,12 +18,16 @@ steps:
     challenge: true
   - 
     title: மடக்குகளைப்(loops) பயன்படுத்தி அசைவூட்டல் செய்தல்
+    completion:
+      - engaged
   - 
     title: மிதக்கும் குரங்கு
   - 
     title: துள்ளும் சிறுகோள்
   - 
     title: பிரகாசிக்கும் நட்சத்திரம்
+    completion:
+      - internal
   - 
     title: 'சவால்: உங்கள் சொந்த அசைவூட்டலை உருவாக்கவும்'
     challenge: true
