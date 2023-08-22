@@ -18,12 +18,16 @@ steps:
     challenge: true
   - 
     title: Animeiddio yn defnyddio dolennu
+    completion:
+      - engaged
   - 
     title: Mwnci yn arnofio
   - 
     title: Asteroid Sbonciog
   - 
     title: Sêr disglair
+    completion:
+      - internal
   - 
     title: 'Her: gwneud dy animeiddiad dy hunan'
     challenge: true
