@@ -6,11 +6,11 @@
 
 새 스크래치 프로젝트를 만드세요.
 
-**온라인:** [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}에서 새로운 온라인 스크래치 프로젝트 만들기
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](https://rpf.io/scratchon){:target="_blank"}.
 
 **오프라인:** 오프라인 편집기에서 새 프로젝트를 만들기
 
-스크래치 오프라인 편집기를 다운로드해야 하는 경우, [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}에서 다운로드할 수 있습니다.
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
