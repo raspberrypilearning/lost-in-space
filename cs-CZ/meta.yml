@@ -18,12 +18,16 @@ steps:
     challenge: true
   - 
     title: Animation using loops
+    completion:
+      - engaged
   - 
     title: Floating monkey
   - 
     title: Bouncing asteroid
   - 
     title: Shining star
+    completion:
+      - internal
   - 
     title: 'Challenge: make your own animation'
     challenge: true
