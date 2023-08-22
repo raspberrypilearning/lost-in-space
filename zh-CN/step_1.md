@@ -1,18 +1,12 @@
-\--- no-print \---
-
-这个项目是基于**Scratch 3**版本的，另外还有一个基于[Scratch 2的版本](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2)。
-
-\--- /no-print \---
-
 ## 简介
 
-你将学习如何通过编程实现动画！
+You are going to learn how to program your own animation!
 
 ### 你将做出什么
 
 \--- no-print \---
 
-点击绿色标志开始。
+Click on the green flag to see the animation.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -23,7 +17,7 @@
 
 \--- print-only \---
 
-![完成项目](images/showcase_static.png)
+![Complete project](images/showcase_static.png)
 
 \--- /print-only \---
 
@@ -59,7 +53,7 @@
 
 ## 标题: 教师附加信息
 
-如果你需要打印此项目，请使用[打印友好版](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}。
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
 You can find the [completed project here](https://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
