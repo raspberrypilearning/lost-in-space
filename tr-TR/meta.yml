@@ -18,12 +18,16 @@ steps:
     challenge: true
   - 
     title: Döngüler kullanarak animasyon yapma
+    completion:
+      - engaged
   - 
     title: Süzülen maymun
   - 
     title: Zıplayan asteroit
   - 
     title: Parlayan yıldız
+    completion:
+      - internal
   - 
     title: 'Meydan okuma: kendi animasyonunuzu yaratın'
     challenge: true
