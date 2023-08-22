@@ -18,12 +18,16 @@ steps:
     challenge: true
   - 
     title: 반복하기를 활용해 움직이기
+    completion:
+      - engaged
   - 
     title: 떠다니는 원숭이
   - 
     title: 튀어다니는 소행성
   - 
     title: 빛나는 별
+    completion:
+      - internal
   - 
     title: '도전: 나만의 애니메이션을 만들어요'
     challenge: true
