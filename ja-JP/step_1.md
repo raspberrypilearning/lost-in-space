@@ -1,18 +1,12 @@
-\--- no-print \---
-
-これは、**Scratch 3**バージョンのプロジェクトです。[ Scratch 2バージョンのプロジェクト](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2)もあります。
-
-\--- /no-print \---
-
 ## はじめに
 
-アニメーションをプログラムする方法を学びましょう！
+You are going to learn how to program your own animation!
 
 ### あなたが作るもの
 
 \--- no-print \---
 
-緑色のフラグをクリックして、アニメーションを表示します。
+Click on the green flag to see the animation.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -23,7 +17,7 @@
 
 \--- print-only \---
 
-![完成したプロジェクト](images/showcase_static.png)
+![Complete project](images/showcase_static.png)
 
 \--- /print-only \---
 
@@ -59,7 +53,7 @@
 
 ## title：教育者向けの追加情報
 
-このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_ blank"}を使用してください。
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
 You can find the [completed project here](https://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
