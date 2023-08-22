@@ -18,12 +18,16 @@ steps:
     challenge: true
   - 
     title: L'animation à l'aide de boucles
+    completion:
+      - engaged
   - 
     title: Singe flottant
   - 
     title: Astéroïde rebondissant
   - 
     title: Étoile brillante
+    completion:
+      - internal
   - 
     title: 'Défi: fait ta propre animation'
     challenge: true
