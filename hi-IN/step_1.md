@@ -1,18 +1,12 @@
-\--- no-print \---
+## भूमिका
 
-यह प्रोजेक्ट का **Scratch 3** संस्करण है। इस प्रोजेक्ट का [Scratch 2](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2) संस्करण भी है।
-
-\--- /no-print \---
-
-## परिचय
-
-आप सीखने जा रहे हैं कि कैसे खुद का एनीमेशन प्रोग्राम करना है!
+You are going to learn how to program your own animation!
 
 ### आप क्या बनाएँगे
 
 \--- no-print \---
 
-एनीमेशन को देखने के लिए हरे झंडे पर क्लिक करें।
+Click on the green flag to see the animation.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -23,13 +17,13 @@
 
 \--- print-only \---
 
-![पूरा प्रोजेक्ट](images/showcase_static.png)
+![Complete project](images/showcase_static.png)
 
 \--- /print-only \---
 
 ## \--- collapse \---
 
-## शीर्षक: आपको किन चीजों की आवश्यकता होगी
+## title: आपको किन चीजों की आवश्यकता होगी
 
 ### हार्डवेयर
 
@@ -37,7 +31,7 @@
 
 ### सॉफ्टवेयर
 
-- Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (या तो [ऑनलाइन](https://rpf.io/scratchon){:target="_blank"} या [ऑफ़लाइन](https://rpf.io/scratchoff){:target="_blank"})
 
 ### डाउनलोड्स
 
@@ -49,9 +43,9 @@
 
 ## title: आप क्या सीखेंगे
 
-- Scratch में Sprite को एनिमेट करने के लिए Repeat loop (रिपीट लूप) का प्रयोग
-- एनीमेशन को हमेशा के लिए चालू करने के लिए एक forever loop (फॉरएवर लूप) का प्रयोग
-- यह समझे की लूप एक दुसरे के अंदर लिखा जा सकता है
+- Scratch में स्प्राइट को एनिमेट करने के लिए Repeat loop (रिपीट लूप) का प्रयोग
+- एनीमेशन को हमेशा के लिए चालू रखने के लिए एक forever loop (फॉरएवर लूप) का प्रयोग
+- यह समझे कि लूप्स को एक दुसरे के अंदर लिखा जा सकता है
 
 \--- /collapse \---
 
@@ -59,7 +53,7 @@
 
 ## title: शिक्षकों के लिए अतिरिक्त जानकारी
 
-अगर आपको इस प्रोजेक्ट को प्रिंट करने की आवश्यकता है, तो कृप्या [प्रिंटर-अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/lost-in-space/print){: target = "_ blank"} का उपयोग करें।
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
 You can find the [completed project here](https://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
