@@ -1,18 +1,12 @@
-\--- no-print \---
-
-এটি ** Scratch 3 ** প্রকল্পের সংস্করণ। প্রকল্পের একটি [ Scratch 2 সংস্করণও রয়েছে ](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2) ।.
-
-\--- /no-print \---
-
 ## ভূমিকা
 
-আপনি কীভাবে নিজের অ্যানিমেশন প্রোগ্রাম করে বানাবেন করবেন তা শিখতে চলেছেন!
+You are going to learn how to program your own animation!
 
 ### আপনি যা বানাবেন
 
 \--- no-print \---
 
-অ্যানিমেশনটি দেখতে সবুজ পতাকাটিতে ক্লিক করুন।.
+Click on the green flag to see the animation.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -59,7 +53,7 @@
 
 ## title: শিক্ষাবিদদের জন্য অতিরিক্ত তথ্য
 
-আপনি যদি এই প্রজেক্টটি প্রিন্ট করতে চান তবে [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"} ব্যবহার করুন।.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
 You can find the [completed project here](https://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
