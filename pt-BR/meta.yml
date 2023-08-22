@@ -18,12 +18,16 @@ steps:
     challenge: true
   - 
     title: Animação usando repetições
+    completion:
+      - engaged
   - 
     title: Macaco flutuante
   - 
     title: Asteroide viajante
   - 
     title: Estrela brilhante
+    completion:
+      - internal
   - 
     title: 'Desafio: Faça a sua própria animação'
     challenge: true
