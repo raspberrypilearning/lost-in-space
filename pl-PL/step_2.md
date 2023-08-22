@@ -6,11 +6,11 @@ Pierwszym krokiem będzie stworzenie statku kosmicznego lecącego w kierunku Zie
 
 Otwórz nowy projekt Scratch.
 
-**Online:** otwórz nowy projekt Scratcha na stronie [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](https://rpf.io/scratchon){:target="_blank"}.
 
 **Offline:** otwórz nowy projekt w edytorze offline.
 
-Jeśli musisz pobrać i zainstalować edytor Scratcha, znajdziesz go na stronie [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
