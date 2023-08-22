@@ -18,12 +18,16 @@ steps:
     challenge: true
   - 
     title: Анимация с использованием циклов
+    completion:
+      - engaged
   - 
     title: Плавающая обезьяна
   - 
     title: Отскок астероида
   - 
     title: Сияющая звезда
+    completion:
+      - internal
   - 
     title: 'Задание: сделай свою собственную анимацию'
     challenge: true
