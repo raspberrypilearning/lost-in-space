@@ -6,11 +6,11 @@
 
 ஒரு புதிய Scratch திட்டத்தைத் திறக்கவும்.
 
-**நிகழ்நிலை (ஆன்லைன்):** ஒரு புதிய நிகழ்நிலை Scratch திட்டத்தை இங்கு [rpf.io/scratch-new](http://rpf.io/scratchon){:target ="_ blank"} திறக்கவும்.
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](https://rpf.io/scratchon){:target="_blank"}.
 
 **அகல்நிலை (ஆஃப்லைன்)**: அகல்நிலை பதிப்பானில் (ஆஃப்லைன் எடிட்டர்) ஒரு புதிய திட்டத்தை திறக்கவும்.
 
-நீங்கள் Scratch அகல்நிலை பதிப்பானை பதிவிறக்கி நிறுவ வேண்டும் என்றால், அதை [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"} இங்கு காணலாம்.
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
