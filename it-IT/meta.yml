@@ -18,12 +18,16 @@ steps:
     challenge: true
   - 
     title: Animazioni usando i cicli
+    completion:
+      - engaged
   - 
     title: Scimmietta fluttuante
   - 
     title: Asteroide che rimbalza
   - 
     title: Stella splendente
+    completion:
+      - internal
   - 
     title: 'Sfida: crea la tua animazione'
     challenge: true
