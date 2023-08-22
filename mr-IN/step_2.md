@@ -1,24 +1,24 @@
-## Animating a spaceship
+## एक अंतराळ यान अ‍ॅनिमेट करणे
 
-Your first step will be to create a spaceship that flies towards the Earth!
+पृथ्वीच्या दिशेने उडणारे एक अंतराळ यान तयार करणे ही आपली पहिली पायरी असेल!
 
 \--- task \---
 
-Open a new Scratch project.
+नवीन Scratch प्रकल्प उघडा.
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](https://rpf.io/scratchon){:target="_blank"}.
 
-**Offline:** open a new project in the offline editor.
+**ऑफलाइन:** ऑफलाइन संपादकात नवीन प्रकल्प उघडा.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
 \--- task \---
 
-Add 'rocketship' and 'Earth' sprites to your Stage.
+आपल्या Stage मध्ये 'rocketship' आणि 'Earth' sprites जोडा.
 
-![Spaceship and Earth sprites](images/space-sprites.png)
+![अंतराळ यान आणि पृथ्वी चे sprites](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -26,15 +26,15 @@ Add 'rocketship' and 'Earth' sprites to your Stage.
 
 \--- task \---
 
-Add the 'Stars' backdrop to your Stage.
+आपल्या Stage वर 'Stars' backdrop जोडा.
 
-![A space backdrop](images/space-backdrop.png)
+![अं‍तरिक्ष backdrop](images/space-backdrop.png)
 
 \--- /task \---
 
 \--- task \---
 
-Click on your spaceship sprite, and click on the **Costumes** tab.
+आपल्या अंतराळ यान sprite वर क्लिक करा, मग **Costumes** टॅबवर क्लिक करा.
 
 ![Sprite costume](images/space-costume.png)
 
@@ -42,17 +42,17 @@ Click on your spaceship sprite, and click on the **Costumes** tab.
 
 \--- task \---
 
-Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+**arrow** टूल वापरून संपूर्ण अंतराळ यान प्रतिमेभोवती एक चौकट क्लिक आणि ड्रॅग करा. मग वर्तृळाकार फिरविणाऱ्या **rotate** हँडलवर क्लिक करा, आणि प्रतिमा आडवी होईपर्यंत फिरवा.
 
-![Rotating a costume](images/space-rotate.png)
+![पोशाख फिरवत आहे](images/space-rotate.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add this code to your spaceship sprite:
+आपल्या अंतराळ यान sprite मध्ये हा कोड जोडा:
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![अंतराळ यान sprite](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -63,10 +63,10 @@ point towards (Earth v)
 glide (1) secs to x:(0) y:(0)
 ```
 
-Change the numbers in the code blocks you've added so that the code is exactly the same as above.
+आपण जोडलेल्या कोड मधील संख्या बदला जेणेकरून कोड वरील प्रमाणेच असेल.
 
 \--- /task \---
 
-If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
+आपण हिरव्या ध्वजावर क्लिक केल्यास, अंतराळ यान बोलताना, वळताना आणि stage च्या मध्यभागी सरकताना दिसेल.
 
-![Testing a spaceship animation](images/space-animate-stage.png)
+![अंतराळ यान अ‍ॅनिमेशनची ची चाचणी](images/space-animate-stage.png)
