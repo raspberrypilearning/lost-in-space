@@ -18,12 +18,16 @@ steps:
     challenge: true
   - 
     title: Δίνοντας κίνηση με τη χρήση βρόχων
+    completion:
+      - engaged
   - 
     title: Αιωρούμενη μαϊμού
   - 
     title: Αναπήδηση αστεροειδούς
   - 
     title: Λαμπρό αστέρι
+    completion:
+      - internal
   - 
     title: 'Πρόκληση: δημιούργησε το δικό σου κινούμενο σχέδιο'
     challenge: true
