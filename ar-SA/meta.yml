@@ -18,12 +18,16 @@ steps:
     challenge: true
   - 
     title: التحريك باستخدام حلقات التكرار
+    completion:
+      - engaged
   - 
     title: قرد سابح
   - 
     title: كويكب يرتدّ
   - 
     title: نجم متلألئ
+    completion:
+      - internal
   - 
     title: 'تحدي: اصنع رسمتك المتحركة'
     challenge: true
