@@ -18,12 +18,16 @@ steps:
     challenge: true
   - 
     title: Animacja za pomocą pętli
+    completion:
+      - engaged
   - 
     title: Pływająca małpa
   - 
     title: Odbijająca się asteroida
   - 
     title: Błyszcząca gwiazda
+    completion:
+      - internal
   - 
     title: 'Wyzwanie: zrób własną animację'
     challenge: true
