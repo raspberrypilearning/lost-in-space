@@ -6,11 +6,11 @@
 
 新しいScratchプロジェクトを開きます。
 
-**オンライン: **新しいオンラインScratchプロジェクトを[rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}で開きます。
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](https://rpf.io/scratchon){:target="_blank"}.
 
 **オフライン:**オフラインエディターで新しいプロジェクトを開きます。
 
-Scratchオフラインエディタをダウンロードしてインストールする必要がある場合は、[rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}で見つけることができます。:
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
