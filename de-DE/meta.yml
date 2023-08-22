@@ -18,12 +18,16 @@ steps:
     challenge: true
   - 
     title: Animieren mit Schleifen
+    completion:
+      - engaged
   - 
     title: Schwebender Affe
   - 
     title: Abprallender Asteroid
   - 
     title: Glänzender Stern
+    completion:
+      - internal
   - 
     title: 'Challenge: Mache deine eigene Animation'
     challenge: true
