@@ -6,11 +6,11 @@
 
 创建一个新的Scratch项目
 
-**在线： **在[rpf.io/scrath-new](http://rpf.io/scratchon)打开一个新的Scratch在线项目 { target="_blank"}。
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](https://rpf.io/scratchon){:target="_blank"}.
 
 **离线： **在离线编辑器中打开一个新项目。
 
-如果您需要下载并安装Scratch离线编辑器，可以在[ rpf.io/scratchoff ](http://rpf.io/scratchoff)中获取 {：target="_blank"}。
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
