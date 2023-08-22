@@ -6,11 +6,11 @@
 
 建立一個新的 Scratch 專案。
 
-**線上版：**你可以連結 [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"} 以新建專案。
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](https://rpf.io/scratchon){:target="_blank"}.
 
 **離線版：**在離線編輯器的工作列中開啟選單並點擊新建專案。。
 
-如果你需要 Scratch 離線版編輯器，可以連結到 [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}。
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
