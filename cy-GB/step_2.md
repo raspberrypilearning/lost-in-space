@@ -6,11 +6,11 @@ Y cam cyntaf fydd creu llong ofod sy'n hedfan tuag at y Ddaear!
 
 Agor prosiect Scratch newydd.
 
-**Arlein:** agora brosiect Scratch newydd yma [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](https://rpf.io/scratchon){:target="_blank"}.
 
 **All-lein** agora brosiect newydd yn y golygydd all-lein.
 
-Os oes angen i ti lawrlwytho a gosod golygydd Scratch all-lein, mae modd dod o hyd iddo yma [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
