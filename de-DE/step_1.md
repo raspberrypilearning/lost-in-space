@@ -1,12 +1,6 @@
-\--- no-print \---
-
-Dies ist die **Scratch 3** Version des Projekts. Es gibt auch eine [Scratch-2-Version des Projekts](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
-
-\--- /no-print \---
-
 ## Einleitung
 
-Du wirst lernen, deine eigene Animation zu programmieren!
+You are going to learn how to program your own animation!
 
 ### Was Du tun wirst
 
