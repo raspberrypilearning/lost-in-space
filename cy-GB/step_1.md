@@ -1,12 +1,6 @@
-\--- no-print \---
-
-Dyma fersiwn **Scratch 3** y prosiect. Ceir hefyd [fersiwn Scratch 2 o'r prosiect](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
-
-\--- /no-print \---
-
 ## Cyflwyniad
 
-Rwyt ti mynd i ddysgu sut i raglenni dy animeiddiad dy hunan!
+You are going to learn how to program your own animation!
 
 ### Yr hyn byddi di'n ei greu
 
