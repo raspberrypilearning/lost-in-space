@@ -1,18 +1,12 @@
-\--- no-print \---
-
-Ovo je **Scratch 3** verzija projekta. Postoji i [Scratch 2 verzija projekta](https://projects.raspberrypi.org/en/projects/lost-in-space-scratch2).
-
-\--- /no-print \---
-
 ## Uvod
 
-Naučit ćeš programirati vlastitu animaciju!
+You are going to learn how to program your own animation!
 
 ### Napravit ćeš
 
 \--- no-print \---
 
-Klikni na zelenu zastavicu kako bi se animacija pokrenula.
+Click on the green flag to see the animation.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -23,7 +17,7 @@ Klikni na zelenu zastavicu kako bi se animacija pokrenula.
 
 \--- print-only \---
 
-![Dovršen projekt](images/showcase_static.png)
+![Complete project](images/showcase_static.png)
 
 \--- /print-only \---
 
@@ -59,7 +53,7 @@ Klikni na zelenu zastavicu kako bi se animacija pokrenula.
 
 ## title: Dodatne informacije za edukatore
 
-Ako želite ispisati ovaj projekt, koristite [verziju koja je prilagođena za ispis](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
 
 You can find the [completed project here](https://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
 
