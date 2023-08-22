@@ -6,11 +6,11 @@ Ton premier objectif sera de créer un vaisseau spatial qui vole vers la Terre!
 
 Ouvre un nouveau projet Scratch.
 
-** En ligne :** ouvre un nouveau projet Scratch en ligne à [rpf.io/scratch-new](http://rpf.io/scratchon){:target="_blank"}.
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](https://rpf.io/scratchon){:target="_blank"}.
 
 **Hors ligne:** ouvre un nouveau projet dans l'éditeur hors ligne.
 
-Si tu dois télécharger et installer l'éditeur hors ligne Scratch, tu peux le trouver à [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
