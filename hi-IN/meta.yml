@@ -1,7 +1,7 @@
 ---
-title: अन्तरिक्ष में खो गया
+title: अंतरिक्ष में खोए
 hero_image: images/lost-in-space.png
-description: अपने एनीमेशन को को प्रोग्राम करना सीखें!
+description: अपने स्वयं के एनीमेशन को प्रोग्राम करना सीखें!
 original_url: https://www.codeclubprojects.org/en-GB/scratch/lost-in-space
 listed: true
 copyedit: true
@@ -10,22 +10,26 @@ version: 4.1.3
 last_tested: 2018-09-26
 steps:
   - 
-    title: परिचय
+    title: भूमिका
   - 
-    title: एक स्पेसशिप को एनिमेट करना
+    title: अंतरिक्ष-यान एनिमेट करना
   - 
-    title: 'चुनौती: आपकी एनिमेशन में सुधार'
+    title: 'चुनौती: अपने एनीमेशन में सुधार करें'
     challenge: true
   - 
-    title: लूप्स का प्रयोग कर एनिमेट करना
+    title: लूप्स का इस्तेमाल करके एनिमेट करना
+    completion:
+      - engaged
   - 
-    title: तैरने वाला बंदर
+    title: तैरता हुआ बंदर
   - 
-    title: उछलने वाले क्षुद्रग्रह
+    title: उछलता हुआ क्षुद्रग्रह
   - 
     title: चमकता तारा
+    completion:
+      - internal
   - 
-    title: 'चैलेंज: आपका खुद का एनीमेशन बनाना'
+    title: 'चुनौती: अपना स्वयं का एनीमेशन बनाएँ'
     challenge: true
   - 
     title: आगे क्या?
