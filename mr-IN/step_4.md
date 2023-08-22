@@ -1,12 +1,12 @@
-## Animation using loops
+## आवर्ती (loops) वापरून अ‍ॅनिमेशन
 
-Another way to animate the spaceship is to tell it to move a small amount many times
+अंतराळ यान अ‍ॅनिमेट करण्याचा आणखी एक मार्ग म्हणजे लहान अंतर अनेक वेळा सरकण्यास सांगणे
 
 \--- task \---
 
-Delete the `glide`{:class="block3motion"} block from your code. To do this, drag the block off the Code area and drop it back where the other single code blocks are.
+आपल्या कोडमधून `glide`{:class="block3motion"} block हटवा. हे करण्यासाठी glide block कोड क्षेत्राबाहेर खेचा आणि इतर कोड blocks जेथे आहेत तेथे सोडा.
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![अंतराळ यान sprite](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -22,11 +22,11 @@ point towards (Earth v)
 
 \--- task \---
 
-Now use a `repeat`{:class="block3control"} block to move your spaceship towards the Earth.
+आपले अंतराळ यान पृथ्वीच्या दिशेने हलविण्यासाठी `repeat`{:class="block3control"} block वापरा.
 
-![Testing a spaceship animation](images/space-animate-stage.png)
+![अंतराळ यान अ‍ॅनिमेशन ची चाचणी](images/space-animate-stage.png)
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![अंतराळ यान sprite](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -39,7 +39,7 @@ point towards (Earth v)
     move (2) steps
 ```
 
-Test and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class="block3control"} block.
+आपल्या कोडची चाचणी घ्या आणि save करा. आपले अंतराळ यान पूर्वीप्रमाणेच पृथ्वीच्या दिशेने सरकले पाहिजे, परंतु यावेळी हे `repeat`{:class="block3control"} block वापरते.
 
 \--- /task \---
 
