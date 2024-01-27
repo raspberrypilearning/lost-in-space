@@ -1,6 +1,6 @@
-## What next?
+## Що далі?
 
-Try the [Ghostbusters](https://projects.raspberrypi.org/en/projects/ghostbusters?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) project! In that project, you will learn how to create a game with ghosts that appear all over the place and that you need to catch. You will also learn how to add a timer and a score to the game, so that you can see how many ghosts you are able to catch.
+Спробуй проєкт [Мисливці за привидами](https://projects.raspberrypi.org/en/projects/ghostbusters?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects)! У цьому проєкті ти дізнаєшся, як створити гру з привидами, що з’являються звідусіль і яких треба ловити. Також ти дізнаєшся як додати таймер та рахунок до гри, щоб бачити, скільки привидів тобі вдалося зловити.
 
 \--- no-print \---
 
@@ -13,6 +13,6 @@ Try the [Ghostbusters](https://projects.raspberrypi.org/en/projects/ghostbusters
 
 \--- print-only \---
 
-![showcase](images/ghostbusters-static.png)
+![попередній перегляд](images/ghostbusters-static.png)
 
 \--- /print-only \---
