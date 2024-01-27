@@ -1,7 +1,7 @@
-## Challenge: make your own animation
+## Завдання: створи власну анімацію
 
-Stop your space animation, save it, and start a new Scratch project.
+Зупини космічну анімацію, збережи її та створи новий проєкт Скретч.
 
-Use what you've learned in this project to make your own animation. It can be anything you like, but try to make your animation match the background you choose. Here are some examples:
+Використовуй знання, отримані в цьому проєкті, щоб створити власну анімацію. Це може бути що завгодно, але спробуй зробити так, щоб вона відповідала фону. Ось кілька прикладів:
 
-![знімок екрану](images/space-egs.png)
+![знімок екрана](images/space-egs.png)
