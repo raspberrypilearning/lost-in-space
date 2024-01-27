@@ -1,24 +1,24 @@
-## Animating a spaceship
+## Анімація космічного корабля
 
-Your first step will be to create a spaceship that flies towards the Earth!
+Твоїм першим кроком буде створення космічного корабля, що летить до Землі!
 
 \--- task \---
 
-Open a new Scratch project.
+Відкрий новий проєкт Скретч.
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](https://rpf.io/scratchon){:target="_blank"}.
+**Онлайн:** відкрий новий онлайн проєкт Скретч на [rpf.io/scratch-new](https://rpf.io/scratchon){:target="_blank"}.
 
-**Offline:** open a new project in the offline editor.
+**Офлайн:** відкрий новий проєкт в офлайн-редакторі.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
+Якщо тобі треба завантажити та встановити офлайн-редактор Скретч, ти можеш його знайти на [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 \--- /task \---
 
 \--- task \---
 
-Add 'rocketship' and 'Earth' sprites to your Stage.
+Додай спрайти rocketship («космічний корабель») та Earth («Земля») на Сцену.
 
-![Spaceship and Earth sprites](images/space-sprites.png)
+![Спрайти космічного корабля і Землі](images/space-sprites.png)
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -26,33 +26,33 @@ Add 'rocketship' and 'Earth' sprites to your Stage.
 
 \--- task \---
 
-Add the 'Stars' backdrop to your Stage.
+Додай тло Stars («Зірки») на Сцену.
 
-![A space backdrop](images/space-backdrop.png)
-
-\--- /task \---
-
-\--- task \---
-
-Click on your spaceship sprite, and click on the **Costumes** tab.
-
-![Sprite costume](images/space-costume.png)
+![Космічний фон](images/space-backdrop.png)
 
 \--- /task \---
 
 \--- task \---
 
-Use the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.
+Натисни на спрайт космічного корабля, а далі перейди на вкладку **Образи**.
 
-![Rotating a costume](images/space-rotate.png)
+![Образ спрайта](images/space-costume.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add this code to your spaceship sprite:
+Використовуй інструмент **стрілка**: клікни та потягни, поки зображення космічного корабля не опиниться в рамці. Потім натисни на круглий значок **обернути** та обертай зображення, поки воно не опиниться на боці.
 
-![Spaceship sprite](images/sprite-spaceship.png)
+![Обертання костюма](images/space-rotate.png)
+
+\--- /task \---
+
+\--- task \---
+
+Додайте цей код у свій спрайт космічного корабля:
+
+![Спрайт космічного корабля](images/sprite-spaceship.png)
 
 ```blocks3
 when flag clicked
@@ -63,10 +63,10 @@ point towards (Earth v)
 glide (1) secs to x:(0) y:(0)
 ```
 
-Change the numbers in the code blocks you've added so that the code is exactly the same as above.
+Зміни числа в блоках з кодом, щоб код був точно таким, як показано вище.
 
 \--- /task \---
 
-If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
+Коли ти натиснеш на зелений прапор, то космічний корабель заговорить, поверне і почне ковзати в напрямку центру сцени.
 
-![Testing a spaceship animation](images/space-animate-stage.png)
+![Тестування анімації космічного корабля](images/space-animate-stage.png)
