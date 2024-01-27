@@ -1,28 +1,28 @@
-## Сяюча зірка
+## Сяйна зірка
 
-Now you will combine loops to make a shining star.
+Тепер ти скомбінуєш цикли, щоб зробити сяючу зірку.
 
 \--- task \---
 
-Add a 'star' sprite to your stage.
+Додай спрайт star («зірка») до своєї сцени.
 
-![Adding a star sprite](images/space-star-sprite.png)
+![Додавання спрайту зірки](images/space-star-sprite.png)
 
 \--- /task \---
 
 \--- task \---
 
-Can you add code to your star sprite to make the star repeatedly grow and shrink?
+Чи можеш ти додати код до спрайту зірки, щоб вона постійно збільшувалася та зменшувалася?
 
-![Testing a shining star](images/sprite-star.png)
+![Тестування зірки, що сяє](images/sprite-star.png)
 
 \--- hints \--- \--- hint \---
 
-When the green **flag is clicked**, your star sprite should **change size** to get bigger a few times, and then **change size** to get smaller a few times. It should do this so that it gets bigger and then smaller **forever** and looks like it's shining light.
+Коли на зелений **прапор натиснуто**, спрайт зірки має декілька разів **збільшитися**, а потім — декілька разів **зменшитися**. Він повинен збільшуватися та зменшуватися **завжди**, щоб здавалося, ніби він сяє.
 
 \--- /hint \--- \--- hint \---
 
-Here are the code blocks you need:
+Тобі будуть потрібні наступні блоки коду:
 
 ```blocks3
 repeat (10)
@@ -42,9 +42,9 @@ forever
 
 \--- /hint \--- \--- hint \---
 
-Here's the code to make your star grow and shrink:
+Ось код для збільшення та зменшення зірки:
 
-![Star sprite](images/sprite-star.png)
+![Спрайт зірки](images/sprite-star.png)
 
 ```blocks3
 when flag clicked
