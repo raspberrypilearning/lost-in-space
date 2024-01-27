@@ -1,12 +1,12 @@
-## Introduction
+## Вступ
 
-You are going to learn how to program your own animation!
+Ти навчишся програмувати власну анімацію!
 
-### What you will make
+### Що ти зробиш
 
 \--- no-print \---
 
-Click on the green flag to see the animation.
+Натисни на зелений прапор, щоб побачити анімацію.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276873231/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -17,44 +17,44 @@ Click on the green flag to see the animation.
 
 \--- print-only \---
 
-![Complete project](images/showcase_static.png)
+![Завершений проєкт](images/showcase_static.png)
 
 \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: Що тобі знадобиться
 
-### Hardware
+### Обладнання
 
-- A computer capable of running Scratch 3
+- Комп'ютер, що підтримує Скретч 3
 
-### Software
+### Програмне забезпечення
 
-- Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
+- Скретч 3 ([онлайн](https://rpf.io/scratchon){:target="_blank"} або [офлайн](https://rpf.io/scratchoff){:target="_blank"})
 
-### Downloads
+### Завантаження
 
-- None
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: What you will learn
-
-- Use a repeat loop to animate a sprite in Scratch
-- Use a forever loop to repeat an animation indefinitely
-- Understand that loops can be nested within each other
+- Немає
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: Чого ти навчишся
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
+- Використовувати цикл для анімації персонажа в Скретч
+- Використовувати нескінченний цикл для нескінченної анімації персонажа в Скретч
+- Побачиш, що цикли можуть бути вкладені одне в одного
 
-You can find the [completed project here](https://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: Додаткова інформація для викладачів
+
+Якщо вам потрібно надрукувати цей проєкт, скористайтеся [версією для друку](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_ blank"}.
+
+Ви можете знайти [завершений проєкт тут](https://rpf.io/p/en/lost-in-space-get){:target="_ blank"}.
 
 \--- /collapse \---
