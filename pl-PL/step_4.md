@@ -7,12 +7,12 @@ Innym sposobem na ożywienie statku kosmicznego jest powiedzenie mu, aby przemie
 ![Duszek Statku kosmicznego](images/sprite-spaceship.png)
 
 ```blocks3
-kiedy kliknięto zieloną flagę
-ustaw kierunek na (0)
-Idź do x: (-150) y: (-150)
-powiedz [Chodźmy] przez (2) sekund
-ustaw w kierunku duszka (Ziemia v)
-- leć przez (1) sekund do x: (0) y: (0)
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Chodźmy] for (2) seconds
+point towards (Ziemia v)
+- glide (1) secs to x:(0) y:(0)
 ```
 
 --- /task ---
@@ -24,14 +24,13 @@ ustaw w kierunku duszka (Ziemia v)
 ![Duszek Statku kosmicznego](images/sprite-spaceship.png)
 
 ```blocks3
-kiedy kliknięto zieloną flagę
-ustaw kierunek na (0)
-Idź do x: (-150) y: (-150)
-powiedz [Chodźmy] przez (2) sekund
-ustaw w kierunku duszka (Ziemia v)
-+ powtarzaj (200) 
-    przesuń o (2) kroków
-end
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Chodźmy] for (2) seconds
+point towards (Ziemia v)
++ repeat (200)
+    move (2) steps
 ```
 
 Przetestuj i zapisz kod. Twój statek kosmiczny powinien zbliżyć się do Ziemi dokładnie tak jak poprzednio, ale tym razem używa bloku `powtarzaj`{:class="block3control"}.
@@ -45,15 +44,14 @@ Użyj tego bloku:
 ![Duszek Statku kosmicznego](images/sprite-spaceship.png)
 
 ```blocks3
-kiedy kliknięto zieloną flagę
-ustaw kierunek na (0)
-Idź do x: (-150) y: (-150)
-powiedz [Chodźmy] przez (2) sekund
-ustaw w kierunku duszka (Ziemia v)
-powtarzaj (200) 
-    przesuń o (2) kroków
-+    zmień efekt [kolor v] o (25)
-end
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Chodźmy] for (2) seconds
+point towards (Ziemia v)
+repeat (200)
+    move (2) steps
++    change [kolor v] effect by (25)
 ```
 
 Przetestuj i zapisz kod.
@@ -80,9 +78,9 @@ Musisz dodać te bloki do swojego kodu:
 ![Duszek Statku kosmicznego](images/sprite-spaceship.png)
 
 ```blocks3
-zmień rozmiar o (10)
+change size by (10)
 
-ustaw rozmiar na (100) %
+set size to (100) %
 ```
 
 --- /hint ---
@@ -94,17 +92,16 @@ Twój kod powinien wyglądać tak:
 ![Duszek Statku kosmicznego](images/sprite-spaceship.png)
 
 ```blocks3
-kiedy kliknięto zieloną flagę
-ustaw rozmiar na (100) %
-ustaw kierunek na (0)
-Idź do x: (-150) y: (-150)
-powiedz [Chodźmy] przez (2) sekund
-ustaw w kierunku duszka (Ziemia v)
-powtarzaj (200) 
-    przesuń o (2) kroków
-    zmień efekt [kolor v] o (25)
-+   zmień rozmiar o (-3)
-end
+when flag clicked
++ set size to (100) %
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Chodźmy] for (2) seconds
+point towards (Ziemia v)
+repeat (200)
+    move (2) steps
+    change [kolor v] effect by (25)
++   change size by (-0.3)
 ```
 
 --- /hint ---

@@ -9,12 +9,12 @@
 ![宇宙船のスプライト](images/sprite-spaceship.png)
 
 ```blocks3
-⚑ が押されたとき
-(0) 度に向ける
-x座標を (-150) 、y座標を (-150) にする
-[レッツゴー] と (2) 秒言う
-(地球 v) へ向ける
-- (1) 秒でx座標を (0) に、y座標を (0) に変える
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [レッツゴー] for (2) seconds
+point towards (地球 v)
+- glide (1) secs to x:(0) y:(0)
 ```
 
 --- /task ---
@@ -28,13 +28,13 @@ x座標を (-150) 、y座標を (-150) にする
 ![宇宙船のスプライト](images/sprite-spaceship.png)
 
 ```blocks3
-⚑ が押されたとき
-(0) 度に向ける
-x座標を (-150) 、y座標を (-150) にする
-[レッツゴー] と (2) 秒言う
-(地球 v) へ向ける
-+ (200) 回繰り返す 
-  (2) 歩動かす
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [レッツゴー] for (2) seconds
+point towards (地球 v)
++ repeat (200)
+    move (2) steps
 ```
 
 コードをテストして保存します。宇宙船は以前とまったく同じように地球に向かって移動するはずですが、今回は`繰り返す`{:class="block3control"}ブロックを使用します。
@@ -50,15 +50,14 @@ x座標を (-150) 、y座標を (-150) にする
 ![宇宙船のスプライト](images/sprite-spaceship.png)
 
 ```blocks3
-⚑ が押されたとき
-(0) 度に向ける
-x座標を (-150) 、y座標を (-150) にする
-[レッツゴー] と (2) 秒言う
-(地球 v) へ向ける
-(200) 回繰り返す 
-  (2) 歩動かす
-
-+  [色 v] の効果を (25) ずつ変える
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [レッツゴー] for (2) seconds
+point towards (地球 v)
+repeat (200)
+    move (2) steps
++    change [色 v] effect by (25)
 ```
 
 コードをテストして保存します。
@@ -87,9 +86,9 @@ x座標を (-150) 、y座標を (-150) にする
 ![宇宙船のスプライト](images/sprite-spaceship.png)
 
 ```blocks3
-大きさを (10) ずつ変える
+change size by (10)
 
-大きさを (100) %にする
+set size to (100) %
 ```
 
 --- /hint ---
@@ -101,17 +100,16 @@ x座標を (-150) 、y座標を (-150) にする
 ![宇宙船のスプライト](images/sprite-spaceship.png)
 
 ```blocks3
-⚑ が押されたとき
-大きさを (100) %にする
-(0) 度に向ける
-x座標を (-150) 、y座標を (-150) にする
-[レッツゴー] と (2) 秒言う
-(地球 v) へ向ける
-(200) 回繰り返す 
-  (2) 歩動かす
-  [色 v] の効果を (25) ずつ変える
-
-+   大きさを (-3) ずつ変える
+when flag clicked
++ set size to (100) %
+point in direction (0)
+go to x:(-150) y:(-150)
+say [レッツゴー] for (2) seconds
+point towards (地球 v)
+repeat (200)
+    move (2) steps
+    change [色 v] effect by (25)
++   change size by (-0.3)
 ```
 
 --- /hint ---

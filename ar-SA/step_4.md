@@ -9,12 +9,12 @@
 ![كائن سفينة الفضاء](images/sprite-spaceship.png)
 
 ```blocks3
-عند نقر ⚑
-اتجه نحو الاتجاه (0)
-اذهب إلى الموضع س: (-150) ص: (-150)
-قل [لنذهب!] لمدة (2) ثانية
-اتجه نحو (Earth v)
-- انزلق خلال (1) ثانية إلى الموضع س: (0) ص: (0)
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [لنذهب] for (2) seconds
+point towards (Earth v)
+- glide (1) secs to x:(0) y:(0)
 ```
 
 --- /task ---
@@ -28,14 +28,13 @@
 ![كائن سفينة الفضاء](images/sprite-spaceship.png)
 
 ```blocks3
-عند نقر ⚑
-اتجه نحو الاتجاه (0)
-اذهب إلى الموضع س: (-150) ص: (-150)
-قل [لنذهب!] لمدة (2) ثانية
-اتجه نحو (Earth v)
-+ كرِّر (200) مرة 
-  تحرك (2) خطوة
-end
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [لنذهب] for (2) seconds
+point towards (Earth v)
++ repeat (200)
+    move (2) steps
 ```
 
 اختبر مشروعك وقم بحفظه: ستتحرَّك سفينة الفضاء نحو كوكب الأرض تمامًا كما كانت من قبل، لكن باستخدام القالب `كرِّر`{:class="block3control"} في هذه المرة.
@@ -51,15 +50,14 @@ end
 ![كائن سفينة الفضاء](images/sprite-spaceship.png)
 
 ```blocks3
-عند نقر ⚑
-اتجه نحو الاتجاه (0)
-اذهب إلى الموضع س: (-150) ص: (-150)
-قل [لنذهب!] لمدة (2) ثانية
-اتجه نحو (Earth v)
-كرِّر (200) مرة 
-  تحرك (2) خطوة
-+    غيِّر مؤثر [اللون v] بمقدار (25)
-end
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [لنذهب] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
++    change [اللون v] effect by (25)
 ```
 
 إختبر واحفظ المشروع الخاص بك.
@@ -88,9 +86,9 @@ end
 ![كائن سفينة الفضاء](images/sprite-spaceship.png)
 
 ```blocks3
-غيِّر الحجم بمقدار (10)
+change size by (10)
 
-اجعل الحجم مساويًا (100) ٪
+set size to (100) %
 ```
 
 --- /hint ---
@@ -102,17 +100,16 @@ end
 ![كائن سفينة الفضاء](images/sprite-spaceship.png)
 
 ```blocks3
-عند نقر ⚑
-اجعل الحجم مساويًا (100) ٪
-اتجه نحو الاتجاه (0)
-اذهب إلى الموضع س: (-150) ص: (-150)
-قل [لنذهب!] لمدة (2) ثانية
-اتجه نحو (Earth v)
-كرِّر (200) مرة 
-  تحرك (2) خطوة
-  غيِّر مؤثر [color v] بمقدار (25)
-+ غيِّر الحجم بمقدار (-3)
-end
+when flag clicked
++ set size to (100) %
+point in direction (0)
+go to x:(-150) y:(-150)
+say [لنذهب!] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
+    change [اللون v] effect by (25)
++   change size by (-0.3)
 ```
 
 --- /hint ---

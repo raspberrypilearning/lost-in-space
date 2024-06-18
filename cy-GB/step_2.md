@@ -45,12 +45,12 @@ Os oes angen i ti lawrlwytho a gosod golygydd Scratch all-lein, mae modd dod o h
 ![Corlun llong ofod](images/sprite-spaceship.png)
 
 ```blocks3
-pan fo'r flag werdd yn cael ei glicio
-pwyntio i gyfeiriad (0)
-mynd i x: (-150) y: (-150)
-dweud [Awn ni!] am (2) eiliad
-pwyntio tuag at (Earth v)
-llithro (1) eiliad i x: (0) y: (0)
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Awn ni!] for (2) seconds
+point towards (Earth v)
+glide (1) secs to x:(0) y:(0)
 ```
 
 Newida y rhifau yn y blociau côd fel bod y côd union yr un peth â’r llun uchod.

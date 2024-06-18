@@ -42,12 +42,12 @@ Quando a **bandeira verde é clicada**, o seu ator de macaco deve **girar** em c
 Aqui estão os blocos de código que você precisa:
 
 ```blocks3
-sempre
+forever
 end
 
-gire ↻ (15) graus
+turn cw (15) degrees
 
-quando ⚑ for clicado
+when flag clicked
 ```
 
 --- /hint --- --- hint ---
@@ -57,10 +57,9 @@ Aqui está o código para fazer seu macaco girar:
 ![Ator de macaco](images/sprite-monkey.png)
 
 ```blocks3
-quando ⚑ for clicado
-sempre 
-  gire ↻ (1) graus
-end
+when flag clicked
+forever
+    turn cw (1) degrees
 ```
 
 --- /hint ------ /hints ---

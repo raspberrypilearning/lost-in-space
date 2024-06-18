@@ -18,22 +18,21 @@
  --- hint --- Εδώ είναι τα μπλοκ κώδικα που θα χρειαστείς:
 
 ```blocks3
-κινήσου (10) βήματα
+move (10) steps
 
-εάν σε όριο, αναπήδησε
+if on edge bounce
 
-Όταν στην πράσινη σημαία γίνει κλικ
+when flag clicked
 
-για πάντα
-end
+forever
 ```
 
 Τώρα θα προσθέσεις έναν διαστημικό βράχο που επιπλέει στο κινούμενο σχέδιο:
 
 ```blocks3
-στρίψε δεξιόστροφα (15) μοίρες
+turn cw (15) degrees
 
-δείξε προς (Earth v)
+point towards (Earth v)
 ```
 
 --- /hint --- --- hint ---
@@ -43,12 +42,11 @@ end
 ![Αντικείμενο βράχου](images/sprite-rock.png)
 
 ```blocks3
-Όταν στην πράσινη σημαία γίνει κλικ
-δείξε προς (Earth v)
-για πάντα 
-  κινήσου (2) βήματα
-  εάν σε όριο, αναπήδησε
-end
+when flag clicked
+point towards (Earth v)
+forever
+    move (2) steps
+    if on edge, bounce
 ```
 
 --- /hint --- --- /hints --- --- /task ---

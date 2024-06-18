@@ -45,12 +45,12 @@ Wenn du den Scratch-Offline-Editor herunterladen und installieren möchtest, fin
 ![Raumschiff-Figur](images/sprite-spaceship.png)
 
 ```blocks3
-Wenn die grüne Flagge angeklickt
-setze Richtung auf (0) Grad
-gehe zu x: (-150) y: (-150)
-sage [Los geht´s] für (2) Sekunden
-drehe dich zu (Earth v)
-gleite in (1) Sek. zu x: (0) y: (0)
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Los geht´s] for (2) seconds
+point towards (Earth v)
+glide (1) secs to x:(0) y:(0)
 ```
 
 Ändere die Zahlen in den Blöcken, die du hinzugefügt hast, damit der Code exakt dem obigen entspricht.

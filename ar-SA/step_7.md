@@ -26,20 +26,19 @@
 هنا التعليمات البرمجية التي ستحتاج اليها:
 
 ```blocks3
-كرِّر (10) مرة
+repeat (10)
 end
 
-عند نقر ⚑
+when flag clicked
 
-كرِّر (10) مرة
+repeat (10)
 end
 
-غيِّر الحجم بمقدار (10)
+change size by (10)
 
-غيِّر الحجم بمقدار (10)
+change size by (10)
 
-كرِّر باستمرار
-end
+forever
 ```
 
 --- /hint --- --- hint ---
@@ -49,15 +48,14 @@ end
 ![كائن النجمة](images/sprite-star.png)
 
 ```blocks3
-عند نقر ⚑
-كرِّر باستمرار 
-  كرِّر (20) مرة 
-    غيِّر الحجم بمقدار (2)
-  end
-  كرِّر (20) مرة 
-    غيِّر الحجم بمقدار (-2)
-  end
-end
+when flag clicked
+forever
+    repeat (20)
+        change size by (2)
+    end
+    repeat (20)
+        change size by (-2)
+    end
 ```
 
 --- /hint ------ /hints --- --- /task ---

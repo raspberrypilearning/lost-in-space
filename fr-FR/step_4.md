@@ -7,12 +7,12 @@ Une autre façon d'animer le vaisseau spatial est de lui dire d'avancer un petit
 ![Sprite de vaisseau spatial](images/sprite-spaceship.png)
 
 ```blocks3
-quand le drapeau vert pressé
-s'orienter en direction de (0)
-aller à x: (-150) y: (-150)
-dire [c'est parti !] pendant (2) secondes
-s'orienter vers (Terre v)
-- glisser en (1) secondes à x: (0) y: (0)
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [c'est parti !] for (2) seconds
+point towards (Terre v)
+- glide (1) secs to x:(0) y:(0)
 ```
 
 --- /task ---
@@ -24,14 +24,13 @@ s'orienter vers (Terre v)
 ![Sprite de vaisseau spatial](images/sprite-spaceship.png)
 
 ```blocks3
-quand le drapeau vert pressé
-s'orienter en direction de (0)
-aller à x: (-150) y: (-150)
-dire [c'est parti!] pendant (2) secondes
-s'orienter vers (Terre v)
-+ répéter (200) fois 
-    avancer de (2) pas
-end
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [c'est parti !] for (2) seconds
+point towards (Terre v)
++ repeat (200)
+    move (2) steps
 ```
 
 Teste et enregistre ton code. Ton vaisseau spatial devrait se déplacer exactement comme avant vers la Terre, mais cette fois-ci il utilise un bloc `répéter`{:class="block3control"}.
@@ -45,15 +44,14 @@ Utilise ce bloc:
 ![Sprite de vaisseau spatial](images/sprite-spaceship.png)
 
 ```blocks3
-quand le drapeau vert pressé
-s'orienter en direction de (0)
-aller à x: (-150) y: (-150)
-dire [c'est parti!] pendant (2) secondes
-s'orienter vers (Terre v)
-répéter (200) fois 
-    avancer de (2) pas
-+     ajouter (25) à l'effet [couleur v]
-end
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [c'est parti !] for (2) seconds
+point towards (Terre v)
+repeat (200)
+    move (2) steps
++    change [couleur v] effect by (25)
 ```
 
 Teste et enregistre ton code.
@@ -80,9 +78,9 @@ Tu devras ajouter ces blocs à ton code:
 ![Sprite de vaisseau spatial](images/sprite-spaceship.png)
 
 ```blocks3
-ajouter (10) à la taille
+change size by (10)
 
-mettre la taille à (100) % de la taille initiale
+set size to (100) %
 ```
 
 --- /hint ---
@@ -94,17 +92,16 @@ Ton code devrait ressembler à ceci:
 ![Sprite de vaisseau spatial](images/sprite-spaceship.png)
 
 ```blocks3
-quand le drapeau vert pressé
-mettre la taille à (100) % de la taille initiale
-s'orienter en direction de (0)
-aller à x: (-150) y: (-150)
-dire [c'est parti!] pendant (2) secondes
-s'orienter vers (Terre v)
-répéter (200) fois 
-    avancer de (2) pas
-    ajouter (25) à l'effet [couleur v]
-+   ajouter (-3) à la taille
-end
+when flag clicked
++ set size to (100) %
+point in direction (0)
+go to x:(-150) y:(-150)
+say [c'est parti!] for (2) seconds
+point towards (Terre v)
+repeat (200)
+    move (2) steps
+    change [couleur v] effect by (25)
++   change size by (-0.3)
 ```
 
 --- /hint ---

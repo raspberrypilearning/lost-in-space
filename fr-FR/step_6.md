@@ -18,21 +18,21 @@ Maintenant tu vas ajouter une météore flottante à ton animation.
  --- hint --- Voici les blocs de code dont tu auras besoin:
 
 ```blocks3
-avancer de (10) pas
+move (10) steps
 
-rebondir si le bord est atteint
+if on edge bounce
 
-quand le drapeau vert pressé
+when flag clicked
 
-répéter indéfiniment
+forever
 ```
 
 Tu peux également définir une direction de départ plus intéressante pour le sprite météore avec l'un de ces blocs:
 
 ```blocks3
-tourner droite de (15) degrés
+turn cw (15) degrees
 
-s'orienter vers (Terre v)
+point towards (Terre v)
 ```
 
 --- /hint --- --- hint ---
@@ -42,11 +42,11 @@ Voici le code pour faire rebondir ta météore sur la scène:
 ![Sprite Météore](images/sprite-rock.png)
 
 ```blocks3
-quand le drapeau vert pressé
-s'orienter vers (Terre v)
-répéter indéfiniment
-avancer de (2) pas
-rebondir si le bord est atteint
+when flag clicked
+point towards (Terre v)
+forever
+    move (2) steps
+    if on edge, bounce
 ```
 
 --- /hint --- --- /hints --- --- /task ---

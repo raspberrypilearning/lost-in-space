@@ -32,12 +32,12 @@ Wanneer de **groene vlag wordt aangeklikt** zou je aap-sprite **herhaal**delijk 
 Dit zijn de codeblokken die je nodig hebt:
 
 ```blocks3
-herhaal
+forever
 end
 
-draai naar rechts (15) graden 
+turn cw (15) degrees
 
-wanneer op groene vlag wordt geklikt
+when flag clicked
 ```
 
 --- /hint --- --- hint ---
@@ -47,9 +47,9 @@ Dit is de code om je aap te laten ronddraaien:
 ![Aap-sprite](images/sprite-monkey.png)
 
 ```blocks3
-wanneer groene vlag wordt aangeklikt
-herhaal 
-draai (1) graden naar rechts
+when flag clicked
+forever
+    turn cw (1) degrees
 ```
 
 --- /hint --- --- /hints ---

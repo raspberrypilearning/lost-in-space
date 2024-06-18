@@ -10,7 +10,7 @@ Je moet de getallen in dit blok wijzigen:
 ![Rocketship sprite](images/sprite-spaceship.png)
 
 ```blocks3
-schuif in (1) sec. naar x: (0) y: (0)
+glide (1) secs to x:(0) y:(0)
 ```
 
 [[[generic-scratch3-coordinates]]]

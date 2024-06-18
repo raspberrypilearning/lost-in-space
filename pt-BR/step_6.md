@@ -26,21 +26,21 @@ Quando a **bandeira verde é clicada**, o asteroide deve se **mover** e **viajar
 Aqui estão os blocos de código que você precisa:
 
 ```blocks3
-mova (10) passos
+move (10) steps
 
-se tocar na borda, volte
+if on edge bounce
 
-quando ⚑ for clicado
+when flag clicked
 
-sempre
+forever
 ```
 
 Você também pode definir uma direção inicial mais interessante para o ator da rocha com um destes blocos:
 
 ```blocks3
-gire ↻ (15) graus
+turn cw (15) degrees
 
-aponte para (Earth v)
+point towards (Earth v)
 ```
 
 --- /hint --- --- hint ---
@@ -50,11 +50,11 @@ Aqui está o código para fazer a sua rocha bater pelo palco:
 ![Ator de rocha](images/sprite-rock.png)
 
 ```blocks3
-quando ⚑ for clicado
-aponte para (Earth v)
-sempre 
-  mova (2) passos
-  se tocar na borda, volte
+when flag clicked
+point towards (Earth v)
+forever
+    move (2) steps
+    if on edge, bounce
 ```
 
 --- /hint ------ /hints --- --- /task ---

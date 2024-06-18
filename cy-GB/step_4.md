@@ -7,12 +7,12 @@ Ffordd arall o animeiddio’r llong ofod yw dweud wrtho i symud ychydig bach, ni
 ![Corlun llong ofod](images/sprite-spaceship.png)
 
 ```blocks3
-pan fo'r flag werdd yn cael ei glicio
-pwyntio i gyfeiriad (0)
-mynd i x: (-150) y: (-150)
-dweud [Awn ni!] am (2) eiliad
-pwyntio tuag at (Earth v)
-- llithro (1) eiliad i x: (0) y: (0)
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Awn ni!] for (2) seconds
+point towards (Earth v)
+- glide (1) secs to x:(0) y:(0)
 ```
 
 --- /task ---
@@ -26,14 +26,13 @@ Nawr, defnyddiwch bloc `ailadrodd`{:class="block3control"} i symud dy long ofod 
 ![Corlun llong ofod](images/sprite-spaceship.png)
 
 ```blocks3
-pan fo'r flag werdd yn cael ei glicio
-pwyntio i gyfeiriad (0)
-mynd i x: (-150) y: (-150)
-dweud [Awn ni!] am (2) eiliad
-pwyntio tuag at (Earth v)
-+ ailadrodd (200) 
-  symud (2) cam
-end
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Awn ni!] for (2) seconds
+point towards (Earth v)
++ repeat (200)
+    move (2) steps
 ```
 
 Profa ac arbed dy gôd. Fe ddylai dy long ofod symud tuag at y Ddaear yn union fel y tro o'r blaen, dim ond ei fod yn defnyddio y bloc `ailadrodd`{:class="block3control"} y tro hwn.
@@ -48,14 +47,14 @@ Defnyddia'r bloc yma:
 ![Corlun llong ofod](images/sprite-spaceship.png)
 
 ```blocks3
-pan fo'r flag werdd yn cael ei glicio
-pwyntio i gyfeiriad (0)
-mynd i x: (-150) y: (-150)
-dweud [Awn ni!] am (2) eiliad
-pwyntio tuag at (Earth v)
-ailadrodd (200) 
-  symud (2) cam
-+    newid effaith [lliw v] gan (25)
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Awn ni!] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
++    change [lliw v] effect by (25)
 ```
 
 Profa ac arbed dy gôd.
@@ -82,9 +81,9 @@ Mae angen ychwanegu'r blociau yma i dy gôd:
 ![Corlun llong ofod](images/sprite-spaceship.png)
 
 ```blocks3
-newid maint gan (10)
+change size by (10)
 
-gosod maint i (100) %
+set size to (100) %
 ```
 
 --- /hint ---
@@ -96,16 +95,16 @@ Fe ddylai dy gôd edrych fel hyn:
 ![Corlun llong ofod](images/sprite-spaceship.png)
 
 ```blocks3
-pan fo'r flag werdd yn cael ei glicio
-gosod maint i (100) %
-pwyntio i gyfeiriad (0)
-mynd i x: (-150) y: (-150)
-dweud [Awn ni!] am (2) eiliad
-pwyntio tuag at (Earth v)
-ailadrodd (200) 
-  symud (2) cam
-  newid effaith [lliw v] gan (25)
-+   newid maint gan (-3)
+when flag clicked
++ set size to (100) %
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Awn ni!] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
+    change [lliw v] effect by (25)
++   change size by (-0.3)
 ```
 
 --- /hint ---

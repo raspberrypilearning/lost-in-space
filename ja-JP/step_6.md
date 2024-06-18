@@ -26,22 +26,21 @@
 必要なコードブロックは次のとおりです。
 
 ```blocks3
-(10) 歩動かす
+move (10) steps
 
-もし端に着いたら、跳ね返る
+if on edge bounce
 
-⚑ が押されたとき
+when flag clicked
 
-ずっと
-end
+forever
 ```
 
 いずれかのブロックを使用して、岩のスプライトにもっと面白い開始方向を設定することもできます。
 
 ```blocks3
-↻ (15) 度回す
+turn cw (15) degrees
 
-(地球 v) へ向ける
+point towards (地球 v)
 ```
 
 --- /hint --- --- hint ---
@@ -51,12 +50,11 @@ end
 ![岩のスプライト](images/sprite-rock.png)
 
 ```blocks3
-⚑ が押されたとき
-(地球 v) へ向ける
-ずっと 
-  (2) 歩動かす
-  もし端に着いたら、跳ね返る
-end
+when flag clicked
+point towards (地球 v)
+forever
+    move (2) steps
+    if on edge, bounce
 ```
 
 --- /hint ------ /hints --- --- /task ---

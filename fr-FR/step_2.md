@@ -45,12 +45,12 @@ Si tu dois télécharger et installer l'éditeur hors ligne Scratch, tu peux le 
 ![Sprite de vaisseau spatial](images/sprite-spaceship.png)
 
 ```blocks3
-quand le drapeau vert pressé
-s'orienter en direction de (0)
-aller à x: (-150) y: (-150)
-dire [c'est parti !] pendant (2) secondes
-s'orienter vers (Earth v)
-glisser en (1) secondes à x: (0) y: (0)
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [c'est parti !] for (2) seconds
+point towards (Terre v)
+glide (1) secs to x:(0) y:(0)
 ```
 
 Change les nombres dans les blocs de code pour que le code soit exactement le même que dans l'image ci-dessus.

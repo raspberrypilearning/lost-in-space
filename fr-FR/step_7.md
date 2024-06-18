@@ -18,33 +18,32 @@ Maintenant, tu vas combiner les boucles pour faire une étoile brillante.
  --- hint --- Voici les blocs de code dont tu auras besoin:
 
 ```blocks3
-répéter (10) fois
+repeat (10)
 end
 
-quand le drapeau vert pressé
+when flag clicked
 
-répéter (10) fois
+repeat (10)
 end
 
-ajouter (10) à la taille
+change size by (10)
 
-ajouter (10) à la taille
+change size by (10)
 
-répéter indéfiniment
+forever
 ```
 
 --- /hint --- --- hint --- Voici le code pour faire grossir et réduire ton étoile: ![Sprite Étoile](images/sprite-star.png)
 
 ```blocks3
-quand le drapeau vert pressé
-répéter indéfiniment 
-    répéter (20) fois 
-        ajouter (2) à la taille
+when flag clicked
+forever
+    repeat (20)
+        change size by (2)
     end
-    répéter (20) fois 
-        ajouter (-2) à la taille
+    repeat (20)
+        change size by (-2)
     end
-end
 ```
 
 --- /hint --- --- /hints --- --- /task ---

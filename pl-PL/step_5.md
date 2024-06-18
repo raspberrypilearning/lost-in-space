@@ -32,12 +32,12 @@ Gdy zielona **flaga jest kliknięta**, twój duszek małpy powinien **obracać s
 Oto potrzebne bloki kodu:
 
 ```blocks3
-zawsze
+forever
 end
 
-obróć w prawo o (15) stopni
+turn cw (15) degrees
 
-kiedy kliknięto zieloną flagę
+when flag clicked
 ```
 
 --- /hint --- --- hint ---
@@ -47,10 +47,9 @@ Oto kod, który sprawi, że twoja małpa się zakręci:
 ![Duszek małpy](images/sprite-monkey.png)
 
 ```blocks3
-kiedy kliknięto zieloną flagę
-zawsze 
-    obróć w prawo o (1) stopni
-end
+when flag clicked
+forever
+    turn cw (1) degrees
 ```
 
 --- /hint --- --- /hints ---

@@ -10,7 +10,7 @@
 ![Αντικείμενο διαστημόπλοιου](images/sprite-spaceship.png)
 
 ```blocks3
-ολίσθησε για (1) δευτ. στη θέση x: (0) y: (0)
+glide (1) secs to x:(0) y:(0)
 ```
 
 [[[generic-scratch3-coordinates]]]

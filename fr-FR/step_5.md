@@ -32,12 +32,12 @@ Lorsque le drapeau vert **est cliqué** , ton sprite singe devrait **tourner** d
 Voici les blocs dont tu as besoin:
 
 ```blocks3
-répéter indéfiniment
+forever
 end
 
-tourner droite de (15) degrés
+turn cw (15) degrees
 
-quand le drapeau vert pressé
+when flag clicked
 ```
 
 --- /hint --- --- hint ---
@@ -47,10 +47,9 @@ Voici le code pour faire tourner ton singe:
 ![Sprite singe](images/sprite-monkey.png)
 
 ```blocks3
-quand le drapeau vert pressé
-répéter indéfiniment 
-    tourner droite de (1) degrés
-end
+when flag clicked
+forever
+    turn cw (1) degrees
 ```
 
 --- /hint --- --- /hints ---

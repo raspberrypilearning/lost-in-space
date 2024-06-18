@@ -18,34 +18,32 @@ Rwyt ti am gyfunio dolenu i greu seren ddisglair.
  --- hint --- Dyma'r blociau côd rwyt ti eu hangen:
 
 ```blocks3
-ailadrodd (10)
+repeat (10)
 end
 
-pan fo'r flag werdd yn cael ei glicio
+when flag clicked
 
-ailadrodd (10)
+repeat (10)
 end
 
-newid maint gan (10)
+change size by (10)
 
-newid maint gan (10)
+change size by (10)
 
-am byth
-end
+forever
 ```
 
 --- /hint --- --- hint --- Dyma'r côd i wneud dy seren i dyfu a lleihau: ![Corlun seren](images/sprite-star.png)
 
 ```blocks3
-pan fo'r flag werdd yn cael ei glicio
-am byth 
-  ailadrodd (20) 
-    newid maint gan (2)
-  end
-  ailadrodd (20) 
-    newid maint gan (-2)
-  end
-end
+when flag clicked
+forever
+    repeat (20)
+        change size by (2)
+    end
+    repeat (20)
+        change size by (-2)
+    end
 
 ```
 

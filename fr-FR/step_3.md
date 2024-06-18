@@ -10,7 +10,7 @@ Tu dois changer les nombres dans ce bloc:
 ![Sprite de Fusée](images/sprite-spaceship.png)
 
 ```blocks3
-glisser en (1) secondes à x: (0) y: (0)
+glide (1) secs to x:(0) y:(0)
 ```
 
 [[[generic-scratch3-coordinates]]]

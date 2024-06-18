@@ -42,12 +42,12 @@
 必要なコードブロックは次のとおりです。
 
 ```blocks3
-ずっと
+forever
 end
 
-↻ (15) 度回す
+turn cw (15) degrees
 
-⚑ が押されたとき
+when flag clicked
 ```
 
 --- /hint --- --- hint ---
@@ -57,10 +57,9 @@ end
 ![サルのスプライト](images/sprite-monkey.png)
 
 ```blocks3
-⚑ が押されたとき
-ずっと 
-  ↻ (1) 度回す
-end
+when flag clicked
+forever
+    turn cw (1) degrees
 ```
 
 --- /hint ------ /hints ---

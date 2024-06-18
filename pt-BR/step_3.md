@@ -10,7 +10,7 @@ Você precisará alterar os números neste bloco:
 ![Ator da nave espacial](images/sprite-spaceship.png)
 
 ```blocks3
-desliza em (1) s para a posição x: (0) y: (0)
+glide (1) secs to x:(0) y:(0)
 ```
 
 [[[generic-scratch3-coordinates]]]

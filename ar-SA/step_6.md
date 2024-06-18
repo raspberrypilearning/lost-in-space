@@ -26,22 +26,21 @@
 هنا التعليمات البرمجية التي ستحتاج اليها:
 
 ```blocks3
-تحرك (10) خطوة
+move (10) steps
 
-ارتد إذا كنت عند الحافة
+if on edge bounce
 
-عند نقر ⚑
+when flag clicked
 
-كرِّر باستمرار
-end
+forever
 ```
 
 يمكنك أيضًا تعيين اتجاه البداية بشكل أكثر إثارة للاهتمام لكائن الصخرة باستخدام إحدى هذه الكتل:
 
 ```blocks3
-استدر ↻ (15) درجة
+turn cw (15) degrees
 
-اتجه نحو (Earth v)
+point towards (Earth v)
 ```
 
 --- /hint --- --- hint ---
@@ -51,12 +50,11 @@ end
 ![كائن الصخرة](images/sprite-rock.png)
 
 ```blocks3
-عند نقر ⚑
-اتجه نحو (Earth v)
-كرِّر باستمرار 
-  تحرك (2) خطوة
-  ارتد إذا كنت عند الحافة
-end
+when flag clicked
+point towards (Earth v)
+forever
+    move (2) steps
+    if on edge, bounce
 ```
 
 --- /hint ------ /hints --- --- /task ---

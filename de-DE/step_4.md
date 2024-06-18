@@ -7,12 +7,12 @@ Eine andere Möglichkeit das Raumschiff zu animieren ist, es ganz oft kleine Sch
 ![Raumschiff-Figur](images/sprite-spaceship.png)
 
 ```blocks3
-Wenn die grüne Flagge angeklickt
-setze Richtung auf (0) Grad
-gehe zu x: (-150) y: (-150)
-sage [Los geht´s] für (2) Sekunden
-drehe dich zu (Earth v)
-- gleite in (1) Sek. zu x: (0) y: (0)
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Los geht´s] for (2) seconds
+point towards (Earth v)
+- glide (1) secs to x:(0) y:(0)
 ```
 
 --- /task ---
@@ -24,14 +24,13 @@ drehe dich zu (Earth v)
 ![Raumschiff-Figur](images/sprite-spaceship.png)
 
 ```blocks3
-Wenn die grüne Flagge angeklickt
-setze Richtung auf (0) Grad
-gehe zu x: (-150) y: (-150)
-sage [Los geht´s] für (2) Sekunden
-drehe dich zu (Earth v)
-+ wiederhole (200) mal 
-    gehe (2) er Schritt
-end
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Los geht´s] for (2) seconds
+point towards (Earth v)
++ repeat (200)
+    move (2) steps
 ```
 
 Teste und speichere deinen Code. Dein Raumschiff sollte sich genau wie zuvor zur Erde bewegen, aber diesmal mit Hilfe eines `wiederhole ... mal`{:class="block3control}-Blocks.
@@ -45,15 +44,14 @@ Verwende diesen Block:
 ![Raumschiff-Figur](images/sprite-spaceship.png)
 
 ```blocks3
-Wenn die grüne Flagge angeklickt
-setze Richtung auf (0) Grad
-gehe zu x: (-150) y: (-150)
-sage [Los geht´s] für (2) Sekunden
-drehe dich zu (Earth v)
-wiederhole (200) mal 
-    gehe (2) er Schritt
-+     ändere Effekt [Farbe v] um (25)
-end
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [los geht's] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
++    change [Farbe v] effect by (25)
 ```
 
 Teste und speichere nun dein Projekt.
@@ -80,9 +78,9 @@ Du musst diese Blöcke zu deinem Code hinzufügen:
 ![Raumschiff-Figur](images/sprite-spaceship.png)
 
 ```blocks3
-ändere Größe um (10)
+change size by (10)
 
-setze Größe auf (100)
+set size to (100) %
 ```
 
 --- /hint ---
@@ -94,16 +92,16 @@ Dein Code sollte so aussehen:
 ![Raumschiff-Figur](images/sprite-spaceship.png)
 
 ```blocks3
-Wenn die grüne Flagge angeklickt
-setze Größe auf (100)
-setze Richtung auf (0) Grad
-gehe zu x:(-150) y:(-150)
-sage [Los geht´s] für (2) Sekunden
-drehe dich zu (Earth v)
-wiederhole (200) mal
-    gehe (2) er Schritt
-    ändere Effekt [Farbe v] um (25)
-+   ändere Größe um (-3)
+when flag clicked
++ set size to (100) %
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Los geht's] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
+    change [Farbe v] effect by (25)
++   change size by (-0.3)
 ```
 
 --- /hint ---

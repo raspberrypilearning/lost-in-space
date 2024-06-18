@@ -7,13 +7,12 @@ Een andere manier om het ruimteschip te laten bewegen is het te vertellen dat he
 ![Ruimteschip sprite](images/sprite-spaceship.png)
 
 ```blocks3
-wanneer groene vlag wordt aangeklikt
-richt naar (0) graden
-ga naar x: (-150) y: (-150)
-zeg [We gaan!] (2) sec.
-richt naar (Earth v)
-
-- schuif in (1) sec. naar x: (0) y: (0)
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [We gaan!] for (2) seconds
+point towards (Earth v)
+- glide (1) secs to x:(0) y:(0)
 ```
 
 --- /task ---
@@ -25,14 +24,13 @@ richt naar (Earth v)
 ![Ruimteschip sprite](images/sprite-spaceship.png)
 
 ```blocks3
-wanneer groene vlag wordt aangeklikt
-richt naar (0) graden
-ga naar x: (-150) y: (-150)
-zeg [We gaan!] (2) sec.
-richt naar (Aarde v)
-
-+ herhaal (200) 
-   neem (2) stappen
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [We gaan!] for (2) seconds
+point towards (Earth v)
++ repeat (200)
+    move (2) steps
 ```
 
 Test en bewaar je code. Je ruimteschip zou nog steeds naar de aarde moeten bewegen, maar nu met een `herhaal`{:class="block3control"}-blok.
@@ -46,14 +44,14 @@ Gebruik dit blok:
 ![Ruimteschip sprite](images/sprite-spaceship.png)
 
 ```blocks3
-wanneer groene vlag wordt aangeklikt
-richt naar (0) graden
-ga naar x: (-150) y: (-150)
-zeg [We gaan!] (2) sec.
-richt naar (Aarde v)
-herhaal (200) 
-  neem (2) stappen
-+ verander [kleur v] -effect met (25)
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [We gaan!] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
++    change [kleur v] effect by (25)
 ```
 
 Test en sla je code op.
@@ -80,9 +78,9 @@ Je moet deze blokken toevoegen aan je code:
 ![Ruimteschip sprite](images/sprite-spaceship.png)
 
 ```blocks3
-verander grootte met (10)
+change size by (10)
 
-maak grootte (100) %
+set size to (100) %
 ```
 
 --- /hint ---
@@ -94,16 +92,16 @@ Je code zou er als volgt uit moeten zien:
 ![Ruimteschip sprite](images/sprite-spaceship.png)
 
 ```blocks3
-wanneer groene vlag wordt aangeklikt
-maak grootte (100) %
-richt naar (0) graden
-ga naar x: (-150) y: (-150)
-zeg [We gaan!] (2) sec.
-richt naar (Aarde v)
-herhaal (200) 
-  neem (2) stappen
-  verander [kleur v] -effect met (25)
-+ verander grootte met (-3)
+when flag clicked
++ set size to (100) %
+point in direction (0)
+go to x:(-150) y:(-150)
+say [We gaan!] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
+    change [kleur v] effect by (25)
++   change size by (-0.3)
 ```
 
 --- /hint ---
