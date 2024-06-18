@@ -15,21 +15,21 @@ Teraz dodasz latającą asteroidę do swojej animacji.
 --- hints --- --- hint --- Po kliknięciu zielonej **flagi**, twój duszek skały powinien **przesuwać** i **odbijać się** wokół sceny **zawsze**. --- /hint --- --- hint --- Oto potrzebne bloki kodu:
 
 ```blocks3
-przesuń o (10) kroków
+move (10) steps
 
-jeżeli na brzegu, odbij się
+if on edge bounce
 
-kiedy kliknięto zieloną flagę
+when flag clicked
 
-zawsze
+forever
 ```
 
 Możesz również ustawić bardziej interesujący kierunek początkowy dla sprite'a skalnego za pomocą jednego z tych bloków:
 
 ```blocks3
-obróć w prawo o (15) stopni
+turn cw (15) degrees
 
-ustaw w kierunku duszka (Ziemia v)
+point towards (Ziemia v)
 ```
 
 --- /hint --- --- hint ---
@@ -39,12 +39,11 @@ Oto kod, dzięki któremu Twoja skała odbija się od sceny:
 ![Duszek skały](images/sprite-rock.png)
 
 ```blocks3
-kiedy kliknięto zieloną flagę
-ustaw w kierunku duszka (Ziemia v)
-zawsze 
-    przesuń o (2) kroków
-    jeżeli na brzegu, odbij się
-end
+when flag clicked
+point towards (Ziemia v)
+forever
+    move (2) steps
+    if on edge, bounce
 ```
 
 --- /hint --- --- /hints --- --- /task ---

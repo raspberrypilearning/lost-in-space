@@ -32,12 +32,12 @@ Wenn die grüne **Flagge angeklickt** wird, soll sich die Affen-Figur **fortlauf
 Hier sind die Codeblöcke die du brauchst:
 
 ```blocks3
-wiederhole fortlaufend
+forever
 end
 
-drehe dich nach rechts um (15) Grad
+turn cw (15) degrees
 
-Wenn die grüne Flagge angeklickt
+when flag clicked
 ```
 
 --- /hint --- --- hint ---
@@ -47,10 +47,9 @@ Hier ist der Code, um deinen Affen zum Drehen zu bringen:
 ![Affen Figur](images/sprite-monkey.png)
 
 ```blocks3
-Wenn die grüne Flagge angeklickt
-wiederhole fortlaufend 
-    drehe dich nach rechts um (1) Grad
-end
+when flag clicked
+forever
+    turn cw (1) degrees
 ```
 
 --- /hint --- --- /hints ---

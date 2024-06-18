@@ -34,12 +34,12 @@
 Εδώ είναι τα μπλοκ κώδικα που χρειάζεσαι:
 
 ```blocks3
-για πάντα
+forever
 end
 
-στρίψε δεξιόστροφα (15) μοίρες
+turn cw (15) degrees
 
-Όταν στην πράσινη σημαία γίνει κλικ
+when flag clicked
 ```
 
 --- /hint --- --- hint ---
@@ -49,10 +49,9 @@ end
 ![Αντικείμενο μαϊμού](images/sprite-monkey.png)
 
 ```blocks3
-Όταν στην πράσινη σημαία γίνει κλικ
-για πάντα 
-  στρίψε δεξιόστροφα (1) μοίρες
-end
+when flag clicked
+forever
+    turn cw (1) degrees
 ```
 
 --- /hint --- --- /hints ---

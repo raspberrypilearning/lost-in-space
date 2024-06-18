@@ -10,7 +10,7 @@
 ![宇宙船のスプライト](images/sprite-spaceship.png)
 
 ```blocks3
-(1) 秒でx座標を (0) に、y座標を (0) に変える
+glide (1) secs to x:(0) y:(0)
 ```
 
 [[[generic-scratch3-coordinates]]]

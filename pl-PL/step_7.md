@@ -15,32 +15,32 @@ Teraz wykorzystasz połączenie różnych pętli, żeby stworzyć świecącą gw
 --- hints --- --- hint --- Gdy zielona **flaga zostanie kliknięta**, twój duszek gwiazdy powinien **zmienić rozmiar** tak, aby powiększyć się kilkukrotnie, a następnie **zmienić rozmiar** tak, aby zmniejszyć się kilka razy. To powinno spowodować, że gwiazda **zawsze** powiększa się, a następnie zmniejsza, co powoduje, że wygląda jakby gwiazda świeciła. --- /hint --- --- hint --- Oto potrzebne bloki kodu:
 
 ```blocks3
-powtarzaj (10)
-koniec
+repeat (10)
+end
 
-kiedy kliknięto zieloną flagę
+when flag clicked
 
-powtarzaj (10)
-koniec
+repeat (10)
+end
 
-zmień rozmiar o (10)
+change size by (10)
 
-zmień rozmiar o (10)
+change size by (10)
 
-zawsze
+forever
 ```
 
 --- /hint --- --- hint --- Oto kod, dzięki któremu twoja gwiazda rośnie i zmniejsza się: ![Duszek gwiazdy](images/sprite-star.png)
 
 ```blocks3
-kiedy kliknięto zieloną flagę
-zawsze
-    powtarzaj (20)
-        zmień rozmiar o (2)
-    koniec
-    powtarzaj (20)
-        zmień rozmiar o (-2)
-    koniec
+when flag clicked
+forever
+    repeat (20)
+        change size by (2)
+    end
+    repeat (20)
+        change size by (-2)
+    end
 
 ```
 

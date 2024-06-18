@@ -7,12 +7,12 @@
 ![Αντικείμενο διαστημόπλοιου](images/sprite-spaceship.png)
 
 ```blocks3
-Όταν στην πράσινη σημαία γίνει κλικ
-δείξε προς κατεύθυνση (0)
-πήγαινε σε θέση x: (-150) y: (-150)
-πες [Πάμε] για (2) δευτερόλεπτα
-δείξε προς (Earth v)
-- ολίσθησε για (1) δευτ. στη θέση x: (0) y: (0)
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Πάμε] for (2) seconds
+point towards (Earth v)
+- glide (1) secs to x:(0) y:(0)
 ```
 
 --- /task ---
@@ -24,14 +24,13 @@
 ![Αντικείμενο διαστημόπλοιου](images/sprite-spaceship.png)
 
 ```blocks3
-Όταν στην πράσινη σημαία γίνει κλικ
-δείξε προς κατεύθυνση (0)
-πήγαινε σε θέση x: (-150) y: (-150)
-πες [Πάμε] για (2) δευτερόλεπτα
-δείξε προς (Earth v)
-+ επανέλαβε (200)
-+   κινήσου (2) βήματα
-+ end
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Πάμε] for (2) seconds
+point towards (Earth v)
++ repeat (200)
+    move (2) steps
 ```
 
 Δοκίμασε και αποθήκευσε τον κώδικά σου. Το διαστημόπλοιο θα πρέπει να κινείται προς τη Γη ακριβώς όπως και πριν, αλλά χρησιμοποιώντας αυτή τη φορά ένα μπλοκ `επανάληψης`{:class="block3control"}.
@@ -45,15 +44,14 @@
 ![Αντικείμενο διαστημόπλοιου](images/sprite-spaceship.png)
 
 ```blocks3
-Όταν στην πράσινη σημαία γίνει κλικ
-δείξε προς κατεύθυνση (0)
-πήγαινε σε θέση x: (-150) y: (-150)
-πες [Πάμε] για (2) δευτερόλεπτα
-δείξε προς (Earth v)
-επανάλαβε (200) 
-  κινήσου (2) βήματα
-+ άλλαξε εφέ [color v] κατά (25)
-end
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Πάμε] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
++    change [color v] effect by (25)
 ```
 
 Δοκίμασε και αποθήκευσε τον κώδικά σου.
@@ -80,9 +78,9 @@ end
 ![Αντικείμενο διαστημόπλοιου](images/sprite-spaceship.png)
 
 ```blocks3
-άλλαξε μέγεθος κατά (10)
+change size by (10)
 
-όρισε μέγεθος σε (100) %
+set size to (100) %
 ```
 
 --- /hint ---
@@ -94,17 +92,16 @@ end
 ![Αντικείμενο διαστημόπλοιου](images/sprite-spaceship.png)
 
 ```blocks3
-Όταν στην πράσινη σημαία γίνει κλικ
-όρισε μέγεθος σε (100) %
-δείξε προς κατεύθυνση (0)
-πήγαινε σε θέση x: (-150) y: (-150)
-πες [Πάμε] για (2) δευτερόλεπτα
-δείξε προς (Earth v)
-επανάλαβε (200) 
-  κινήσου (2) βήματα
-  άλλαξε εφέ [color v] κατά (25)
-+ άλλαξε μέγεθος κατά (-3)
-end
+when flag clicked
++ set size to (100) %
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Πάμε] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
+    change [color v] effect by (25)
++   change size by (-0.3)
 ```
 
 --- /hint ---

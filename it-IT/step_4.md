@@ -118,6 +118,6 @@ repeat (200)
 
 --- /task ---
 
-Prova e salva il tuo codice. La tua astronave ora dovrebbe ridursi man mano che si muove. Metti alla prova la tua astronave una ** seconda volta **. È della taglia giusta quando inizia?
+Prova e salva il tuo codice. La tua astronave ora dovrebbe ridursi man mano che si muove. Metti alla prova la tua astronave una **seconda volta**. È della taglia giusta quando inizia?
 
 ![Testare un'astronave che si rimpicciolisce](images/space-size-test.png)

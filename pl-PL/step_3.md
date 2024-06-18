@@ -10,7 +10,7 @@ Będziesz musiał zmienić liczby w tym bloku:
 ![Duszek Rakiety](images/sprite-spaceship.png)
 
 ```blocks3
-leć przez (1) sekund do x:(0) y:(0)
+glide (1) secs to x:(0) y:(0)
 ```
 
 [[[generic-scratch3-coordinates]]]

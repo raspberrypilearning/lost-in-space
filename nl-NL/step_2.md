@@ -45,12 +45,12 @@ Als je de Scratch offline editor wilt downloaden en installeren dan kun je die v
 ![Ruimteschip sprite](images/sprite-spaceship.png)
 
 ```blocks3
-wanneer groene vlag wordt aangeklikt
-richt naar (0) graden
-ga naar x: (-150) y: (-150)
-zeg [We gaan!] (2) sec.
-richt naar (Earth v)
-schuif in (1) sec. naar x: (0) y: (0)
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [We gaan!] for (2) seconds
+point towards (Earth v)
+glide (1) secs to x:(0) y:(0)
 ```
 
 Wijzig de getallen in de codeblokken die je hebt toevoegd zodat de code precies hetzelfde is als hierboven.

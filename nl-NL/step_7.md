@@ -18,32 +18,32 @@ Nu ga je verschillende lussen combineren om een fonkelende ster te maken.
  --- hint --- Dit zijn de codeblokken die je nodig hebt:
 
 ```blocks3
-herhaal (10)
+repeat (10)
 end
 
-wanneer groene vlag wordt aangeklikt
+when flag clicked
 
-herhaal (10)
+repeat (10)
 end
 
-verander grootte met (10)
+change size by (10)
 
-verander grootte met (10)
+change size by (10)
 
-herhaal
+forever
 ```
 
 --- /hint --- --- hint --- Dit is de code die je nodig hebt om je ster groter en kleiner te maken: ![Ster-sprite](images/sprite-star.png)
 
 ```blocks3
-wanneer groene vlag wordt aangeklikt
-herhaal 
-herhaal (20)
-verander grootte met (2)
-end
-herhaal (20) 
-verander grootte met (-2)
-end
+when flag clicked
+forever
+    repeat (20)
+        change size by (2)
+    end
+    repeat (20)
+        change size by (-2)
+    end
 
 ```
 

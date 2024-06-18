@@ -10,11 +10,11 @@ Elimine o bloco `planar`{:class="block3motion"} do seu código. Para fazer isso,
 
 ```blocks3
 when flag clicked
-aponte para a direção (0)
-vá para x: (-150) y: (-150)
-diga [Vamos lá] por (2) segundos
-aponte para (Earth v)
--deslize por (1) segs. até x: (0) y: (0)
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Vamos lá] for (2) seconds
+point towards (Earth v)
+- glide (1) secs to x:(0) y:(0)
 ```
 
 --- /task ---
@@ -29,12 +29,12 @@ Agora use uma `repetição`{:class="block3control"} para mover a sua nave espaci
 
 ```blocks3
 when flag clicked
-aponte para a direção (0)
-vá para x: (-150) y: (-150)
-diga [Vamos lá] por (2) segundos
-aponte para (Earth v)
-+repita (200) vezes 
-  mova (2) passos
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Vamos lá] for (2) seconds
+point towards (Earth v)
++ repeat (200)
+    move (2) steps
 ```
 
 Teste e salve o seu código. A sua nave espacial deve mover-se em direção à Terra exatamente como antes, mas desta vez ela utiliza um bloco de `repetição`{:class="block3control"}.
@@ -51,13 +51,14 @@ Use este bloco:
 
 ```blocks3
 when flag clicked
-aponte para a direção (0)
-vá para x: (-150) y: (-150)
-diga [Vamos lá] por (2) segundos
-aponte para (Earth v)
-repita (200) vezes 
-  mova (2) passos
-+ mude (25) no efeito [cor v]
+point in direction (0)
+go to x:(-150) y:(-150)
+say [Vamos lá] for (2) seconds
+point towards (Earth v)
+point towards (Earth v)
+repeat (200)
+    move (2) steps
++    change [cor v] effect by (25)
 ```
 
 Teste e salve seu código.
@@ -86,7 +87,7 @@ Você precisará adicionar esses blocos ao seu código:
 ![Ator da nave espacial](images/sprite-spaceship.png)
 
 ```blocks3
-mude (10) no tamanho
+change size by (10)
 
 set size to (100) %
 ```
@@ -100,16 +101,16 @@ Seu código deve ficar assim:
 ![Ator da nave espacial](images/sprite-spaceship.png)
 
 ```blocks3
-quando ⚑ for clicado
-set size to (100) %
-aponte para a direção (0)
-vá para x: (-150) y: (-150)
-diga [Vamos lá] por (2) segundos
-aponte para (Earth v)
-repita (200) vezes 
-  mova (2) passos
-  mude (25) no efeito [cor v]
-+ mude (-3) no tamanho
+when flag clicked
++ set size to (100) %
+point in direction (0)
+go to x:(-150) y:(-150)
+say[Vamos lá] for (2) seconds
+point towards (Earth v)
+repeat (200)
+    move (2) steps
+    change [cor v] effect by (25)
++   change size by (-0.3)
 ```
 
 --- /hint ---

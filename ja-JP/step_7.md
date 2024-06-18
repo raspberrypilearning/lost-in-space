@@ -26,20 +26,19 @@
 必要なコードブロックは次のとおりです。
 
 ```blocks3
-(10) 回繰り返す
+repeat (10)
 end
 
-⚑ が押されたとき
+when flag clicked
 
-(10) 回繰り返す
+repeat (10)
 end
 
-大きさを (10) ずつ変える
+change size by (10)
 
-大きさを (10) ずつ変える
+change size by (10)
 
-ずっと
-end
+forever
 ```
 
 --- /hint --- --- hint ---
@@ -49,15 +48,14 @@ end
 ![星のスプライト](images/sprite-star.png)
 
 ```blocks3
-⚑ が押されたとき
-ずっと 
-  (20) 回繰り返す 
-    大きさを (2) ずつ変える
-  end
-  (20) 回繰り返す 
-    大きさを (-2) ずつ変える
-  end
-end
+when flag clicked
+forever
+    repeat (20)
+        change size by (2)
+    end
+    repeat (20)
+        change size by (-2)
+    end
 
 ```
 

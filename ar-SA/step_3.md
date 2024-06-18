@@ -10,7 +10,7 @@
 ![كائن سفينة الفضاء](images/sprite-spaceship.png)
 
 ```blocks3
-انزلق خلال (1) ثانية إلى الموضع س: (0) ص: (0)
+glide (1) secs to x:(0) y:(0)
 ```
 
 [[[generic-scratch3-coordinates]]]

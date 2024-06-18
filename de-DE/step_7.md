@@ -18,32 +18,32 @@ Lass' uns Schleifen kombinieren, um einen strahlenden Stern zu machen.
  --- hint --- Hier sind die Codeblöcke die du brauchst:
 
 ```blocks3
-wiederhole (10) mal
-ende
+repeat (10)
+end
 
-Wenn die grüne Flagge angeklickt
+when flag clicked
 
-wiederhole (10) mal
-ende
+repeat (10)
+end
 
-ändere Größe um (10)
+change size by (10)
 
-ändere Größe um (10)
+change size by (10)
 
-wiederhole fortlaufend
+forever
 ```
 
 --- /hint --- --- hint --- Hier ist der Code, um deinen Stern wachsen und schrumpfen zu lassen: ![Stern Figur](images/sprite-star.png)
 
 ```blocks3
-Wenn die grüne Flagge angeklickt
-wiederhole fortlaufend
-    wiederhole (20) mal
-        ändere Größe um (2)
-    ende
-    wiederhole (20) mal
-        ändere Größe um (-2)
-    ende
+when flag clicked
+forever
+    repeat (20)
+        change size by (2)
+    end
+    repeat (20)
+        change size by (-2)
+    end
 
 ```
 

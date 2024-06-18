@@ -55,12 +55,12 @@ Scratchオフラインエディタをダウンロードしてインストール�
 ![宇宙船のスプライト](images/sprite-spaceship.png)
 
 ```blocks3
-⚑ が押されたとき
-(0) 度に向ける
-x座標を (-150) 、y座標を (-150) にする
-[レッツゴー！] と (2) 秒言う
-(地球 v) へ向ける
-(1) 秒でx座標を (0) に、y座標を (0) に変える
+when flag clicked
+point in direction (0)
+go to x:(-150) y:(-150)
+say [レッツゴー！] for (2) seconds
+point towards (地球 v)
+glide (1) secs to x:(0) y:(0)
 ```
 
 追加したコードブロックの数字を変更して、コードが上記とまったく同じになるようにします。

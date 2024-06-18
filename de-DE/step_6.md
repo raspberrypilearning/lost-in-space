@@ -18,21 +18,21 @@ Jetzt wirst du einen schwebenden Weltraumstein zu deiner Animation hinzufügen.
  --- hint --- Hier sind die Codeblöcke die du brauchst:
 
 ```blocks3
-gehe (10) er Schritt
+move (10) steps
 
-pralle vom Rand ab
+if on edge bounce
 
-Wenn die grüne Flagge angeklickt
+when flag clicked
 
-wiederhole fortlaufend
+forever
 ```
 
 Du kannst auch eine interessantere Startrichtung für deine Felsen-Figur festlegen, indem du einen dieser Blöcke verwendest:
 
 ```blocks3
-drehe dich nach rechts um (15) Grad
+turn cw (15) degrees
 
-drehe dich zu (Erde v)
+point towards (Earth v)
 ```
 
 --- /hint --- --- hint ---
@@ -42,12 +42,11 @@ Hier ist der Code, mit dem du deinen Felsen über die Bühne springen lässt:
 ![Felsen Figur](images/sprite-rock.png)
 
 ```blocks3
-Wenn die grüne Flagge angeklickt
-drehe dich zu (Earth v)
-wiederhole fortlaufend 
-    gehe (2) er Schritt
-    pralle vom Rand ab
-end
+when flag clicked
+point towards (Earth v)
+forever
+    move (2) steps
+    if on edge, bounce
 ```
 
 --- /hint --- --- /hints --- --- /task ---

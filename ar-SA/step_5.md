@@ -42,12 +42,12 @@
 هنا التعليمات البرمجية التي ستحتاج اليها:
 
 ```blocks3
-كرِّر باستمرار
+forever
 end
 
-استدر ↻ (15) درجة
+turn cw (15) degrees
 
-عند نقر ⚑
+when flag clicked
 ```
 
 --- /hint --- --- hint ---
@@ -57,10 +57,9 @@ end
 ![كائن القرد](images/sprite-monkey.png)
 
 ```blocks3
-عند نقر ⚑
-كرِّر باستمرار 
-  استدر ↻ (1) درجة
-end
+when flag clicked
+forever
+    turn cw (1) degrees
 ```
 
 --- /hint ------ /hints ---

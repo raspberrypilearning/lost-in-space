@@ -26,19 +26,19 @@ Quando a **bandeira verde é clicada**, sua estrela deve **mudar de tamanho** au
 Aqui estão os blocos de código que você precisa:
 
 ```blocks3
-repita (10) vezes
+repeat (10)
 end
 
-quando ⚑ for clicado
+when flag clicked
 
-repita (10) vezes
+repeat (10)
 end
 
-mude (10) no tamanho
+change size by (10)
 
-mude (10) no tamanho
+change size by (10)
 
-sempre
+forever
 ```
 
 --- /hint --- --- hint ---
@@ -48,15 +48,14 @@ Aqui está o código para fazer a sua estrela crescer e encolher:
 ![Ator de estrela](images/sprite-star.png)
 
 ```blocks3
-quando ⚑ for clicado
-sempre 
-  repita (20) vezes 
-    mude (2) no tamanho
-  end
-  repita (20) vezes 
-    mude (-2) no tamanho
-  end
-end
+when flag clicked
+forever
+    repeat (20)
+        change size by (2)
+    end
+    repeat (20)
+        change size by (-2)
+    end
 
 ```
 

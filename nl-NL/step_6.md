@@ -18,21 +18,21 @@ Nu zal je een zwevende ruimtesteen toevoegen aan je animatie.
  --- hint --- Dit zijn de codeblokken die je nodig hebt:
 
 ```blocks3
-neem (10) stappen
+move (10) steps
 
-keer om aan de rand
+if on edge bounce
 
-wanneer groene vlag wordt aangeklikt
+when flag clicked
 
-herhaal
+forever
 ```
 
 Je kunt ook een interessantere startrichting instellen voor de steen-sprite met één van deze blokken:
 
 ```blocks3
-draai (15) graden naar rechts
+turn cw (15) degrees
 
-richt naar (Earth v)
+point towards (Earth v)
 ```
 
 --- /hint --- --- hint ---
@@ -42,11 +42,11 @@ Met deze code kan je je steen het speelveld rond laten stuiteren:
 ![Steen-sprite](images/sprite-rock.png)
 
 ```blocks3
-wanneer groene vlag wordt aangeklikt
-richt naar (Earth v)
-herhaal 
-neem (2) stappen
-keer om aan de rand
+when flag clicked
+point towards (Earth v)
+forever
+    move (2) steps
+    if on edge, bounce
 ```
 
 --- /hint --- --- /hints --- --- /task ---
