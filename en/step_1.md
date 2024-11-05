@@ -21,35 +21,10 @@ Click on the green flag to see the animation.
 
 --- /print-only ---
 
---- collapse ---
----
-title: What you will need
----
+## What you will need
 
-### Hardware
+Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
 
-+ A computer capable of running Scratch 3
-
-### Software
-
-+ Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
-
-### Downloads
-
-+ None
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-- Use a repeat loop to animate a sprite in Scratch
-- Use a forever loop to repeat an animation indefinitely
-- Understand that loops can be nested within each other
-
---- /collapse ---
 
 --- collapse ---
 ---

@@ -67,6 +67,12 @@ Change the numbers in the code blocks you've added so that the code is exactly t
 
 --- /task ---
 
+---- task ---
+
+Test your code.
+
 If you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.
+
+--- /task ---
 
 ![Testing a spaceship animation](images/space-animate-stage.png)

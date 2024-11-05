@@ -1,66 +1,38 @@
-## Shining star
+## Challenges
+Improve your project with these challenges!
 
-Now you will combine loops to make a shining star.
+---- task ---
 
---- task ---
+Can you change the numbers in your animation code so that:
 
-Add a 'star' sprite to your stage.
++ The spaceship moves until it touches the Earth?
++ The spaceship moves more slowly towards the Earth?
 
-![Adding a star sprite](images/space-star-sprite.png)
+---- collapse ---
+
+---
+
+title: Upgraded Spaceship
+
+---
+
+You'll need to change the numbers in this block:
+
+![Rocketship sprite](images/sprite-spaceship.png)
+
+```blocks3
+glide (1) secs to x:(0) y:(0)
+```
+
+[[[generic-scratch3-coordinates]]]
+
+--- /collapse ---
 
 --- /task ---
 
---- task ---
+Stop your space animation, save it, and start a new Scratch project.
 
-Can you add code to your star sprite to make the star repeatedly grow and shrink?
+Use what you've learned in this project to make your own animation. It can be anything you like, but try to make your animation match the background you choose. Here are some examples:
 
-![Testing a shining star](images/sprite-star.png)
+![screenshot](images/space-egs.png)
 
---- hints ---
---- hint ---
-
-When the green __flag is clicked__, your star sprite should __change size__ to get bigger a few times, and then __change size__ to get smaller a few times. It should do this so that it gets bigger and then smaller __forever__ and looks like it's shining light.
-
---- /hint ---
---- hint ---
-
-Here are the code blocks you need:
-
-```blocks3
-repeat (10)
-end
-
-when flag clicked
-
-repeat (10)
-end
-
-change size by (10)
-
-change size by (10)
-
-forever
-```
-
---- /hint ---
---- hint ---
-
-Here's the code to make your star grow and shrink:
-
-![Star sprite](images/sprite-star.png)
-
-```blocks3
-when flag clicked
-forever
-    repeat (20)
-        change size by (2)
-    end
-    repeat (20)
-        change size by (-2)
-    end
-
-```
-
---- /hint ---
---- /hints ---
---- /task ---
