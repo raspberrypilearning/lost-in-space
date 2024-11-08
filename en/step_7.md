@@ -1,12 +1,18 @@
-## Challenges
+## Challenge
 Improve your project with these challenges!
 
 ---- task ---
 
-Can you change the numbers in your animation code so that:
+Change the numbers in your animation code so that the spaceship moves until it touches the Earth.
 
-+ The spaceship moves until it touches the Earth?
-+ The spaceship moves more slowly towards the Earth?
+--- /task ---
+
+---- task ---
+
+Change the numbers in your animation code so that the  spaceship moves more slowly towards the Earth.
+
+--- /task ---
+
 
 ---- collapse ---
 
@@ -28,11 +34,11 @@ glide (1) secs to x:(0) y:(0)
 
 --- /collapse ---
 
---- /task ---
-
-Stop your space animation, save it, and start a new Scratch project.
+---- task ---
 
 Use what you've learned in this project to make your own animation. It can be anything you like, but try to make your animation match the background you choose. Here are some examples:
 
 ![screenshot](images/space-egs.png)
+
+--- /task ---
 

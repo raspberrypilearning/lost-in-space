@@ -21,4 +21,6 @@ steps:
   - internal
 - title: Challenge
   challenge: true
+  completion:
+  - external
 - title: What next?
