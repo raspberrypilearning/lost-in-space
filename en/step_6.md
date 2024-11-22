@@ -12,7 +12,7 @@ Add a 'star' sprite to your stage.
 
 --- task ---
 
-Add code to your star sprite to make the star repeatedly grow and shrink?
+Add code to your star sprite to make the star repeatedly grow and shrink.
 
 ![Star sprite](images/sprite-star.png)
 
@@ -30,7 +30,7 @@ forever
 
 --- /task ---
 
----- task ---
+--- task ---
 
 Test your code.
 

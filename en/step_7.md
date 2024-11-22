@@ -1,15 +1,16 @@
 ## Challenge
-Improve your project with these challenges!
+
+Make your project even cooler! You could:
 
 ---- task ---
 
-Change the numbers in your animation code so that the spaceship moves until it touches the Earth.
+Change the numbers in your animation code so that the rocketship moves until it touches the Earth.
 
 --- /task ---
 
 ---- task ---
 
-Change the numbers in your animation code so that the  spaceship moves more slowly towards the Earth.
+Change the numbers in your animation code so that the  rocketship moves more slowly towards the Earth.
 
 --- /task ---
 
@@ -18,13 +19,13 @@ Change the numbers in your animation code so that the  spaceship moves more slow
 
 ---
 
-title: Upgraded Spaceship
+title: Upgraded rocketship
 
 ---
 
 You'll need to change the numbers in this block:
 
-![Rocketship sprite](images/sprite-spaceship.png)
+![The image shows a small, cartoon-style rocket with a purple body, red fins, and a circular window, set against a blue background. Yellow flames and white smoke clouds emerge from the rocket's exhaust, suggesting it is in motion. The compact size of the image indicates it is likely used as a thumbnail or icon.](images/sprite-rocketship.png)
 
 ```blocks3
 glide (1) secs to x:(0) y:(0)
