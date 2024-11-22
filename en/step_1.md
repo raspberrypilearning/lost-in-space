@@ -1,8 +1,6 @@
-## Introduction
+## What you will make
 
-You are going to learn how to program your own animation!
-
-### What you will make
+Create a fun animation with lots of cool things!
 
 --- no-print ---
 
@@ -21,43 +19,7 @@ Click on the green flag to see the animation.
 
 --- /print-only ---
 
---- collapse ---
----
-title: What you will need
----
+## You will need
 
-### Hardware
+- Scratch 3
 
-+ A computer capable of running Scratch 3
-
-### Software
-
-+ Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
-
-### Downloads
-
-+ None
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-- Use a repeat loop to animate a sprite in Scratch
-- Use a forever loop to repeat an animation indefinitely
-- Understand that loops can be nested within each other
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/lost-in-space/print){:target="_blank"}.
-
-You can find the [completed project here](https://rpf.io/p/en/lost-in-space-get){:target="_blank"}.
-
---- /collapse ---

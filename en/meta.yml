@@ -11,8 +11,6 @@ last_tested: 2018-09-26
 steps:
 - title: Introduction
 - title: Animating a spaceship
-- title: 'Challenge: improve your animation'
-  challenge: true
 - title: Animation using loops
   completion:
   - engaged
@@ -21,6 +19,8 @@ steps:
 - title: Shining star
   completion:
   - internal
-- title: 'Challenge: make your own animation'
+- title: Challenge
   challenge: true
+  completion:
+  - external
 - title: What next?
