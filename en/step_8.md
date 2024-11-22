@@ -15,7 +15,7 @@ Try the [Ghostbusters](https://projects.raspberrypi.org/en/projects/ghostbusters
 
 --- print-only ---
 
-![showcase](images/ghostbusters-static.png)
+![The image depicts a simple video game screen. The scene shows a dark forest at night with leafless orange-brown trees against a purple and black sky. A light blue ghost-like character with small arms and a neutral expression is floating near a tree. The score at the top left corner shows "6", while the top right corner shows "0".](images/ghostbusters-static.png)
 
 --- /print-only ---
 
