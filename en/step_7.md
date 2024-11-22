@@ -1,66 +1,45 @@
-## Shining star
+## Challenge
 
-Now you will combine loops to make a shining star.
+Make your project even cooler! You could:
 
---- task ---
+---- task ---
 
-Add a 'star' sprite to your stage.
-
-![Adding a star sprite](images/space-star-sprite.png)
+Change the numbers in your animation code so that the rocketship moves until it touches the Earth.
 
 --- /task ---
 
---- task ---
+---- task ---
 
-Can you add code to your star sprite to make the star repeatedly grow and shrink?
+Change the numbers in your animation code so that the  rocketship moves more slowly towards the Earth.
 
-![Testing a shining star](images/sprite-star.png)
-
---- hints ---
---- hint ---
-
-When the green __flag is clicked__, your star sprite should __change size__ to get bigger a few times, and then __change size__ to get smaller a few times. It should do this so that it gets bigger and then smaller __forever__ and looks like it's shining light.
-
---- /hint ---
---- hint ---
-
-Here are the code blocks you need:
-
-```blocks3
-repeat (10)
-end
-
-when flag clicked
-
-repeat (10)
-end
-
-change size by (10)
-
-change size by (10)
-
-forever
-```
-
---- /hint ---
---- hint ---
-
-Here's the code to make your star grow and shrink:
-
-![Star sprite](images/sprite-star.png)
-
-```blocks3
-when flag clicked
-forever
-    repeat (20)
-        change size by (2)
-    end
-    repeat (20)
-        change size by (-2)
-    end
-
-```
-
---- /hint ---
---- /hints ---
 --- /task ---
+
+
+---- collapse ---
+
+---
+
+title: Upgraded rocketship
+
+---
+
+You'll need to change the numbers in this block:
+
+![The image shows a small, cartoon-style rocket with a purple body, red fins, and a circular window, set against a blue background. Yellow flames and white smoke clouds emerge from the rocket's exhaust, suggesting it is in motion. The compact size of the image indicates it is likely used as a thumbnail or icon.](images/sprite-rocketship.png)
+
+```blocks3
+glide (1) secs to x:(0) y:(0)
+```
+
+[[[generic-scratch3-coordinates]]]
+
+--- /collapse ---
+
+---- task ---
+
+Use what you've learned in this project to make your own animation. It can be anything you like, but try to make your animation match the background you choose. Here are some examples:
+
+![screenshot](images/space-egs.png)
+
+--- /task ---
+

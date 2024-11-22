@@ -1,74 +1,43 @@
-## Floating monkey
+## Bouncing asteroid
 
-Now you will add a monkey who's lost in space to your animation!
-
---- task ---
-
-Start by adding the 'monkey' sprite from the library.
-
-![Adding a monkey sprite](images/space-monkey-sprite.png)
-
---- /task ---
-
-Click on your new monkey sprite and then click on **Costumes** so that you can edit how the monkey looks.
+Now you will add a floating space rock to your animation.
 
 --- task ---
 
-Set the fill to be transparent by selecting the red line. For the outline, set a white colour by moving the Saturation slider to `0`.
+Add a 'rock' sprite to your animation.
 
-![Make white colour](images/make-white.png)
+![Adding a rock sprite](images/space-rock-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Click on the **circle** tool and then use it to draw a white space helmet around the monkey's head.
-
-![Monkey space helmet](images/space-monkey-edit.png)
+Stop the asteroid from turning by clicking on the `Direction` value beneath the stage and selecting `Left/Right`:
+![The image shows a direction selector tool from a design or animation platform. The interface features a circular compass with a highlighted segment indicating the selected direction, represented by a purple arrow pointing diagonally upward to the right. Below the compass are three buttons for rotation and direction options: a curved arrow for rotation, a bidirectional arrow for movement in both directions, and a crossed-out arrow indicating no movement or rotation. The tool appears designed for controlling the orientation or movement of an object, such as a sprite.](images/choose-direction.png)
 
 --- /task ---
 
 --- task ---
 
-Can you add code to your monkey sprite so that it spins slowly in a circle forever?
+Add code for your rock sprite so that the rock bounces around the stage:
 
---- hints ---
---- hint ---
-
-When the green __flag is clicked__, your monkey sprite should __turn__ in a circle __forever__.
-
---- /hint ---
---- hint ---
-
-Here are the code blocks you need:
-
-```blocks3
-forever
-end
-
-turn cw (15) degrees
-
-when flag clicked
-```
-
---- /hint ---
---- hint ---
-
-Here's the code to make your monkey spin:
-
-![Monkey sprite](images/sprite-monkey.png)
+![RThe image shows a small, cartoon-style rock with a blue and gray color palette. The rock has an uneven, organic shape, giving it a natural appearance. ](images/sprite-rock.png)
 
 ```blocks3
 when flag clicked
+point towards (Earth v)
 forever
-    turn cw (1) degrees
+    move (2) steps
+    if on edge, bounce
 ```
-
---- /hint ---
---- /hints ---
-
 --- /task ---
 
-Test and save your project. You'll have to click on the red **stop** button to end this animation, as it runs forever!
+--- task ---
 
-![Test the spinning monkey](images/space-spin-test.png)
+Test your code. 
+
+Click the green flag to see the asteroid bounce around the stage.
+
+![Testing a bouncing rock](images/space-bounce-test.png)
+
+--- /task ---
