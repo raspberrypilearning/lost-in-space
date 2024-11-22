@@ -39,7 +39,7 @@ glide (1) secs to x:(0) y:(0)
 
 Use what you've learned in this project to make your own animation. It can be anything you like, but try to make your animation match the background you choose. Here are some examples:
 
-![screenshot](images/space-egs.png)
+![The image shows two contrasting scenes: on the left, a purple cartoon forest with bare trees and two white ghosts floating through the scene, leaving smoky trails; on the right, a yellow cartoon sun character bounces on a trampoline in front of a red brick wall, set on a grassy lawn.](images/space-egs.png)
 
 --- /task ---
 
