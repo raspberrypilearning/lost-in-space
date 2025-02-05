@@ -2,20 +2,20 @@
 
 Make your project even cooler! You could:
 
----- task ---
+--- task ---
 
 Change the numbers in your animation code so that the rocketship moves until it touches the Earth.
 
 --- /task ---
 
----- task ---
+--- task ---
 
 Change the numbers in your animation code so that the  rocketship moves more slowly towards the Earth.
 
 --- /task ---
 
 
----- collapse ---
+--- collapse ---
 
 ---
 
@@ -31,11 +31,11 @@ You'll need to change the numbers in this block:
 glide (1) secs to x:(0) y:(0)
 ```
 
-[[[generic-scratch3-coordinates]]]
-
 --- /collapse ---
 
----- task ---
+[[[generic-scratch3-coordinates]]]
+
+--- task ---
 
 Use what you've learned in this project to make your own animation. It can be anything you like, but try to make your animation match the background you choose. Here are some examples:
 
