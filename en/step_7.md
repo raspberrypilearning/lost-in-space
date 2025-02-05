@@ -31,9 +31,9 @@ You'll need to change the numbers in this block:
 glide (1) secs to x:(0) y:(0)
 ```
 
-[[[generic-scratch3-coordinates]]]
-
 --- /collapse ---
+
+[[[generic-scratch3-coordinates]]]
 
 --- task ---
 
